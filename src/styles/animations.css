@@ -32,15 +32,15 @@
 @keyframes rise {
   0% {
     opacity: 0;
-    transform: translate(-50%, 10px) scale(0.8);
+    transform: translate(0, 14px) scale(0.8);
   }
   20% {
     opacity: 1;
-    transform: translate(-50%, -6px) scale(1.05);
+    transform: translate(0, 0) scale(1.05);
   }
   100% {
     opacity: 0;
-    transform: translate(-50%, -70px) scale(1);
+    transform: translate(0, -46px) scale(1);
   }
 }
 

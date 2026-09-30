@@ -236,8 +236,8 @@
 
 .delta {
   position: absolute;
-  left: 50%;
-  top: 0;
+  left: calc(50% + 70px);
+  top: 14px;
   transform: translateX(-50%);
   font-weight: 800;
   font-size: 30px;
@@ -249,7 +249,8 @@
 .bonus-burst {
   position: absolute;
   left: 50%;
-  top: 70px;
+  top: 74px;
+  z-index: 2;
   transform: translateX(-50%);
   background: var(--green);
   color: var(--green-ink);

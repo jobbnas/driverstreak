@@ -1,0 +1,806 @@
+[
+  {
+    "id": "tr-sit-001",
+    "category": "trafikregler",
+    "subtopic": "vajningsregler",
+    "difficulty": 2,
+    "question": "Du kör i tätort och ska svänga höger i en signalreglerad korsning där du har grönt. En gående står vid övergångsstället på den korsande gatan och har också grönt, och bakifrån kommer en cyklist på cykelbanan till höger som fortsätter rakt fram. Vad gäller?",
+    "options": [
+      "Du ska lämna företräde åt både den gående och cyklisten eftersom du svänger",
+      "Du har företräde mot båda eftersom du har grönt ljus",
+      "Du ska lämna företräde åt den gående, men cyklisten ska väja för dig",
+      "Du ska bara lämna företräde åt cyklisten, gående får vänta vid signaler"
+    ],
+    "correct": 0,
+    "explanation": "Svängningsregeln gäller även när du har grönt: den som svänger ska lämna företräde åt gående och cyklister som korsar den väg du svänger in på. Cyklisten som kommer bakifrån rakt fram på cykelbanan har du dessutom väjningsplikt mot vid högersväng. Grönt ljus betyder att du får köra, inte att andra måste vika.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-002",
+    "category": "trafikregler",
+    "subtopic": "hogerregeln",
+    "difficulty": 2,
+    "question": "Du kör på en grusväg genom skogen och närmar dig en korsning med en lika bred grusväg utan vägmärken. Från höger kommer en traktor och från vänster en personbil som blinkar för att svänga in på din väg framför dig. Vem ska du väja för?",
+    "options": [
+      "Både traktorn och personbilen, eftersom du kör på en mindre väg",
+      "Endast traktorn – högerregeln gäller oavsett fordonstyp",
+      "Endast personbilen, eftersom den svänger in framför dig",
+      "Ingen av dem – traktorer har alltid väjningsplikt mot bilar"
+    ],
+    "correct": 1,
+    "explanation": "När inget vägmärke, signal eller polis anger annat gäller högerregeln, och den gäller för alla fordon, även traktorer. Traktorn kommer från höger och du ska väja för den. Personbilen kommer från vänster och har därför väjningsplikt mot dig – att den blinkar ändrar inte det.",
+    "legalRef": "TrF 3 kap. 18 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-003",
+    "category": "trafikregler",
+    "subtopic": "cirkulationsplats",
+    "difficulty": 2,
+    "question": "Du närmar dig en cirkulationsplats med två körfält i cirkulationen och ska köra ut vid den tredje avfarten, alltså i praktiken svänga vänster. Trafiken är tät. Vilket körfält väljer du och när ger du tecken?",
+    "options": [
+      "Höger körfält, och höger blinkers redan när du kör in",
+      "Valfritt körfält och inga tecken – tecken krävs inte i en cirkulationsplats",
+      "Vänster körfält, och vänster blinkers ända tills du lämnat cirkulationen",
+      "Vänster körfält, och höger blinkers strax före din avfart efter körfältsbyte i god tid"
+    ],
+    "correct": 3,
+    "explanation": "Ska du långt runt i en cirkulationsplats med två körfält bör du använda det vänstra och byta till höger körfält i god tid före din avfart, med väjningsplikt mot den som redan ligger där. Tecken ska alltid ges när du lämnar cirkulationen, med höger blinkers. Vänster blinkers vid infart är vanligt och tydligt men inget krav.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-004",
+    "category": "trafikregler",
+    "subtopic": "omkorning",
+    "difficulty": 3,
+    "question": "Du kör på en landsväg där 70 gäller bakom en långsam lastbil. Strax framför er korsar en mindre väg från höger utan vägmärken, och direkt efter korsningen kommer ett backkrön. Lastbilen ger inget tecken. Får du köra om, och i så fall var?",
+    "options": [
+      "Ja, före korsningen eftersom lastbilen kör så långsamt",
+      "Ja, men bara uppe på backkrönet där du ser längst",
+      "Nej – varken före korsningen (högerregel) eller vid krönet (skymd sikt); vänta tills du ser fritt efter krönet",
+      "Ja, i själva korsningen om du håller dig till höger om lastbilen"
+    ],
+    "correct": 2,
+    "explanation": "Omkörning är förbjuden i eller strax före en korsning där högerregeln gäller, och även vid backkrön där sikten är skymd om det inte finns två körfält i din riktning. Här finns alltså inget tillåtet ställe förrän du kommit över krönet och ser att vägen är fri. Att köra om till höger i korsningen är inte tillåtet på en sådan väg.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-005",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "Du kör på en huvudled i tätort och ska bara släppa av en passagerare. Du ser tre möjligheter: direkt efter ett övergångsställe, 5 m före övergångsstället, eller vid en tom busshållplats. Var får du stanna?",
+    "options": [
+      "Efter övergångsstället eller vid hållplatsen om bussen inte hindras – aldrig 5 m före övergångsstället",
+      "Ingenstans – på huvudled är det förbjudet att stanna",
+      "På alla tre platserna – av- och påstigning är alltid tillåten",
+      "Bara vid busshållplatsen – stannande på huvudled kräver en särskild plats"
+    ],
+    "correct": 0,
+    "explanation": "På huvudled är parkering förbjuden men det är tillåtet att stanna för av- och påstigning. Inom 10 m före ett övergångsställe får du däremot inte stanna alls, medan platsen direkt efter är tillåten. På en busshållplats får du stanna för av- och påstigning så länge bussen inte hindras.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-006",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör på en gata med två körfält i din riktning och ska svänga vänster i nästa korsning. Pilarna i körbanan visar att båda körfälten leder rakt fram och att vänsterkörfältet dessutom leder vänster. Hur placerar du dig, och var hamnar du på den korsande gatan?",
+    "options": [
+      "I höger körfält, eftersom du alltid ska hålla så långt till höger som möjligt",
+      "I valfritt körfält, eftersom båda leder rakt fram och man får svänga från båda",
+      "I vänster körfält, och du får gena så att du kommer ut till vänster om mittlinjen",
+      "I vänster körfält i god tid, och svängen tas så att du lämnar korsningen till höger om körbanans mitt"
+    ],
+    "correct": 3,
+    "explanation": "Vid vänstersväng ska du i god tid placera dig i det körfält som leder åt vänster, här det vänstra. Svängen ska göras så att du kommer ut på den korsande gatan till höger om dess mitt, alltså inte gena över mötande körfält. Körfältspilarna är bindande, så från höger körfält får du inte svänga vänster.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-007",
+    "category": "trafikregler",
+    "subtopic": "hastigheter",
+    "difficulty": 2,
+    "question": "Du drar en bromsad husvagn med totalvikt 1 200 kg efter din personbil. Först kör du på en motorväg där 110 gäller och sedan på en landsväg där 70 gäller. Vilka hastigheter får du högst hålla?",
+    "options": [
+      "110 på motorvägen och 70 på landsvägen – släpet följer bilens gränser",
+      "80 på båda vägarna, eftersom släpgränsen alltid gäller",
+      "80 på motorvägen och 70 på landsvägen",
+      "90 på motorvägen och 70 på landsvägen"
+    ],
+    "correct": 2,
+    "explanation": "En personbil med släp får normalt köra högst 80 km/h, vilket blir din gräns på motorvägen. På landsvägen är den skyltade hastigheten 70 lägre än släpgränsen, och då gäller den lägre gränsen. Släpgränsen höjer aldrig en lägre skyltad hastighet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-008",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Du kör på påfarten till en motorväg. Accelerationsfältet är kort och det är tät trafik i höger körfält. En bil i höger körfält blinkar vänster för att byta körfält och skapa plats. Vad gäller för dig?",
+    "options": [
+      "Trafiken på motorvägen ska släppa in dig eftersom accelerationsfältet är kort",
+      "Du har väjningsplikt och ska anpassa farten så att du kommer in i en lucka utan att hindra någon",
+      "Du ska stanna längst fram i accelerationsfältet och vänta på en lucka",
+      "Du ska köra på vägrenen tills du hittar en lucka"
+    ],
+    "correct": 1,
+    "explanation": "Den som kör in på en motorväg har väjningsplikt mot trafiken som redan är där; att någon vänligt byter körfält ändrar inte det. Accelerationsfältet används för att få upp farten så att du kan köra in i en lucka utan att andra behöver bromsa. Att stanna i accelerationsfältet eller köra på vägrenen är bara tillåtet om det verkligen är nödvändigt.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-009",
+    "category": "trafikregler",
+    "subtopic": "jarnvag",
+    "difficulty": 3,
+    "question": "Du närmar dig en järnvägskorsning med bommar och ljussignal. Bommarna är uppe och signalen är släckt, men det är dimma. Bilen framför kör över spåret och du ser att kön på andra sidan står stilla fram till en korsning. Vad gör du?",
+    "options": [
+      "Stannar före korsningen tills du säkert kan komma helt över spåret utan att behöva stanna på det",
+      "Följer efter bilen framför eftersom bommarna är uppe",
+      "Kör över så fort som möjligt så att du inte blir stående när bommarna fälls",
+      "Kör fram och stannar precis vid bommen för att kunna se tåget"
+    ],
+    "correct": 0,
+    "explanation": "Du får aldrig köra ut på ett järnvägsspår om du riskerar att bli stående på det, och med en stillastående kö på andra sidan är den risken uppenbar. Att bommarna är uppe säger inget om att du hinner över. Vänta före korsningen tills det finns plats för hela bilen på andra sidan.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-010",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Du har missat din avfart på en motortrafikled och ser en öppning i mitträcket som är avsedd för väghållningsfordon. Det är lite trafik och god sikt åt båda hållen. Vad gäller?",
+    "options": [
+      "Du får vända i öppningen om ingen trafik kommer",
+      "Du får backa på vägrenen till avfarten om du har varningsblinkers på",
+      "Du får vända, men bara efter att först ha stannat på vägrenen",
+      "Du får varken vända eller backa – kör vidare till nästa avfart"
+    ],
+    "correct": 3,
+    "explanation": "På motorväg och motortrafikled är det förbjudet att vända, backa och stanna, och vägrenen får bara användas i nödfall. Öppningar i mitträcket är till för väghållning och utryckningsfordon. Att du missat avfarten är ingen nödsituation – fortsätt till nästa avfart och vänd där det är tillåtet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-011",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Du kör i mörker på landsväg i tät dimma med sikt under 50 m och har dimljus fram och dimbakljus tända. Dimman lättar och du hamnar i en kö bakom en annan bil. Hur ska belysningen vara nu?",
+    "options": [
+      "Behåll allt tänt tills du är helt ute ur dimområdet",
+      "Släck dimbakljuset och kör på halvljus",
+      "Släck dimljuset fram men behåll dimbakljuset så att du syns bakifrån",
+      "Slå på helljuset så att du ser kön bättre"
+    ],
+    "correct": 1,
+    "explanation": "Dimbakljus får bara användas när sikten är kraftigt nedsatt och aldrig i kö, eftersom det bländar bakomvarande. Dimljus fram får ersätta halvljus endast vid dimma eller kraftig nederbörd, så när dimman lättar ska du köra på halvljus. Helljus i kö bländar bilen framför.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-012",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 3,
+    "question": "Du ska leverera varor till en butik på en gågata där ingen tid för varuleverans är skyltad. Du kör in i gångfart och ser en ledig yta utan parkeringsmarkering framför butiken. Vad gäller för dig?",
+    "options": [
+      "Du får inte köra in alls eftersom det är gågata",
+      "Du får köra in och parkera var som helst under leveranstiden",
+      "Du får köra in och stanna för lossning, parkera bara på markerad plats, och har väjningsplikt när du kör ut",
+      "Du får köra in i högst 30 km/h och parkera framför butiken"
+    ],
+    "correct": 2,
+    "explanation": "På gågata är motorfordonstrafik förbjuden med undantag för bland annat varuleveranser till och från butiker. Du ska köra i gångfart, lämna företräde åt gående, och parkering är bara tillåten på markerade platser. När du lämnar gågatan gäller utfartsregeln och du har väjningsplikt mot all trafik.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-013",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "Du kör på en gata med märket förbud mot att parkera och tilläggstavlan 8–18 (8–13). Det är lördag klockan 14. Du ska släppa av en passagerare och därefter parkera i två timmar. Vad gäller?",
+    "options": [
+      "Du får både stanna och parkera – på lördagar gäller förbudet bara 8–13",
+      "Du får varken stanna eller parkera förrän efter klockan 18",
+      "Du får stanna för avstigning men inte parkera förrän efter klockan 18",
+      "Du får parkera högst en timme eftersom tavlan gäller dygnet runt på lördagar"
+    ],
+    "correct": 0,
+    "explanation": "Tider utan parentes gäller vardagar utom dag före sön- och helgdag, tider inom parentes gäller dag före sön- och helgdag, alltså normalt lördagar. Klockan 14 på en lördag har förbudet upphört och du får parkera. Ett parkeringsförbud hindrar dessutom aldrig ett kort stopp för av- och påstigning.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-014",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Du kör i vänster körfält på en gata med två körfält i din riktning och vill byta till höger för att svänga höger i nästa korsning. Bakom dig i höger körfält kommer en bil i något högre fart. Vad gäller vid körfältsbytet?",
+    "options": [
+      "Bilen bakom ska släppa in dig så fort du gett tecken",
+      "Du får byta om du gett tecken i minst tre sekunder",
+      "Du får inte byta körfält närmare korsningen än 30 m",
+      "Du ska ge tecken i god tid men byta först när det kan ske utan att bilen i höger körfält hindras"
+    ],
+    "correct": 3,
+    "explanation": "Vid körfältsbyte har du väjningsplikt mot trafiken i det körfält du byter till. Tecknet ska ges i god tid för att visa vad du tänker göra, men det ger dig inte företräde. Planera bytet tidigare nästa gång så att du inte hamnar i ett stressat byte nära korsningen.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-sit-015",
+    "category": "trafikregler",
+    "subtopic": "buss-sparvagn",
+    "difficulty": 2,
+    "question": "Du kör 50 km/h i tätort. En buss står vid en hållplats framför dig och ger tecken för att köra ut, samtidigt som bilen bakom dig ligger tätt. Vad gäller?",
+    "options": [
+      "Bussen har alltid företräde och du måste stanna helt",
+      "Du ska underlätta för bussen genom att sakta in eller stanna, om det kan ske utan fara",
+      "Bussen har väjningsplikt eftersom den kör ut från en hållplats",
+      "Regeln gäller bara på gator med högst 30 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Där hastighetsgränsen är högst 50 km/h ska du underlätta för en buss som ger tecken för att lämna hållplatsen, genom att sakta in eller stanna om det behövs. Bussföraren är samtidigt skyldig att vara försiktig och får inte köra ut så att fara uppstår. Bilen bakom är ansvarig för att hålla tillräckligt avstånd.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-001",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h på torr asfalt och har en reaktionstid på en sekund. Ett hinder dyker upp och du nödbromsar. Ungefär hur lång blir stoppsträckan, och hur förändras den om du i stället kört 110 km/h?",
+    "options": [
+      "Cirka 30 m, och den fördubblas vid 110",
+      "Cirka 100 m, och den blir dubbelt så lång vid 110",
+      "Cirka 55–60 m, och vid 110 blir den omkring 80 m eftersom bromssträckan ökar med kvadraten på farten",
+      "Cirka 55–60 m, och den blir bara några meter längre vid 110"
+    ],
+    "correct": 2,
+    "explanation": "Vid 90 km/h är reaktionssträckan på en sekund cirka 25 m och bromssträckan på torr asfalt cirka 32 m, alltså runt 57 m totalt. Vid 110 km/h växer reaktionssträckan till cirka 31 m och bromssträckan till cirka 48 m eftersom den ökar med kvadraten på hastigheten. Tjugo km/h extra ger alltså över 20 m längre stoppsträcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-002",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 50 km/h i tätort och en bil i körfältet bredvid kör 70 km/h. Ett barn springer ut på gatan en bit framför er och ni reagerar samtidigt. Du hinner precis stanna framför barnet. Ungefär vilken fart har den andra bilen när den når barnet?",
+    "options": [
+      "Cirka 60 km/h",
+      "Cirka 20 km/h",
+      "Cirka 40 km/h",
+      "Den har också hunnit stanna"
+    ],
+    "correct": 0,
+    "explanation": "Den bil som kör 70 hinner nästan bara reagera på den sträcka där du både reagerade och bromsade färdigt, eftersom reaktionssträckan vid 70 är cirka 19 m. När den väl börjar bromsa återstår bara några meter, och den träffar barnet i omkring 60 km/h. Det är därför skillnaden mellan 50 och 70 är avgörande för oskyddade trafikanter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-003",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Du kör på en landsväg en klar höstmorgon. Termometern visar +1 °C och vägen ser torr ut. Du närmar dig en bro över en å som ligger i en skuggig svacka. Vilken är den största risken och hur agerar du?",
+    "options": [
+      "Vattenplaning – bromsa hårt strax före bron",
+      "Ingen särskild risk eftersom det är plusgrader",
+      "Dimma över ån – tänd dimbakljuset",
+      "Halka på bron och i skuggan – sänk farten i god tid och undvik kraftiga manövrer på bron"
+    ],
+    "correct": 3,
+    "explanation": "Broar kyls från både ovan- och undersidan och skuggiga partier nära vatten fryser först, så det kan vara is där även om vägen i övrigt är torr och termometern visar plusgrader. Anpassa farten före bron och undvik att bromsa, gasa eller styra kraftigt medan du är på den. Halkan är farligast nära noll grader.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-004",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Du kör 70 km/h på packad snö i en bil med ABS-bromsar. En älg går ut på vägen 60 m framför dig. Vad gäller för bromsning och styrning?",
+    "options": [
+      "Pumpbromsa så att hjulen inte låser sig",
+      "Bromsa fullt och styr undan samtidigt – ABS bevarar styrförmågan men förkortar inte bromssträckan på snö",
+      "Bromsa försiktigt så att ABS inte aktiveras, eftersom det förlänger bromssträckan",
+      "Släpp bromsen helt och styr – bromsning på snö är meningslös"
+    ],
+    "correct": 1,
+    "explanation": "Med ABS ska du bromsa fullt och hålla pedalen nedtryckt; systemet hindrar hjulen från att låsa så att du kan styra samtidigt. På snö och grus blir bromssträckan däremot inte kortare med ABS, och vid 70 km/h på snö är den flera gånger längre än på torr asfalt. Att pumpbromsa motverkar bara systemet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-005",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 3,
+    "question": "Du kör på en snöig landsväg och får bakhjulssladd i en högerkurva: bakvagnen glider utåt mot vänster och bilens nos vrids in mot kurvan. Vad gör du?",
+    "options": [
+      "Bromsar fullt och litar på ABS",
+      "Gasar och styr mer åt höger för att komma igenom kurvan",
+      "Lättar på gasen, tittar dit du vill komma och parerar genom att styra åt det håll bakvagnen glider",
+      "Trycker ner kopplingen och drar åt parkeringsbromsen lätt"
+    ],
+    "correct": 2,
+    "explanation": "Vid bakhjulssladd ska du lätta på gasen, undvika att bromsa hårt och styra åt samma håll som bakvagnen glider, alltså kontrastyra, samtidigt som du tittar dit du vill. Blicken styr händerna – stirrar du på diket hamnar du där. Att gasa eller bromsa kraftigt förvärrar sladden.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-006",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h på halvljus på en obelyst landsväg med torr vägbana. Halvljuset lyser upp vägen ungefär 50–60 m framåt. En mötande bil närmar sig och du har bländat av i god tid. Vad är problemet med din hastighet?",
+    "options": [
+      "Din stoppsträcka är ungefär lika lång som halvljusets räckvidd – du kör för fort för sikten",
+      "Inget – 90 är tillåtet och halvljuset räcker",
+      "Du bländar mötande med halvljus i 90 km/h och bör byta till parkeringsljus",
+      "Du måste hålla helljus i 90 km/h oavsett möte"
+    ],
+    "correct": 0,
+    "explanation": "Vid 90 km/h på torr väg är stoppsträckan cirka 55–60 m, alltså i stort sett lika lång som den sträcka halvljuset lyser upp. Dyker ett hinder upp i kanten av ljuskäglan hinner du inte stanna. I mörker ska du anpassa farten så att du kan stanna inom den sträcka du faktiskt ser, vilket på halvljus innebär betydligt lägre fart än 90.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-007",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Du kör i mörker på landsväg med helljus och hinner upp en bil som du nu ligger ungefär 100 m bakom. Samtidigt ser du ljuset från en mötande bil långt bort. Hur hanterar du belysningen?",
+    "options": [
+      "Behåller helljuset tills den mötande bilen bländar av först",
+      "Bländar av först vid mötet – bilen framför störs inte av ljus bakifrån",
+      "Växlar snabbt mellan hel- och halvljus för att varna båda",
+      "Bländar av redan nu för bilen framför och tittar mot höger vägkant vid mötet"
+    ],
+    "correct": 3,
+    "explanation": "Helljus bländar föraren framför via backspeglarna, så du ska blända av i god tid när du närmar dig bakifrån, inte bara vid möte. Vid mötet behåller du halvljuset och riktar blicken mot höger vägkant för att inte bländas. Att blinka med helljuset används bara som varningssignal.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-008",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Du lämnar en cirkulationsplats och korsar en cykelbana som är markerad med vita fyrkanter, väjningslinje och vägmärket för cykelöverfart. Vid nästa avfart finns bara fyrkanterna. En cyklist närmar sig i hög fart. Vad gäller där du kör?",
+    "options": [
+      "Cyklisten har väjningsplikt eftersom du kommer från en cirkulationsplats",
+      "Du har väjningsplikt mot cyklisten – det är en cykelöverfart",
+      "Den som kommer först till korsningen har företräde",
+      "Cyklisten måste stanna om du ger tecken"
+    ],
+    "correct": 1,
+    "explanation": "En cykelöverfart känns igen på vägmärket och väjningslinjen tillsammans med markeringen, och där har du väjningsplikt mot cyklister och ska köra med låg fart. Den andra avfarten med enbart fyrkanter är en cykelpassage, där cyklisten har väjningsplikt men du ändå måste anpassa farten. Skillnaden är viktig eftersom cyklister ofta räknar med att bli släppta.",
+    "legalRef": "TrF 3 kap. 61 §",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-009",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Du kör 50 km/h på en gata med två körfält i din riktning. I vänster körfält, strax före ett obevakat övergångsställe, saktar en bil in och stannar. Du ser ingen gående. Vad gör du?",
+    "options": [
+      "Kör vidare i oförändrad fart eftersom du inte ser någon gående",
+      "Kör om långsamt – omkörning till höger är tillåten på en gata med två körfält",
+      "Saktar in och är beredd att stanna – du får inte passera ett fordon som stannat framför övergångsstället",
+      "Tutar för att varna eventuella gående och kör vidare"
+    ],
+    "correct": 2,
+    "explanation": "Det är förbjudet att köra om strax före eller på ett obevakat övergångsställe, och du får inte passera ett fordon som stannat eller saktat in för att lämna företräde. Bilen i vänster körfält skymmer sannolikt en gående som är på väg ut. Att omkörning till höger annars är tillåten på gatan spelar ingen roll här.",
+    "legalRef": "TrF 3 kap. 60 §",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-010",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Du kör 90 km/h i skymningen en oktoberkväll på en skogsväg med varningsmärke för älg. Plötsligt står en älg i diket 50 m framför dig. Vad gör du, och vad gäller om du ändå kolliderar?",
+    "options": [
+      "Bromsar hårt och räknar med fler djur; vid kollision ringer du 112 och markerar platsen",
+      "Väjer kraftigt ut på mötande körbana och kör förbi – älgar står stilla",
+      "Fortsätter i samma fart så att älgen hinner gå undan; vid kollision räcker det att kontakta försäkringsbolaget",
+      "Blinkar med helljuset för att skrämma bort älgen och kör vidare"
+    ],
+    "correct": 0,
+    "explanation": "Bromsa kraftigt och håll kursen – tvära undanmanövrer i hög fart leder ofta till värre olyckor, och där det finns en älg finns ofta fler. Kollision med älg, rådjur, vildsvin och flera andra arter är anmälningspliktig även om djuret försvinner: ring 112 och markera platsen. Älgolyckor är vanligast i gryning och skymning under höst och försommar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-011",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Du kör 40 km/h på en rak villagata och närmar dig en korsning utan vägmärken där höga häckar skymmer sikten åt höger. Gatan från höger ser mindre ut än din. Vad är rätt agerande?",
+    "options": [
+      "Håller farten – din gata är större och du har företräde mot mindre gator",
+      "Tutar före korsningen för att varna eventuella fordon",
+      "Kör ut en bit i korsningen och stannar där för att få sikt åt höger",
+      "Sänker farten så att du kan stanna för fordon från höger – högerregeln gäller även om du inte ser någon"
+    ],
+    "correct": 3,
+    "explanation": "Utan vägmärken gäller högerregeln oavsett hur stora gatorna ser ut. Skymd sikt innebär att du måste sänka farten så mycket att du hinner stanna om något kommer från höger, inte köra ut i korsningen för att titta. Många tätortsolyckor sker just i sådana korsningar där förare antar att de har företräde.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-012",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 3,
+    "question": "Du står i en korsning med grönt ljus och ska svänga vänster. En mötande lastbil blinkar höger och saktar in för att svänga in på samma gata som du ska till. Bakom lastbilen kan det finnas mötande som kör rakt fram. Vad gör du?",
+    "options": [
+      "Svänger direkt – lastbilen blinkar höger så vägen är fri",
+      "Väntar tills du kan se att inget mötande kör rakt fram – lastbilen kan dölja en motorcykel",
+      "Svänger så fort lastbilen börjat svänga, då är det din tur",
+      "Blinkar med helljuset så att mötande förstår att du svänger"
+    ],
+    "correct": 1,
+    "explanation": "Vid vänstersväng ska du lämna företräde åt mötande trafik som kör rakt fram, och det gäller även trafik du ännu inte ser. En lastbil som svänger döljer lätt en motorcykel eller bil som kommer rakt fram bakom den. Vänta tills sikten är fri – förlorar du några sekunder är det billigt jämfört med en frontalkrock.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-013",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Du kör 30 km/h på en gata förbi en lekplats. En boll rullar ut på gatan 30 m framför dig och du ser inget barn. Längre fram börjar samtidigt en äldre man med rullator gå ut på ett övergångsställe. Vad gör du?",
+    "options": [
+      "Fortsätter eftersom du inte ser något barn, men stannar för mannen",
+      "Tutar så att barnet stannar och mannen skyndar sig",
+      "Bromsar direkt och är beredd att stanna – ett barn följer ofta bollen; ger sedan mannen den tid han behöver",
+      "Väjer runt bollen och kör vidare i samma fart"
+    ],
+    "correct": 2,
+    "explanation": "En boll som rullar ut är en klassisk förvarning om att ett barn kommer efter; barn har svårt att bedöma fart och avstånd och tittar sällan innan de springer. Bromsa direkt så att du kan stanna. Äldre går långsammare och kan ha nedsatt hörsel och syn, så vid övergångsstället lämnar du företräde och stressar inte.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-014",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Du kör västerut en vintereftermiddag med lågt stående sol rakt framifrån. Vindrutan är smutsig på insidan och spolarvätskan är slut. Vilken är den största risken och den viktigaste åtgärden?",
+    "options": [
+      "Att du bländas och missar oskyddade trafikanter – sänk farten kraftigt och rengör rutan så snart du kan",
+      "Att solen värmer rutan så att den spricker – öppna ett fönster",
+      "Att mötande bländas av dina lyktor – släck halvljuset",
+      "Ingen större risk så länge du har solglasögon"
+    ],
+    "correct": 0,
+    "explanation": "Lågt stående sol i kombination med en smutsig eller repig ruta sprider ljuset och kan göra dig nästan blind under sekunder, särskilt för mörkklädda gående och cyklister. Sänk farten så att du kan stanna inom den sträcka du faktiskt ser och öka avståndet framåt. Rengör rutan invändigt och fyll på spolarvätska – det är förarens ansvar att sikten är god.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sit-015",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "Du kör 50 km/h i tätort med en vuxen passagerare i baksätet som inte använder bälte. Du frontalkrockar med ett fast hinder. Vad motsvarar krocken, och vad händer med passageraren?",
+    "options": [
+      "Ett fall från cirka 3 m – passageraren hålls kvar av framsätet",
+      "Ett fall från cirka 30 m – passageraren klarar sig om krockkudden löser ut",
+      "Ett fall från cirka 10 m – baksätespassagerare påverkas inte eftersom energin tas upp fram",
+      "Ett fall från cirka 10 m – passageraren kastas framåt och kan skada både sig själv och dem i framsätet"
+    ],
+    "correct": 3,
+    "explanation": "En krock i 50 km/h motsvarar ungefär ett fall från 10 m, alltså tredje våningen. En obältad passagerare fortsätter framåt med en kraft som motsvarar många gånger den egna kroppsvikten och kan döda den som sitter framför. Bältet är därför lika viktigt bak som fram, och krockkudden är bara ett komplement till bältet.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-001",
+    "category": "fordon",
+    "subtopic": "slap-vikter",
+    "difficulty": 3,
+    "question": "Du har vanligt B-körkort. Din bil har totalvikt 2 100 kg och får dra bromsat släp på högst 1 600 kg. Du ska hyra ett släp med totalvikt 1 300 kg och tjänstevikt 400 kg och lasta det med 700 kg. Får du köra ekipaget?",
+    "options": [
+      "Nej – släp över 750 kg kräver alltid B96 eller BE",
+      "Ja – totalvikterna blir tillsammans högst 3 500 kg och släpet är lättare än bilens tillåtna släpvagnsvikt",
+      "Nej – bilens totalvikt plus släpets faktiska vikt måste vara under 3 000 kg",
+      "Ja, men bara om du lastar högst 400 kg"
+    ],
+    "correct": 1,
+    "explanation": "Med B får du dra släp tyngre än 750 kg om bilens och släpets totalvikter tillsammans är högst 3 500 kg, här 2 100 + 1 300 = 3 400 kg. Släpets totalvikt 1 300 kg ligger också under bilens tillåtna släpvagnsvikt 1 600 kg. Släpets maxlast är 1 300 − 400 = 900 kg, så 700 kg last är tillåten.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-002",
+    "category": "fordon",
+    "subtopic": "slap-vikter",
+    "difficulty": 3,
+    "question": "Du har vanligt B-körkort. Bilens totalvikt är 2 300 kg och du kopplar på ett släp med totalvikt 1 400 kg. Du lastar bara 200 kg, så släpet väger i verkligheten 700 kg. Får du köra?",
+    "options": [
+      "Ja – släpets faktiska vikt är under 750 kg och det räknas därför som lätt släp",
+      "Ja – bilens och släpets faktiska vikter tillsammans är under 3 500 kg",
+      "Nej – släp med totalvikt över 1 000 kg kräver alltid BE",
+      "Nej – det är totalvikterna som räknas, och 3 700 kg kräver minst B96"
+    ],
+    "correct": 3,
+    "explanation": "Behörighetsreglerna utgår från fordonens totalvikter, inte från hur mycket du råkar ha lastat. 2 300 + 1 400 = 3 700 kg överstiger 3 500 kg, och släpets totalvikt är över 750 kg, så vanligt B räcker inte. Med B96 får tågets sammanlagda totalvikt vara upp till 4 250 kg, vilket skulle räcka här.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-003",
+    "category": "fordon",
+    "subtopic": "slap-vikter",
+    "difficulty": 3,
+    "question": "Du drar en husvagn där du lastat det tunga bagaget längst bak i vagnen. På motorvägen i 80 km/h börjar ekipaget kränga allt mer i sidled när du kör nedför en lång backe i medvind. Vad är den troliga orsaken och hur agerar du?",
+    "options": [
+      "För lågt kultryck på grund av lasten långt bak – släpp gasen, håll ratten stadigt och låt farten sjunka",
+      "För högt kultryck – gasa så att ekipaget sträcks ut",
+      "Punktering på husvagnen – styr kraftigt emot krängningarna",
+      "Sidvinden – öka farten för att komma ur vindområdet"
+    ],
+    "correct": 0,
+    "explanation": "Tung last långt bak i släpet ger för lågt kultryck och gör ekipaget instabilt, särskilt i hög fart, i utförsbackar och i vind. Vid krängning ska du släppa gasen, hålla ratten stilla och låta farten sjunka mjukt – kraftiga styrrörelser förvärrar pendlingen. Kultrycket för en personbil bör normalt ligga runt 50–75 kg med tung last över eller strax framför axeln.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-004",
+    "category": "fordon",
+    "subtopic": "lastsakring",
+    "difficulty": 2,
+    "question": "Du ska köra hem 4,5 m långa brädor i en kombi och de sticker ut 1,3 m bakom bilen. Det är dagsljus när du åker men mörkt när du kommer fram. Vad gäller för markering och säkring?",
+    "options": [
+      "Ingen markering behövs eftersom lasten skjuter ut mindre än 1,5 m",
+      "En vit flagga räcker dygnet runt",
+      "Röd flagga i dagsljus, och i mörker röd lykta och röd reflex – lasten ska dessutom vara ordentligt surrad",
+      "Last får inte skjuta ut alls bakom en personbil"
+    ],
+    "correct": 2,
+    "explanation": "Last som skjuter ut mer än 1 m bakom fordonet ska markeras: i dagsljus med röd flagga och i mörker eller dålig sikt med röd lykta bakåt och röd reflex. Eftersom du kommer fram i mörker måste du ha lykta och reflex med dig. Lasten ska alltid vara säkrad så att den inte kan glida eller falla av vid inbromsning.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-005",
+    "category": "fordon",
+    "subtopic": "lastsakring",
+    "difficulty": 2,
+    "question": "Du kör 90 km/h på landsväg med en verktygslåda på 10 kg lös på baksätet och en takbox på taket. Plötsligt tvingas du nödbromsa för en bil som stannat. Vilken är den största risken i kupén?",
+    "options": [
+      "Takboxen lossnar – takboxar tål inte hårda inbromsningar",
+      "Verktygslådan fortsätter framåt med en kraft många gånger sin egen vikt och kan skada dem som sitter fram",
+      "Bilen blir för tung bak och riskerar att välta",
+      "Ingen särskild – 10 kg är för lite för att kunna göra skada"
+    ],
+    "correct": 1,
+    "explanation": "Lösa föremål i kupén fortsätter framåt i bilens fart när bilen bromsas eller krockar, och vid en kollision kan kraften motsvara många gånger föremålets vikt – en verktygslåda blir en projektil mot nacken på den som sitter fram. Tungt och löst gods ska ligga i bagageutrymmet, helst mot ryggstödet och fastspänt. Takboxen påverkar främst bränsleförbrukning och kurvstabilitet.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-006",
+    "category": "fordon",
+    "subtopic": "dack",
+    "difficulty": 2,
+    "question": "I november köper du två nya vinterdäck till din framhjulsdrivna bil och behåller de två gamla. Var monterar du de nya, och vad gäller för mönsterdjupet från 1 december när det är vinterväglag?",
+    "options": [
+      "De nya bak för att undvika sladd med bakvagnen; vinterdäck ska ha minst 3 mm mönsterdjup",
+      "De nya fram eftersom bilen är framhjulsdriven; minst 1,6 mm räcker",
+      "De nya fram för bättre styrning; minst 3 mm",
+      "De nya bak; sommardäck duger om de har minst 4 mm"
+    ],
+    "correct": 0,
+    "explanation": "De bästa däcken ska sitta bak oavsett vilka hjul som driver, eftersom dåligt grepp bak ger bakhjulssladd som är mycket svårare att häva än ett understyrt framvagnsgrepp. Under perioden 1 december–31 mars krävs vinterdäck vid vinterväglag, och vinterdäck ska ha minst 3 mm mönsterdjup. Lagminimum 1,6 mm gäller övriga året.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-007",
+    "category": "fordon",
+    "subtopic": "dack",
+    "difficulty": 2,
+    "question": "Du kör på motorväg i kraftigt regn med däck som har 2 mm mönsterdjup och för lågt lufttryck. Plötsligt känns styrningen lätt och motorn varvar upp något. Vad händer och vad gör du?",
+    "options": [
+      "Punktering – bromsa hårt och styr ut på vägrenen",
+      "Bromsfading – växla ner för att få motorbroms",
+      "Isfläck – gasa lätt för att komma över",
+      "Vattenplaning – släpp gasen och undvik att bromsa eller styra kraftigt tills greppet kommer tillbaka"
+    ],
+    "correct": 3,
+    "explanation": "Lätt styrning och stigande varvtal i regn är tecken på vattenplaning: däcken flyter upp på en vattenfilm och tappar kontakten med vägen. Släpp gasen, håll ratten rakt och vänta tills greppet återkommer – hårda bromsningar eller styrrörelser kan ge sladd när däcken plötsligt får fäste. Slitna däck och för lågt lufttryck ökar risken, liksom hög fart.",
+    "reviewed": false
+  },
+  {
+    "id": "fo-sit-008",
+    "category": "fordon",
+    "subtopic": "teknik",
+    "difficulty": 2,
+    "question": "Under körning på torr väg tänds ABS-varningslampan och förblir tänd. Bromspedalen känns som vanligt. Hur påverkas bromsningen, och vad bör du tänka på om du måste nödbromsa innan felet är åtgärdat?",
+    "options": [
+      "Bromsarna fungerar inte alls – stanna omedelbart",
+      "Bara parkeringsbromsen fungerar",
+      "Bromsarna fungerar men utan ABS – hjulen kan låsa sig vid fullbromsning så att du tappar styrförmågan",
+      "Bromssträckan blir kortare eftersom ABS är avstängt"
+    ],
+    "correct": 2,
+    "explanation": "En tänd ABS-lampa betyder att det låsningsfria systemet är ur funktion, men färdbromsen fungerar normalt. Vid en nödbromsning kan hjulen då låsa sig och bilen blir ostyrbar; lätta då något på pedalen om du behöver styra undan. Låt en verkstad åtgärda felet snarast.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-sit-001",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör 90 km/h på en landsväg och ser på långt håll att ett trafikljus cirka 300 m framför dig slår om till rött. Vad är det mest bränslesnåla sättet att hantera situationen?",
+    "options": [
+      "Släpp gasen tidigt med växeln i, så att bränsletillförseln stängs av och du kanske slipper stanna helt",
+      "Lägg i friläge och rulla – motorn förbrukar minst på tomgång",
+      "Håll farten och bromsa sent för att inte tappa tid",
+      "Växla ner stegvis med mellangas för att bromsa med motorn"
+    ],
+    "correct": 0,
+    "explanation": "När du släpper gasen med växeln i stängs bränsletillförseln av helt i moderna motorer, medan motorn på tomgång i friläge fortfarande drar bränsle. Rullar du tidigt hinner ljuset ofta bli grönt så att du slipper stanna och accelerera från stillastående, vilket är det som kostar mest. Sen inbromsning slösar bort den rörelseenergi du redan betalat för.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-sit-002",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör en manuellt växlad bensinbil i stadstrafik och ska accelerera från en korsning upp till 50 km/h. Hur accelererar och växlar du mest sparsamt?",
+    "options": [
+      "Mycket långsamt på låg växel för att hålla varvtalet lågt",
+      "Bestämt, med tidiga uppväxlingar kring 2 000–2 500 varv och gärna hoppa över någon växel",
+      "Med fullgas upp till högt varvtal så att du snabbare når jämn fart",
+      "Håll kvar tvåan tills du nått 50 km/h och växla sedan direkt till femman"
+    ],
+    "correct": 1,
+    "explanation": "Sparsam körning innebär att accelerera bestämt men växla upp tidigt, för bensinmotorer omkring 2 000–2 500 varv per minut, så att du snabbt kommer upp på hög växel med lågt varvtal. Långsam acceleration på låg växel håller motorn länge i ett oekonomiskt läge. Att hoppa över växlar, till exempel från tvåan till fyran, är både tillåtet och bränslesnålt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-sit-003",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du ska köra 40 mil på motorväg. Takboxen sitter kvar tom sedan semestern, däcken har något för lågt lufttryck och du tänker hålla 120 där det är tillåtet i stället för 110. Vilka av dessa faktorer ökar bränsleförbrukningen?",
+    "options": [
+      "Bara den högre farten – takbox och däcktryck påverkar inte märkbart",
+      "Både takboxen, det låga däcktrycket och den högre farten – luftmotståndet ökar med kvadraten på hastigheten",
+      "Takboxen och farten, men lågt däcktryck minskar förbrukningen",
+      "Bara däcktrycket – på motorväg spelar farten ingen roll"
+    ],
+    "correct": 1,
+    "explanation": "En takbox ökar luftmotståndet påtagligt även när den är tom, och för lågt däcktryck ökar rullmotståndet och slitaget. Luftmotståndet växer med kvadraten på hastigheten, så steget från 110 till 120 kostar mer än det låter. Ta av takboxen, kontrollera trycket på kalla däck och håll jämn, måttlig fart.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-sit-004",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Det är −15 °C och du ska åka till jobbet klockan 07. Du har eluttag och motorvärmare med timer. Hur ställer du timern, och varför är det värt besväret?",
+    "options": [
+      "Hela natten – ju längre desto bättre för motorn",
+      "20 minuter räcker oavsett temperatur",
+      "Motorvärmare behövs inte – det räcker att låta bilen gå på tomgång i tio minuter",
+      "Cirka 1,5 timme före avfärd, alltså från 05:30 – längre tid ger ingen extra nytta och slösar el"
+    ],
+    "correct": 3,
+    "explanation": "Vid −15 °C rekommenderas motorvärmare i cirka 1,5 timme, vid 0 °C ungefär en timme och vid +10 °C 20–30 minuter; längre tid värmer inte motorn mer. En förvärmd motor ger lägre bränsleförbrukning, mindre slitage och betydligt lägre utsläpp under de första kilometrarna när katalysatorn ännu inte fungerar. Tomgångskörning värmer dåligt och är i de flesta kommuner begränsad till en minut.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-sit-005",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "En kall vintermorgon i tätort startar du bilen och låter motorn gå på tomgång i fem minuter medan du skrapar rutorna, för att få lite värme i kupén. Vad gäller?",
+    "options": [
+      "Tillåtet – tomgångskörning är begränsad till tio minuter",
+      "Tillåtet eftersom tomgångsreglerna bara gäller tunga fordon",
+      "Otillåtet i de flesta kommuner – högst en minut, och kall motor på tomgång ger höga utsläpp men lite värme",
+      "Otillåtet – tomgångskörning är alltid förbjuden utom i trafikstockning"
+    ],
+    "correct": 2,
+    "explanation": "De flesta kommuner begränsar tomgångskörning till högst en minut, med undantag för till exempel köer. En kall motor på tomgång går dessutom ineffektivt, ger höga utsläpp av kolväten och kolmonoxid eftersom katalysatorn är kall, och värmer kupén mycket långsamt. Skrapa först och kör sedan lugnt – motorn blir varm snabbare under körning.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-001",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Du drack fyra stora starköl på en fest och slutade dricka klockan 01. Klockan 07 ska du köra till jobbet och känner dig pigg efter fem timmars sömn. Vad gäller?",
+    "options": [
+      "Du får köra – efter en natts sömn är alkoholen borta",
+      "Du får köra om du dricker kaffe och äter frukost först",
+      "Du bör inte köra – nedbrytningen är bara cirka 0,15 promille i timmen och du kan ligga över gränsen",
+      "Du får köra eftersom öl bryts ner snabbare än sprit"
+    ],
+    "correct": 2,
+    "explanation": "Alkohol bryts ner med ungefär 0,15 promille per timme oavsett sömn, kaffe eller mat, och fyra stora starköl motsvarar många standardglas. Sex timmar senare kan promillehalten mycket väl ligga över gränsen 0,2 för rattfylleri. Hur pigg du känner dig säger ingenting om din promillehalt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-002",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "Morgonen efter en fest känner du dig helt nykter och kör till jobbet. I en poliskontroll blåser du 0,12 mg alkohol per liter utandningsluft. Vad gäller?",
+    "options": [
+      "Rattfylleri – gränsen är 0,10 mg/l i utandningsluften, och det spelar ingen roll hur nykter du känner dig",
+      "Inget brott – gränsen är 0,25 mg/l",
+      "Bara en varning eftersom du låg under 0,5 promille",
+      "Grovt rattfylleri eftersom du körde dagen efter"
+    ],
+    "correct": 0,
+    "explanation": "Gränsen för rattfylleri är 0,2 promille i blodet, vilket motsvarar 0,10 mg/l i utandningsluften; 0,12 mg/l är alltså straffbart. Grovt rattfylleri börjar vid 1,0 promille eller 0,50 mg/l. Vid rattfylleri återkallas körkortet normalt, och alkolås kan i vissa fall bli ett villkor i stället.",
+    "legalRef": "Trafikbrottslagen 4 §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-003",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Du har varit vaken sedan klockan 05 och kör hem på motorväg klockan 23 efter en kväll hos vänner. Du gäspar, blinkar ofta och märker att du missade en skylt. Du har åtta mil kvar. Vad gör du?",
+    "options": [
+      "Öppnar fönstret och höjer musiken – det räcker för åtta mil",
+      "Kör lite fortare för att komma hem innan tröttheten tar över",
+      "Dricker två koppar kaffe vid nästa mack och kör vidare utan paus",
+      "Stannar säkert och sover en stund – 18 timmars vakenhet påverkar dig ungefär som 0,5 promille"
+    ],
+    "correct": 3,
+    "explanation": "Efter 17–18 timmars vakenhet är körförmågan nedsatt ungefär som vid 0,5 promille, och gäspningar och missade skyltar är tydliga varningstecken på att mikrosömn är nära. Det enda som verkligen hjälper är sömn, även en kort tupplur på 15–20 minuter. Frisk luft, musik och kaffe ger bara en kortvarig effekt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-004",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Du har arbetat natt och kör hem klockan 05 på en rak och tom landsväg. Du sov bra dagen innan och känner dig egentligen inte särskilt trött. Vad gör körningen extra riskabel just nu?",
+    "options": [
+      "Ingenting – du har sovit bra och vägen är tom",
+      "Dygnsrytmen ger en naturlig trötthetstopp på småtimmarna och den monotona vägen ökar risken för mikrosömn",
+      "Bara att det är mörkt – tröttheten påverkar inte den som sovit ordentligt",
+      "Att vilt är aktivt – trötthet spelar ingen roll på en tom väg"
+    ],
+    "correct": 1,
+    "explanation": "Kroppens dygnsrytm ger en trötthetsdal mellan ungefär 02 och 06 oavsett hur mycket du sovit, och efter ett nattpass har du dessutom varit vaken länge. En rak, tom och monoton väg ger få intryck som håller dig alert, vilket gör att mikrosömn kan komma utan förvarning. Att man inte känner sig trött är ingen garanti.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-005",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Du är 19 år och kör tre jämnåriga kompisar hem från en fest. På en rak 70-väg vill de att du testar hur fort bilen går, och en av dem börjar filma med mobilen. Vad är den största risken och det bästa agerandet?",
+    "options": [
+      "Säg tydligt nej – grupptryck och överskattad egen förmåga är typiska orsaker till unga förares olyckor",
+      "Kör lite fortare en kort stund så att de blir nöjda och lugnar ner sig",
+      "Låt en av kompisarna köra i stället",
+      "Kör fort men bara där det inte finns några korsningar"
+    ],
+    "correct": 0,
+    "explanation": "Unga förare, särskilt män, med jämnåriga passagerare löper klart högre olycksrisk, och grupptryck i kombination med att man överskattar sin förmåga är en vanlig orsak. Som förare är du ensam ansvarig för bilen och passagerarna, och att ge efter lite är fortfarande att ge efter. Att säga nej i förväg och hålla fast vid det är det som fungerar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-006",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Du har haft körkort i sex månader och blir omkörd på ett vårdslöst sätt av en bil som sedan bromsar in demonstrativt framför dig. Du blir arg och vill ge igen. Vad gäller och vad gör du?",
+    "options": [
+      "Kör om tillbaka och bromsa in framför för att markera",
+      "Ligg tätt bakom och blinka med helljuset tills föraren släpper fram dig",
+      "Öka avståndet och släpp det – ilska försämrar omdömet, och återkallelse under prövotiden kräver nytt prov",
+      "Stanna mitt på vägen och konfrontera föraren"
+    ],
+    "correct": 2,
+    "explanation": "Ilska och stress gör att du tar större risker och läser trafiken sämre, så det säkraste är att öka avståndet och släppa den andra bilen. Du har prövotid i två år efter körkortet; återkallas körkortet under den tiden måste du göra både kunskapsprov och körprov på nytt. Att hämnas i trafiken kan dessutom bedömas som vårdslöshet i trafik.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sit-007",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Ni är fyra kompisar som ska hem från en klubb klockan 02. Kompisen som körde dit har druckit två öl under kvällen och säger att han känner sig bra och att det bara är fem kilometer. Alla vill hem. Vad gör du?",
+    "options": [
+      "Åker med – två öl på en hel kväll är ingen fara",
+      "Åker med men ber honom köra extra försiktigt",
+      "Kör själv om du bara druckit en öl",
+      "Ordnar annan hemresa – två öl kan ge över 0,2 promille, och att åka med är att acceptera risken"
+    ],
+    "correct": 3,
+    "explanation": "Två öl kan mycket väl ge en promillehalt över gränsen 0,2, och en förare som druckit bedömer sin egen förmåga sämre. Att åka med en påverkad förare innebär att du utsätter dig själv för risken och samtidigt bekräftar hans beslut. Den som står emot grupptrycket och ordnar taxi eller nattbuss gör det säkra valet, även om det är obekvämt.",
+    "reviewed": false
+  }
+]

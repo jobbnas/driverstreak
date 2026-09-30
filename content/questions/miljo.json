@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "mi-driv-001",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vilket av följande drivmedel är fossilt?",
+    "options": [
+      "Bensin",
+      "Etanol E85",
+      "Biogas",
+      "HVO100"
+    ],
+    "correct": 0,
+    "explanation": "Bensin och vanlig diesel framställs ur råolja och är fossila drivmedel. Etanol, biogas och HVO framställs ur förnybara råvaror som grödor, avfall och restprodukter.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-002",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vad är E85 för typ av drivmedel?",
+    "options": [
+      "En bensin med oktantalet 85 för äldre bilar",
+      "Ett bränsle med cirka 85 % etanol och resten bensin",
+      "En diesel med 85 % inblandad biodiesel av raps",
+      "En gasblandning med 85 % metan och resten vätgas"
+    ],
+    "correct": 1,
+    "explanation": "E85 består av ungefär 85 % etanol och 15 % bensin (andelen bensin är något högre vintertid för att underlätta kallstart). Det används i flexifuelbilar som kan köras på både bensin och E85.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-003",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vad är HVO?",
+    "options": [
+      "En syntetisk bensin som framställs ur naturgas i raffinaderier",
+      "En etanolblandning som är avsedd för flexifuelbilar",
+      "En förnybar diesel gjord av t.ex. slakteriavfall och vegetabiliska oljor",
+      "En gasblandning av metan och vätgas som används i gasbilar"
+    ],
+    "correct": 2,
+    "explanation": "HVO (hydrerad vegetabilisk olja) är en förnybar diesel som tillverkas av bland annat slakteriavfall, använd frityrolja och vegetabiliska oljor. Kemiskt liknar den fossil diesel och kan ersätta den helt eller delvis.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-004",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 3,
+    "question": "Varför minskar klimatpåverkan när du kör på biodrivmedel, trots att det kommer koldioxid ur avgasröret?",
+    "options": [
+      "Katalysatorn bryter ned koldioxiden som bildas från biodrivmedel",
+      "Biodrivmedel ger inga avgaser alls vid förbränning i motorn",
+      "Motorn förbrukar bara hälften så mycket bränsle med biodrivmedel",
+      "Koldioxiden ingår i ett kretslopp där råvarorna tog upp lika mycket när de växte"
+    ],
+    "correct": 3,
+    "explanation": "Biodrivmedel görs av växter och organiskt material som nyligen tagit upp koldioxid ur luften, så nettotillskottet till atmosfären blir litet. Fossila bränslen frigör däremot kol som legat lagrat i miljontals år.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-005",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vilket drivmedel framställs främst genom rötning av matavfall, gödsel och avloppsslam?",
+    "options": [
+      "Biogas",
+      "HVO",
+      "Etanol",
+      "Naturgas"
+    ],
+    "correct": 0,
+    "explanation": "Biogas bildas när organiskt material som matavfall, gödsel och slam rötas utan syre. Gasen renas till fordonsgas och är ett förnybart drivmedel med låg klimatpåverkan.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-006",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Du tankar din flexifuelbil med E85 i stället för bensin. Vad händer med bränsleförbrukningen räknat i liter?",
+    "options": [
+      "Den blir lägre eftersom etanol har högre oktantal",
+      "Den blir högre eftersom etanol innehåller mindre energi per liter",
+      "Den blir oförändrad eftersom motorn anpassar sig",
+      "Den halveras eftersom etanol förbränns effektivare"
+    ],
+    "correct": 1,
+    "explanation": "Etanol innehåller mindre energi per liter än bensin, så bilen behöver fler liter för samma sträcka. Trots det blir den fossila klimatpåverkan lägre eftersom etanolen är förnybar.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-007",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vad menas med fordonsgas?",
+    "options": [
+      "Enbart fossil naturgas som utvinns ur marken",
+      "Gasol som används i husbilar och husvagnar",
+      "Biogas och/eller naturgas som används som drivmedel",
+      "Vätgas som används i bränslecellsbilar"
+    ],
+    "correct": 2,
+    "explanation": "Fordonsgas är samlingsnamnet för metangas som används som drivmedel och kan bestå av förnybar biogas, fossil naturgas eller en blandning. I Sverige är andelen biogas hög.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-008",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 3,
+    "question": "Vilket påstående om dieselmotorn jämfört med bensinmotorn stämmer?",
+    "options": [
+      "Dieselmotorn släpper ut mer koldioxid per mil eftersom diesel är tyngre",
+      "Dieselmotorn har inga utsläpp av kväveoxider",
+      "Dieselmotorn kräver katalysator medan bensinmotorn klarar sig utan",
+      "Dieselmotorn är energieffektivare men ger normalt mer kväveoxider och partiklar"
+    ],
+    "correct": 3,
+    "explanation": "Dieselmotorn har högre verkningsgrad och drar därför mindre bränsle per mil, vilket ger lägre koldioxidutsläpp. Nackdelen är högre utsläpp av kväveoxider och partiklar, som är hälsofarliga i tätorter.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-009",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vilken är den största miljöfördelen med en elbil där den körs?",
+    "options": [
+      "Den har inga avgasutsläpp",
+      "Den orsakar inget vägslitage",
+      "Den ger inga partiklar från däck och bromsar",
+      "Den behöver aldrig underhåll"
+    ],
+    "correct": 0,
+    "explanation": "En elbil saknar avgasrör och släpper därför inte ut kolmonoxid, kväveoxider eller koldioxid där den körs. Den ger dock fortfarande partiklar från däck, bromsar och vägslitage.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-010",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vad avgör främst hur stor klimatnytta en elbil ger under själva körningen?",
+    "options": [
+      "Bilens toppfart",
+      "Hur elen som bilen laddas med produceras",
+      "Batteriets storlek i kilowattimmar",
+      "Om bilen har vinterdäck eller sommardäck"
+    ],
+    "correct": 1,
+    "explanation": "Elbilen ger inga avgaser, men elen måste produceras. Laddas den med el från vatten-, vind- eller kärnkraft blir klimatpåverkan mycket låg, medan el från kolkraft ger betydligt större utsläpp.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-011",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vilken beskrivning stämmer in på en laddhybrid?",
+    "options": [
+      "En bil med två förbränningsmotorer som turas om att driva hjulen",
+      "En bil vars batteri bara laddas av den egna motorn och vid inbromsning",
+      "En bil med både förbränningsmotor och elmotor vars batteri kan laddas från elnätet",
+      "En bil som drivs enbart av vätgas och el"
+    ],
+    "correct": 2,
+    "explanation": "En laddhybrid (plug-in-hybrid) kan laddas med sladd och köra en kortare sträcka på enbart el innan förbränningsmotorn tar över. En vanlig elhybrid kan inte laddas från elnätet.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-012",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Hur påverkas räckvidden hos en elbil vintertid?",
+    "options": [
+      "Den ökar eftersom kall luft kyler batteriet effektivt",
+      "Den påverkas inte av utomhustemperaturen",
+      "Den ökar när kupévärmen används",
+      "Den minskar eftersom kylan och kupévärmen kräver energi"
+    ],
+    "correct": 3,
+    "explanation": "Batteriet presterar sämre i kyla och kupévärmen drar energi från samma batteri, så räckvidden kan minska tydligt vintertid. Förvärmning av bilen medan den är inkopplad på laddaren minskar problemet.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-013",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vad innebär det att HVO100 ofta kallas ett \"drop in\"-bränsle?",
+    "options": [
+      "Det kan användas i många vanliga dieselmotorer utan ombyggnad",
+      "Det måste blandas med minst hälften fossil diesel",
+      "Det får bara användas i bussar och lastbilar",
+      "Det kräver en särskild extratank i bilen"
+    ],
+    "correct": 0,
+    "explanation": "HVO har nästan samma egenskaper som fossil diesel och kan därför tankas i många dieselbilar utan tekniska ändringar. Kontrollera dock alltid att biltillverkaren godkänt bränslet för din bil.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-014",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 3,
+    "question": "Vad innebär reduktionsplikten för drivmedel i Sverige?",
+    "options": [
+      "Bilförare måste minska sin årliga körsträcka med en viss andel",
+      "Drivmedelsbolagen måste blanda in förnybart så att utsläppen från bensin och diesel minskar",
+      "Kommuner måste minska antalet parkeringsplatser i centrum varje år",
+      "Biltillverkare måste sänka motoreffekten på nya bilar stegvis"
+    ],
+    "correct": 1,
+    "explanation": "Reduktionsplikten ålägger drivmedelsleverantörerna att minska växthusgasutsläppen från bensin och diesel med en viss andel genom inblandning av förnybara drivmedel. Nivåerna bestäms av riksdagen och har ändrats över tid.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-015",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Vad kommer ut ur avgasröret på en bränslecellsbil som drivs med vätgas?",
+    "options": [
+      "Kväveoxider",
+      "Koldioxid",
+      "Vattenånga",
+      "Kolmonoxid"
+    ],
+    "correct": 2,
+    "explanation": "I bränslecellen reagerar vätgas med syre från luften och bildar el och vatten. Det enda utsläppet från bilen är därför vattenånga, men miljönyttan beror på hur vätgasen framställts.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-016",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vad innebär regenerativ bromsning i el- och hybridbilar?",
+    "options": [
+      "Bromsskivorna kyls med vätska från batteriet",
+      "Bilen bromsar automatiskt när batteriet är fulladdat",
+      "Bromsbeläggen är tillverkade av återvunnet material",
+      "Elmotorn fungerar som generator vid inbromsning och laddar batteriet"
+    ],
+    "correct": 3,
+    "explanation": "Vid regenerativ bromsning används elmotorn som generator så att rörelseenergin omvandlas till el i stället för värme i bromsarna. Det ökar räckvidden och minskar slitaget på de vanliga bromsarna.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-017",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 2,
+    "question": "Vad är RME (FAME) för drivmedel?",
+    "options": [
+      "Biodiesel framställd av t.ex. rapsolja",
+      "En etanolblandning för bensinbilar",
+      "Syntetisk bensin gjord av kol",
+      "Komprimerad naturgas för gasbilar"
+    ],
+    "correct": 0,
+    "explanation": "RME (rapsmetylester) är en typ av FAME, biodiesel som tillverkas av vegetabiliska oljor som rapsolja. Den blandas i vanlig diesel och kan i vissa fordon användas ren som B100.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-018",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 3,
+    "question": "Vilket påstående om bensinkvaliteten E10 stämmer?",
+    "options": [
+      "E10 innehåller 10 % bensin och 90 % etanol och kräver flexifuelbil",
+      "E10 innehåller upp till 10 % etanol och passar de flesta moderna bensinbilar",
+      "E10 får bara tankas i bilar som är godkända för E85",
+      "E10 är en dieselkvalitet med 10 % inblandad HVO"
+    ],
+    "correct": 1,
+    "explanation": "E10 är standardbensinen 95 oktan med upp till 10 volymprocent etanol och infördes i Sverige 2021. De allra flesta bensinbilar från de senaste decennierna klarar den, men äldre bilar kan behöva bensin med lägre etanolhalt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-019",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 1,
+    "question": "Hur klassas naturgas som drivmedel?",
+    "options": [
+      "Förnybart, framställt av skogsavfall och sågspån",
+      "Förnybart, framställt av gödsel och matavfall",
+      "Fossilt, men med lägre koldioxidutsläpp än bensin och diesel",
+      "Fossilt, med lika stora utsläpp som kol och olja"
+    ],
+    "correct": 2,
+    "explanation": "Naturgas är en fossil gas som utvinns ur marken, men vid förbränning ger den lägre koldioxidutsläpp och färre partiklar än bensin och diesel. Biogas är det förnybara alternativet med samma kemiska huvudbeståndsdel, metan.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-driv-020",
+    "category": "miljo",
+    "subtopic": "drivmedel",
+    "difficulty": 3,
+    "question": "En elbil saknar avgaser men påverkar ändå klimatet. Var uppstår den största delen av klimatpåverkan för en elbil som laddas med svensk el?",
+    "options": [
+      "Vid däckslitaget under körning",
+      "Vid tvätt och rekonditionering av bilen",
+      "Vid batteribyten som måste göras varje år",
+      "Vid tillverkningen av bilen, särskilt batteriet"
+    ],
+    "correct": 3,
+    "explanation": "Med svensk el, som till största delen är fossilfri, blir utsläppen från körningen mycket små. Då dominerar utsläppen från tillverkningen, där batteriproduktionen är energikrävande. Ju längre bilen används, desto mer lönar den sig för klimatet.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-001",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vad är den viktigaste grunden i sparsam körning?",
+    "options": [
+      "Att planera körningen och se långt fram så att onödiga inbromsningar undviks",
+      "Att alltid köra så långsamt som möjligt oavsett trafiken",
+      "Att köra på så låg växel som möjligt för att ha kraft i reserv",
+      "Att stänga av motorn i alla nedförsbackar"
+    ],
+    "correct": 0,
+    "explanation": "Sparsam körning bygger på framförhållning: den som ser långt fram kan släppa gasen tidigt och rulla i stället för att bromsa och gasa om. Varje onödig inbromsning kastar bort rörelseenergi som kostat bränsle att bygga upp.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-002",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vid ungefär vilket varvtal bör du växla upp i en bensinbil för att köra sparsamt?",
+    "options": [
+      "Vid cirka 4 000–4 500 varv/min",
+      "Vid cirka 2 000–2 500 varv/min",
+      "Så nära maxvarvtalet som möjligt",
+      "Under 1 000 varv/min"
+    ],
+    "correct": 1,
+    "explanation": "En bensinmotor arbetar effektivast på förhållandevis låga varvtal, så växla upp redan vid cirka 2 000–2 500 varv/min. Höga varvtal ökar friktionen och förbrukningen utan att du kommer fortare fram.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-003",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör en dieselbil. Hur skiljer sig uppväxlingen från en bensinbil vid sparsam körning?",
+    "options": [
+      "Dieselbilen bör växlas upp vid högre varvtal än bensinbilen",
+      "Det är ingen skillnad mellan motortyperna",
+      "Dieselbilen kan växlas upp vid lägre varvtal, ungefär 1 500–2 000 varv/min",
+      "Dieselbilen bör bara köras på de tre lägsta växlarna i tätort"
+    ],
+    "correct": 2,
+    "explanation": "Dieselmotorn har högt vridmoment redan vid låga varv och kan därför växlas upp tidigare än en bensinmotor, ofta kring 1 500–2 000 varv/min. Grundprincipen är densamma: hög växel och lågt varvtal.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-004",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du närmar dig ett trafikljus som slår om till rött cirka 200 meter framför dig. Vad är mest bränslesnålt?",
+    "options": [
+      "Hålla farten och bromsa bestämt precis före stopplinjen",
+      "Lägga i friläge och rulla fram mot ljuset",
+      "Trampa ned kopplingen och rulla fram",
+      "Släppa gasen tidigt och motorbromsa på växel fram mot ljuset"
+    ],
+    "correct": 3,
+    "explanation": "När du släpper gasen på växel stängs bränsletillförseln av helt, medan motorn i friläge eller med nedtrampad koppling går på tomgång och drar bränsle. Dessutom hinner ljuset ofta slå om så att du slipper stanna helt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-005",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Varför är det snålare att motorbromsa på växel än att rulla i friläge?",
+    "options": [
+      "På växel stängs bränsletillförseln av, i friläge går motorn på tomgång",
+      "Motorn går på högre varvtal i friläge och sliter mer på lagren",
+      "Växellådan smörjs sämre när bilen rullar i friläge utan drivning",
+      "Färdbromsen arbetar hårdare och blir varm när bilen är i friläge"
+    ],
+    "correct": 0,
+    "explanation": "Moderna insprutningsmotorer stänger av bränslet helt när du släpper gasen på växel och hjulen driver motorn. I friläge måste motorn däremot hållas igång med bränsle på tomgång. Motorbromsning ger också bättre kontroll över bilen.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-006",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Hur påverkas bränsleförbrukningen om du ökar farten från 90 till 110 km/h på en landsväg?",
+    "options": [
+      "Den påverkas inte nämnvärt på plan väg",
+      "Den ökar tydligt eftersom luftmotståndet växer kraftigt med farten",
+      "Den minskar eftersom motorn arbetar effektivare i högre fart",
+      "Den ökar bara om det blåser motvind"
+    ],
+    "correct": 1,
+    "explanation": "Luftmotståndet ökar med kvadraten på hastigheten och dominerar redan vid landsvägsfart. En höjning från 90 till 110 km/h ger därför en tydlig ökning av förbrukningen och koldioxidutsläppen.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-007",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Luftmotståndet ökar med kvadraten på hastigheten. Vad händer med luftmotståndet om du fördubblar farten?",
+    "options": [
+      "Det fördubblas",
+      "Det blir tre gånger så stort",
+      "Det blir fyra gånger så stort",
+      "Det blir åtta gånger så stort"
+    ],
+    "correct": 2,
+    "explanation": "Dubbel hastighet ger 2 × 2 = 4 gånger så stort luftmotstånd. Det är därför förbrukningen stiger så kraftigt i höga farter, medan skillnaden i tidsvinst ofta är liten.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-008",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Hur påverkar en tom takbox som sitter kvar på bilen bränsleförbrukningen?",
+    "options": [
+      "Inte alls så länge den är tom",
+      "Den minskar förbrukningen eftersom den förbättrar luftflödet över taket",
+      "Den påverkar bara förbrukningen i motvind",
+      "Den ökar förbrukningen genom större luftmotstånd, särskilt i höga farter"
+    ],
+    "correct": 3,
+    "explanation": "Takboxen ökar bilens frontyta och stör luftflödet, vilket höjer luftmotståndet oavsett om den är tom eller full. Ta bort takbox och takräcke när de inte behövs.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-009",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör en längre sträcka på motorväg en varm sommardag. Vad är bäst för bränsleförbrukningen?",
+    "options": [
+      "Stängda rutor och luftkonditionering på måttlig nivå",
+      "Öppna sidorutor och avstängd luftkonditionering",
+      "Öppet soltak och luftkonditionering på högsta effekt",
+      "Öppna alla rutor och fläkten på högsta läge"
+    ],
+    "correct": 0,
+    "explanation": "I hög fart ökar öppna rutor luftmotståndet så mycket att det kostar mer bränsle än en måttligt använd luftkonditionering. I låg fart i stadstrafik är det däremot snålare att vädra med öppna rutor.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-010",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Ungefär hur mycket ökar bränsleförbrukningen när luftkonditioneringen (AC) används?",
+    "options": [
+      "Den påverkas inte eftersom AC drivs av batteriet",
+      "Med cirka 5–10 %",
+      "Med cirka 50 %",
+      "Förbrukningen fördubblas"
+    ],
+    "correct": 1,
+    "explanation": "Luftkonditioneringens kompressor drivs av motorn och ökar förbrukningen med i storleksordningen 5–10 %, mest i stadstrafik och vid stark värme. Använd den när den behövs men stäng av när kupén är sval.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-011",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Vad kännetecknar en sparsam acceleration med manuell växellåda?",
+    "options": [
+      "Mycket försiktig gas och lång tid på varje växel",
+      "Full gas upp till maxvarvtal på varje växel",
+      "Bestämd gas och snabb uppväxling till en hög växel",
+      "Att alltid starta från stillastående på tvåans växel"
+    ],
+    "correct": 2,
+    "explanation": "Accelerera bestämt med ganska mycket gas och växla upp tidigt så att du snabbt når en hög växel med lågt varvtal. En utdragen, försiktig acceleration på låga växlar håller motorn längre på ineffektiva varvtal.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-012",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 3,
+    "question": "Du kör i 50 km/h på en plan gata i en vanlig bensinbil med manuell växellåda. Vilken växel ger lägst förbrukning?",
+    "options": [
+      "Tvåan, så att du alltid har kraft i reserv för omkörning",
+      "Trean, så att motorn går på högt varv och arbetar effektivt",
+      "Alltid sexan, även om motorn knackar och går ojämnt",
+      "Den högsta växeln där motorn går jämnt, ofta fyran eller femman"
+    ],
+    "correct": 3,
+    "explanation": "Lägst förbrukning får du på den högsta växel som motorn drar jämnt på utan att knacka eller rycka. I 50 km/h är det i de flesta bensinbilar fyran eller femman. Att segdra så att motorn knackar är dock varken snålt eller bra för motorn.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-013",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vad menas med att \"hoppa över växlar\" vid sparsam körning?",
+    "options": [
+      "Att växla t.ex. från tvåan direkt till fyran när farten tillåter",
+      "Att köra på ettans växel så länge som möjligt innan uppväxling",
+      "Att aldrig använda den högsta växeln vid körning i tätort",
+      "Att växla ned två steg i stället för ett före varje kurva"
+    ],
+    "correct": 0,
+    "explanation": "Om farten och motorn tillåter kan du hoppa över en växel, t.ex. från tvåan till fyran eller från trean till femman. Då når du snabbare en hög växel med lågt varvtal, vilket sparar bränsle.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-014",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vilken körstil är mest bränslesnål i stadstrafik?",
+    "options": [
+      "Snabb acceleration följt av hård inbromsning vid varje korsning",
+      "Jämn fart med god framförhållning så att du sällan behöver stanna helt",
+      "Mycket låg fart på en låg växel hela tiden",
+      "Att alltid hålla dig i det vänstra körfältet"
+    ],
+    "correct": 1,
+    "explanation": "Det som kostar mest bränsle i staden är att accelerera från stillastående. Med framförhållning och jämn fart kan du ofta rulla fram till korsningar och ljus så att du slipper stanna helt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-015",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör uppför en lång backe på en landsväg. Vad är mest sparsamt?",
+    "options": [
+      "Växla ned till tvåan och kör på högt varvtal hela backen",
+      "Bromsa upprepade gånger för att hålla exakt jämn fart",
+      "Behåll en hög växel så länge motorn orkar och låt farten sjunka något",
+      "Öka farten kraftigt före backen och accelerera hela vägen upp"
+    ],
+    "correct": 2,
+    "explanation": "Ligg kvar på en hög växel så länge motorn drar jämnt och acceptera att farten sjunker något. Växla ned först när motorn börjar gå ojämnt. Att forcera backen med hög fart eller höga varv drar mycket extra bränsle.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-016",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Vad stämmer om farthållare och bränsleförbrukning?",
+    "options": [
+      "Farthållare ökar alltid förbrukningen eftersom den gasar ryckigt och sent",
+      "Farthållare bör främst användas i tät stadstrafik med många stopp",
+      "Farthållare gör att motorbromsning inte längre fungerar i nedförsbackar",
+      "Farthållare sparar bränsle på plan väg, men i backar kör en förutseende förare ofta snålare"
+    ],
+    "correct": 3,
+    "explanation": "På plan väg håller farthållaren en jämn fart utan onödiga fartändringar. I backar gasar den däremot för att hålla farten exakt, medan en förare som låter farten sjunka något i uppförsbackar och rullar i nedförsbackar sparar mer.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-017",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Hur mycket kan en förare som lär sig sparsam körning normalt minska sin bränsleförbrukning?",
+    "options": [
+      "Ofta i storleksordningen 10–20 %",
+      "Knappt mätbart, under 1 %",
+      "Cirka 70–80 %",
+      "Förbrukningen kan halveras utan att restiden påverkas"
+    ],
+    "correct": 0,
+    "explanation": "Utbildningar i sparsam körning brukar ge besparingar på omkring 10–20 % utan att restiden blir nämnvärt längre. Vinsten kommer av framförhållning, tidig uppväxling och färre onödiga inbromsningar.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-018",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Du har startat bilen en kall morgon utan motorvärmare. Vad är bäst för miljön och motorn?",
+    "options": [
+      "Låt motorn gå på tomgång i tio minuter tills den är varm",
+      "Kör iväg direkt men lugnt, motorn blir varm snabbast under körning",
+      "Varva motorn kraftigt några gånger på plats först",
+      "Vänta tills temperaturmätaren visar normal arbetstemperatur"
+    ],
+    "correct": 1,
+    "explanation": "En motor blir varm mycket snabbare under lugn körning än på tomgång, och tomgångskörning ger utsläpp utan att du kommer någonstans. Undvik höga varvtal och hård belastning tills motorn är varm.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-019",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vad stämmer om onödig last som ligger kvar i bilen?",
+    "options": [
+      "Last påverkar bara förbrukningen i uppförsbackar",
+      "Några extra kilon spelar ingen roll, bara mycket tung last märks",
+      "Extra vikt ökar förbrukningen, särskilt vid accelerationer i stadstrafik",
+      "Tung last minskar förbrukningen eftersom bilen får bättre väggrepp"
+    ],
+    "correct": 2,
+    "explanation": "All extra vikt måste accelereras varje gång du kör iväg, och i stadstrafik sker det ofta. Töm bilen på sådant som inte behövs, t.ex. vinterdäck eller verktyg som ligger kvar i bagaget.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-020",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Hur ska du använda blicken för att köra sparsamt?",
+    "options": [
+      "Titta på varvräknaren hela tiden så att varvtalet aldrig blir för högt",
+      "Titta främst på bilen närmast framför och följ dess fartändringar",
+      "Titta ofta i backspegeln för att se om någon ligger nära bakom dig",
+      "Titta långt fram och läs av trafiken tidigt så att du kan släppa gasen i stället för att bromsa"
+    ],
+    "correct": 3,
+    "explanation": "Sparsam körning kräver att du upptäcker rödljus, köer och korsningar tidigt. Då kan du släppa gasen i god tid och rulla på växel i stället för att bromsa bort den fart du byggt upp.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-021",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 3,
+    "question": "Vad händer med bränsleförbrukningen om du kör i 50 km/h på tvåans växel i stället för på fyrans?",
+    "options": [
+      "Den ökar eftersom motorn går på högre varvtal med större friktionsförluster",
+      "Den minskar eftersom motorn får mer kraft att arbeta med på låg växel",
+      "Den är densamma eftersom farten och sträckan är desamma",
+      "Den ökar bara om vägen lutar uppåt och motorn belastas"
+    ],
+    "correct": 0,
+    "explanation": "Samma fart på en lägre växel betyder många fler varv per kilometer. Varje varv kostar energi i inre friktion och i att pumpa luft genom motorn, så förbrukningen stiger tydligt trots att farten är oförändrad.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-022",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vilket av följande sparar bränsle?",
+    "options": [
+      "Att värma kupén med motorn på tomgång innan du kör iväg",
+      "Att kombinera flera ärenden i en resa så att motorn hinner bli varm",
+      "Att köra korta sträckor flera gånger om dagen med kall motor",
+      "Att köra med något lägre däcktryck än vad tillverkaren anger"
+    ],
+    "correct": 1,
+    "explanation": "En kall motor drar betydligt mer bränsle, så många korta resor med kall motor är det sämsta ur miljösynpunkt. Genom att slå ihop ärenden körs större delen av sträckan med varm motor och fungerande katalysator.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-023",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör en bil med automatlåda. Vad gäller för sparsam körning?",
+    "options": [
+      "Automatlådor kan inte köras sparsamt eftersom föraren inte styr växlingen",
+      "Lägg i N (friläge) i nedförsbackar så att motorn går på tomgång",
+      "Använd lätt gas så att lådan växlar upp tidigt, och släpp gasen i god tid",
+      "Använd alltid sportläget så att motorn arbetar på rätt varvtal"
+    ],
+    "correct": 2,
+    "explanation": "Med måttligt gaspådrag växlar automatlådan upp tidigt och håller varvtalet lågt. Framförhållning och tidig gasavlastning fungerar precis som i en manuell bil, och många bilar har ett eco-läge som hjälper till. Friläge i nedförsbacke är varken snålt eller säkert.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-024",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 3,
+    "question": "Vad stämmer om start-stopp-system i moderna bilar?",
+    "options": [
+      "Det ökar förbrukningen eftersom varje omstart drar mycket bränsle",
+      "Det bör alltid stängas av vintertid för att skona motorn från kallstarter",
+      "Det fungerar bara i bilar med automatlåda och elektrisk parkeringsbroms",
+      "Det stänger av motorn vid korta stopp och minskar tomgångskörningen i stadstrafik"
+    ],
+    "correct": 3,
+    "explanation": "Start-stopp-systemet stänger av motorn automatiskt när bilen står stilla, t.ex. vid rödljus, och startar den igen när du ska köra. Det minskar tomgångskörning, bränsleförbrukning och utsläpp i stadstrafik. En omstart drar mycket lite bränsle.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-025",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vilket är ett bra sätt att följa upp om din körning blivit mer sparsam?",
+    "options": [
+      "Använda bilens förbrukningsmätare och jämföra över tid",
+      "Räkna antalet växlingar per mil och försöka minska dem",
+      "Kontrollera oljenivån efter varje resa och notera förändringar",
+      "Mäta hur varm motorhuven blir efter en avslutad körning"
+    ],
+    "correct": 0,
+    "explanation": "De flesta bilar visar aktuell och genomsnittlig förbrukning. Genom att nollställa mätaren och jämföra samma sträcka med olika körsätt ser du direkt vad framförhållning och tidig uppväxling ger.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-026",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Du kör på en 90-väg och märker att du ligger 10 km/h över gränsen. Hur påverkas miljön, utöver trafiksäkerheten?",
+    "options": [
+      "Inte alls, motorn är byggd för betydligt högre farter än så",
+      "Förbrukningen och koldioxidutsläppen ökar eftersom luftmotståndet växer",
+      "Utsläppen minskar totalt sett eftersom resan går fortare",
+      "Bara bullret påverkas, inte förbrukningen eller utsläppen"
+    ],
+    "correct": 1,
+    "explanation": "Vid landsvägsfart är luftmotståndet den största kraften bilen måste övervinna, och det växer med kvadraten på farten. Varje km/h över gränsen kostar extra bränsle och ger mer koldioxid, samtidigt som olycksrisken ökar.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-027",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Varför ger många korta resor med kall motor högre förbrukning per mil än en lång resa?",
+    "options": [
+      "En kall motor har lägre inre friktion och drar därför in mer luft än den behöver",
+      "Korta resor körs alltid i högre fart än långa resor på landsväg",
+      "En kall motor drar betydligt mer bränsle, och katalysatorn fungerar inte förrän den blivit varm",
+      "Bränslet i tanken är kallare vid korta resor och brinner därför sämre i motorn"
+    ],
+    "correct": 2,
+    "explanation": "Under de första kilometrarna får motorn extra bränsle och friktionen i den kalla motorn är hög, samtidigt som katalysatorn ännu inte renar avgaserna. På en kort resa utgör den fasen en stor del av hela körningen.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-028",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 2,
+    "question": "Vad stämmer om avståndet till framförvarande bil och sparsam körning?",
+    "options": [
+      "Kort avstånd är sparsamt eftersom du slipper accelerera",
+      "Avståndet saknar helt betydelse för förbrukningen",
+      "Kort avstånd är bäst eftersom du kan följa framförvarandes fart exakt",
+      "Ett längre avstånd ger tid att jämna ut farten i stället för att bromsa och gasa"
+    ],
+    "correct": 3,
+    "explanation": "Med gott avstånd kan du släppa gasen och rulla när bilen framför saktar in, i stället för att bromsa och sedan gasa i kapp. Det sparar bränsle och ger dessutom längre tid att reagera om något händer.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-029",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 1,
+    "question": "Vad menas med \"jämn fart\" i sparsam körning?",
+    "options": [
+      "Att undvika onödiga fartändringar när trafiken tillåter det",
+      "Att alltid köra exakt på den skyltade hastighetsgränsen",
+      "Att aldrig använda färdbromsen utan bara motorbromsa",
+      "Att köra på samma växel under hela resan oavsett fart"
+    ],
+    "correct": 0,
+    "explanation": "Varje gång du ökar farten går det åt bränsle, och varje gång du bromsar kastas den energin bort som värme. En jämn fart med små justeringar via gaspedalen är därför snålast.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-eco-030",
+    "category": "miljo",
+    "subtopic": "ecodriving",
+    "difficulty": 3,
+    "question": "Hur påverkas motorn av att du växlar upp tidigt och kör på lågt varvtal?",
+    "options": [
+      "Motorn slits mer eftersom den hela tiden segdras på för låga varv",
+      "Motorn tar inte skada så länge den går jämnt, och friktionen minskar",
+      "Motorn måste renoveras betydligt oftare än vid normal körning",
+      "Kopplingen slits ut på mindre än ett år av de låga varvtalen"
+    ],
+    "correct": 1,
+    "explanation": "Moderna motorer är byggda för att köras på låga varvtal och tar inte skada av tidig uppväxling så länge de går jämnt. Gränsen går där motorn börjar knacka eller rycka; då ska du växla ned ett steg.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-001",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 1,
+    "question": "Vilka ämnen i avgaserna renar bilens katalysator?",
+    "options": [
+      "Kolmonoxid, kolväten och kväveoxider",
+      "Koldioxid, kolmonoxid och partiklar",
+      "Koldioxid och vattenånga",
+      "Svaveldioxid och bly"
+    ],
+    "correct": 0,
+    "explanation": "Trevägskatalysatorn omvandlar kolmonoxid (CO), oförbrända kolväten (HC) och kväveoxider (NOx) till koldioxid, vatten och kvävgas. Koldioxiden kan den däremot inte ta bort.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-002",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 1,
+    "question": "Vilket utsläpp kan katalysatorn inte minska?",
+    "options": [
+      "Kolmonoxid (CO)",
+      "Koldioxid (CO₂)",
+      "Kolväten (HC)",
+      "Kväveoxider (NOx)"
+    ],
+    "correct": 1,
+    "explanation": "Koldioxid är slutprodukten vid fullständig förbränning och katalysatorn kan inte bryta ned den. Det enda sättet att minska koldioxidutsläppen är att förbruka mindre bränsle eller köra på förnybara drivmedel.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-003",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Varför står koldioxidutsläppet i direkt förhållande till bränsleförbrukningen?",
+    "options": [
+      "Katalysatorn omvandlar allt oförbränt bränsle till koldioxid och vatten",
+      "Koldioxid bildas bara under kallstartsfasen innan katalysatorn är varm",
+      "Koldioxid bildas vid all förbränning av kolhaltigt bränsle, så mer bränsle ger mer koldioxid",
+      "Koldioxidmängden beror på motorns varvtal och inte på bränslemängden"
+    ],
+    "correct": 2,
+    "explanation": "Bensin och diesel består av kolväten, och när kolet förbränns bildas alltid koldioxid. Varje liter bränsle ger ungefär samma mängd koldioxid, så det som sänker förbrukningen sänker också utsläppet.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-004",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Vilken effekt har koldioxid från trafiken på miljön?",
+    "options": [
+      "Den orsakar försurning av sjöar, vattendrag och skogsmark",
+      "Den bildar marknära ozon tillsammans med solljus",
+      "Den är akut giftig att andas in redan i små mängder",
+      "Den förstärker växthuseffekten och bidrar till klimatförändringen"
+    ],
+    "correct": 3,
+    "explanation": "Koldioxid är en växthusgas som samlas i atmosfären och håller kvar värme. Den är inte giftig i de halter som förekommer i utomhusluft, men trafikens koldioxidutsläpp är en av de största källorna till klimatpåverkan i Sverige.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-005",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Vad gör kolmonoxid (CO) farlig för människan?",
+    "options": [
+      "Den är giftig och hindrar blodet från att ta upp syre",
+      "Den fräter på slemhinnor och lungvävnad",
+      "Den orsakar försurning av mark och vatten",
+      "Den sätter sig i lungorna som sotpartiklar"
+    ],
+    "correct": 0,
+    "explanation": "Kolmonoxid binds till blodets hemoglobin mycket starkare än syre och blockerar därmed syretransporten. Gasen är lukt- och färglös, vilket gör den extra farlig i slutna utrymmen som garage.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-006",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Vilka utsläpp från trafiken bidrar till försurning av mark och vatten?",
+    "options": [
+      "Koldioxid",
+      "Kväveoxider och svaveloxider",
+      "Vattenånga",
+      "Partiklar från dubbdäck"
+    ],
+    "correct": 1,
+    "explanation": "Kväveoxider bildar salpetersyra och svaveloxider bildar svavelsyra när de reagerar med vatten i luften, och nederbörden blir sur. Kväveoxider bidrar dessutom till övergödning.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-007",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 3,
+    "question": "Hur bildas marknära ozon?",
+    "options": [
+      "När koldioxid reagerar med vattenånga i luften",
+      "Direkt i motorn vid höga förbränningstemperaturer",
+      "När kväveoxider och kolväten reagerar under inverkan av solljus",
+      "När dubbdäck river loss partiklar ur asfalten"
+    ],
+    "correct": 2,
+    "explanation": "Marknära ozon är en sekundär förorening som bildas när kväveoxider och kolväten från bland annat avgaser reagerar i solljus. Den irriterar luftvägarna och skadar växtlighet och grödor.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-008",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 1,
+    "question": "Vilka källor står för en stor del av de hälsofarliga partiklarna i gatuluften i svenska städer?",
+    "options": [
+      "Bensinmotorer med katalysator och elbilars batterier",
+      "Spolarvätska och kylarvätska som läcker ut på vägen",
+      "Katalysatorer som blivit varma och avger metallpartiklar",
+      "Dieselavgaser och slitage från dubbdäck mot vägbanan"
+    ],
+    "correct": 3,
+    "explanation": "Dieselmotorer släpper ut fina sotpartiklar, och dubbdäck river upp partiklar ur asfalten som virvlar upp när gatorna torkar på våren. Partiklarna når djupt ned i lungorna och ökar risken för hjärt-, kärl- och lungsjukdomar.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-009",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Varför är utsläppen från en bensinbil störst just efter en kallstart?",
+    "options": [
+      "Katalysatorn fungerar först när den blivit varm, och en kall motor får extra bränsle",
+      "Bilen körs alltid fortare under de första minuterna efter start",
+      "Kall luft innehåller mer syre, vilket ger fler kväveoxider i avgaserna",
+      "Bromsarna släpper ifrån sig extra mycket partiklar när de är kalla"
+    ],
+    "correct": 0,
+    "explanation": "Katalysatorn behöver omkring 300–400 °C för att rena avgaserna, och innan dess passerar kolmonoxid och kolväten orenade. Samtidigt matas en kall motor med fetare bränsleblandning, vilket ökar utsläppen ytterligare.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-010",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Vilken hälsopåverkan är typisk för kväveoxider (NOx)?",
+    "options": [
+      "De försämrar blodets syreupptagning",
+      "De irriterar luftvägarna och kan förvärra astma",
+      "De ger hudutslag vid beröring",
+      "De skadar hörseln vid långvarig exponering"
+    ],
+    "correct": 1,
+    "explanation": "Kväveoxider, särskilt kvävedioxid, irriterar luftvägarna och ökar besvären för personer med astma och andra lungsjukdomar. Höga halter förekommer främst längs hårt trafikerade gator.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-011",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 3,
+    "question": "Vad är ett dieselpartikelfilter till för?",
+    "options": [
+      "Att filtrera bort vatten och smuts ur dieselbränslet",
+      "Att sänka koldioxidutsläppen från motorn",
+      "Att fånga upp sotpartiklar i avgaserna innan de når luften",
+      "Att rena kupéluften från pollen och damm"
+    ],
+    "correct": 2,
+    "explanation": "Partikelfiltret sitter i avgassystemet och fångar upp sot som sedan bränns bort vid hög avgastemperatur. Det minskar utsläppen av hälsofarliga partiklar kraftigt men påverkar inte koldioxiden.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-012",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 3,
+    "question": "Vad är AdBlue och vad används det till i många dieselbilar?",
+    "options": [
+      "En kylarvätska som är särskilt anpassad för dieselmotorer med turbo",
+      "En bränsletillsats som höjer dieselns cetantal och smörjförmåga",
+      "En spolarvätska med avisningsmedel för vindrutan vintertid",
+      "En urealösning som sprutas in i avgaserna för att minska kväveoxiderna"
+    ],
+    "correct": 3,
+    "explanation": "AdBlue är en vattenlösning av urea som doseras in i avgaserna före en SCR-katalysator, där kväveoxider omvandlas till kvävgas och vatten. Tar AdBlue slut kan bilen vägra starta.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-013",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 1,
+    "question": "Vilket hälsoproblem kan orsakas av trafikbuller?",
+    "options": [
+      "Sömnstörningar, stress och hjärt-kärlsjukdom",
+      "Försämrad syn och svårare att se i mörker",
+      "Ökad risk för karies och tandlossning",
+      "Allergi mot pollen och andra luftburna ämnen"
+    ],
+    "correct": 0,
+    "explanation": "Trafikbuller är ett av de största miljöproblemen i tätorter och stör sömn och koncentration. Långvarig exponering ökar risken för stress, högt blodtryck och hjärt-kärlsjukdom. Lägre fart och jämn körning minskar bullret.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-014",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 2,
+    "question": "Hur skiljer sig utsläppen från en varm bensinbil med fungerande katalysator från en nystartad kall bil?",
+    "options": [
+      "Utsläppen av alla ämnen är lika stora oavsett motortemperatur",
+      "Den varma bilen släpper ut betydligt mindre kolmonoxid, kolväten och kväveoxider",
+      "Den varma bilen har högre utsläpp av kolväten än den kalla",
+      "Den varma bilen har inga utsläpp alls, inte ens koldioxid"
+    ],
+    "correct": 1,
+    "explanation": "När katalysatorn nått arbetstemperatur renar den större delen av kolmonoxiden, kolvätena och kväveoxiderna. Koldioxiden påverkas dock inte och följer bränsleförbrukningen oavsett motortemperatur.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-uts-015",
+    "category": "miljo",
+    "subtopic": "utslapp-halsa",
+    "difficulty": 3,
+    "question": "Vilket påstående om kolväten (HC) i avgaserna stämmer?",
+    "options": [
+      "De är ofarliga för människor och djur i de halter som förekommer",
+      "De kan inte renas av katalysatorn ens när den är varm",
+      "Vissa av dem är cancerframkallande och de bidrar till marknära ozon",
+      "De bildas enbart i dieselmotorer med partikelfilter"
+    ],
+    "correct": 2,
+    "explanation": "Kolväten är oförbränt eller delvis förbränt bränsle. Flera av dem, t.ex. bensen, är cancerframkallande, och tillsammans med kväveoxider bildar de marknära ozon. Katalysatorn renar dem när den är varm.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-001",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 1,
+    "question": "Hur påverkas bränsleförbrukningen av för lågt lufttryck i däcken?",
+    "options": [
+      "Den ökar eftersom rullmotståndet blir större",
+      "Den minskar eftersom däcken blir mjukare",
+      "Den påverkas inte av lufttrycket",
+      "Den ökar bara på vinterväglag"
+    ],
+    "correct": 0,
+    "explanation": "Ett däck med för lågt tryck deformeras mer och får större rullmotstånd, vilket ökar bränsleförbrukningen. Dessutom slits däcket snabbare på kanterna och risken för vattenplaning ökar.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-002",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 1,
+    "question": "När ska du kontrollera däckens lufttryck för att få ett rättvisande värde?",
+    "options": [
+      "Direkt efter en lång körning på motorväg när däcken är varma",
+      "När däcken är kalla, innan du kört mer än några kilometer",
+      "Bara när något av däcken ser tydligt platt ut",
+      "Endast i samband med däckbyte på verkstad vår och höst"
+    ],
+    "correct": 1,
+    "explanation": "Under körning värms luften i däcket upp och trycket stiger, så ett varmt däck visar för högt värde. Kontrollera därför trycket på kalla däck, gärna en gång i månaden och före långresor.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-003",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 2,
+    "question": "Du ska köra på semester med fullastad bil och fyra passagerare. Vad gäller för däcktrycket?",
+    "options": [
+      "Sänk trycket så att däcken får större kontaktyta och bättre grepp",
+      "Behåll alltid samma tryck oavsett hur bilen är lastad",
+      "Höj trycket enligt biltillverkarens rekommendation för tung last",
+      "Höj trycket enbart på framdäcken"
+    ],
+    "correct": 2,
+    "explanation": "Tillverkaren anger ofta ett högre däcktryck för tung last. Det motverkar att däcken deformeras och blir varma, håller nere rullmotstånd och förbrukning och ger stabilare köregenskaper.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-004",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 2,
+    "question": "Var ska du lämna spilloljan efter ett oljebyte hemma?",
+    "options": [
+      "Hälla ut den i avloppet tillsammans med rikligt med diskmedel",
+      "Lägga den väl försluten i hushållssoporna för förbränning",
+      "Gräva ned den i trädgården där den bryts ned av bakterier",
+      "Lämna den på en miljöstation, återvinningscentral eller verkstad"
+    ],
+    "correct": 3,
+    "explanation": "Spillolja är farligt avfall. En liten mängd olja kan förorena mycket stora mängder vatten, och den ska därför lämnas till en miljöstation, återvinningscentral eller verkstad som tar emot olja för återvinning.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-005",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 1,
+    "question": "Varför bör du inte tvätta bilen på gatan eller på garageuppfarten?",
+    "options": [
+      "Tvättvattnet med olja och tungmetaller rinner orenat via dagvattenbrunnar ut i vattendrag",
+      "Det är förbjudet enligt trafikförordningen att spola vatten på en väg eller gata",
+      "Bilens lack tar skada av kallt kranvatten och direkt solljus",
+      "Gatan blir hal för cyklister och gående under flera dagar efteråt"
+    ],
+    "correct": 0,
+    "explanation": "Dagvattenbrunnar leder oftast direkt till närmaste vattendrag utan rening. Smutsen från bilen innehåller olja, tungmetaller och rengöringsmedel som då hamnar i naturen. Många kommuner avråder från eller förbjuder biltvätt på gatan.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-006",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 2,
+    "question": "Var bör du tvätta bilen för att skona miljön?",
+    "options": [
+      "På en gräsmatta så att jorden filtrerar bort smutsen ur vattnet",
+      "I en fordonstvätt eller gör-det-själv-hall med oljeavskiljare",
+      "På en asfalterad parkering i närheten av en dagvattenbrunn",
+      "Vid en sjö eller ett vattendrag så att smutsen späds ut snabbt"
+    ],
+    "correct": 1,
+    "explanation": "Fordonstvättar har oljeavskiljare och ofta ytterligare rening som fångar upp olja, tungmetaller och kemikalier innan vattnet släpps vidare. Välj gärna en tvätt med miljömärkta rengöringsmedel.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-007",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 2,
+    "question": "Hur påverkar ett igensatt luftfilter eller eftersatt service miljön?",
+    "options": [
+      "Inte alls, så länge motorn startar och går",
+      "Motorn blir tystare och stör omgivningen mindre",
+      "Förbränningen försämras så att förbrukning och utsläpp ökar",
+      "Katalysatorn blir effektivare av den fetare blandningen"
+    ],
+    "correct": 2,
+    "explanation": "En motor som får för lite luft, har slitna tändstift eller fel oljetyp förbränner bränslet sämre. Följden blir högre förbrukning och mer skadliga avgaser. Regelbunden service enligt tillverkarens schema håller utsläppen nere.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-008",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 3,
+    "question": "Vad gäller för använd kylarvätska (glykol) och uttjänta bilbatterier?",
+    "options": [
+      "Båda kan slängas i hushållssoporna om de är väl förpackade i plast",
+      "Glykol kan hällas i toaletten eftersom den är vattenlöslig och späds ut",
+      "Endast batteriet behöver lämnas in, glykolen kan hällas ut på marken",
+      "Båda är farligt avfall och ska lämnas till återvinningscentral eller verkstad"
+    ],
+    "correct": 3,
+    "explanation": "Glykol är giftigt för både djur och människor, och bilbatterier innehåller bly och syra. Båda räknas som farligt avfall och ska lämnas till återvinningscentral, miljöstation eller den verkstad eller butik som säljer nytt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-009",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 3,
+    "question": "Framdäcken på din bil slits ovanligt snabbt på insidan. Vad är en trolig orsak och hur påverkas miljön?",
+    "options": [
+      "Felaktig hjulinställning, som ökar rullmotstånd, däckslitage och förbrukning",
+      "För hög växel i stadstrafik, som gör att framdäcken slirar vid start",
+      "För kallt bränsle i tanken, som ger ojämn kraftöverföring till hjulen",
+      "En katalysator som slutat fungera och överhettar framhjulen"
+    ],
+    "correct": 0,
+    "explanation": "Ojämnt slitage på däckens insida eller utsida tyder ofta på fel hjulinställning. Då rullar däcken lite snett, vilket ökar rullmotståndet, sliter ut däcken i förtid och höjer förbrukningen. Låt en verkstad kontrollera inställningen.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-under-010",
+    "category": "miljo",
+    "subtopic": "underhall",
+    "difficulty": 1,
+    "question": "Var hittar du det däcktryck som biltillverkaren rekommenderar?",
+    "options": [
+      "På däckets sida, där tillverkaren präglat in maxtrycket",
+      "I instruktionsboken och ofta på en dekal i dörrposten eller tankluckan",
+      "På registreringsbeviset under rubriken tekniska data",
+      "På det senaste besiktningsprotokollet från kontrollbesiktningen"
+    ],
+    "correct": 1,
+    "explanation": "Rekommenderat tryck för olika lastfall står i instruktionsboken och vanligen på en dekal i förardörrens karmstolpe eller innanför tankluckan. Siffran på däcksidan är däckets högsta tillåtna tryck, inte det rekommenderade.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-001",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 1,
+    "question": "Hur länge bör motorvärmaren vara inkopplad före start när det är omkring 0 °C?",
+    "options": [
+      "Cirka 1 timme",
+      "Cirka 5 minuter",
+      "Cirka 4 timmar",
+      "Hela natten"
+    ],
+    "correct": 0,
+    "explanation": "Vid 0 °C räcker ungefär en timme för att förvärma motorn. Längre tid ger inte märkbart varmare motor utan bara högre elförbrukning, så använd gärna ett timerstyrt uttag.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-002",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Det är −15 °C ute. Hur lång tid är lämplig för motorvärmaren?",
+    "options": [
+      "Cirka 20 minuter",
+      "Cirka 1,5 timme",
+      "Cirka 6 timmar",
+      "Motorvärmare ska inte användas under −10 °C"
+    ],
+    "correct": 1,
+    "explanation": "Ju kallare det är, desto längre tid behövs, men även vid −15 °C räcker cirka 1,5 timme. Tumregeln är ungefär 20–30 minuter vid +10 °C, 1 timme vid 0 °C och 1,5 timme vid −15 °C.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-003",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Det är +10 °C ute en höstmorgon. Hur länge behöver motorvärmaren vara igång?",
+    "options": [
+      "Cirka 3 timmar",
+      "Cirka 1,5 timme",
+      "Cirka 20–30 minuter",
+      "Minst 2 timmar eftersom luften är fuktig"
+    ],
+    "correct": 2,
+    "explanation": "Vid +10 °C är motorn inte särskilt kall, och 20–30 minuter räcker för att minska kallstartsutsläppen. Vid varmare väder än så ger motorvärmaren liten nytta.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-004",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Varför bör du inte låta motorvärmaren vara inkopplad längre än rekommenderat?",
+    "options": [
+      "Motorn kan bli överhettad och ta skada",
+      "Bilens startbatteri laddas ur av värmaren",
+      "Katalysatorn slits av den långa förvärmningen",
+      "Elförbrukningen ökar utan att motorn blir märkbart varmare"
+    ],
+    "correct": 3,
+    "explanation": "Efter den rekommenderade tiden har motorn nått den temperatur värmaren klarar att ge, och resten av tiden går elen bara till spillo. En timer som startar värmaren lagom före avfärd är därför bäst för både plånbok och miljö.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-005",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 1,
+    "question": "Vilken är den främsta miljövinsten med att använda motorvärmare?",
+    "options": [
+      "Kallstartsfasen blir kortare, vilket minskar utsläpp och förbrukning",
+      "Bilen får högre toppfart och bättre acceleration när motorn är varm",
+      "Däcken slits mindre under de första kilometrarna efter start",
+      "Katalysatorn behöver aldrig bytas under bilens livslängd"
+    ],
+    "correct": 0,
+    "explanation": "En förvärmd motor når arbetstemperatur snabbare, behöver mindre extra bränsle vid starten och slits mindre. Därmed minskar både förbrukningen och de höga utsläppen av kolmonoxid och kolväten som en kallstart ger.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-006",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 1,
+    "question": "Hur länge får du normalt låta bilen gå på tomgång enligt de lokala föreskrifterna i de flesta svenska kommuner?",
+    "options": [
+      "5 minuter",
+      "Högst 1 minut",
+      "10 minuter",
+      "Det finns ingen tidsgräns"
+    ],
+    "correct": 1,
+    "explanation": "De flesta kommuner har i sina lokala föreskrifter en tomgångsbegränsning på högst en minut. Regeln finns för att minska hälsofarliga avgaser i tätorter, där många människor vistas nära bilarna.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-007",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Du står i en lång bilkö som rör sig ryckigt framåt. Gäller tomgångsbegränsningen?",
+    "options": [
+      "Ja, du måste stänga av motorn efter en minut oavsett orsak",
+      "Ja, men bara om kön står inom tättbebyggt område",
+      "Nej, regeln gäller inte när du står stilla på grund av trafikförhållandena",
+      "Nej, regeln gäller bara dieselbilar"
+    ],
+    "correct": 2,
+    "explanation": "Tomgångsbegränsningen gäller inte när stoppet beror på trafiken, t.ex. i kö, vid trafiksignal eller järnvägskorsning. Den gäller heller inte om motorn måste vara igång för att driva viss utrustning, t.ex. på arbetsfordon.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-008",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Du väntar på en kompis utanför en butik en kall vinterdag och vill hålla kupén varm. Vad gäller?",
+    "options": [
+      "Du får låta motorn gå så länge du själv sitter kvar i förarsätet",
+      "Du får gå på tomgång i 5 minuter när det är minusgrader ute",
+      "Tomgångsbegränsningen gäller inte vid kallt väder under fryspunkten",
+      "Du bör stänga av motorn, eftersom tomgång för att värma kupén omfattas av begränsningen"
+    ],
+    "correct": 3,
+    "explanation": "Att hålla kupén varm är inget undantag från tomgångsregeln, och kylan ger inget undantag heller. Stäng av motorn och ta i stället på dig mer kläder eller vänta inomhus.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-009",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Varför ger tomgångskörning särskilt dåliga utsläpp i förhållande till nyttan?",
+    "options": [
+      "Motorn uträttar inget nyttigt arbete men släpper ändå ut avgaser",
+      "Motorn går på högre varvtal på tomgång än vid normal körning",
+      "Katalysatorn kopplas bort automatiskt när bilen står stilla",
+      "Bränslet blandas med motorolja när motorn går utan belastning"
+    ],
+    "correct": 0,
+    "explanation": "På tomgång uträttar motorn inget nyttigt arbete, men den drar bränsle och släpper ut avgaser. Är motorn dessutom kall är katalysatorn overksam, och utsläppen av kolmonoxid och kolväten blir höga just där människor vistas.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-010",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 1,
+    "question": "Hur får du motorn varm snabbast vintertid när du saknar motorvärmare?",
+    "options": [
+      "Låt motorn gå på tomgång tills värmen kommer i kupén och rutorna är fria",
+      "Kör iväg lugnt direkt efter start, motorn blir varm snabbast i körning",
+      "Varva motorn högt i friläge under några minuter innan du kör",
+      "Kör de första kilometrarna på ettans växel så att motorn arbetar hårt"
+    ],
+    "correct": 1,
+    "explanation": "En motor som belastas lätt under körning värms upp flera gånger snabbare än på tomgång. Kör lugnt utan höga varvtal tills temperaturmätaren närmar sig normalt läge.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-011",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 3,
+    "question": "Vad är nyttan med en kupévärmare som kopplas till samma uttag som motorvärmaren?",
+    "options": [
+      "Den gör att bilen kan köras utan fungerande katalysator de första kilometrarna",
+      "Den värmer kylarvätskan så att motorn kan startas utan motorvärmare",
+      "Den ger varm kupé och isfria rutor så att du kan köra iväg direkt utan tomgång",
+      "Den laddar startbatteriet medan bilen står parkerad och inkopplad"
+    ],
+    "correct": 2,
+    "explanation": "Kupévärmaren drivs med el och värmer kupén innan avfärd. Rutorna blir fria från is och imma, och du behöver inte stå med motorn på tomgång för att få värme eller sikt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-012",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 3,
+    "question": "Vad är den största faran med att låta motorn gå på tomgång i ett garage med stängd port?",
+    "options": [
+      "Startbatteriet laddas ur snabbt eftersom generatorn inte hinner med",
+      "Motorn blir överhettad eftersom den inte får någon fartvind",
+      "Bilens stöldlarm kan utlösas av vibrationerna från motorn",
+      "Luktfri och giftig kolmonoxid kan ge livshotande förgiftning"
+    ],
+    "correct": 3,
+    "explanation": "Avgaserna innehåller kolmonoxid som inte syns eller luktar men som blockerar syreupptaget i blodet. I ett slutet garage kan halten snabbt bli dödlig. Starta motorn först när porten är öppen och kör ut direkt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-013",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 3,
+    "question": "Vem bestämmer hur länge tomgångskörning är tillåten?",
+    "options": [
+      "Kommunen, genom lokala föreskrifter som kan skilja mellan kommuner",
+      "Trafikverket, genom nationella föreskrifter om hastighet och tomgång",
+      "Biltillverkaren, genom rekommendationer i bilens instruktionsbok",
+      "EU, genom en gemensam regel om högst 3 minuters tomgång"
+    ],
+    "correct": 0,
+    "explanation": "Tomgångsbegränsningen finns i kommunens lokala föreskrifter för att skydda människors hälsa och miljön. De flesta kommuner tillämpar en minut, men enstaka kommuner har andra gränser, så kontrollera vad som gäller där du kör.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-014",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 2,
+    "question": "Hur påverkas bränsleförbrukningen av att du använder motorvärmare vid kallt väder?",
+    "options": [
+      "Den ökar eftersom motorvärmaren drivs med bensin från bilens tank",
+      "Den minskar eftersom en förvärmd motor snabbare blir varm och behöver mindre extra bränsle",
+      "Den påverkas inte, motorvärmaren har bara betydelse för komforten i kupén",
+      "Den minskar bara i dieselbilar eftersom diesel är svårare att tända kallt"
+    ],
+    "correct": 1,
+    "explanation": "En kall motor behöver extra bränsle och har hög inre friktion tills den blivit varm. Motorvärmaren, som drivs med el från nätet, kortar den fasen och sänker därmed bränsleförbrukningen under de första kilometrarna.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-varm-015",
+    "category": "miljo",
+    "subtopic": "motorvarmare-tomgang",
+    "difficulty": 1,
+    "question": "Du står vid en järnvägskorsning där bommarna är nere och tåget dröjer. Vad är lämpligt ur miljösynpunkt?",
+    "options": [
+      "Du måste ha motorn igång för att kunna köra iväg snabbt när bommarna går upp",
+      "Du får låta motorn gå högst 5 minuter vid järnvägskorsning",
+      "Stäng gärna av motorn om väntan blir längre än en minut, det är tillåtet och sparar bränsle",
+      "Det är förbjudet att stänga av motorn vid en järnvägskorsning"
+    ],
+    "correct": 2,
+    "explanation": "Stopp som beror på trafiken omfattas inte av tomgångsbegränsningen, men det är ändå bra för miljön att stänga av motorn vid längre väntan. Modern teknik gör att starten drar mycket lite bränsle.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-001",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 1,
+    "question": "Du ska åka 2 km till affären inne i staden. Vilket alternativ är bäst för miljön?",
+    "options": [
+      "Gå eller cykla",
+      "Ta bilen men köra med farthållare",
+      "Ta bilen och använda motorvärmare först",
+      "Ta bilen och köra på så hög växel som möjligt"
+    ],
+    "correct": 0,
+    "explanation": "Korta bilresor är de sämsta ur miljösynpunkt eftersom motorn och katalysatorn aldrig hinner bli varma. På sträckor upp till några kilometer är gång eller cykel både miljövänligast och ofta lika snabbt.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-002",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 1,
+    "question": "Vad menas med samåkning?",
+    "options": [
+      "Att flera bilar kör i kolonn till samma mål",
+      "Att flera personer som ska åt samma håll delar på en bil",
+      "Att man hyr en bil per timme via en app",
+      "Att man kör bil till en station och byter till tåg"
+    ],
+    "correct": 1,
+    "explanation": "Vid samåkning fylls bilen med fler personer i stället för att var och en kör sin egen. Utsläppen per person minskar kraftigt och trängsel och parkeringsbehov blir mindre.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-003",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 2,
+    "question": "Vad är en bilpool?",
+    "options": [
+      "En parkeringsplats där pendlare ställer bilen och byter till buss",
+      "Ett företag som köper och säljer begagnade bilar",
+      "En tjänst där flera hushåll eller företag delar på bilar som bokas vid behov",
+      "En app som visar var bensinen är billigast"
+    ],
+    "correct": 2,
+    "explanation": "I en bilpool delar många användare på ett antal bilar och betalar per användning. Det leder ofta till att man kör mindre och väljer cykel eller kollektivtrafik oftare, samtidigt som färre bilar behöver tillverkas.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-004",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 2,
+    "question": "Vad är en miljözon?",
+    "options": [
+      "Ett område där endast elbilar och laddhybrider får parkera",
+      "Ett naturreservat där alla motorfordon är förbjudna året om",
+      "En zon där hastigheten är sänkt till 30 km/h av miljöskäl",
+      "Ett område där kommunen begränsar vilka fordon som får köra utifrån utsläppsklass"
+    ],
+    "correct": 3,
+    "explanation": "Kommuner kan införa miljözoner för att förbättra luftkvaliteten. Vilka fordon som får köra där beror på zonens klass och fordonets utsläppsklass (Euroklass). Zonen märks ut med vägmärke.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-005",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 2,
+    "question": "Vilka fordon berörs av miljözon klass 1?",
+    "options": [
+      "Tunga lastbilar och tunga bussar",
+      "Alla personbilar",
+      "Endast personbilar med dieselmotor",
+      "Mopeder och motorcyklar"
+    ],
+    "correct": 0,
+    "explanation": "Miljözon klass 1 gäller tunga fordon, det vill säga lastbilar och bussar med totalvikt över 3,5 ton, och finns i flera svenska städer. Personbilar berörs inte av klass 1.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-006",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 2,
+    "question": "Vad utmärker miljözon klass 2?",
+    "options": [
+      "Endast el- och gasbilar tillåts köra i zonen, oavsett årsmodell",
+      "Den ställer krav på personbilar och andra lätta fordon utifrån utsläppsklass",
+      "Den gäller enbart nattetid när luften är som mest stillastående",
+      "Den gäller bara tunga lastbilar och bussar över 3,5 ton"
+    ],
+    "correct": 1,
+    "explanation": "Miljözon klass 2 omfattar lätta fordon som personbilar och ställer krav på att de uppfyller en viss Euroklass. Bilar med äldre och smutsigare motorer får inte köras där. Stockholm har infört en sådan zon på Hornsgatan.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-007",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 2,
+    "question": "Du ska resa ensam mellan två städer 40 mil från varandra. Vilket färdmedel ger normalt lägst klimatpåverkan?",
+    "options": [
+      "Egen bil",
+      "Flyg",
+      "Tåg",
+      "Taxi"
+    ],
+    "correct": 2,
+    "explanation": "Tåg i Sverige drivs nästan uteslutande med el från fossilfria källor och delar dessutom utsläppen på många resenärer. En ensam person i bil eller flyg ger många gånger högre utsläpp per personkilometer.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-008",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 3,
+    "question": "Varför kan buss och tåg vara bättre för miljön än bil, trots att fordonen är stora och tunga?",
+    "options": [
+      "Bussar och tåg drivs alltid med el från förnybara källor",
+      "De kör bara på motorväg där utsläppen per kilometer är lägre",
+      "De behöver inte besiktigas lika ofta som personbilar",
+      "Utsläppen fördelas på många resenärer så att påverkan per person blir låg"
+    ],
+    "correct": 3,
+    "explanation": "Ett fordons totala utsläpp är större ju tyngre det är, men det avgörande är utsläppen per person. En fullsatt buss ersätter många bilar, och per resenär blir energiåtgång, utsläpp och utrymmesbehov mycket lägre.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-009",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 3,
+    "question": "Vad innebär miljözon klass 3?",
+    "options": [
+      "Den strängaste klassen, där i princip bara el-, vätgas- och vissa gasfordon får köra",
+      "Den gäller enbart lastbilar och bussar med totalvikt över 3,5 ton",
+      "Den innebär förbud mot dubbdäck under hela vintersäsongen",
+      "Den innebär att alla bilar som kör där måste ha fungerande katalysator"
+    ],
+    "correct": 0,
+    "explanation": "Miljözon klass 3 har de hårdaste kraven: lätta fordon måste vara el- eller bränslecellsbilar eller gasbilar av senaste Euroklass, och för tunga fordon gäller motsvarande krav. Stockholm har infört en sådan zon i delar av city.",
+    "reviewed": false
+  },
+  {
+    "id": "mi-trans-010",
+    "category": "miljo",
+    "subtopic": "transportval",
+    "difficulty": 1,
+    "question": "Vilket är ett skäl, utöver klimatet, att välja kollektivtrafik eller cykel i stället för bil i tätort?",
+    "options": [
+      "Det går alltid fortare än med bil i tätort",
+      "Det minskar buller, trängsel och partiklar i stadsluften",
+      "Det är alltid gratis för den som bor i kommunen",
+      "Det kräver ingen planering av resan i förväg"
+    ],
+    "correct": 1,
+    "explanation": "Biltrafiken i städer orsakar buller, trängsel och luftföroreningar som drabbar många människor. Varje resa som flyttas till cykel, gång eller kollektivtrafik gör stadsluften renare och gatorna tystare och säkrare.",
+    "reviewed": false
+  }
+]

@@ -9,6 +9,7 @@ import { recordAnswers, touchDaily, wrongBank } from '@/storage/stats';
 import { pickPractice } from '@/engine/practice';
 import { mulberry32, randomSeed, shuffle } from '@/engine/rng';
 import { haptic } from '@/format';
+import { ReportButton } from '@/ui/ReportButton';
 
 type Sub = Record<string, Record<string, { label: string; target: number }>>;
 const SUBS = subtopics as Sub;
@@ -177,6 +178,7 @@ function PracticeRun(props: { questions: Question[] }) {
             <p class="verdict" style={{ color: ok ? 'var(--green)' : 'var(--red)' }}>{ok ? 'Rätt!' : 'Fel'}</p>
             <p style={{ marginTop: 6, lineHeight: 1.45 }}>{current.q.explanation}</p>
             {current.q.legalRef && <p class="muted" style={{ fontSize: 12, marginTop: 6 }}>{current.q.legalRef}</p>}
+            <ReportButton qid={current.q.id} />
             <button class="btn btn-primary" style={{ marginTop: 14 }} onClick={next}>Nästa</button>
           </div>
         )}

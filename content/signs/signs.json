@@ -1,0 +1,3767 @@
+[
+  {
+    "code": "A1",
+    "name": "Varning för farlig kurva",
+    "category": "A",
+    "explanation": "Märket varnar för en farlig kurva. Symbolen visar åt vilket håll kurvan svänger. Sänk farten i god tid före kurvan.",
+    "files": [
+      "A1-1.svg",
+      "A1-2.svg"
+    ],
+    "group": "kurva",
+    "quizzable": true
+  },
+  {
+    "code": "A2",
+    "name": "Varning för flera farliga kurvor",
+    "category": "A",
+    "explanation": "Märket varnar för flera farliga kurvor efter varandra. Symbolen visar åt vilket håll den första kurvan svänger.",
+    "files": [
+      "A2-1.svg",
+      "A2-2.svg"
+    ],
+    "group": "kurva",
+    "quizzable": true
+  },
+  {
+    "code": "A3",
+    "name": "Varning för nedförslutning",
+    "category": "A",
+    "explanation": "Märket varnar för en brant nedförsbacke. Lutningen anges ofta i procent på märket.",
+    "files": [
+      "A3.svg"
+    ],
+    "group": "lutning",
+    "quizzable": true
+  },
+  {
+    "code": "A4",
+    "name": "Varning för stigning",
+    "category": "A",
+    "explanation": "Märket varnar för en brant uppförsbacke. Lutningen anges ofta i procent på märket.",
+    "files": [
+      "A4.svg"
+    ],
+    "group": "lutning",
+    "quizzable": true
+  },
+  {
+    "code": "A5",
+    "name": "Varning för avsmalnande väg",
+    "category": "A",
+    "explanation": "Märket varnar för att vägen eller körbanan blir smalare. Symbolen visar från vilken sida vägen smalnar av.",
+    "files": [
+      "A5-1.svg",
+      "A5-2.svg",
+      "A5-3.svg"
+    ],
+    "group": "vagbredd",
+    "quizzable": true
+  },
+  {
+    "code": "A6",
+    "name": "Varning för bro",
+    "category": "A",
+    "explanation": "Märket varnar för en öppningsbar bro. Var beredd på att stanna.",
+    "files": [
+      "A6.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A7",
+    "name": "Varning för kaj",
+    "category": "A",
+    "explanation": "Märket varnar för att vägen slutar mot vatten vid en kaj eller färjeläge.",
+    "files": [
+      "A7.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A8",
+    "name": "Varning för ojämn väg",
+    "category": "A",
+    "explanation": "Märket varnar för att vägen har ojämn beläggning, gupp eller gropar.",
+    "files": [
+      "A8.svg"
+    ],
+    "group": "vagyta",
+    "quizzable": true
+  },
+  {
+    "code": "A9",
+    "name": "Varning för farthinder",
+    "category": "A",
+    "explanation": "Märket varnar för ett farthinder, till exempel ett vägbulor eller upphöjt övergångsställe.",
+    "files": [
+      "A9-1.svg",
+      "A9-2.svg"
+    ],
+    "group": "vagyta",
+    "quizzable": true
+  },
+  {
+    "code": "A10",
+    "name": "Varning för slirig väg",
+    "category": "A",
+    "explanation": "Märket varnar för att vägen kan vara hal. Orsaken, till exempel is eller halka vid regn, kan anges på tilläggstavla.",
+    "files": [
+      "A10.svg"
+    ],
+    "group": "vagyta",
+    "quizzable": true
+  },
+  {
+    "code": "A11",
+    "name": "Varning för stenskott",
+    "category": "A",
+    "explanation": "Märket varnar för risk för stenskott, ofta på grusväg eller där löst grus finns på vägen.",
+    "files": [
+      "A11.svg"
+    ],
+    "group": "sten",
+    "quizzable": true
+  },
+  {
+    "code": "A12",
+    "name": "Varning för stenras",
+    "category": "A",
+    "explanation": "Märket varnar för risk för stenras från en bergssida och för att stenar kan ligga på vägen.",
+    "files": [
+      "A12-1.svg",
+      "A12-2.svg"
+    ],
+    "group": "sten",
+    "quizzable": true
+  },
+  {
+    "code": "A13",
+    "name": "Varning för övergångsställe",
+    "category": "A",
+    "explanation": "Märket varnar för ett övergångsställe längre fram. Var beredd på gående och sänk farten.",
+    "files": [
+      "A13.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A14",
+    "name": "Varning för gående",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där gående ofta korsar eller går längs vägen.",
+    "files": [
+      "A14.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A15",
+    "name": "Varning för barn",
+    "category": "A",
+    "explanation": "Märket varnar för att barn ofta uppehåller sig vid vägen, till exempel nära en skola eller lekplats.",
+    "files": [
+      "A15.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A16",
+    "name": "Varning för cyklande och mopedförare",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där cyklister och mopedförare ofta korsar eller kör ut på vägen.",
+    "files": [
+      "A16.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A17",
+    "name": "Varning för skidåkare",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där skidåkare korsar vägen.",
+    "files": [
+      "A17.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A18",
+    "name": "Varning för ridande",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där ridande ofta korsar eller färdas på vägen.",
+    "files": [
+      "A18.svg"
+    ],
+    "group": "oskyddade",
+    "quizzable": true
+  },
+  {
+    "code": "A19-1",
+    "name": "Varning för älg",
+    "category": "A",
+    "explanation": "Märket varnar för en vägsträcka där älgar ofta korsar vägen. Var särskilt uppmärksam i gryning och skymning.",
+    "files": [
+      "A19-1.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur"
+    ]
+  },
+  {
+    "code": "A19-2",
+    "name": "Varning för hjort",
+    "category": "A",
+    "explanation": "Märket varnar för en vägsträcka där hjortar eller rådjur ofta korsar vägen.",
+    "files": [
+      "A19-2.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur",
+      "Varning för rådjur"
+    ]
+  },
+  {
+    "code": "A19-3",
+    "name": "Varning för kor",
+    "category": "A",
+    "explanation": "Märket varnar för att kor eller andra nötkreatur kan finnas på eller vid vägen.",
+    "files": [
+      "A19-3.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur",
+      "Varning för nötkreatur"
+    ]
+  },
+  {
+    "code": "A19-4",
+    "name": "Varning för hästar",
+    "category": "A",
+    "explanation": "Märket varnar för att hästar kan finnas på eller vid vägen.",
+    "files": [
+      "A19-4.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur"
+    ]
+  },
+  {
+    "code": "A19-5",
+    "name": "Varning för ren",
+    "category": "A",
+    "explanation": "Märket varnar för en vägsträcka där renar ofta finns på eller vid vägen.",
+    "files": [
+      "A19-5.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur",
+      "Varning för renar"
+    ]
+  },
+  {
+    "code": "A19-6",
+    "name": "Varning för får",
+    "category": "A",
+    "explanation": "Märket varnar för att får kan finnas på eller vid vägen.",
+    "files": [
+      "A19-6.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur"
+    ]
+  },
+  {
+    "code": "A19-7",
+    "name": "Varning för vildsvin",
+    "category": "A",
+    "explanation": "Märket varnar för en vägsträcka där vildsvin ofta korsar vägen.",
+    "files": [
+      "A19-7.svg"
+    ],
+    "group": "djur",
+    "quizzable": true,
+    "aliases": [
+      "Varning för djur"
+    ]
+  },
+  {
+    "code": "A20",
+    "name": "Varning för vägarbete",
+    "category": "A",
+    "explanation": "Märket varnar för pågående vägarbete. Anpassa hastigheten och följ vägarbetarnas anvisningar.",
+    "files": [
+      "A20.svg"
+    ],
+    "group": "vagarbete",
+    "quizzable": true
+  },
+  {
+    "code": "A21",
+    "name": "Slut på sträcka med vägarbete",
+    "category": "A",
+    "explanation": "Märket anger att sträckan med vägarbete är slut och att de tillfälliga reglerna upphör.",
+    "files": [
+      "A21.svg"
+    ],
+    "group": "vagarbete",
+    "quizzable": true
+  },
+  {
+    "code": "A22",
+    "name": "Varning för flerfärgssignal",
+    "category": "A",
+    "explanation": "Märket varnar för en trafiksignal längre fram, ofta där signalen är svår att upptäcka i tid.",
+    "files": [
+      "A22.svg"
+    ],
+    "group": "signal",
+    "quizzable": true
+  },
+  {
+    "code": "A23",
+    "name": "Varning för lågt flygande flygplan",
+    "category": "A",
+    "explanation": "Märket varnar för att flygplan kan passera lågt över vägen, till exempel nära en flygplats.",
+    "files": [
+      "A23-1.svg",
+      "A23-2.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A24",
+    "name": "Varning för sidvind",
+    "category": "A",
+    "explanation": "Märket varnar för en sträcka där kraftig sidvind är vanlig, till exempel på broar eller öppna slätter.",
+    "files": [
+      "A24-1.svg",
+      "A24-2.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A25",
+    "name": "Varning för mötande trafik",
+    "category": "A",
+    "explanation": "Märket varnar för att vägen övergår från enkelriktad till dubbelriktad trafik och att du kan möta fordon.",
+    "files": [
+      "A25.svg"
+    ],
+    "group": "mote",
+    "quizzable": true
+  },
+  {
+    "code": "A26",
+    "name": "Varning för tunnel",
+    "category": "A",
+    "explanation": "Märket varnar för en tunnel längre fram. Tänd halvljuset och ta av solglasögonen.",
+    "files": [
+      "A26.svg"
+    ],
+    "group": "tunnel",
+    "quizzable": true
+  },
+  {
+    "code": "A27",
+    "name": "Varning för svag vägkant eller hög körbanekant",
+    "category": "A",
+    "explanation": "Märket varnar för att vägkanten är svag eller att det finns en hög kant mot vägrenen.",
+    "files": [
+      "A27.svg"
+    ],
+    "group": "vagyta",
+    "quizzable": true
+  },
+  {
+    "code": "A28",
+    "name": "Varning för vägkorsning",
+    "category": "A",
+    "explanation": "Märket varnar för en vägkorsning där högerregeln gäller. Var beredd att lämna företräde åt trafik från höger.",
+    "files": [
+      "A28.svg"
+    ],
+    "group": "korsning",
+    "quizzable": true
+  },
+  {
+    "code": "A29",
+    "name": "Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt",
+    "category": "A",
+    "explanation": "Märket varnar för en korsning där trafiken på den anslutande vägen har väjningsplikt eller stopplikt. Symbolen visar korsningens utformning.",
+    "files": [
+      "A29-1.svg",
+      "A29-2.svg",
+      "A29-3.svg",
+      "A29-4.svg"
+    ],
+    "group": "korsning",
+    "quizzable": true
+  },
+  {
+    "code": "A30",
+    "name": "Varning för cirkulationsplats",
+    "category": "A",
+    "explanation": "Märket varnar för en cirkulationsplats längre fram.",
+    "files": [
+      "A30.svg"
+    ],
+    "group": "korsning",
+    "quizzable": true
+  },
+  {
+    "code": "A31",
+    "name": "Varning för långsamtgående fordon",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där långsamtgående fordon ofta kör ut på eller korsar vägen.",
+    "files": [
+      "A31.svg"
+    ],
+    "group": "fordon-varning",
+    "quizzable": true
+  },
+  {
+    "code": "A32",
+    "name": "Varning för fordon med förspänt dragdjur",
+    "category": "A",
+    "explanation": "Märket varnar för att hästskjutsar eller andra fordon med dragdjur kan förekomma på vägen.",
+    "files": [
+      "A32-1.svg",
+      "A32-2.svg",
+      "A32-3.svg"
+    ],
+    "group": "djur",
+    "quizzable": true
+  },
+  {
+    "code": "A33",
+    "name": "Varning för terrängskotertrafik",
+    "category": "A",
+    "explanation": "Märket varnar för en plats där snöskotrar eller andra terrängskotrar korsar vägen.",
+    "files": [
+      "A33.svg"
+    ],
+    "group": "fordon-varning",
+    "quizzable": true
+  },
+  {
+    "code": "A34",
+    "name": "Varning för kö",
+    "category": "A",
+    "explanation": "Märket varnar för att köer kan uppstå på sträckan. Håll avstånd och var beredd att stanna.",
+    "files": [
+      "A34.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A35",
+    "name": "Varning för järnvägskorsning med bommar",
+    "category": "A",
+    "explanation": "Märket varnar för en plankorsning med järnväg som har bommar.",
+    "files": [
+      "A35.svg"
+    ],
+    "group": "jarnvag",
+    "quizzable": true
+  },
+  {
+    "code": "A36",
+    "name": "Varning för järnvägskorsning utan bommar",
+    "category": "A",
+    "explanation": "Märket varnar för en plankorsning med järnväg som saknar bommar. Var extra uppmärksam och beredd att stanna.",
+    "files": [
+      "A36.svg"
+    ],
+    "group": "jarnvag",
+    "quizzable": true
+  },
+  {
+    "code": "A37",
+    "name": "Varning för korsning med spårväg utan bommar",
+    "category": "A",
+    "explanation": "Märket varnar för en korsning med spårväg som saknar bommar. Spårvagnar har normalt företräde.",
+    "files": [
+      "A37.svg"
+    ],
+    "group": "jarnvag",
+    "quizzable": true
+  },
+  {
+    "code": "A38",
+    "name": "Avstånd till plankorsning",
+    "category": "A",
+    "explanation": "Märkena sätts upp före en plankorsning. Tre, två och ett streck anger ungefär 150, 100 respektive 50 meter kvar till korsningen.",
+    "files": [
+      "A38-1.svg",
+      "A38-2.svg",
+      "A38-3.svg"
+    ],
+    "group": "jarnvag",
+    "quizzable": true
+  },
+  {
+    "code": "A39",
+    "name": "Kryssmärke",
+    "category": "A",
+    "explanation": "Märket sitter omedelbart före en plankorsning med järnväg eller spårväg. Ett dubbelt kryss betyder att korsningen har flera spår.",
+    "files": [
+      "A39-1.svg",
+      "A39-3.svg",
+      "A39-2.svg",
+      "A39-4.svg"
+    ],
+    "group": "jarnvag",
+    "quizzable": true,
+    "aliases": [
+      "Kryss",
+      "Järnvägskryss"
+    ]
+  },
+  {
+    "code": "A40",
+    "name": "Varning för annan fara",
+    "category": "A",
+    "explanation": "Märket varnar för en fara som inte har något eget märke. Farans art anges på en tilläggstavla.",
+    "files": [
+      "A40.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "A41",
+    "name": "Varning för olycka",
+    "category": "A",
+    "explanation": "Märket varnar för att en trafikolycka har inträffat längre fram. Sänk farten och var beredd att stanna.",
+    "files": [
+      "A41.svg"
+    ],
+    "group": "ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "B1",
+    "name": "Väjningsplikt",
+    "category": "B",
+    "explanation": "Du har väjningsplikt mot fordon på den korsande vägen. Sänk farten och stanna om det behövs för att lämna företräde.",
+    "files": [
+      "B1.svg"
+    ],
+    "group": "vajning",
+    "quizzable": true,
+    "aliases": [
+      "Väjningsmärke",
+      "Lämna företräde"
+    ]
+  },
+  {
+    "code": "B2",
+    "name": "Stopplikt",
+    "category": "B",
+    "explanation": "Du måste stanna helt vid stopplinjen eller före korsningen och lämna företräde åt trafiken på den korsande vägen.",
+    "files": [
+      "B2.svg"
+    ],
+    "group": "vajning",
+    "quizzable": true,
+    "aliases": [
+      "Stoppmärke",
+      "Stopp"
+    ]
+  },
+  {
+    "code": "B3",
+    "name": "Övergångsställe",
+    "category": "B",
+    "explanation": "Märket anger ett övergångsställe. Du har väjningsplikt mot gående som gått ut på eller just ska gå ut på övergångsstället.",
+    "files": [
+      "B3-1.svg",
+      "B3-2.svg"
+    ],
+    "group": "overgang",
+    "quizzable": true
+  },
+  {
+    "code": "B4",
+    "name": "Huvudled",
+    "category": "B",
+    "explanation": "Vägen är huvudled. Trafik från anslutande vägar har väjningsplikt mot dig. Parkering på huvudled är förbjuden utanför tättbebyggt område.",
+    "files": [
+      "B4.svg"
+    ],
+    "group": "huvudled",
+    "quizzable": true
+  },
+  {
+    "code": "B5",
+    "name": "Huvudled upphör",
+    "category": "B",
+    "explanation": "Huvudleden upphör. Efter märket gäller högerregeln om inget annat anges.",
+    "files": [
+      "B5.svg"
+    ],
+    "group": "huvudled",
+    "quizzable": true
+  },
+  {
+    "code": "B6",
+    "name": "Väjningsplikt mot mötande trafik",
+    "category": "B",
+    "explanation": "Du har väjningsplikt mot mötande fordon på en smal vägsträcka. Vänta tills mötande trafik har passerat.",
+    "files": [
+      "B6.svg"
+    ],
+    "group": "mote",
+    "quizzable": true
+  },
+  {
+    "code": "B7",
+    "name": "Mötande trafik har väjningsplikt",
+    "category": "B",
+    "explanation": "Mötande trafik måste väja för dig på en smal vägsträcka. Kör ändå försiktigt.",
+    "files": [
+      "B7.svg"
+    ],
+    "group": "mote",
+    "quizzable": true
+  },
+  {
+    "code": "B8",
+    "name": "Cykelöverfart",
+    "category": "B",
+    "explanation": "Märket anger en cykelöverfart. Du har väjningsplikt mot cyklister och mopedförare som är ute på eller just ska köra ut på överfarten.",
+    "files": [
+      "B8.svg"
+    ],
+    "group": "overgang",
+    "quizzable": true
+  },
+  {
+    "code": "C1",
+    "name": "Förbud mot infart med fordon",
+    "category": "C",
+    "explanation": "Det är förbjudet att köra in med fordon på vägen. Märket sitter ofta i slutet av enkelriktade gator.",
+    "files": [
+      "C1.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true,
+    "aliases": [
+      "Infart förbjuden",
+      "Förbjuden infart"
+    ]
+  },
+  {
+    "code": "C2",
+    "name": "Förbud mot trafik med fordon",
+    "category": "C",
+    "explanation": "All fordonstrafik är förbjuden i båda riktningarna. Undantag kan anges på tilläggstavla.",
+    "files": [
+      "C2.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true,
+    "aliases": [
+      "Fordonstrafik förbjuden"
+    ]
+  },
+  {
+    "code": "C3",
+    "name": "Förbud mot trafik med annat motordrivet fordon än moped klass II",
+    "category": "C",
+    "explanation": "Motordrivna fordon får inte köra här, med undantag för moped klass II.",
+    "files": [
+      "C3.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C4",
+    "name": "Förbud mot trafik med motordrivet fordon med fler än två hjul",
+    "category": "C",
+    "explanation": "Bilar och andra motordrivna fordon med fler än två hjul får inte köra här. Motorcyklar får passera.",
+    "files": [
+      "C4.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C5",
+    "name": "Förbud mot trafik med motorcykel och moped klass I",
+    "category": "C",
+    "explanation": "Motorcyklar och mopeder klass I får inte köra här.",
+    "files": [
+      "C5.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C6",
+    "name": "Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn",
+    "category": "C",
+    "explanation": "Motordrivna fordon med tillkopplad släpvagn får inte köra här. Släpkärra kan vara undantagen enligt tilläggstavla.",
+    "files": [
+      "C6.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C7",
+    "name": "Förbud mot trafik med tung lastbil",
+    "category": "C",
+    "explanation": "Tunga lastbilar, det vill säga lastbilar med totalvikt över 3,5 ton, får inte köra här.",
+    "files": [
+      "C7.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C8",
+    "name": "Förbud mot trafik med traktor och motorredskap klass II",
+    "category": "C",
+    "explanation": "Traktorer och motorredskap klass II får inte köra här.",
+    "files": [
+      "C8.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C9",
+    "name": "Förbud mot trafik med fordon lastat med farligt gods",
+    "category": "C",
+    "explanation": "Fordon som är lastade med farligt gods får inte köra här.",
+    "files": [
+      "C9.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C10",
+    "name": "Förbud mot trafik med cykel och moped klass II",
+    "category": "C",
+    "explanation": "Cyklar och mopeder klass II får inte köra här.",
+    "files": [
+      "C10.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C11",
+    "name": "Förbud mot trafik med moped klass II",
+    "category": "C",
+    "explanation": "Mopeder klass II får inte köra här.",
+    "files": [
+      "C11.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C12",
+    "name": "Förbud mot trafik med fordon förspänt med dragdjur",
+    "category": "C",
+    "explanation": "Fordon som dras av djur, till exempel hästskjutsar, får inte framföras här.",
+    "files": [
+      "C12.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C13",
+    "name": "Förbud mot trafik med terrängmotorfordon och terrängsläp",
+    "category": "C",
+    "explanation": "Terrängmotorfordon som snöskotrar och fyrhjulingar samt terrängsläp får inte köra här.",
+    "files": [
+      "C13.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C14",
+    "name": "Förbud mot ridning",
+    "category": "C",
+    "explanation": "Det är förbjudet att rida här. Förbudet gäller även att leda ridhäst.",
+    "files": [
+      "C14.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C15",
+    "name": "Förbud mot gångtrafik",
+    "category": "C",
+    "explanation": "Gående får inte färdas här, till exempel på motorväg eller i tunnlar.",
+    "files": [
+      "C15.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true
+  },
+  {
+    "code": "C16",
+    "name": "Begränsad fordonsbredd",
+    "category": "C",
+    "explanation": "Fordon som är bredare än den angivna bredden, inklusive last, får inte passera.",
+    "files": [
+      "C16.svg"
+    ],
+    "group": "begransning",
+    "quizzable": true
+  },
+  {
+    "code": "C17",
+    "name": "Begränsad fordonshöjd",
+    "category": "C",
+    "explanation": "Fordon som är högre än den angivna höjden, inklusive last, får inte passera. Vanligt före låga broar och viadukter.",
+    "files": [
+      "C17.svg"
+    ],
+    "group": "begransning",
+    "quizzable": true
+  },
+  {
+    "code": "C18",
+    "name": "Begränsad fordonslängd",
+    "category": "C",
+    "explanation": "Fordon eller fordonståg som är längre än den angivna längden får inte passera.",
+    "files": [
+      "C18.svg"
+    ],
+    "group": "begransning",
+    "quizzable": true
+  },
+  {
+    "code": "C19",
+    "name": "Minsta avstånd",
+    "category": "C",
+    "explanation": "Motordrivna fordon måste hålla minst det angivna avståndet till framförvarande fordon.",
+    "files": [
+      "C19.svg"
+    ],
+    "group": "begransning",
+    "quizzable": true
+  },
+  {
+    "code": "C20",
+    "name": "Begränsad bruttovikt på fordon",
+    "category": "C",
+    "explanation": "Fordon med högre bruttovikt än den angivna får inte passera.",
+    "files": [
+      "C20.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "C21",
+    "name": "Begränsad bruttovikt på fordon och fordonståg",
+    "category": "C",
+    "explanation": "Fordon och fordonståg med högre sammanlagd bruttovikt än den angivna får inte passera.",
+    "files": [
+      "C21.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "C22",
+    "name": "Bärighetsklass",
+    "category": "C",
+    "explanation": "Märket anger vägens bärighetsklass (BK). Bärighetsklassen bestämmer vilka axeltryck och bruttovikter som är tillåtna.",
+    "files": [
+      "C22-1.svg",
+      "C22-2.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "C23",
+    "name": "Begränsat axeltryck",
+    "category": "C",
+    "explanation": "Fordon med högre axeltryck än det angivna får inte passera.",
+    "files": [
+      "C23.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "C24",
+    "name": "Begränsat boggitryck",
+    "category": "C",
+    "explanation": "Fordon med högre boggitryck än det angivna får inte passera.",
+    "files": [
+      "C24.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "C25-1",
+    "name": "Förbud mot vänstersväng i korsning",
+    "category": "C",
+    "explanation": "Det är förbjudet att svänga vänster i korsningen. Förbudet gäller även U-sväng.",
+    "files": [
+      "C25-1.svg"
+    ],
+    "group": "forbud-svang",
+    "quizzable": true,
+    "aliases": [
+      "Förbud mot sväng i korsning"
+    ]
+  },
+  {
+    "code": "C25-2",
+    "name": "Förbud mot högersväng i korsning",
+    "category": "C",
+    "explanation": "Det är förbjudet att svänga höger i korsningen.",
+    "files": [
+      "C25-2.svg"
+    ],
+    "group": "forbud-svang",
+    "quizzable": true,
+    "aliases": [
+      "Förbud mot sväng i korsning"
+    ]
+  },
+  {
+    "code": "C26",
+    "name": "Förbud mot U-sväng",
+    "category": "C",
+    "explanation": "Det är förbjudet att vända på vägen. Förbudet gäller i nästa korsning eller på den sträcka som anges.",
+    "files": [
+      "C26.svg"
+    ],
+    "group": "forbud-svang",
+    "quizzable": true,
+    "aliases": [
+      "Vändningsförbud"
+    ]
+  },
+  {
+    "code": "C27",
+    "name": "Förbud mot omkörning",
+    "category": "C",
+    "explanation": "Det är förbjudet att köra om andra motordrivna fordon utom tvåhjuliga mopeder och motorcyklar utan sidvagn.",
+    "files": [
+      "C27.svg"
+    ],
+    "group": "omkorning",
+    "quizzable": true,
+    "aliases": [
+      "Omkörningsförbud"
+    ]
+  },
+  {
+    "code": "C28",
+    "name": "Slut på förbud mot omkörning",
+    "category": "C",
+    "explanation": "Omkörningsförbudet upphör här.",
+    "files": [
+      "C28.svg"
+    ],
+    "group": "omkorning",
+    "quizzable": true
+  },
+  {
+    "code": "C29",
+    "name": "Förbud mot omkörning med tung lastbil",
+    "category": "C",
+    "explanation": "Tunga lastbilar får inte köra om andra motordrivna fordon utom tvåhjuliga fordon.",
+    "files": [
+      "C29.svg"
+    ],
+    "group": "omkorning",
+    "quizzable": true
+  },
+  {
+    "code": "C30",
+    "name": "Slut på förbud mot omkörning med tung lastbil",
+    "category": "C",
+    "explanation": "Förbudet mot omkörning med tung lastbil upphör här.",
+    "files": [
+      "C30.svg"
+    ],
+    "group": "omkorning",
+    "quizzable": true
+  },
+  {
+    "code": "C31-3",
+    "name": "Hastighetsbegränsning 30 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 30 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-3.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-4",
+    "name": "Hastighetsbegränsning 40 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 40 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-4.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-5",
+    "name": "Hastighetsbegränsning 50 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 50 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-5.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-6",
+    "name": "Hastighetsbegränsning 60 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 60 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-6.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-7",
+    "name": "Hastighetsbegränsning 70 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 70 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-7.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-8",
+    "name": "Hastighetsbegränsning 80 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 80 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-8.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-9",
+    "name": "Hastighetsbegränsning 90 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 90 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-9.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-10",
+    "name": "Hastighetsbegränsning 100 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 100 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-10.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-11",
+    "name": "Hastighetsbegränsning 110 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 110 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-11.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C31-12",
+    "name": "Hastighetsbegränsning 120 km/tim",
+    "category": "C",
+    "explanation": "Högsta tillåtna hastighet är 120 km/tim. Begränsningen gäller fram till nästa hastighetsmärke.",
+    "files": [
+      "C31-12.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true,
+    "aliases": [
+      "Hastighetsbegränsning"
+    ]
+  },
+  {
+    "code": "C32",
+    "name": "Tillfällig hastighetsbegränsning upphör",
+    "category": "C",
+    "explanation": "En tillfällig hastighetsbegränsning, till exempel vid vägarbete, upphör. Den tidigare hastighetsgränsen gäller igen.",
+    "files": [
+      "C32-7.svg",
+      "C32-5.svg",
+      "C32-9.svg"
+    ],
+    "group": "hastighet",
+    "quizzable": true
+  },
+  {
+    "code": "C33",
+    "name": "Stopp vid tull",
+    "category": "C",
+    "explanation": "Du måste stanna vid tullstationen. Texten kan vara på flera språk.",
+    "files": [
+      "C33-1.svg",
+      "C33-2.svg"
+    ],
+    "group": "stopp",
+    "quizzable": true
+  },
+  {
+    "code": "C34",
+    "name": "Stopp för angivet ändamål",
+    "category": "C",
+    "explanation": "Du måste stanna för det ändamål som anges på märket, till exempel poliskontroll eller vakt.",
+    "files": [
+      "C34-1.svg",
+      "C34-2.svg"
+    ],
+    "group": "stopp",
+    "quizzable": true
+  },
+  {
+    "code": "C35",
+    "name": "Förbud mot att parkera fordon",
+    "category": "C",
+    "explanation": "Det är förbjudet att parkera, men tillåtet att stanna för på- och avstigning eller lastning. Förbudet gäller på den sida av vägen där märket sitter.",
+    "files": [
+      "C35.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true,
+    "aliases": [
+      "Parkeringsförbud",
+      "Parkering förbjuden"
+    ]
+  },
+  {
+    "code": "C36",
+    "name": "Förbud mot att parkera fordon på dag med udda datum",
+    "category": "C",
+    "explanation": "Parkering är förbjuden på dagar med udda datum på den sida där märket sitter.",
+    "files": [
+      "C36.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C37",
+    "name": "Förbud mot att parkera fordon på dag med jämnt datum",
+    "category": "C",
+    "explanation": "Parkering är förbjuden på dagar med jämnt datum på den sida där märket sitter.",
+    "files": [
+      "C37.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C38",
+    "name": "Datumparkering",
+    "category": "C",
+    "explanation": "Parkering är förbjuden på sidan med jämna husnummer på dagar med jämnt datum och på sidan med udda husnummer på dagar med udda datum.",
+    "files": [
+      "C38.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C39",
+    "name": "Förbud mot att stanna och parkera fordon",
+    "category": "C",
+    "explanation": "Det är förbjudet att både stanna och parkera. Du får bara stanna om trafiksituationen kräver det.",
+    "files": [
+      "C39.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true,
+    "aliases": [
+      "Stoppförbud",
+      "Förbud att stanna"
+    ]
+  },
+  {
+    "code": "C40",
+    "name": "Ändamålsplats",
+    "category": "C",
+    "explanation": "Platsen får bara användas för det ändamål som anges, till exempel lastplats eller taxi. Andra fordon får inte stanna eller parkera här.",
+    "files": [
+      "C40-1.svg",
+      "C40-2.svg",
+      "C40-3.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C41",
+    "name": "Slut på ändamålsplats",
+    "category": "C",
+    "explanation": "Ändamålsplatsen upphör här.",
+    "files": [
+      "C41-1.svg",
+      "C41-2.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C42",
+    "name": "Vändplats",
+    "category": "C",
+    "explanation": "Platsen är avsedd för vändning. Det är förbjudet att parkera på vändplatsen, men du får stanna.",
+    "files": [
+      "C42-1.svg",
+      "C42-2.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C43",
+    "name": "Slut på vändplats",
+    "category": "C",
+    "explanation": "Vändplatsen upphör här.",
+    "files": [
+      "C43-1.svg",
+      "C43-2.svg"
+    ],
+    "group": "parkering",
+    "quizzable": true
+  },
+  {
+    "code": "C44",
+    "name": "Förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass II",
+    "category": "C",
+    "explanation": "Motordrivna fordon med dubbdäck får inte köra här. Märket används på gator med dubbdäcksförbud.",
+    "files": [
+      "C44.svg"
+    ],
+    "group": "forbud-fordon",
+    "quizzable": true,
+    "aliases": [
+      "Dubbdäcksförbud"
+    ]
+  },
+  {
+    "code": "C45",
+    "name": "Särskilda bestämmelser för stannande och parkering",
+    "category": "C",
+    "explanation": "Märket anger att särskilda regler för stannande och parkering gäller. Vilka regler som gäller framgår av tilläggstavlor.",
+    "files": [
+      "C45.svg"
+    ],
+    "group": "parkering",
+    "quizzable": false
+  },
+  {
+    "code": "C46",
+    "name": "Begränsat trippelaxeltryck",
+    "category": "C",
+    "explanation": "Fordon med högre trippelaxeltryck än det angivna får inte passera.",
+    "files": [
+      "C46.svg"
+    ],
+    "commons": [
+      "SE road sign C46.svg"
+    ],
+    "group": "vikt",
+    "quizzable": true
+  },
+  {
+    "code": "D1-1",
+    "name": "Påbjuden körriktning (vänster)",
+    "category": "D",
+    "explanation": "Du måste köra åt vänster. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-1.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-2",
+    "name": "Påbjuden körriktning (höger)",
+    "category": "D",
+    "explanation": "Du måste köra åt höger. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-2.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-3",
+    "name": "Påbjuden körriktning (rakt fram)",
+    "category": "D",
+    "explanation": "Du måste köra rakt fram och får inte svänga i korsningen. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-3.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-4",
+    "name": "Påbjuden körriktning (vänstersväng)",
+    "category": "D",
+    "explanation": "Du måste svänga vänster i korsningen. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-4.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-5",
+    "name": "Påbjuden körriktning (högersväng)",
+    "category": "D",
+    "explanation": "Du måste svänga höger i korsningen. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-5.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-6",
+    "name": "Påbjuden körriktning (rakt fram eller vänstersväng)",
+    "category": "D",
+    "explanation": "Du får köra rakt fram eller svänga vänster, men inte svänga höger. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-6.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-7",
+    "name": "Påbjuden körriktning (rakt fram eller högersväng)",
+    "category": "D",
+    "explanation": "Du får köra rakt fram eller svänga höger, men inte svänga vänster. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-7.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D1-8",
+    "name": "Påbjuden körriktning (höger- eller vänstersväng)",
+    "category": "D",
+    "explanation": "Du måste svänga höger eller vänster och får inte köra rakt fram. Märket anger den enda tillåtna körriktningen.",
+    "files": [
+      "D1-8.svg"
+    ],
+    "group": "pabjuden-riktning",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körriktning"
+    ]
+  },
+  {
+    "code": "D2-1",
+    "name": "Påbjuden körbana (höger)",
+    "category": "D",
+    "explanation": "Du måste passera märket på höger sida, till exempel vid en refug.",
+    "files": [
+      "D2-1.svg"
+    ],
+    "group": "pabjuden-korbana",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körbana"
+    ]
+  },
+  {
+    "code": "D2-2",
+    "name": "Påbjuden körbana (vänster)",
+    "category": "D",
+    "explanation": "Du måste passera märket på vänster sida.",
+    "files": [
+      "D2-2.svg"
+    ],
+    "group": "pabjuden-korbana",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körbana"
+    ]
+  },
+  {
+    "code": "D2-3",
+    "name": "Påbjuden körbana (höger eller vänster)",
+    "category": "D",
+    "explanation": "Du får passera märket på valfri sida.",
+    "files": [
+      "D2-3.svg"
+    ],
+    "group": "pabjuden-korbana",
+    "quizzable": true,
+    "aliases": [
+      "Påbjuden körbana"
+    ]
+  },
+  {
+    "code": "D3",
+    "name": "Cirkulationsplats",
+    "category": "D",
+    "explanation": "Märket anger en cirkulationsplats. Du ska köra motsols runt rondellen och har väjningsplikt mot fordon som redan är inne i cirkulationen.",
+    "files": [
+      "D3.svg"
+    ],
+    "group": "korsning",
+    "quizzable": true,
+    "aliases": [
+      "Rondell"
+    ]
+  },
+  {
+    "code": "D4",
+    "name": "Påbjuden cykelbana",
+    "category": "D",
+    "explanation": "Banan är avsedd för cyklister och förare av moped klass II, som måste använda den.",
+    "files": [
+      "D4.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D5",
+    "name": "Påbjuden gångbana",
+    "category": "D",
+    "explanation": "Banan är avsedd för gående, som måste använda den.",
+    "files": [
+      "D5.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D6",
+    "name": "Påbjuden gång- och cykelbana",
+    "category": "D",
+    "explanation": "Gemensam bana för gående, cyklister och förare av moped klass II. Gående bör hålla till vänster och cyklister till höger.",
+    "files": [
+      "D6.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D7",
+    "name": "Påbjudna gång- och cykelbanor",
+    "category": "D",
+    "explanation": "Banan är uppdelad i en del för gående och en del för cyklister. Symbolerna visar vilken sida som gäller för vem.",
+    "files": [
+      "D7-1.svg",
+      "D7-2.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D8",
+    "name": "Påbjuden ridväg",
+    "category": "D",
+    "explanation": "Vägen är avsedd för ridande, som måste använda den.",
+    "files": [
+      "D8.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D9",
+    "name": "Påbjuden led för terrängmotorfordon och terrängsläp",
+    "category": "D",
+    "explanation": "Leden är avsedd för terrängmotorfordon, till exempel snöskotrar, som måste använda den.",
+    "files": [
+      "D9.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D10",
+    "name": "Påbjudet körfält eller körbana för fordon i linjetrafik med flera",
+    "category": "D",
+    "explanation": "Körfältet eller körbanan är reserverad för bussar i linjetrafik. Andra fordon som får använda fältet anges på tilläggstavla.",
+    "files": [
+      "D10.svg"
+    ],
+    "group": "bana",
+    "quizzable": true,
+    "aliases": [
+      "Bussfil",
+      "Busskörfält"
+    ]
+  },
+  {
+    "code": "D11",
+    "name": "Slut på påbjuden bana, körfält, väg eller led",
+    "category": "D",
+    "explanation": "Den påbjudna banan, körfältet, vägen eller leden upphör här.",
+    "files": [
+      "D11-1.svg",
+      "D11-2.svg",
+      "D11-3.svg"
+    ],
+    "group": "bana",
+    "quizzable": true
+  },
+  {
+    "code": "D12",
+    "name": "Påbjuden körriktning för fordon lastat med farligt gods",
+    "category": "D",
+    "explanation": "Fordon lastade med farligt gods måste köra i pilens riktning. Bokstaven kan ange vilken tunnelkategori som avses.",
+    "files": [
+      "D12-1-1.svg",
+      "D12-2-1.svg",
+      "D12-3-1.svg"
+    ],
+    "group": "farligt-gods",
+    "quizzable": true
+  },
+  {
+    "code": "E1",
+    "name": "Motorväg",
+    "category": "E",
+    "explanation": "Motorväg börjar. Endast motorfordon som kan köra i minst 40 km/tim får köra här. Om inget annat anges är högsta hastighet 110 km/tim.",
+    "files": [
+      "E1.svg"
+    ],
+    "group": "motorvag",
+    "quizzable": true
+  },
+  {
+    "code": "E2",
+    "name": "Motorväg upphör",
+    "category": "E",
+    "explanation": "Motorvägen upphör. Var beredd på mötande trafik och andra trafikantgrupper.",
+    "files": [
+      "E2.svg"
+    ],
+    "group": "motorvag",
+    "quizzable": true
+  },
+  {
+    "code": "E3",
+    "name": "Motortrafikled",
+    "category": "E",
+    "explanation": "Motortrafikled börjar. Samma trafikregler som på motorväg gäller, men vägen har oftast bara ett körfält i varje riktning och mötande trafik kan förekomma.",
+    "files": [
+      "E3.svg"
+    ],
+    "group": "motorvag",
+    "quizzable": true
+  },
+  {
+    "code": "E4",
+    "name": "Motortrafikled upphör",
+    "category": "E",
+    "explanation": "Motortrafikleden upphör.",
+    "files": [
+      "E4.svg"
+    ],
+    "group": "motorvag",
+    "quizzable": true
+  },
+  {
+    "code": "E5",
+    "name": "Tättbebyggt område",
+    "category": "E",
+    "explanation": "Tättbebyggt område börjar. Om inget annat anges gäller 50 km/tim, och parkering på huvudled kan vara tillåten.",
+    "files": [
+      "E5.svg"
+    ],
+    "group": "tatort",
+    "quizzable": true,
+    "aliases": [
+      "Tätort"
+    ]
+  },
+  {
+    "code": "E6",
+    "name": "Tättbebyggt område upphör",
+    "category": "E",
+    "explanation": "Tättbebyggt område upphör. Om inget annat anges gäller bashastigheten 70 km/tim.",
+    "files": [
+      "E6.svg"
+    ],
+    "group": "tatort",
+    "quizzable": true,
+    "aliases": [
+      "Tätort upphör"
+    ]
+  },
+  {
+    "code": "E7",
+    "name": "Gågata",
+    "category": "E",
+    "explanation": "Gågata börjar. Motordrivna fordon får bara köra här för varutransporter eller för att nå en fastighet, i gångfart och med väjningsplikt mot gående.",
+    "files": [
+      "E7.svg"
+    ],
+    "group": "gagata",
+    "quizzable": true
+  },
+  {
+    "code": "E8",
+    "name": "Gågata upphör",
+    "category": "E",
+    "explanation": "Gågatan upphör.",
+    "files": [
+      "E8.svg"
+    ],
+    "group": "gagata",
+    "quizzable": true
+  },
+  {
+    "code": "E9",
+    "name": "Gångfartsområde",
+    "category": "E",
+    "explanation": "Gångfartsområde börjar. Fordon får inte köra fortare än gångfart, har väjningsplikt mot gående och får bara parkera på markerade platser.",
+    "files": [
+      "E9.svg"
+    ],
+    "group": "gagata",
+    "quizzable": true,
+    "aliases": [
+      "Gårdsgata"
+    ]
+  },
+  {
+    "code": "E10",
+    "name": "Gångfartsområde upphör",
+    "category": "E",
+    "explanation": "Gångfartsområdet upphör. Fordon som lämnar området har väjningsplikt mot trafiken på den anslutande vägen.",
+    "files": [
+      "E10.svg"
+    ],
+    "group": "gagata",
+    "quizzable": true,
+    "aliases": [
+      "Gårdsgata upphör"
+    ]
+  },
+  {
+    "code": "E11",
+    "name": "Rekommenderad lägre hastighet",
+    "category": "E",
+    "explanation": "Märket rekommenderar en lägre hastighet än den högsta tillåtna, till exempel vid farthinder. Rekommendationen är inte tvingande.",
+    "files": [
+      "E11-3.svg",
+      "E11-5.svg",
+      "E11-7.svg"
+    ],
+    "group": "rek-hastighet",
+    "quizzable": true
+  },
+  {
+    "code": "E12",
+    "name": "Rekommenderad lägre hastighet upphör",
+    "category": "E",
+    "explanation": "Sträckan med rekommenderad lägre hastighet upphör.",
+    "files": [
+      "E12-3.svg",
+      "E12-5.svg"
+    ],
+    "group": "rek-hastighet",
+    "quizzable": true
+  },
+  {
+    "code": "E13",
+    "name": "Rekommenderad högsta hastighet",
+    "category": "E",
+    "explanation": "Märket rekommenderar att du inte kör fortare än den angivna hastigheten, till exempel i en skarp kurva. Rekommendationen är inte tvingande.",
+    "files": [
+      "E13-7.svg",
+      "E13-5.svg",
+      "E13-9.svg"
+    ],
+    "group": "rek-hastighet",
+    "quizzable": true
+  },
+  {
+    "code": "E14",
+    "name": "Rekommenderad högsta hastighet upphör",
+    "category": "E",
+    "explanation": "Sträckan med rekommenderad högsta hastighet upphör.",
+    "files": [
+      "E14.svg"
+    ],
+    "group": "rek-hastighet",
+    "quizzable": true
+  },
+  {
+    "code": "E15",
+    "name": "Sammanvävning",
+    "category": "E",
+    "explanation": "Två körfält går ihop till ett. Förare i båda körfälten ska anpassa sig så att fordonen kan väva samman växelvis (\"blixtlåsprincipen\").",
+    "files": [
+      "E15.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "E16",
+    "name": "Enkelriktad trafik",
+    "category": "E",
+    "explanation": "Vägen är enkelriktad i pilens riktning. Du får därför placera bilen i vilket körfält som helst och parkera på båda sidor om inget annat anges.",
+    "files": [
+      "E16-1.svg",
+      "E16-2.svg"
+    ],
+    "group": "enkelriktad",
+    "quizzable": true,
+    "aliases": [
+      "Enkelriktat"
+    ]
+  },
+  {
+    "code": "E17",
+    "name": "Återvändsväg",
+    "category": "E",
+    "explanation": "Vägen är en återvändsgränd. Symbolen kan visa att det går att fortsätta till fots eller med cykel.",
+    "files": [
+      "E17-1.svg",
+      "E17-2.svg",
+      "E17-3.svg"
+    ],
+    "group": "enkelriktad",
+    "quizzable": true,
+    "aliases": [
+      "Återvändsgränd"
+    ]
+  },
+  {
+    "code": "E18",
+    "name": "Mötesplats",
+    "category": "E",
+    "explanation": "Märket anger en mötesplats på en smal väg. Det är förbjudet att parkera på mötesplatsen.",
+    "files": [
+      "E18.svg"
+    ],
+    "group": "mote",
+    "quizzable": true
+  },
+  {
+    "code": "E19",
+    "name": "Parkering",
+    "category": "E",
+    "explanation": "Parkering är tillåten. Om inget annat anges får du parkera högst 24 timmar i följd på vardagar utom dag före sön- och helgdag.",
+    "files": [
+      "E19.svg"
+    ],
+    "group": "parkering-anvisning",
+    "quizzable": true,
+    "aliases": [
+      "P-skylt"
+    ]
+  },
+  {
+    "code": "E20",
+    "name": "Områdesmärke",
+    "category": "E",
+    "explanation": "Märket anger att ett område med särskilda regler börjar, till exempel parkeringsförbud eller stoppförbud. Reglerna gäller i hela området tills slutmärket.",
+    "files": [
+      "E20-1.svg",
+      "E20-15.svg",
+      "E20-14.svg"
+    ],
+    "group": "omrade",
+    "quizzable": true,
+    "aliases": [
+      "Zonmärke"
+    ]
+  },
+  {
+    "code": "E21",
+    "name": "Slut på område",
+    "category": "E",
+    "explanation": "Området med särskilda regler upphör här.",
+    "files": [
+      "E21-1.svg",
+      "E21-15.svg"
+    ],
+    "group": "omrade",
+    "quizzable": true
+  },
+  {
+    "code": "E22",
+    "name": "Busshållplats",
+    "category": "E",
+    "explanation": "Märket anger en busshållplats. Du får inte stanna eller parkera inom 20 meter före och 5 meter efter märket.",
+    "files": [
+      "E22.svg"
+    ],
+    "group": "hallplats",
+    "quizzable": true
+  },
+  {
+    "code": "E23",
+    "name": "Taxi",
+    "category": "E",
+    "explanation": "Märket anger en plats där taxibilar får stanna och parkera. Andra fordon får stanna för på- och avstigning men inte parkera.",
+    "files": [
+      "E23.svg"
+    ],
+    "group": "hallplats",
+    "quizzable": true
+  },
+  {
+    "code": "E24",
+    "name": "Automatisk trafikövervakning",
+    "category": "E",
+    "explanation": "Märket upplyser om att hastigheten övervakas med automatiska kameror på sträckan.",
+    "files": [
+      "E24.svg"
+    ],
+    "group": "ovrigt-e",
+    "quizzable": true,
+    "aliases": [
+      "Fartkamera",
+      "Trafiksäkerhetskamera"
+    ]
+  },
+  {
+    "code": "E25",
+    "name": "Betalväg",
+    "category": "E",
+    "explanation": "Märket upplyser om att vägen är avgiftsbelagd, till exempel en bro eller en väg med trängselskatt.",
+    "files": [
+      "E25.svg"
+    ],
+    "group": "ovrigt-e",
+    "quizzable": true
+  },
+  {
+    "code": "E26",
+    "name": "Tunnel",
+    "category": "E",
+    "explanation": "Märket anger en tunnel. Tunnelns namn och längd kan anges på märket.",
+    "files": [
+      "E26.svg"
+    ],
+    "group": "tunnel",
+    "quizzable": true
+  },
+  {
+    "code": "E27",
+    "name": "Nöduppställningsplats",
+    "category": "E",
+    "explanation": "Märket anger en plats där du kan stanna vid nödsituation, till exempel i en tunnel eller på motorväg.",
+    "files": [
+      "E27.svg"
+    ],
+    "group": "nod",
+    "quizzable": true
+  },
+  {
+    "code": "E28",
+    "name": "Nödutgång",
+    "category": "E",
+    "explanation": "Märket visar var nödutgången finns, till exempel i en tunnel.",
+    "files": [
+      "E28-1.svg",
+      "E28-2.svg"
+    ],
+    "group": "nod",
+    "quizzable": true
+  },
+  {
+    "code": "E29",
+    "name": "Utrymningsväg",
+    "category": "E",
+    "explanation": "Märket visar riktning och avstånd till närmaste nödutgång i en tunnel.",
+    "files": [
+      "E29-1.svg",
+      "E29-2.svg"
+    ],
+    "group": "nod",
+    "quizzable": true
+  },
+  {
+    "code": "E30",
+    "name": "Särskilda bestämmelser för parkering",
+    "category": "E",
+    "explanation": "Märket anger att särskilda regler för parkering gäller. Vilka regler som gäller framgår av tilläggstavlor.",
+    "files": [
+      "E30.svg"
+    ],
+    "group": "parkering-anvisning",
+    "quizzable": false
+  },
+  {
+    "code": "E31",
+    "name": "Miljözon",
+    "category": "E",
+    "explanation": "Miljözon börjar. Endast fordon som uppfyller miljözonens utsläppskrav får köra i området. Klassen anges på märket.",
+    "files": [
+      "E31-1.svg"
+    ],
+    "group": "miljozon",
+    "quizzable": false
+  },
+  {
+    "code": "E32",
+    "name": "Slut på miljözon",
+    "category": "E",
+    "explanation": "Miljözonen upphör.",
+    "files": [
+      "E32-1.svg"
+    ],
+    "group": "miljozon",
+    "quizzable": false
+  },
+  {
+    "code": "E33",
+    "name": "Cykelgata",
+    "category": "E",
+    "explanation": "Cykelgata börjar. Fordon får inte köra fortare än 30 km/tim, ska anpassa hastigheten till cykeltrafiken och får bara parkera på markerade platser.",
+    "files": [
+      "E33.svg"
+    ],
+    "commons": [
+      "SE road sign E33.svg"
+    ],
+    "group": "cykelgata",
+    "quizzable": true
+  },
+  {
+    "code": "E34",
+    "name": "Cykelgata upphör",
+    "category": "E",
+    "explanation": "Cykelgatan upphör. Fordon som lämnar cykelgatan har väjningsplikt mot trafiken på den anslutande vägen.",
+    "files": [
+      "E34.svg"
+    ],
+    "commons": [
+      "SE road sign E34.svg"
+    ],
+    "group": "cykelgata",
+    "quizzable": true
+  },
+  {
+    "code": "F1",
+    "name": "Orienteringstavla",
+    "category": "F",
+    "explanation": "Tavlan visar hur korsningen är utformad och vart vägarna leder, så att du kan välja rätt körfält i god tid.",
+    "files": [
+      "F1-1.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F2",
+    "name": "Orienteringstavla vid förbjuden sväng i korsning",
+    "category": "F",
+    "explanation": "Tavlan visar hur du ska köra för att nå ett mål när det är förbjudet att svänga direkt i korsningen.",
+    "files": [
+      "F2.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F4",
+    "name": "Avfartsorienteringstavla",
+    "category": "F",
+    "explanation": "Tavlan förbereder dig på en avfart från motorväg eller motortrafikled och anger avståndet till avfarten.",
+    "files": [
+      "F4.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F5",
+    "name": "Vägvisare",
+    "category": "F",
+    "explanation": "Vägvisaren anger riktning och ibland avstånd till en ort eller annat mål. Blå vägvisare används för allmänna vägar.",
+    "files": [
+      "F5.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F6",
+    "name": "Tabellvägvisare",
+    "category": "F",
+    "explanation": "Vägvisaren anger flera mål i en tabell, med pil för riktningen.",
+    "files": [
+      "F6.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F7",
+    "name": "Avfartsvisare",
+    "category": "F",
+    "explanation": "Märket sitter vid själva avfarten från en motorväg eller motortrafikled och anger vart avfarten leder.",
+    "files": [
+      "F7.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F8",
+    "name": "Körfältsvägvisare",
+    "category": "F",
+    "explanation": "Vägvisaren sitter över körbanan och visar vilket körfält du ska välja för att nå angivet mål.",
+    "files": [
+      "F8.svg"
+    ],
+    "commons": [
+      "Swedish road sign 1 5 2 2.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F9",
+    "name": "Samlingsmärke för vägvisning",
+    "category": "F",
+    "explanation": "Märket samlar flera vägvisningsmål i en ram.",
+    "files": [
+      "F9.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F10",
+    "name": "Platsmärke",
+    "category": "F",
+    "explanation": "Märket anger namnet på den plats du kommer till, till exempel en ort eller ett vattendrag.",
+    "files": [
+      "F10.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F11",
+    "name": "Vägnamn",
+    "category": "F",
+    "explanation": "Märket anger gatans eller vägens namn.",
+    "files": [
+      "F11.svg"
+    ],
+    "commons": [
+      "Swedish road sign F11.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F13",
+    "name": "Avståndstavla",
+    "category": "F",
+    "explanation": "Tavlan anger avståndet i kilometer till orter längs vägen.",
+    "files": [
+      "F13.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F14",
+    "name": "Vägnummer",
+    "category": "F",
+    "explanation": "Märket anger vägens nummer. Grön skylt används för europavägar och blå för övriga riksvägar och länsvägar.",
+    "files": [
+      "F14-1.svg",
+      "F14-3.svg",
+      "F14-4.svg"
+    ],
+    "group": "vagnummer",
+    "quizzable": true
+  },
+  {
+    "code": "F15",
+    "name": "Omledning",
+    "category": "F",
+    "explanation": "Märket anger en omledningsväg som används när den ordinarie vägen är avstängd.",
+    "files": [
+      "F15.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F16",
+    "name": "Ökning av antal körfält",
+    "category": "F",
+    "explanation": "Märket upplyser om att antalet körfält ökar.",
+    "files": [
+      "F16.svg"
+    ],
+    "commons": [
+      "Swedish road sign F16.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "F17",
+    "name": "Minskning av antal körfält",
+    "category": "F",
+    "explanation": "Märket upplyser om att antalet körfält minskar. Byt körfält i god tid.",
+    "files": [
+      "F17.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "F21",
+    "name": "Körfältsindelning före korsning",
+    "category": "F",
+    "explanation": "Märket visar hur körfälten är indelade före en korsning och vilket körfält du ska välja för olika riktningar.",
+    "files": [
+      "F21.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "F23",
+    "name": "Orienteringstavla för omledningsväg",
+    "category": "F",
+    "explanation": "Tavlan visar hur omledningsvägen går.",
+    "files": [
+      "F23.svg"
+    ],
+    "commons": [
+      "Swedish road sign F23.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": false
+  },
+  {
+    "code": "F24",
+    "name": "Färdriktning vid omledning",
+    "category": "F",
+    "explanation": "Märket anger färdriktningen längs en omledningsväg.",
+    "files": [
+      "F24-1.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F25",
+    "name": "Körfält upphör",
+    "category": "F",
+    "explanation": "Märket upplyser om att ett körfält upphör längre fram.",
+    "files": [
+      "F25-3.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "F26",
+    "name": "Körfält avstängt",
+    "category": "F",
+    "explanation": "Märket upplyser om att ett körfält är avstängt, till exempel vid vägarbete.",
+    "files": [
+      "F26-1.svg",
+      "F26-2.svg"
+    ],
+    "group": "korfalt",
+    "quizzable": true
+  },
+  {
+    "code": "F27",
+    "name": "Trafikplatsnummer",
+    "category": "F",
+    "explanation": "Märket anger trafikplatsens nummer på en motorväg eller motortrafikled.",
+    "files": [
+      "F27.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F29",
+    "name": "Infartsparkering",
+    "category": "F",
+    "explanation": "Märket visar vägen till en infartsparkering där du kan byta till kollektivtrafik.",
+    "files": [
+      "F29.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F30",
+    "name": "Lokal slinga",
+    "category": "F",
+    "explanation": "Märket anger en lokal slinga, en väg som leder tillbaka till den väg du lämnade.",
+    "files": [
+      "F30.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F31",
+    "name": "Lämplig väg eller förbifart för visst fordonsslag eller trafikantgrupp",
+    "category": "F",
+    "explanation": "Märket visar en lämplig väg för det fordonsslag som anges med symbol, till exempel tung lastbil.",
+    "files": [
+      "F31-1.svg",
+      "F31-5.svg"
+    ],
+    "group": "vagvisning",
+    "quizzable": true
+  },
+  {
+    "code": "F32",
+    "name": "Farligt gods",
+    "category": "F",
+    "explanation": "Märket visar den väg som fordon lastade med farligt gods rekommenderas eller ska använda.",
+    "files": [
+      "F32.svg"
+    ],
+    "group": "farligt-gods",
+    "quizzable": true
+  },
+  {
+    "code": "G1",
+    "name": "Post",
+    "category": "G",
+    "explanation": "Märket visar vägen till en postanläggning eller brevlåda.",
+    "files": [
+      "G1.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G2",
+    "name": "Hjälptelefon",
+    "category": "G",
+    "explanation": "Märket visar var det finns en hjälptelefon, till exempel längs motorväg eller i tunnel.",
+    "files": [
+      "G2.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G3",
+    "name": "Radiostation för vägtrafikinformation",
+    "category": "G",
+    "explanation": "Märket anger vilken radiofrekvens som sänder trafikinformation för området.",
+    "files": [
+      "G3.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G4",
+    "name": "Akutsjukhus",
+    "category": "G",
+    "explanation": "Märket visar vägen till ett sjukhus med akutmottagning.",
+    "files": [
+      "G4.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G5",
+    "name": "Industriområde",
+    "category": "G",
+    "explanation": "Märket visar vägen till ett industriområde.",
+    "files": [
+      "G5.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G6",
+    "name": "Järnvägsstation",
+    "category": "G",
+    "explanation": "Märket visar vägen till en järnvägsstation.",
+    "files": [
+      "G6.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G7",
+    "name": "Busstation",
+    "category": "G",
+    "explanation": "Märket visar vägen till en busstation eller bussterminal.",
+    "files": [
+      "G7.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G8",
+    "name": "Flygplats",
+    "category": "G",
+    "explanation": "Märket visar vägen till en flygplats.",
+    "files": [
+      "G8-1.svg",
+      "G8-2.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G9",
+    "name": "Brandsläckare",
+    "category": "G",
+    "explanation": "Märket visar var det finns en brandsläckare, till exempel i en tunnel.",
+    "files": [
+      "G9.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G10",
+    "name": "Handelsområde",
+    "category": "G",
+    "explanation": "Märket visar vägen till ett handelsområde.",
+    "files": [
+      "G10.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G11",
+    "name": "Färja",
+    "category": "G",
+    "explanation": "Märket visar vägen till en färja som tar fordon.",
+    "files": [
+      "G11.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "G12",
+    "name": "Personfärja",
+    "category": "G",
+    "explanation": "Märket visar vägen till en färja som endast tar passagerare.",
+    "files": [
+      "G12.svg"
+    ],
+    "group": "inrattning",
+    "quizzable": true
+  },
+  {
+    "code": "H1",
+    "name": "Informationsplats",
+    "category": "H",
+    "explanation": "Märket visar vägen till en plats med turist- eller trafikinformation.",
+    "files": [
+      "H1.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H2",
+    "name": "Fordonsverkstad",
+    "category": "H",
+    "explanation": "Märket visar vägen till en verkstad för fordon.",
+    "files": [
+      "H2.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H3",
+    "name": "Drivmedel",
+    "category": "H",
+    "explanation": "Märket visar vägen till en bensinstation eller annat försäljningsställe för drivmedel.",
+    "files": [
+      "H3.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H4",
+    "name": "Gas för fordonsdrift",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett tankställe för fordonsgas.",
+    "files": [
+      "H4-1.svg",
+      "H4-2.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H5",
+    "name": "Servering",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett kafé eller en enklare servering.",
+    "files": [
+      "H5.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H6",
+    "name": "Restaurang",
+    "category": "H",
+    "explanation": "Märket visar vägen till en restaurang.",
+    "files": [
+      "H6.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H7",
+    "name": "Hotell",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett hotell.",
+    "files": [
+      "H7.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H8",
+    "name": "Vandrarhem",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett vandrarhem.",
+    "files": [
+      "H8.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H9",
+    "name": "Stugby",
+    "category": "H",
+    "explanation": "Märket visar vägen till en stugby med uthyrningsstugor.",
+    "files": [
+      "H9.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H10",
+    "name": "Stuga",
+    "category": "H",
+    "explanation": "Märket visar vägen till en enskild uthyrningsstuga.",
+    "files": [
+      "H10.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H11",
+    "name": "Campingplats",
+    "category": "H",
+    "explanation": "Märket visar vägen till en campingplats för tält.",
+    "files": [
+      "H11.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H12",
+    "name": "Husvagnsplats",
+    "category": "H",
+    "explanation": "Märket visar vägen till en campingplats för husvagnar och husbilar.",
+    "files": [
+      "H12.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H13",
+    "name": "Rastplats",
+    "category": "H",
+    "explanation": "Märket visar vägen till en rastplats med bord och bänkar.",
+    "files": [
+      "H13.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H14",
+    "name": "Toalett",
+    "category": "H",
+    "explanation": "Märket visar vägen till en toalett.",
+    "files": [
+      "H14.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H15",
+    "name": "Badplats",
+    "category": "H",
+    "explanation": "Märket visar vägen till en badplats.",
+    "files": [
+      "H15.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H16",
+    "name": "Friluftsområde",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett friluftsområde.",
+    "files": [
+      "H16.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H17",
+    "name": "Vandringsled",
+    "category": "H",
+    "explanation": "Märket visar vägen till en vandringsled.",
+    "files": [
+      "H17.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H18",
+    "name": "Stollift",
+    "category": "H",
+    "explanation": "Märket visar vägen till en stollift.",
+    "files": [
+      "H18.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H19",
+    "name": "Släplift",
+    "category": "H",
+    "explanation": "Märket visar vägen till en släplift.",
+    "files": [
+      "H19.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H20",
+    "name": "Golfbana",
+    "category": "H",
+    "explanation": "Märket visar vägen till en golfbana.",
+    "files": [
+      "H20.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H21",
+    "name": "Försäljningsställe för fiskekort",
+    "category": "H",
+    "explanation": "Märket visar var fiskekort säljs.",
+    "files": [
+      "H21.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H22",
+    "name": "Sevärdhet",
+    "category": "H",
+    "explanation": "Märket visar vägen till en sevärdhet.",
+    "files": [
+      "H22.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H23",
+    "name": "Förberedande upplysning om vägnära service",
+    "category": "H",
+    "explanation": "Tavlan upplyser i förväg om vilken service som finns vid nästa avfart eller rastplats.",
+    "files": [
+      "H23.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H24",
+    "name": "Rum och frukost",
+    "category": "H",
+    "explanation": "Märket visar vägen till ett bed and breakfast.",
+    "files": [
+      "H24.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H25",
+    "name": "Gårdsbutik",
+    "category": "H",
+    "explanation": "Märket visar vägen till en gårdsbutik.",
+    "files": [
+      "H25.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H26",
+    "name": "Hantverk",
+    "category": "H",
+    "explanation": "Märket visar vägen till en hantverksförsäljning.",
+    "files": [
+      "H26.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H27",
+    "name": "Laddstation",
+    "category": "H",
+    "explanation": "Märket visar vägen till en laddstation för elfordon.",
+    "files": [
+      "H27.svg"
+    ],
+    "group": "service",
+    "quizzable": true
+  },
+  {
+    "code": "H28",
+    "name": "Anläggning som enbart tillhandahåller platser för bilar med bostadsutrymme",
+    "category": "H",
+    "explanation": "Märket visar vägen till en ställplats för husbilar.",
+    "files": [
+      "H28.svg"
+    ],
+    "group": "service",
+    "quizzable": true,
+    "aliases": [
+      "Ställplats"
+    ]
+  },
+  {
+    "code": "I1",
+    "name": "Turistväg",
+    "category": "I",
+    "explanation": "Märket anger en väg av särskilt turistiskt intresse.",
+    "files": [
+      "I1.svg"
+    ],
+    "group": "turist",
+    "quizzable": true
+  },
+  {
+    "code": "I2",
+    "name": "Turistområde",
+    "category": "I",
+    "explanation": "Märket anger ett område av särskilt turistiskt intresse.",
+    "files": [
+      "I2.svg"
+    ],
+    "group": "turist",
+    "quizzable": true
+  },
+  {
+    "code": "I3",
+    "name": "Landmärke",
+    "category": "I",
+    "explanation": "Märket visar ett landmärke som syns från vägen.",
+    "files": [
+      "I3.svg"
+    ],
+    "group": "turist",
+    "quizzable": true
+  },
+  {
+    "code": "I4",
+    "name": "Världsarv",
+    "category": "I",
+    "explanation": "Märket visar vägen till ett världsarv.",
+    "files": [
+      "I4.svg"
+    ],
+    "group": "turist",
+    "quizzable": true
+  },
+  {
+    "code": "J1",
+    "name": "Upplysningsmärke vid gräns (upphävt)",
+    "category": "J",
+    "explanation": "Märket sattes upp vid riksgränsen och upplyste om de allmänna hastighetsgränserna i Sverige. Märket är upphävt.",
+    "files": [
+      "J1.svg"
+    ],
+    "commons": [
+      "Swedish road sign J1 1.svg"
+    ],
+    "group": "upplysning",
+    "quizzable": false
+  },
+  {
+    "code": "J2",
+    "name": "Upplysningsmärke",
+    "category": "J",
+    "explanation": "Märket ger upplysning av väsentligt intresse för framkomlighet eller säkerhet som inte kan ges med annat märke.",
+    "files": [
+      "J2.svg"
+    ],
+    "group": "upplysning",
+    "quizzable": true
+  },
+  {
+    "code": "J3",
+    "name": "Livsfarlig ledning",
+    "category": "J",
+    "explanation": "Märket varnar för en livsfarlig elektrisk ledning ovanför vägen, till exempel en kontaktledning.",
+    "files": [
+      "J3-1.svg",
+      "J3-2.svg"
+    ],
+    "group": "upplysning",
+    "quizzable": true
+  },
+  {
+    "code": "M1",
+    "name": "Mittlinje eller körfältslinje",
+    "category": "M",
+    "explanation": "Streckad linje som skiljer körfält åt. Mittlinjen skiljer körriktningarna och körfältslinjen skiljer körfält i samma riktning.",
+    "files": [
+      "M1.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 1 1.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M2",
+    "name": "Kantlinje",
+    "category": "M",
+    "explanation": "Linjen markerar körbanans kant mot vägrenen. Heldragen kantlinje betyder att vägrenen inte är avsedd för fordonstrafik.",
+    "files": [
+      "M2.svg"
+    ],
+    "commons": [
+      "4 1 9 1.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M3",
+    "name": "Varningslinje",
+    "category": "M",
+    "explanation": "Streckad linje med långa streck och korta mellanrum. Den varnar för att sikten är begränsad och att det är olämpligt att köra om.",
+    "files": [
+      "M3.svg"
+    ],
+    "commons": [
+      "4 1 3.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M4",
+    "name": "Ledlinje",
+    "category": "M",
+    "explanation": "Kort streckad linje som leder dig genom en korsning eller visar körfältens fortsättning.",
+    "files": [
+      "M4.svg"
+    ],
+    "commons": [
+      "4 1 6.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M5",
+    "name": "Cykelfältslinje",
+    "category": "M",
+    "explanation": "Streckad linje som avgränsar ett cykelfält från övriga körfält.",
+    "files": [
+      "M5.svg"
+    ],
+    "commons": [
+      "4 1 8.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M6",
+    "name": "Linje för fordon i linjetrafik med flera",
+    "category": "M",
+    "explanation": "Bred streckad linje som avgränsar ett körfält reserverat för bussar i linjetrafik.",
+    "files": [
+      "M6.svg"
+    ],
+    "commons": [
+      "4 1 7.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M7",
+    "name": "Reversibelt körfält",
+    "category": "M",
+    "explanation": "Dubbel streckad linje på båda sidor om ett körfält som växelvis används för olika färdriktningar. Signaler anger vilken riktning som gäller.",
+    "files": [
+      "M7.svg"
+    ],
+    "commons": [
+      "4 1 5.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M8",
+    "name": "Heldragen linje",
+    "category": "M",
+    "explanation": "Heldragen linje får inte korsas eller överskridas med något hjul. Den används där det är farligt att byta körfält eller köra om.",
+    "files": [
+      "M8.svg"
+    ],
+    "commons": [
+      "4 1 2.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M9",
+    "name": "Spärrområde",
+    "category": "M",
+    "explanation": "Snedstreckat område avgränsat av heldragna linjer. Du får inte köra in i eller stanna på ett spärrområde.",
+    "files": [
+      "M9.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 3.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M10",
+    "name": "Mittlinje eller körfältslinje och heldragen linje",
+    "category": "M",
+    "explanation": "Kombination av streckad och heldragen linje. Du får korsa linjen om den streckade linjen är närmast dig, men inte om den heldragna är närmast.",
+    "files": [
+      "M10.svg"
+    ],
+    "commons": [
+      "4 1 4 1.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M11",
+    "name": "Varningslinje och heldragen linje",
+    "category": "M",
+    "explanation": "Kombination av varningslinje och heldragen linje. Du får inte korsa linjen om den heldragna linjen är närmast dig.",
+    "files": [
+      "M11.svg"
+    ],
+    "commons": [
+      "4 1 4 3.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M12",
+    "name": "Mittlinje och varningslinje",
+    "category": "M",
+    "explanation": "Kombination av mittlinje och varningslinje. Sikten är begränsad för trafiken på den sida där varningslinjen finns.",
+    "files": [
+      "M12.svg"
+    ],
+    "commons": [
+      "4 1 4 2.svg"
+    ],
+    "group": "vagmarkering-linje",
+    "quizzable": true
+  },
+  {
+    "code": "M13",
+    "name": "Stopplinje",
+    "category": "M",
+    "explanation": "Heldragen tvärgående linje som visar var du ska stanna vid stopplikt eller rött ljus.",
+    "files": [
+      "M13.svg"
+    ],
+    "commons": [
+      "4 2 1.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": true
+  },
+  {
+    "code": "M14",
+    "name": "Väjningslinje",
+    "category": "M",
+    "explanation": "Tvärgående linje av vita trianglar (\"hajtänder\") som visar var du bör stanna för att lämna företräde vid väjningsplikt.",
+    "files": [
+      "M14.svg"
+    ],
+    "commons": [
+      "4 2 2.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": true
+  },
+  {
+    "code": "M15",
+    "name": "Övergångsställe",
+    "category": "M",
+    "explanation": "Breda vita tvärgående streck (\"zebraränder\") som markerar ett övergångsställe för gående.",
+    "files": [
+      "M15.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 2 3.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": true
+  },
+  {
+    "code": "M16",
+    "name": "Cykelpassage eller cykelöverfart",
+    "category": "M",
+    "explanation": "Två rader av vita kvadrater som markerar en cykelpassage eller cykelöverfart.",
+    "files": [
+      "M16.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 2 4.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": true
+  },
+  {
+    "code": "M17",
+    "name": "Farthinder",
+    "category": "M",
+    "explanation": "Markeringen anger ett farthinder, till exempel ett gupp eller en upphöjning.",
+    "files": [
+      "M17.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": false
+  },
+  {
+    "code": "M18",
+    "name": "Förberedande upplysning om väjningsplikt eller stopplikt",
+    "category": "M",
+    "explanation": "En vit triangel i körbanan som förvarnar om väjningsplikt eller stopplikt längre fram.",
+    "files": [
+      "M18.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 9.svg"
+    ],
+    "group": "vagmarkering-tvars",
+    "quizzable": true
+  },
+  {
+    "code": "M19",
+    "name": "Körfältspilar",
+    "category": "M",
+    "explanation": "Pilar i körbanan som visar vilken riktning du får köra i från körfältet.",
+    "files": [
+      "M19.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 1.svg"
+    ],
+    "group": "vagmarkering-pil",
+    "quizzable": true
+  },
+  {
+    "code": "M20",
+    "name": "Körfältsbyte",
+    "category": "M",
+    "explanation": "Sned pil som anger att körfältet upphör och att du måste byta körfält i pilens riktning.",
+    "files": [
+      "M20.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 2.svg"
+    ],
+    "group": "vagmarkering-pil",
+    "quizzable": true
+  },
+  {
+    "code": "M21",
+    "name": "Förbud mot att stanna och parkera",
+    "category": "M",
+    "explanation": "Heldragen gul linje längs vägkanten som anger att det är förbjudet att stanna och parkera.",
+    "files": [
+      "M21.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 6.svg"
+    ],
+    "group": "vagmarkering-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "M22",
+    "name": "Förbud mot att parkera",
+    "category": "M",
+    "explanation": "Streckad gul linje längs vägkanten som anger att det är förbjudet att parkera.",
+    "files": [
+      "M22.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 7 1.svg"
+    ],
+    "group": "vagmarkering-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "M23",
+    "name": "Förbud mot att stanna och parkera eller att parkera",
+    "category": "M",
+    "explanation": "Gul sicksacklinje som anger att det är förbjudet att stanna och parkera eller att parkera, till exempel vid en hållplats.",
+    "files": [
+      "M23.svg"
+    ],
+    "group": "vagmarkering-parkering",
+    "quizzable": false
+  },
+  {
+    "code": "M24",
+    "name": "Uppställningsplats",
+    "category": "M",
+    "explanation": "Vita linjer som markerar var fordon får ställas upp på en parkeringsplats.",
+    "files": [
+      "M24.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 5.svg"
+    ],
+    "group": "vagmarkering-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "M25",
+    "name": "Gång- och cykelpil",
+    "category": "M",
+    "explanation": "Pil som visar färdriktningen på en gång- eller cykelbana.",
+    "files": [
+      "M25.svg"
+    ],
+    "group": "vagmarkering-pil",
+    "quizzable": false
+  },
+  {
+    "code": "M26",
+    "name": "Cykel",
+    "category": "M",
+    "explanation": "Cykelsymbol som markerar en bana, ett fält eller en passage avsedd för cyklister.",
+    "files": [
+      "M26.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 8.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "M27",
+    "name": "Gående",
+    "category": "M",
+    "explanation": "Symbol som markerar en yta avsedd för gående.",
+    "files": [
+      "M27.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": false
+  },
+  {
+    "code": "M28",
+    "name": "Buss",
+    "category": "M",
+    "explanation": "Texten BUSS i körbanan markerar ett körfält reserverat för bussar i linjetrafik.",
+    "files": [
+      "M28.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": false
+  },
+  {
+    "code": "M29",
+    "name": "Hastighet",
+    "category": "M",
+    "explanation": "Siffror i körbanan som upprepar den högsta tillåtna hastigheten.",
+    "files": [
+      "M29.svg"
+    ],
+    "commons": [
+      "Vägmarkering hastighet.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "M30",
+    "name": "Vägnummer",
+    "category": "M",
+    "explanation": "Vägnummer målat i körbanan för att visa vilket körfält som leder till vägen.",
+    "files": [
+      "M30.svg"
+    ],
+    "commons": [
+      "Vägmarkering vägnummer.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "M31",
+    "name": "Ändamålsplats",
+    "category": "M",
+    "explanation": "Text i körbanan som anger platsens ändamål, till exempel LASTPLATS eller TAXI.",
+    "files": [
+      "M31.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": false
+  },
+  {
+    "code": "M32",
+    "name": "Stopp",
+    "category": "M",
+    "explanation": "Texten STOPP i körbanan förvarnar om stopplikt.",
+    "files": [
+      "M32.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": false
+  },
+  {
+    "code": "M33",
+    "name": "Rörelsehindrad",
+    "category": "M",
+    "explanation": "Rullstolssymbol som markerar en parkeringsplats reserverad för rörelsehindrade med parkeringstillstånd.",
+    "files": [
+      "M33.svg"
+    ],
+    "commons": [
+      "Swedish road sign 4 3 10.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "M34",
+    "name": "Information",
+    "category": "M",
+    "explanation": "Text eller symbol i körbanan som ger annan information till trafikanterna.",
+    "files": [
+      "M34.svg"
+    ],
+    "group": "vagmarkering-symbol",
+    "quizzable": false
+  },
+  {
+    "code": "T1",
+    "name": "Vägsträckas längd",
+    "category": "T",
+    "explanation": "Tavlan anger hur lång vägsträcka som märket ovanför gäller för.",
+    "files": [
+      "T1.svg"
+    ],
+    "group": "tillaggstavla-avstand",
+    "quizzable": false
+  },
+  {
+    "code": "T2",
+    "name": "Avstånd",
+    "category": "T",
+    "explanation": "Tavlan anger avståndet till det som märket ovanför varnar för eller upplyser om.",
+    "files": [
+      "T2.svg"
+    ],
+    "group": "tillaggstavla-avstand",
+    "quizzable": true
+  },
+  {
+    "code": "T3",
+    "name": "Avstånd till stopplikt",
+    "category": "T",
+    "explanation": "Tavlan sitter under väjningspliktsmärket och anger avståndet till en korsning med stopplikt.",
+    "files": [
+      "T3.svg"
+    ],
+    "group": "tillaggstavla-avstand",
+    "quizzable": true
+  },
+  {
+    "code": "T4",
+    "name": "Fri bredd",
+    "category": "T",
+    "explanation": "Tavlan anger den fria bredden, till exempel vid en smal bro eller port.",
+    "files": [
+      "T4.svg"
+    ],
+    "group": "tillaggstavla-matt",
+    "quizzable": true
+  },
+  {
+    "code": "T5",
+    "name": "Totalvikt",
+    "category": "T",
+    "explanation": "Tavlan anger att märket ovanför bara gäller fordon med totalvikt över den angivna vikten.",
+    "files": [
+      "T5.svg"
+    ],
+    "group": "tillaggstavla-matt",
+    "quizzable": true
+  },
+  {
+    "code": "T6",
+    "name": "Tidsangivelse",
+    "category": "T",
+    "explanation": "Tavlan anger när märket ovanför gäller. Svarta siffror gäller vardagar, siffror inom parentes vardag före sön- och helgdag och röda siffror sön- och helgdagar.",
+    "files": [
+      "T6.svg"
+    ],
+    "group": "tillaggstavla-tid",
+    "quizzable": true
+  },
+  {
+    "code": "T7",
+    "name": "Rörelsehindrade",
+    "category": "T",
+    "explanation": "Tavlan anger att märket ovanför, till exempel parkering, bara gäller rörelsehindrade med särskilt parkeringstillstånd.",
+    "files": [
+      "T7.svg"
+    ],
+    "commons": [
+      "Swedish road sign 11 13 2.svg"
+    ],
+    "group": "tillaggstavla-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "T8",
+    "name": "Symboltavla",
+    "category": "T",
+    "explanation": "Tavlan anger med symbol vilket fordonsslag eller vilken trafikantgrupp märket ovanför gäller för.",
+    "files": [
+      "T8-1.svg",
+      "T8-2.svg",
+      "T8-3.svg"
+    ],
+    "commons": [
+      "Swedish road sign 11 13 11.svg",
+      "Swedish road sign 11 13 41.svg",
+      "Swedish road sign 11 13 6.svg"
+    ],
+    "group": "tillaggstavla-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "T9",
+    "name": "Nedsatt syn",
+    "category": "T",
+    "explanation": "Tavlan anger att personer med nedsatt syn ofta korsar vägen på platsen.",
+    "files": [
+      "T9.svg"
+    ],
+    "group": "tillaggstavla-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "T10",
+    "name": "Nedsatt hörsel",
+    "category": "T",
+    "explanation": "Tavlan anger att personer med nedsatt hörsel ofta korsar vägen på platsen.",
+    "files": [
+      "T10.svg"
+    ],
+    "group": "tillaggstavla-symbol",
+    "quizzable": true
+  },
+  {
+    "code": "T11",
+    "name": "Utsträckning",
+    "category": "T",
+    "explanation": "Tavlan med pilar anger hur långt märket ovanför gäller, till exempel om ett parkeringsförbud börjar, fortsätter eller slutar vid märket.",
+    "files": [
+      "T11-1.svg",
+      "T11-2.svg"
+    ],
+    "commons": [
+      "Utsträckning, höger.svg",
+      "Utsträckning, vänster och höger.svg"
+    ],
+    "group": "tillaggstavla-riktning",
+    "quizzable": true
+  },
+  {
+    "code": "T12",
+    "name": "Riktning",
+    "category": "T",
+    "explanation": "Tavlan anger i vilken riktning det som märket ovanför avser finns.",
+    "files": [
+      "T12-1.svg",
+      "T12-2.svg"
+    ],
+    "commons": [
+      "Swedish road sign 11 18 11.svg",
+      "Swedish road sign 11 18 12.svg"
+    ],
+    "group": "tillaggstavla-riktning",
+    "quizzable": true
+  },
+  {
+    "code": "T13",
+    "name": "Flervägsväjning",
+    "category": "T",
+    "explanation": "Tavlan sitter under väjningspliktsmärket och anger att alla tillfarter i korsningen har väjningsplikt.",
+    "files": [
+      "T13.svg"
+    ],
+    "group": "tillaggstavla-korsning",
+    "quizzable": true
+  },
+  {
+    "code": "T14",
+    "name": "Flervägsstopp",
+    "category": "T",
+    "explanation": "Tavlan sitter under stoppmärket och anger att alla tillfarter i korsningen har stopplikt.",
+    "files": [
+      "T14.svg"
+    ],
+    "group": "tillaggstavla-korsning",
+    "quizzable": true
+  },
+  {
+    "code": "T15",
+    "name": "Vägars fortsättning i korsning",
+    "category": "T",
+    "explanation": "Tavlan visar hur huvudleden eller den väg som märket avser fortsätter genom korsningen. Den breda linjen visar huvudleden.",
+    "files": [
+      "T15-1.svg",
+      "T15-2.svg"
+    ],
+    "commons": [
+      "Swedish road sign 11 23 1.svg",
+      "Swedish road sign 11 23 2.svg"
+    ],
+    "group": "tillaggstavla-korsning",
+    "quizzable": true
+  },
+  {
+    "code": "T16",
+    "name": "Avgift",
+    "category": "T",
+    "explanation": "Tavlan anger att parkering är avgiftsbelagd.",
+    "files": [
+      "T16.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T17",
+    "name": "Parkeringsskiva",
+    "category": "T",
+    "explanation": "Tavlan anger att parkeringsskiva ska användas och att ankomsttiden ska ställas in.",
+    "files": [
+      "T17.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true,
+    "aliases": [
+      "P-skiva"
+    ]
+  },
+  {
+    "code": "T18",
+    "name": "Tillåten tid för parkering",
+    "category": "T",
+    "explanation": "Tavlan anger hur länge du får parkera på platsen.",
+    "files": [
+      "T18.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T19",
+    "name": "Boende",
+    "category": "T",
+    "explanation": "Tavlan anger att parkeringen är reserverad för boende med särskilt tillstånd.",
+    "files": [
+      "T19.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T20",
+    "name": "Parkeringsbiljett",
+    "category": "T",
+    "explanation": "Tavlan anger att parkeringsbiljett ska lösas och placeras synlig i fordonet.",
+    "files": [
+      "T20.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T21",
+    "name": "Uppställning av fordon",
+    "category": "T",
+    "explanation": "Tavlan visar hur fordonet ska ställas upp på parkeringsplatsen, till exempel snett eller med hjulen på trottoaren.",
+    "files": [
+      "T21-1.svg",
+      "T21-2.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T22",
+    "name": "Text",
+    "category": "T",
+    "explanation": "Tavlan ger en kompletterande upplysning i text som inte kan anges med symbol.",
+    "files": [
+      "T22.svg"
+    ],
+    "group": "tillaggstavla-ovrigt",
+    "quizzable": false
+  },
+  {
+    "code": "T23",
+    "name": "Tunnelkategori",
+    "category": "T",
+    "explanation": "Tavlan anger tunnelns kategori (B–E) som avgör vilka transporter av farligt gods som är förbjudna i tunneln.",
+    "files": [
+      "T23-1.svg",
+      "T23-2.svg"
+    ],
+    "group": "tillaggstavla-ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "T24",
+    "name": "Laddplats",
+    "category": "T",
+    "explanation": "Tavlan anger att parkeringsplatsen är reserverad för laddning av elfordon.",
+    "files": [
+      "T24.svg"
+    ],
+    "group": "tillaggstavla-parkering",
+    "quizzable": true
+  },
+  {
+    "code": "T25",
+    "name": "Öppet dygnet runt",
+    "category": "T",
+    "explanation": "Tavlan anger att serviceanläggningen som märket ovanför visar är öppen dygnet runt.",
+    "files": [
+      "T25.svg"
+    ],
+    "group": "tillaggstavla-ovrigt",
+    "quizzable": true
+  },
+  {
+    "code": "X1",
+    "name": "Markeringspil",
+    "category": "X",
+    "explanation": "Pilen markerar en skarp kurva eller ett hinder och visar åt vilket håll du ska köra.",
+    "files": [
+      "X1-1.svg",
+      "X1-2.svg"
+    ],
+    "commons": [
+      "SE road sign X1 (2 chevrons, right).svg",
+      "SE road sign X1 (2 chevrons, left).svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X2",
+    "name": "Markeringsskärm för hinder",
+    "category": "X",
+    "explanation": "Skärmen markerar ett hinder på vägen, till exempel vid vägarbete. De sneda fälten visar på vilken sida du ska passera.",
+    "files": [
+      "X2.svg"
+    ],
+    "commons": [
+      "Swedish road sign 7 1 3.svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X3",
+    "name": "Markeringsskärm för sidohinder, farthinder med mera",
+    "category": "X",
+    "explanation": "Skärmen markerar ett hinder vid sidan av vägen, en refug eller ett farthinder. Fälten lutar mot den sida du ska passera på.",
+    "files": [
+      "X3-1.svg",
+      "X3-2.svg"
+    ],
+    "commons": [
+      "Markeringsskärm sidohinder, höger.svg",
+      "Markeringsskärm sidohinder, vänster.svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X4",
+    "name": "Avfartsskärm",
+    "category": "X",
+    "explanation": "Skärmen sitter i spetsen mellan motorvägen och avfarten och markerar var avfarten skiljs från vägen.",
+    "files": [
+      "X4.svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X5",
+    "name": "Gul ljuspil eller ljuspilar",
+    "category": "X",
+    "explanation": "Blinkande gula ljuspilar på ett fordon eller en vagn visar att du ska passera på pilens sida, till exempel vid vägarbete.",
+    "files": [
+      "X5.svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X6",
+    "name": "Särskild varningsanordning",
+    "category": "X",
+    "explanation": "Anordningen varnar för en tillfällig fara, till exempel en olycka eller ett stillastående fordon.",
+    "files": [
+      "X6-1.svg"
+    ],
+    "group": "anordning",
+    "quizzable": true
+  },
+  {
+    "code": "X7",
+    "name": "Vägbom",
+    "category": "X",
+    "explanation": "Bommen stänger av vägen helt eller delvis, till exempel vid järnvägskorsning eller vägarbete.",
+    "files": [
+      "X7.svg"
+    ],
+    "group": "anordning",
+    "quizzable": false
+  },
+  {
+    "code": "X8",
+    "name": "Tillfällig stängning",
+    "category": "X",
+    "explanation": "Anordningen visar att en väg eller ett körfält är tillfälligt avstängt.",
+    "files": [
+      "X8.svg"
+    ],
+    "group": "anordning",
+    "quizzable": false
+  },
+  {
+    "code": "X9",
+    "name": "Cirkulationstrafik",
+    "category": "X",
+    "explanation": "Anordningen sitter i mitten av en cirkulationsplats och visar att trafiken ska köra runt den.",
+    "files": [
+      "X9.svg"
+    ],
+    "group": "anordning",
+    "quizzable": false
+  },
+  {
+    "code": "X10",
+    "name": "Stolpmarkeringsanordning",
+    "category": "X",
+    "explanation": "Reflekterande markering på en stolpe eller annat föremål nära körbanan.",
+    "files": [
+      "X10.svg"
+    ],
+    "group": "anordning",
+    "quizzable": false
+  },
+  {
+    "code": "P6",
+    "name": "Kontroll",
+    "category": "P",
+    "explanation": "Skylten används av polis vid trafikkontroll. Du ska sakta ner och följa polisens anvisningar.",
+    "files": [
+      "P6.svg"
+    ],
+    "group": "polis",
+    "quizzable": true
+  },
+  {
+    "code": "P7",
+    "name": "Förberedande upplysning om kontroll",
+    "category": "P",
+    "explanation": "Skylten förvarnar om en poliskontroll längre fram.",
+    "files": [
+      "P7.svg"
+    ],
+    "group": "polis",
+    "quizzable": true
+  }
+]

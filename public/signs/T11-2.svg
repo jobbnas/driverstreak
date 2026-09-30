@@ -1,0 +1,29 @@
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="486"
+   height="228"
+   viewBox="-0.524 -0.9 228 486"
+   id="svg3248"
+   xml:space="preserve">
+	<defs
+   id="defs3250" />
+	
+<g
+   transform="matrix(0,2.131579,-2.131579,0,629.5313,-0.840316)"
+   id="g3300">
+		<rect
+   width="227.23199"
+   height="484.776"
+   x="0.108"
+   y="0.108"
+   style="fill:white;stroke:black;stroke-width:0.21600001"
+   id="rect3302" /> 
+		<polygon
+   points="174.276,373.716 113.724,434.268 53.1,373.716 98.532,373.716 98.532,282.852 128.772,282.852 128.772,373.716 174.276,373.716 "
+   id="polygon3304" />
+		<polygon
+   points="53.172,111.132 113.796,50.58 174.348,111.132 128.916,111.132 128.916,202.068 98.676,202.068 98.676,111.132 53.172,111.132 "
+   id="polygon3306" />
+	</g></svg>

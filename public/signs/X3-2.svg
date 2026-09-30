@@ -1,0 +1,37 @@
+<svg viewBox="0 0 136.44 527.90997"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="136.44"
+   height="527.90997"
+   id="svg1955">
+  <defs
+     id="defs1957" />
+  <g
+     id="layer1">
+    <g
+       transform="translate(0,5.973145e-3)"
+       id="g1903">
+      <polygon
+         points="136.44,497.592 0,402.048 0,527.904 136.44,527.904 136.44,497.592 "
+         style="fill:#0c479d"
+         id="polygon8" />
+      <polygon
+         points="136.44,497.592 0,402.048 0,292.032 136.44,387.504 136.44,497.592 "
+         style="fill:#feb82f"
+         id="polygon10" />
+      <polygon
+         points="136.44,233.64 0,138.096 0,292.032 136.44,387.504 136.44,233.64 "
+         style="fill:#0c479d"
+         id="polygon12" />
+      <polygon
+         points="136.44,233.64 0,138.096 0,28.08 136.44,123.552 136.44,233.64 "
+         style="fill:#feb82f"
+         id="polygon14" />
+      <polygon
+         points="0,0 136.44,0 136.44,123.552 0,28.08 0,0 "
+         style="fill:#0c479d"
+         id="polygon16" />
+    </g>
+  </g>
+</svg>

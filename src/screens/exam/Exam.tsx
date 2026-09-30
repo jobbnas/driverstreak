@@ -10,6 +10,7 @@ import { recordExam } from '@/storage/stats';
 import { CATEGORY_LABEL, type ExamResult, type Question, type Category } from '@/types';
 import { clearSession, hasStoredSession, loadSession, saveSession } from './examStorage';
 import '@/styles/exam.css';
+import { ReportButton } from '@/ui/ReportButton';
 
 export function ExamRoutes() {
   const r = route.value;
@@ -276,6 +277,7 @@ export function ReviewCard(props: { index?: number; q: Question; chosenOriginal:
       </div>
       <p class="expl">{q.explanation}</p>
       {q.legalRef && <p class="muted" style={{ fontSize: 12, marginTop: 6 }}>{q.legalRef}</p>}
+      <ReportButton qid={q.id} />
     </div>
   );
 }

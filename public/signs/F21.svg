@@ -1,0 +1,27 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="512" height="636" viewBox="-0.88 -0.744 512 636" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		<rect fill="#0C479D" width="510.192" height="634.464"/> 
+		<rect x="484.488" y="10.44" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<rect x="484.488" y="155.088" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<rect x="484.488" y="299.952" fill="#FFFFFF" width="12.024" height="34.416"/> 
+		<rect x="484.488" y="444.744" fill="#FFFFFF" width="12.024" height="34.416"/> 
+		<rect x="484.488" y="589.536" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<polygon fill="#FFFFFF" points="375.696,292.32 375.696,600.048 355.032,600.048 355.032,283.824 419.616,219.024 
+			390.456,189.864 475.632,177.552 463.608,262.944 434.232,233.784 "/>
+		<rect x="249.12" y="589.536" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<rect x="249.12" y="444.744" fill="#FFFFFF" width="12.024" height="34.416"/> 
+		<rect x="249.12" y="299.952" fill="#FFFFFF" width="12.024" height="34.416"/> 
+		<rect x="249.12" y="155.088" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<rect x="249.12" y="10.44" fill="#FFFFFF" width="12.024" height="34.488"/> 
+		<polygon fill="#FFFFFF" points="75.888,233.712 158.76,316.368 158.76,599.976 179.352,599.976 179.352,103.464 220.752,103.464 
+			168.984,34.488 117.36,103.464 158.76,103.464 158.76,287.208 90.504,218.952 119.88,189.792 34.488,177.48 46.8,262.872 "/>
+		<rect x="13.896" y="10.44" fill="#FFFFFF" width="12.096" height="34.488"/> 
+		<rect x="13.896" y="155.088" fill="#FFFFFF" width="12.096" height="34.488"/> 
+		<rect x="13.896" y="299.952" fill="#FFFFFF" width="12.096" height="34.416"/> 
+		<rect x="13.896" y="444.744" fill="#FFFFFF" width="12.096" height="34.416"/> 
+		<rect x="13.896" y="589.536" fill="#FFFFFF" width="12.096" height="34.488"/> 
+	</g>
+</svg>

@@ -1,0 +1,1928 @@
+[
+  {
+    "id": "pe-alk-001",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Vid vilken promillehalt i blodet räknas det som rattfylleri i Sverige?",
+    "options": [
+      "0,2 promille",
+      "0,5 promille",
+      "0,8 promille",
+      "1,0 promille"
+    ],
+    "correct": 0,
+    "explanation": "Gränsen för rattfylleri är 0,2 promille alkohol i blodet, vilket motsvarar 0,10 mg/l i utandningsluften. Grovt rattfylleri börjar vid 1,0 promille.",
+    "legalRef": "Trafikbrottslagen 4 §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-002",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Från vilken promillehalt räknas rattfylleri som grovt?",
+    "options": [
+      "0,5 promille",
+      "1,0 promille",
+      "1,5 promille",
+      "2,0 promille"
+    ],
+    "correct": 1,
+    "explanation": "Grovt rattfylleri gäller från 1,0 promille i blodet (0,50 mg/l i utandningsluften). Det kan också bedömas som grovt vid lägre halt om körningen inneburit påtaglig fara.",
+    "legalRef": "Trafikbrottslagen 4 a §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-003",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Vilken alkoholhalt i utandningsluften motsvarar gränsen för rattfylleri, 0,2 promille?",
+    "options": [
+      "0,02 mg/l",
+      "0,05 mg/l",
+      "0,10 mg/l",
+      "0,20 mg/l"
+    ],
+    "correct": 2,
+    "explanation": "0,2 promille i blodet motsvarar 0,10 milligram alkohol per liter utandningsluft. Gränsen för grovt rattfylleri, 1,0 promille, motsvarar 0,50 mg/l.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-004",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Ungefär hur snabbt bryter kroppen ned alkohol?",
+    "options": [
+      "Cirka 0,5 promille per timme",
+      "Cirka 0,3 promille per timme",
+      "Snabbare ju mer du har druckit",
+      "Cirka 0,15 promille per timme"
+    ],
+    "correct": 3,
+    "explanation": "Levern bryter ned alkohol i en jämn takt på ungefär 0,15 promille per timme, oavsett hur mycket du druckit. Ett standardglas tar därför cirka 1,5–2 timmar att förbränna.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-005",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Vad kan påskynda nedbrytningen av alkohol i kroppen?",
+    "options": [
+      "Ingenting – bara tiden hjälper",
+      "En kall dusch och frisk luft",
+      "Ett par koppar starkt kaffe",
+      "Fet mat efter drickandet"
+    ],
+    "correct": 0,
+    "explanation": "Inget påskyndar nedbrytningen – varken kaffe, dusch, motion eller mat. Levern arbetar i sin egen takt (ca 0,15 promille per timme), så det enda som hjälper är att vänta.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-006",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Du slutar dricka klockan 01 efter att ha druckit motsvarande sex standardglas under kvällen. Vad gäller när du ska köra till jobbet klockan 07?",
+    "options": [
+      "Du är sannolikt nykter eftersom du har sovit",
+      "Du kan fortfarande ha alkohol kvar i blodet och riskerar rattfylleri",
+      "Sömnen påskyndar nedbrytningen så du är säkert under 0,2 promille",
+      "Du är nykter så länge du inte känner dig påverkad"
+    ],
+    "correct": 1,
+    "explanation": "Ett standardglas tar cirka 1,5–2 timmar att bryta ned och sex glas kan ta uppåt 10–12 timmar. Sömn påskyndar inte förbränningen. Rattfylleri 'dagen efter' är vanligt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-007",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Vilken förmåga påverkas först när du dricker alkohol?",
+    "options": [
+      "Synskärpan",
+      "Muskelstyrkan",
+      "Omdömet",
+      "Balansen"
+    ],
+    "correct": 2,
+    "explanation": "Alkohol slår först mot hjärnans högre funktioner – omdöme och självkritik – vilket gör att du överskattar din förmåga. Koordination och balans försämras senare, vid högre halter.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-008",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "Varför får en person som väger 55 kg normalt högre promillehalt än en person som väger 85 kg av samma mängd alkohol?",
+    "options": [
+      "Lättare personer dricker oftare på fastande mage",
+      "Alkohol lagras i fettväven hos lättare personer",
+      "Lättare personer har en mindre lever",
+      "Alkoholen fördelas i kroppens vatten och en lättare kropp har mindre vatten"
+    ],
+    "correct": 3,
+    "explanation": "Alkoholen sprids i kroppsvätskan. Den som väger mindre, och den som har lägre andel vatten i kroppen (t.ex. kvinnor i genomsnitt), får därför högre promille av samma mängd.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-009",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Vad är sant om alkolås?",
+    "options": [
+      "Föraren måste blåsa nykter i låset för att motorn ska kunna startas",
+      "Låset stänger av motorn om föraren har druckit under färden",
+      "Alkolås är obligatoriskt i alla nya personbilar",
+      "Alkolåset registrerar bara hastighet och körtid"
+    ],
+    "correct": 0,
+    "explanation": "Ett alkolås kräver ett godkänt utandningsprov innan motorn kan startas, och kan begära återtest under färd. Det stänger inte av motorn under körning och är inte obligatoriskt i personbilar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-010",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Du har dömts för rattfylleri och vill kunna fortsätta köra bil. Vilken möjlighet finns?",
+    "options": [
+      "Att köpa en bil med automatisk nykterhetskontroll",
+      "Att ansöka om körkort med villkor om alkolås i stället för återkallelse",
+      "Att köra enbart dagtid under spärrtiden",
+      "Att övningsköra med handledare tills spärrtiden gått ut"
+    ],
+    "correct": 1,
+    "explanation": "Den som gjort sig skyldig till rattfylleri kan ansöka hos Transportstyrelsen om körkort med villkor om alkolås. Villkorstiden är normalt ett år, två år vid grovt rattfylleri eller återfall, och föraren betalar själv.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-011",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Hur påverkar alkohol synen?",
+    "options": [
+      "Synskärpan förbättras tillfälligt",
+      "Färgseendet försvinner helt",
+      "Synfältet krymper och ögonen får svårare att följa rörelser",
+      "Synen påverkas inte förrän över 1,0 promille"
+    ],
+    "correct": 2,
+    "explanation": "Alkohol ger ett smalare synfält (tunnelseende), sämre mörkerseende och ögonen har svårare att fokusera och följa rörliga föremål – redan vid låga halter.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-012",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "Vilket påstående om alkohol och reaktionstid stämmer bäst?",
+    "options": [
+      "Reaktionstiden påverkas först vid grovt rattfylleri",
+      "Reaktionstiden blir kortare eftersom man känner sig pigg",
+      "Reaktionstiden påverkas bara om man också är trött",
+      "Reaktionstiden förlängs redan vid promillehalter under 0,2"
+    ],
+    "correct": 3,
+    "explanation": "Redan små mängder alkohol påverkar reaktion, uppmärksamhet och omdöme – därför är gränsen satt så lågt. Känslan av att vara pigg beror på att omdömet sviktar, inte på att man reagerar snabbare.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-013",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Varför är alkohol särskilt farligt för unga, oerfarna förare?",
+    "options": [
+      "Körvanan är liten samtidigt som omdömet försämras och risktagandet ökar",
+      "Unga kroppar bryter ned alkohol betydligt långsammare",
+      "Unga blir alltid mer berusade av samma mängd alkohol",
+      "Unga påverkas mindre av alkohol och dricker därför mer"
+    ],
+    "correct": 0,
+    "explanation": "En ny förare har få automatiserade rutiner att luta sig mot. När alkoholen dessutom försämrar omdömet och ökar risktagandet blir kombinationen mycket farlig – unga förare löper störst risk.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-014",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Vad menas med ett standardglas alkohol?",
+    "options": [
+      "En flaska vin oavsett alkoholhalt",
+      "Cirka 12 gram ren alkohol, t.ex. 33 cl starköl, 12–15 cl vin eller 4 cl sprit",
+      "En burk starköl på 50 cl",
+      "Ett glas av valfri dryck som serveras på restaurang"
+    ],
+    "correct": 1,
+    "explanation": "Ett standardglas innehåller ungefär 12 gram ren alkohol – motsvarande 33 cl starköl, ett litet glas vin eller 4 cl sprit. Kroppen behöver cirka 1,5–2 timmar per standardglas.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-015",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Du dricker två glas vin till maten. Vad stämmer om matens betydelse?",
+    "options": [
+      "Maten neutraliserar alkoholen så att du blir nykter snabbare",
+      "Fet mat gör att alkoholen inte tas upp alls",
+      "Maten fördröjer upptaget men all alkohol tas ändå upp och måste brytas ned",
+      "Maten ökar promillehalten eftersom levern är upptagen med matsmältningen"
+    ],
+    "correct": 2,
+    "explanation": "Mat i magen gör att alkoholen tas upp långsammare och toppen blir lägre, men den totala mängden alkohol är densamma och nedbrytningen tar lika lång tid.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-016",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Får polisen ta ett utandningsprov på dig utan att misstänka att du har druckit?",
+    "options": [
+      "Nej, bara efter en olycka",
+      "Nej, bara vid misstanke om brott",
+      "Bara om du är under 25 år",
+      "Ja, polisen får göra rutinmässiga sållningsprov"
+    ],
+    "correct": 3,
+    "explanation": "Polisen får stoppa vilken förare som helst och göra ett sållningsprov (utandningsprov) utan misstanke. Visar det utslag görs ett bevisprov eller blodprov.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-017",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Vilken påföljd kan grovt rattfylleri ge?",
+    "options": [
+      "Fängelse i upp till två år och återkallat körkort",
+      "Enbart penningböter",
+      "Enbart en varning från Transportstyrelsen",
+      "Indraget körkort i högst en månad"
+    ],
+    "correct": 0,
+    "explanation": "Grovt rattfylleri har fängelse i högst två år i straffskalan och körkortet återkallas normalt med en spärrtid på minst ett år. Vid vanligt rattfylleri är straffet böter eller fängelse i högst sex månader.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-018",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "En kväll når din promillehalt som högst 1,2. Ungefär hur lång tid tar det från toppen tills alkoholen är helt borta ur blodet?",
+    "options": [
+      "2–3 timmar",
+      "Cirka 8 timmar",
+      "Cirka 4 timmar",
+      "Cirka 20 timmar"
+    ],
+    "correct": 1,
+    "explanation": "Med en nedbrytning på cirka 0,15 promille per timme tar 1,2 promille ungefär 8 timmar (1,2 / 0,15 = 8). Individuella skillnader gör att det kan ta både kortare och längre tid.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-019",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Hur påverkar alkohol risken för trötthet vid körning?",
+    "options": [
+      "Alkohol gör dig piggare de första timmarna och är sedan neutral",
+      "Alkohol påverkar inte tröttheten",
+      "Alkohol förstärker tröttheten och gör det lättare att somna vid ratten",
+      "Alkohol motverkar trötthet på natten"
+    ],
+    "correct": 2,
+    "explanation": "Alkohol är dämpande och förstärker trötthet. Kombinationen alkohol, sen natt och lite sömn är en av de farligaste i trafiken.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-020",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Vad gäller för handledaren vid privat övningskörning i fråga om alkohol?",
+    "options": [
+      "Handledaren får ha upp till 0,5 promille",
+      "Promillegränsen gäller bara den som sitter vid ratten",
+      "Handledaren får dricka alkohol så länge eleven är nykter",
+      "Handledaren räknas som förare och omfattas av samma promillegräns"
+    ],
+    "correct": 3,
+    "explanation": "Vid övningskörning anses handledaren vara förare. Handledaren kan därför dömas för rattfylleri från 0,2 promille precis som om hen själv hade kört.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-021",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Varför är det farligt att lita på hur påverkad man själv känner sig?",
+    "options": [
+      "Alkohol försämrar omdömet så att man underskattar sin påverkan",
+      "Känslan stämmer alltid väl med promillehalten",
+      "Man känner sig mer påverkad än man egentligen är",
+      "Kroppen larmar tydligt när gränsen 0,2 passeras"
+    ],
+    "correct": 0,
+    "explanation": "Den första effekten av alkohol är att självkritiken och omdömet försämras. Man tror sig därför vara mindre påverkad än man är – särskilt vid låga halter där man inte känner sig berusad.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-022",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "Vilket samband finns mellan promillehalt och olycksrisk?",
+    "options": [
+      "Risken ökar linjärt – dubbel promille ger dubbel risk",
+      "Risken ökar redan vid låga halter och växer allt snabbare ju högre halten blir",
+      "Risken är oförändrad upp till 0,5 promille",
+      "Risken ökar först vid grovt rattfylleri"
+    ],
+    "correct": 1,
+    "explanation": "Olycksrisken ökar redan vid låga halter och stiger sedan brant – vid 1,0 promille är risken mångdubbelt högre än nykter. Därför finns ingen 'säker' nivå av alkohol i trafiken.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-023",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 2,
+    "question": "Du ska köra hem från en fest. Du har inte druckit något på fem timmar men var mycket berusad tidigare på kvällen. Vad bör du göra?",
+    "options": [
+      "Köra försiktigt eftersom fem timmar är tillräckligt",
+      "Köra om du känner dig klar i huvudet",
+      "Låta bilen stå – du kan fortfarande ha en hög promillehalt",
+      "Dricka mycket vatten och köra efter en halvtimme"
+    ],
+    "correct": 2,
+    "explanation": "Var du mycket berusad kan halten ha varit över 1,5 promille, och på fem timmar bryts bara cirka 0,75 promille ned. Känslan av klarhet är inte ett mått på nykterhet. Ta taxi eller sov över.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-024",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 1,
+    "question": "Hur påverkar alkohol förmågan att bedöma avstånd och hastighet?",
+    "options": [
+      "Den påverkas inte vid måttliga mängder",
+      "Bedömningen blir mer försiktig",
+      "Bara avståndsbedömningen påverkas",
+      "Både avstånds- och hastighetsbedömningen försämras"
+    ],
+    "correct": 3,
+    "explanation": "Alkohol försämrar både avstånds- och hastighetsbedömningen, samtidigt som föraren blir mer benägen att ta risker. Det gör omkörningar och korsningar särskilt farliga.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-alk-025",
+    "category": "personliga",
+    "subtopic": "alkohol",
+    "difficulty": 3,
+    "question": "En förare har 0,15 promille i blodet och orsakar en olycka genom att köra vingligt och ouppmärksamt. Vad kan gälla?",
+    "options": [
+      "Föraren kan dömas för vårdslöshet i trafik även om halten är under gränsen för rattfylleri",
+      "Ingenting, eftersom halten ligger under 0,2 promille",
+      "Föraren döms automatiskt för rattfylleri",
+      "Föraren kan bara få en varning"
+    ],
+    "correct": 0,
+    "explanation": "Rattfylleri kräver minst 0,2 promille, men trafikförordningen förbjuder körning när man inte kan köra på ett betryggande sätt, och den som kör oaktsamt kan dömas för vårdslöshet i trafik oavsett promillehalt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-001",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 1,
+    "question": "Vad gäller för narkotika i blodet när du kör bil?",
+    "options": [
+      "Gränsen är densamma som för alkohol, 0,2 promille",
+      "Nollgräns – all narkotika i blodet är rattfylleri, utom ordinerade läkemedel i föreskriven dos",
+      "Det är tillåtet så länge du inte känner dig påverkad",
+      "Bara cannabis omfattas av förbudet"
+    ],
+    "correct": 1,
+    "explanation": "Sverige har nollgräns för narkotika i trafiken. Minsta spårbara mängd i blodet räknas som rattfylleri. Undantaget är narkotikaklassade läkemedel som tagits enligt läkares ordination.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-002",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 1,
+    "question": "Du använder ett receptbelagt, narkotikaklassat läkemedel i den dos läkaren ordinerat. Vad gäller för bilkörning?",
+    "options": [
+      "Du får aldrig köra bil under behandlingen",
+      "Du får köra om du har med dig receptet i bilen",
+      "Du får köra om läkemedlet inte påverkar din körförmåga, men du ansvarar själv för bedömningen",
+      "Du får bara köra på dagtid"
+    ],
+    "correct": 2,
+    "explanation": "Undantaget från nollgränsen gäller läkemedel som tagits enligt ordination, men du kan ändå dömas om du kör påverkad. Rådgör med läkare eller apotek om hur medlet påverkar dig.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-003",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Var hittar du i dag information om ett läkemedel kan påverka körförmågan?",
+    "options": [
+      "På den röda varningstriangeln på förpackningen",
+      "På receptet från läkaren",
+      "Bara genom att fråga polisen",
+      "I bipacksedeln, under rubriken om körförmåga och användning av maskiner"
+    ],
+    "correct": 3,
+    "explanation": "Den röda varningstriangeln på läkemedelsförpackningar togs bort 2005. I stället ska du läsa bipacksedeln och vid behov fråga läkare eller apotekspersonal.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-004",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Vilka typer av läkemedel kan påverka körförmågan?",
+    "options": [
+      "Sömnmedel, lugnande medel, starka smärtstillande och vissa allergimediciner",
+      "Bara narkotikaklassade läkemedel",
+      "Endast läkemedel som ges med spruta",
+      "Bara läkemedel som köps på recept"
+    ],
+    "correct": 0,
+    "explanation": "Många läkemedel kan göra dig dåsig, långsam eller ouppmärksam – t.ex. sömnmedel, lugnande, starka smärtstillande, vissa antihistaminer och åksjukemedel. Även receptfria preparat kan påverka.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-005",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 1,
+    "question": "Kan receptfria läkemedel påverka din körförmåga?",
+    "options": [
+      "Nej, receptfria läkemedel är alltid ofarliga i trafiken",
+      "Ja, t.ex. vissa allergi- och åksjukemedel kan göra dig dåsig",
+      "Bara om de kombineras med alkohol",
+      "Bara om du tar dubbel dos"
+    ],
+    "correct": 1,
+    "explanation": "Att ett läkemedel är receptfritt betyder inte att det är ofarligt i trafiken. Vissa allergimedel, åksjukemedel och hostmediciner ger trötthet och sämre reaktionsförmåga.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-006",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Hur påverkar cannabis körförmågan?",
+    "options": [
+      "Enbart reaktionstiden förlängs något",
+      "Cannabis skärper uppmärksamheten",
+      "Uppmärksamhet, tidsuppfattning och koordination försämras och effekten kan sitta i länge",
+      "Effekten försvinner helt efter en timme"
+    ],
+    "correct": 2,
+    "explanation": "Cannabis försämrar uppmärksamhet, koncentration, tids- och avståndsuppfattning samt koordination. Påverkan kan sitta i många timmar och THC kan spåras i blodet långt efter ruset.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-007",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Varför är amfetamin och liknande centralstimulerande medel farliga i trafiken?",
+    "options": [
+      "De gör föraren trött omedelbart",
+      "De påverkar bara synen",
+      "De är ofarliga så länge föraren är vaken",
+      "De ger överdriven självsäkerhet och risktagande, följt av kraftig trötthet när effekten avtar"
+    ],
+    "correct": 3,
+    "explanation": "Centralstimulerande droger ger en falsk känsla av skärpa och kontroll, ökar risktagandet och kan följas av plötslig, kraftig trötthet. Omdömet försämras hela tiden.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-008",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 3,
+    "question": "Du rökte cannabis på en fest i lördags. På måndag morgon känner du dig helt opåverkad. Vad gäller om du kör bil?",
+    "options": [
+      "Du kan dömas för drograttfylleri eftersom THC kan finnas kvar i blodet",
+      "Du får köra eftersom mer än 24 timmar har gått",
+      "Du får köra så länge du känner dig opåverkad",
+      "Det är tillåtet på vardagar men inte på helger"
+    ],
+    "correct": 0,
+    "explanation": "Nollgränsen gäller mängden i blodet, inte hur påverkad du känner dig. THC kan spåras länge efter ruset – ibland flera dygn – och då räknas det som rattfylleri.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-009",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Vad gäller om du kombinerar alkohol med lugnande läkemedel?",
+    "options": [
+      "Läkemedlet dämpar alkoholens effekt",
+      "Effekterna förstärker varandra och påverkan kan bli mycket större än väntat",
+      "Kombinationen är ofarlig vid låga doser",
+      "Alkoholen bryts ned snabbare"
+    ],
+    "correct": 1,
+    "explanation": "Alkohol och dämpande läkemedel förstärker varandras effekt. Även en liten mängd alkohol kan tillsammans med medicinen ge kraftig dåsighet och nedsatt omdöme.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-010",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 1,
+    "question": "Vem ansvarar för att bedöma om du kan köra bil när du börjar med ett nytt läkemedel?",
+    "options": [
+      "Apoteket som lämnar ut läkemedlet",
+      "Transportstyrelsen",
+      "Du själv, med hjälp av information från läkare, apotek och bipacksedel",
+      "Bilens försäkringsbolag"
+    ],
+    "correct": 2,
+    "explanation": "Som förare är du alltid ansvarig för att du kan köra på ett betryggande sätt. Läkare, apotek och bipacksedel ger information, men beslutet och ansvaret är ditt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-011",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Hur kan polisen kontrollera om en förare är drogpåverkad?",
+    "options": [
+      "Bara genom att fråga föraren",
+      "Endast genom att söka igenom bilen",
+      "Genom ett vanligt utandningsprov, som visar alla droger",
+      "Genom ögonundersökning samt saliv-, urin- eller blodprov"
+    ],
+    "correct": 3,
+    "explanation": "Polisen kan göra en ögonundersökning och ta salivprov vid misstanke. Misstanken bekräftas sedan med blodprov. Ett vanligt utandningsprov visar bara alkohol.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-012",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 3,
+    "question": "Vilket påstående om påföljden vid drograttfylleri stämmer?",
+    "options": [
+      "Påföljden liknar den för alkoholrattfylleri: böter eller fängelse samt normalt återkallat körkort",
+      "Påföljden är alltid lindrigare än vid alkoholrattfylleri",
+      "Bara så kallade tunga droger kan ge drograttfylleri",
+      "Körkortet återkallas aldrig vid ett första drograttfylleri"
+    ],
+    "correct": 0,
+    "explanation": "Drograttfylleri bedöms enligt samma bestämmelser som alkoholrattfylleri: böter eller fängelse, och körkortet återkallas normalt. Alla narkotikaklassade ämnen omfattas.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-013",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 1,
+    "question": "Du börjar med ett nytt sömnmedel. Vad är klokt att tänka på inför bilkörning morgonen efter?",
+    "options": [
+      "Sömnmedel påverkar aldrig nästa dag",
+      "Effekten kan sitta kvar på morgonen och göra dig dåsig – kontrollera med läkare eller bipacksedel",
+      "Kaffe tar bort effekten helt",
+      "Det räcker att du har sovit minst sex timmar"
+    ],
+    "correct": 1,
+    "explanation": "Många sömnmedel har lång verkningstid och kan ge dåsighet, sämre reaktion och koncentration även nästa morgon. Ta reda på hur just ditt medel verkar innan du kör.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-014",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 2,
+    "question": "Varför är det svårt att själv avgöra hur mycket ett läkemedel påverkar körförmågan?",
+    "options": [
+      "Läkemedel påverkar bara musklerna",
+      "Man känner alltid tydligt av påverkan",
+      "Påverkan är ofta smygande och kan även försämra omdömet om den egna förmågan",
+      "Bara läkare kan känna av effekten"
+    ],
+    "correct": 2,
+    "explanation": "Precis som alkohol kan läkemedel dämpa omdömet, så att man inte märker hur långsam eller ouppmärksam man blivit. Därför räcker det inte att 'känna efter'.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-drog-015",
+    "category": "personliga",
+    "subtopic": "droger-lakemedel",
+    "difficulty": 3,
+    "question": "En läkare skriver ut ett starkt smärtstillande medel (opioid) efter en operation. Vad bör du göra innan du kör bil?",
+    "options": [
+      "Köra som vanligt eftersom läkaren skrivit ut medlet",
+      "Ta halva dosen före körning",
+      "Bara köra korta sträckor på kända vägar",
+      "Fråga läkaren om läkemedlet påverkar körförmågan och avstå från att köra om det gör det"
+    ],
+    "correct": 3,
+    "explanation": "Att ett läkemedel är ordinerat betyder inte att du får köra påverkad. Opioider ger dåsighet och sämre reaktion, särskilt i början av behandlingen. Fråga läkaren och avstå vid tvekan.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-001",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 1,
+    "question": "Vad är det enda som verkligen hjälper mot trötthet vid ratten?",
+    "options": [
+      "Starkt kaffe",
+      "Hög musik och öppet fönster",
+      "Sömn",
+      "En energidryck"
+    ],
+    "correct": 2,
+    "explanation": "Det enda botemedlet mot trötthet är sömn. Kaffe, frisk luft och musik kan ge en kort uppiggande effekt men tar inte bort sömnbehovet.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-002",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 1,
+    "question": "Hur många timmars vakenhet motsvarar ungefär 0,5 promille alkohol i påverkan på körförmågan?",
+    "options": [
+      "8 timmar",
+      "10 timmar",
+      "12 timmar",
+      "17 timmar"
+    ],
+    "correct": 3,
+    "explanation": "Efter cirka 17 timmars vakenhet är körförmågan nedsatt ungefär som vid 0,5 promille. Efter ett helt dygn utan sömn motsvarar det ungefär 1,0 promille.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-003",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Vilka är typiska tecken på att du håller på att bli farligt trött vid ratten?",
+    "options": [
+      "Du gäspar, får tunga ögonlock, vinglar i körfältet och minns inte de senaste kilometrarna",
+      "Du känner dig varm och får ont i nacken",
+      "Du blir hungrig och törstig",
+      "Du börjar automatiskt köra fortare"
+    ],
+    "correct": 0,
+    "explanation": "Gäspningar, tunga ögonlock, svårigheter att hålla körfältet, missade avfarter och minnesluckor är varningstecken. Då är det redan hög tid att stanna och vila.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-004",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Vad menas med mikrosömn?",
+    "options": [
+      "En kort tupplur på en rastplats",
+      "Att hjärnan kopplar bort i några sekunder utan att du märker det",
+      "Djupsömn under en kort stund på natten",
+      "Att du medvetet blundar en kort stund"
+    ],
+    "correct": 1,
+    "explanation": "Mikrosömn är ofrivilliga sömnperioder på någon eller några sekunder. Ögonen kan vara öppna men hjärnan tar inte in något – föraren märker det ofta inte själv.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-005",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h och drabbas av en mikrosömn på 4 sekunder. Ungefär hur långt färdas bilen utan att du ser vägen?",
+    "options": [
+      "25 meter",
+      "50 meter",
+      "100 meter",
+      "200 meter"
+    ],
+    "correct": 2,
+    "explanation": "90 km/h är 25 meter per sekund. På 4 sekunder hinner bilen alltså cirka 100 meter helt utan kontroll – mer än en fotbollsplan.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-006",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Vilka tider på dygnet är risken för trötthetsolyckor störst?",
+    "options": [
+      "Morgonrusningen 07–09",
+      "Sen förmiddag",
+      "Tidig kväll 18–20",
+      "Sen natt (02–06) och tidig eftermiddag"
+    ],
+    "correct": 3,
+    "explanation": "Kroppens dygnsrytm ger två dalar: en djup på småtimmarna (02–06) och en mindre på tidig eftermiddag. Då är risken att somna vid ratten som störst.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-007",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 1,
+    "question": "Du blir trött under en lång körning. Vad är det bästa du kan göra?",
+    "options": [
+      "Stanna på en säker plats och sova, t.ex. en kort tupplur på 15–20 minuter",
+      "Skruva upp musiken och öppna fönstret",
+      "Öka farten så att du kommer fram snabbare",
+      "Dricka en energidryck och fortsätta"
+    ],
+    "correct": 0,
+    "explanation": "Stanna och sov. En kort tupplur på 15–20 minuter kan ge tillräcklig skärpa för att komma till en plats där du kan sova ordentligt. Musik och energidryck ger bara kortvarig effekt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-008",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Varför hjälper kaffe bara en kort stund mot trötthet?",
+    "options": [
+      "Kaffe påverkar inte hjärnan alls",
+      "Koffeinet maskerar tröttheten tillfälligt men sömnbehovet finns kvar",
+      "Kaffe gör tröttheten värre direkt",
+      "Kaffe fungerar bara på förmiddagen"
+    ],
+    "correct": 1,
+    "explanation": "Koffein blockerar trötthetssignalerna en stund, men sömnskulden är kvar och tröttheten kommer tillbaka – ofta plötsligt. Kaffe kan användas för att orka till en säker plats att sova på.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-009",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Vad kännetecknar ofta en trötthetsolycka?",
+    "options": [
+      "Låg hastighet i tätort",
+      "Kollision i korsning med flera inblandade",
+      "Singelolycka på rak, monoton väg utan bromsspår",
+      "Kollision vid ett övergångsställe"
+    ],
+    "correct": 2,
+    "explanation": "Typiskt för trötthetsolyckor är att en ensam bil i hög fart kör av en rak väg utan att föraren hunnit bromsa – därför saknas bromsspår och skadorna blir ofta svåra.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-010",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 1,
+    "question": "Vad säger trafikförordningen om att köra när man är trött?",
+    "options": [
+      "Trötthet nämns inte i lagstiftningen",
+      "Det är tillåtet så länge man håller hastigheten",
+      "Det är bara förbjudet för yrkesförare",
+      "Ett fordon får inte föras av den som på grund av uttröttning inte kan köra på ett betryggande sätt"
+    ],
+    "correct": 3,
+    "explanation": "Trafikförordningen förbjuder körning när föraren på grund av sjukdom, uttröttning eller påverkan inte kan köra på ett betryggande sätt. Att köra trött kan alltså vara ett brott.",
+    "legalRef": "TrF 3 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-011",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Hur påverkar sömnbrist förmågan att bedöma sin egen trötthet?",
+    "options": [
+      "Den försämras – man tror sig vara piggare än man är",
+      "Den påverkas inte alls",
+      "Den förbättras eftersom man blir mer uppmärksam på kroppen",
+      "Bara äldre förare påverkas"
+    ],
+    "correct": 0,
+    "explanation": "En trött hjärna bedömer sin egen trötthet dåligt. Många som somnat vid ratten trodde strax innan att de skulle klara att köra vidare.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-012",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 3,
+    "question": "Du ska köra 60 mil hem direkt efter ett nattskift. Vilket är det säkraste valet?",
+    "options": [
+      "Köra direkt medan du fortfarande är 'uppe i varv'",
+      "Sova ordentligt först och köra senare, även om du kommer hem sent",
+      "Köra hälften och ta en energidryck halvvägs",
+      "Köra med öppna fönster och hög musik"
+    ],
+    "correct": 1,
+    "explanation": "Efter ett nattskift har du varit vaken länge och kör dessutom under en av dygnets trötthetsdalar. Att känna sig 'uppe i varv' är ingen garanti – sov först.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-013",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 1,
+    "question": "Varför är monoton körning på motorväg extra tröttande?",
+    "options": [
+      "Motorljudet är starkare vid höga farter",
+      "Hög fart tröttar ut ögonen snabbare",
+      "Få intryck och jämn fart gör att hjärnan lättare kopplar av",
+      "Det är svårare att hitta rastplatser"
+    ],
+    "correct": 2,
+    "explanation": "Enformig körning med få intryck gör att hjärnans aktivitet sjunker och risken för mikrosömn ökar. Raka, monotona vägar nattetid är den farligaste kombinationen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-014",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 2,
+    "question": "Hur påverkar trötthet reaktionstiden och uppmärksamheten?",
+    "options": [
+      "Bara reaktionstiden påverkas",
+      "Bara uppmärksamheten påverkas",
+      "Ingen av dem påverkas förrän man somnar",
+      "Båda försämras, och blicken fastnar lättare rakt fram"
+    ],
+    "correct": 3,
+    "explanation": "Trötthet förlänger reaktionstiden, försämrar uppmärksamheten och gör att blicken fixeras rakt fram med färre ögonrörelser – du upptäcker faror senare.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-trott-015",
+    "category": "personliga",
+    "subtopic": "trotthet",
+    "difficulty": 3,
+    "question": "Du har sovit fyra timmar per natt under en hel vecka. Vad gäller för din körförmåga?",
+    "options": [
+      "Sömnbristen ackumuleras och du är farligt trött även om du känner dig van",
+      "En kortare sömn är ofarlig så länge du sover ikapp på helgen",
+      "Kroppen vänjer sig vid lite sömn efter några dagar",
+      "Sömnbristen påverkar bara humöret"
+    ],
+    "correct": 0,
+    "explanation": "Sömnbrist byggs upp till en sömnskuld. Efter flera nätter med för lite sömn är prestationsförmågan kraftigt nedsatt, även om man vant sig vid känslan och tycker sig fungera.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-001",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 1,
+    "question": "Hur påverkar stress din körning?",
+    "options": [
+      "Du blir mer noggrann",
+      "Reaktionstiden förkortas",
+      "Stress påverkar inte körningen",
+      "Uppmärksamheten smalnar av och du tar större risker"
+    ],
+    "correct": 3,
+    "explanation": "Stress gör att du fokuserar på det som stressar dig i stället för på trafiken. Uppmärksamheten smalnar av, omdömet försämras och du tar större risker.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-002",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 1,
+    "question": "Vad är det bästa sättet att undvika tidspress när du kör?",
+    "options": [
+      "Planera resan och åka i god tid",
+      "Köra lite fortare än tillåtet",
+      "Välja de kortaste vägarna även om de är sämre",
+      "Ringa och meddela att du är sen medan du kör"
+    ],
+    "correct": 0,
+    "explanation": "Tidspress är en av de vanligaste orsakerna till stress i trafiken. Den enklaste motåtgärden är att planera resan och räkna med extra tid för köer och oväntade händelser.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-003",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Du blir upprörd över en förare som tränger sig in framför dig. Vad är klokast?",
+    "options": [
+      "Köra ikapp och visa vad du tycker",
+      "Släppa händelsen och hålla avstånd – ilska försämrar omdömet",
+      "Bromsa hårt för att markera",
+      "Blinka med helljuset tills föraren flyttar sig"
+    ],
+    "correct": 1,
+    "explanation": "Ilska ger tunnelseende och impulsiva beslut. Att öka avståndet och släppa händelsen är det enda som gör dig säkrare – att hämnas gör bara två förare farliga i stället för en.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-004",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Vad händer med ditt synfält när du är stressad?",
+    "options": [
+      "Det vidgas",
+      "Det påverkas inte",
+      "Det upplevs smalare – du missar sådant som händer vid sidan",
+      "Färgseendet försämras"
+    ],
+    "correct": 2,
+    "explanation": "Vid stress fokuserar hjärnan på det som upplevs som hotet. Du får ett slags tunnelseende och missar lättare cyklister, gående och fordon i ögonvrån.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-005",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Du är på väg till en anställningsintervju. Du har 20 minuters körning kvar men bara 15 minuter på dig. Vad är rätt?",
+    "options": [
+      "Köra 20 km/h fortare än tillåtet",
+      "Köra om överallt där det går",
+      "Köra mot rött om korsningen ser tom ut",
+      "Acceptera att du blir sen och ringa när du har stannat – en olycka kostar mer än förseningen"
+    ],
+    "correct": 3,
+    "explanation": "Fortkörning sparar nästan ingen tid på korta sträckor men ökar olycksrisken kraftigt. Acceptera förseningen, stanna säkert och meddela att du är sen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-006",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 1,
+    "question": "Vilket känslotillstånd bör få dig att avstå från att köra bil?",
+    "options": [
+      "Kraftig ilska eller sorg",
+      "Att du känner dig glad",
+      "Lätt spänning inför resan",
+      "Nyfikenhet på en ny väg"
+    ],
+    "correct": 0,
+    "explanation": "Starka känslor som ilska, sorg eller förtvivlan tar stor del av uppmärksamheten och gör dig impulsiv. Vänta tills du lugnat dig, eller låt någon annan köra.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-007",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Varför ökar olycksrisken när man kör under tidspress?",
+    "options": [
+      "Man blir överdrivet försiktig och skapar köer",
+      "Man kör fortare, håller kortare avstånd och tar chanser i korsningar",
+      "Man blir trött och somnar lättare",
+      "Man glömmer att använda blinkers"
+    ],
+    "correct": 1,
+    "explanation": "Tidspress leder till högre fart, kortare avstånd, riskfyllda omkörningar och chansningar vid gult ljus. Säkerhetsmarginalerna försvinner samtidigt som omdömet försämras.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-008",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 3,
+    "question": "Hur påverkar långvarig stress, t.ex. oro för ekonomi eller relationer, körningen?",
+    "options": [
+      "Bara akut stress påverkar körningen",
+      "Långvarig stress gör dig lugnare i trafiken",
+      "Tankarna är på annat håll och både uppmärksamhet och sömn försämras",
+      "Den påverkar bara körning på kvällen"
+    ],
+    "correct": 2,
+    "explanation": "Långvarig stress ger sämre sömn, koncentrationssvårigheter och en tendens att grubbla under körningen. Uppmärksamheten på trafiken minskar även om du inte känner dig stressad just då.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-009",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Vilket påstående om aggressiv körning stämmer?",
+    "options": [
+      "Den är tillåten om andra kör fel",
+      "Den sparar mycket tid i stadstrafik",
+      "Den påverkar bara den aggressiva föraren själv",
+      "Den smittar av sig och ökar risken för alla i närheten"
+    ],
+    "correct": 3,
+    "explanation": "Aggressiv körning skapar stress och motreaktioner hos andra förare. Risken ökar för alla i närheten, och tidsvinsten i stadstrafik är i praktiken försumbar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-010",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 1,
+    "question": "Du märker att du ofta blir irriterad i trafiken. Vad kan du göra åt det?",
+    "options": [
+      "Åka i god tid, andas lugnt och inte ta andras misstag personligt",
+      "Köra fortare så att du slipper trafiken",
+      "Undvika att hålla avstånd så att ingen kan tränga sig in",
+      "Spela hög musik för att överrösta trafiken"
+    ],
+    "correct": 0,
+    "explanation": "God tidsmarginal, medvetna andetag och insikten att andra förares misstag sällan är riktade mot dig personligen minskar irritationen. Ilska gör dig aldrig till en bättre förare.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-011",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Hur kan lagom spänning, så kallad positiv stress, påverka körningen?",
+    "options": [
+      "Den är alltid skadlig",
+      "Den kan öka skärpan, men blir spänningen för stark försämras prestationen",
+      "Den saknar betydelse för körning",
+      "Den gör att man kör långsammare"
+    ],
+    "correct": 1,
+    "explanation": "En viss anspänning håller dig alert. Blir stressen för stark slår det över: uppmärksamheten smalnar, besluten blir sämre och risken för misstag ökar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-012",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 3,
+    "question": "Du kör med ett skrikande barn i baksätet och känner att du tappar tålamodet. Vad är rätt?",
+    "options": [
+      "Vända dig om och lugna barnet under körningen",
+      "Köra fortare för att komma hem snabbt",
+      "Stanna på en lämplig plats och ta hand om barnet innan du kör vidare",
+      "Sätta på hög musik för att dränka ljudet"
+    ],
+    "correct": 2,
+    "explanation": "Ett skrikande barn både stressar och distraherar. Att vända sig om eller köra fortare ökar risken kraftigt. Stanna säkert, lugna barnet och kör vidare när du själv är lugn.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-013",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 2,
+    "question": "Hur påverkar stresshormoner som adrenalin kroppen och besluten vid körning?",
+    "options": [
+      "Man blir avslappnad och tänker klart",
+      "Man blir sömnig och långsam",
+      "Kroppen påverkas inte av adrenalin",
+      "Pulsen stiger och man blir impulsiv och benägen till snabba, dåligt övervägda beslut"
+    ],
+    "correct": 3,
+    "explanation": "Adrenalin förbereder kroppen för kamp eller flykt: pulsen stiger, musklerna spänns och besluten blir snabba och impulsiva – motsatsen till den lugna överblick trafiken kräver.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-014",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 1,
+    "question": "Vad är sant om att prata i mobil med handsfree i en stressig trafiksituation?",
+    "options": [
+      "Samtalet tar uppmärksamhet från trafiken även med handsfree",
+      "Handsfree gör samtalet helt riskfritt",
+      "Mobilsamtal skärper koncentrationen",
+      "Bara sms påverkar körningen"
+    ],
+    "correct": 0,
+    "explanation": "Det är samtalet i sig, inte bara handhavandet, som belastar uppmärksamheten. Handsfree är tillåtet men gör inte samtalet riskfritt – avsluta samtalet när trafiken kräver full koncentration.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-stress-015",
+    "category": "personliga",
+    "subtopic": "stress",
+    "difficulty": 3,
+    "question": "Vad kännetecknar en förare med god självkontroll i stressiga situationer?",
+    "options": [
+      "Reagerar snabbt och kraftfullt på provokationer",
+      "Känner igen sina egna stressreaktioner och anpassar körningen, t.ex. sänker farten och ökar avståndet",
+      "Kör fortare för att snabbt ta sig ur situationen",
+      "Ser till att andra förare förstår att de gjort fel"
+    ],
+    "correct": 1,
+    "explanation": "Självinsikt är nyckeln: den som märker att pulsen stiger kan medvetet sänka tempot, öka marginalerna och undvika att låta känslorna styra körningen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-001",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 1,
+    "question": "Vilken grupp av förare löper störst risk att skadas eller dödas i trafiken?",
+    "options": [
+      "Kvinnor 30–40 år",
+      "Unga män 18–24 år",
+      "Män 35–45 år",
+      "Kvinnor 50–60 år"
+    ],
+    "correct": 1,
+    "explanation": "Unga män mellan 18 och 24 år är kraftigt överrepresenterade i olycksstatistiken. Liten erfarenhet kombinerat med högre risktagande och känslighet för grupptryck är huvudorsakerna.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-002",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 1,
+    "question": "Hur påverkas en ung förares olycksrisk av att ha jämnåriga kamrater som passagerare?",
+    "options": [
+      "Risken minskar eftersom fler håller utkik",
+      "Risken påverkas inte",
+      "Risken ökar, särskilt med flera unga passagerare",
+      "Risken minskar men bara på natten"
+    ],
+    "correct": 2,
+    "explanation": "För unga förare ökar olycksrisken tydligt med jämnåriga passagerare, och mer ju fler de är. Distraktion, vilja att imponera och grupptryck spelar in.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-003",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Dina kompisar hetsar dig att köra om på en väg med dålig sikt. Vad är rätt?",
+    "options": [
+      "Köra om snabbt för att bli av med tjatet",
+      "Köra om, men bara om det är ett litet fordon",
+      "Låta passageraren som tjatar ta över ratten",
+      "Avstå – du som förare bestämmer och ansvarar för körningen"
+    ],
+    "correct": 3,
+    "explanation": "Föraren har alltid det fulla ansvaret för körningen. En omkörning med dålig sikt kan vara dödlig, och tjat från passagerare är aldrig ett skäl att ta den risken.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-004",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Vad menas med grupptryck i trafiksammanhang?",
+    "options": [
+      "Att man kör annorlunda än man annars skulle för att leva upp till gruppens förväntningar",
+      "Att man kör i tät kolonn med andra bilar på landsväg",
+      "Att passagerarna tillsammans bestämmer färdvägen",
+      "Att trafiktätheten skapar press på att köra fortare"
+    ],
+    "correct": 0,
+    "explanation": "Grupptryck innebär att viljan att passa in eller imponera får en att ta risker man inte skulle ta ensam. Det kan vara uttalat tjat men också outtalade förväntningar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-005",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 1,
+    "question": "Hur kan du förebygga grupptryck innan du ska köra med kompisar?",
+    "options": [
+      "Låta den mest högljudda bestämma",
+      "Säga i förväg hur du tänker köra och att du inte tänker ta risker",
+      "Bara köra en kompis i taget",
+      "Köra fortare från början så att ingen hinner klaga"
+    ],
+    "correct": 1,
+    "explanation": "Att i förväg sätta spelreglerna – 'jag kör lugnt, annars får ni åka med någon annan' – gör det mycket lättare att stå emot tjat när det väl kommer.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-006",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Varför tar unga förare ofta större risker än äldre?",
+    "options": [
+      "De har sämre bilar",
+      "De kan mer om trafikregler",
+      "Impulskontrollen är inte färdigutvecklad och erfarenheten är liten",
+      "De är oftare trötta"
+    ],
+    "correct": 2,
+    "explanation": "Hjärnans förmåga till impulskontroll och konsekvenstänkande utvecklas ända upp i 25-årsåldern. Tillsammans med liten erfarenhet och känslighet för grupptryck ger det högre risktagande.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-007",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Vad menas med att en förare överskattar sin förmåga?",
+    "options": [
+      "Att föraren kör för långsamt",
+      "Att föraren bedömer andras körning",
+      "Att föraren underskattar hastigheten",
+      "Att föraren tror sig klara mer än hen faktiskt kan, t.ex. i hög fart eller på halt underlag"
+    ],
+    "correct": 3,
+    "explanation": "Överskattning innebär att självbilden är bättre än den verkliga förmågan. Följden blir för små marginaler – man kör fortare och närmare än vad man egentligen klarar.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-008",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 3,
+    "question": "Undersökningar visar att de flesta förare anser sig köra bättre än genomsnittet. Vad säger det om vår självbedömning?",
+    "options": [
+      "Att självbedömningen ofta är orealistisk, vilket kan leda till för små säkerhetsmarginaler",
+      "Att de flesta faktiskt kör bättre än genomsnittet",
+      "Att självbedömning inte har med säkerhet att göra",
+      "Att bara unga har svårt att bedöma sig själva"
+    ],
+    "correct": 0,
+    "explanation": "Alla kan inte vara bättre än genomsnittet. Överskattning är vanlig i alla åldrar och gör att man tar risker man inte behärskar. Realistisk självbedömning är en viktig del av säker körning.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-009",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Vad ingår i riskutbildningens första del (riskettan) för behörighet B?",
+    "options": [
+      "Halkkörning på övningsbana",
+      "Alkohol, droger, trötthet och riskfyllda beteenden",
+      "Mörkerkörning",
+      "Ekonomisk körning"
+    ],
+    "correct": 1,
+    "explanation": "Riskettan är en teoretisk utbildning om alkohol, droger, trötthet och andra riskfyllda beteenden i trafiken. Risktvåan är den praktiska delen på halkbana.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-010",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 1,
+    "question": "Vad handlar riskutbildningens andra del (risktvåan) om?",
+    "options": [
+      "Enbart trafikregler",
+      "Bilens teknik och underhåll",
+      "Körning på halkbana med fokus på hastighet, säkerhet och väglag",
+      "Övningskörning i stadstrafik"
+    ],
+    "correct": 2,
+    "explanation": "Risktvåan genomförs på en halkbana och handlar om hastighet, säkerhetsmarginaler och hur väglaget påverkar körningen. Båda delarna måste vara gjorda före proven.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-011",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Hur länge är en genomförd riskutbildning giltig?",
+    "options": [
+      "1 år",
+      "2 år",
+      "3 år",
+      "5 år"
+    ],
+    "correct": 3,
+    "explanation": "Både riskettan och risktvåan är giltiga i fem år. Båda måste vara genomförda och giltiga när du gör kunskapsprov och körprov.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-012",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 3,
+    "question": "Vad kännetecknar ett så kallat sensationssökande riskbeteende i trafiken?",
+    "options": [
+      "Föraren söker spänning genom fart och risktagande och behöver medvetet motverka det",
+      "Föraren undviker alla former av risk",
+      "Föraren kör bara på välkända vägar",
+      "Föraren har alltid en handledare med sig"
+    ],
+    "correct": 0,
+    "explanation": "Sensationssökande personer får en kick av fart och risk. Den som känner igen draget hos sig själv behöver medvetna strategier – t.ex. att sätta egna gränser i förväg – för att köra säkert.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-013",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 1,
+    "question": "Din passagerare vill att du ska köra fortare än tillåtet. Vem bär ansvaret om ni stoppas i en fartkontroll?",
+    "options": [
+      "Passageraren som bad om det",
+      "Du som förare",
+      "Bilens ägare",
+      "Ansvaret delas lika"
+    ],
+    "correct": 1,
+    "explanation": "Föraren är alltid ensam ansvarig för hur fordonet framförs. Att någon annan ville något är aldrig en ursäkt – varken juridiskt eller vid en olycka.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-014",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 2,
+    "question": "Varför är det svårare att säga nej till risktagande i grupp än när man kör ensam?",
+    "options": [
+      "Man kör sämre i grupp",
+      "Bilen blir tyngre med fler personer",
+      "Rädslan att förlora ansiktet och viljan att passa in väger tyngre än riskbedömningen",
+      "Trafikreglerna är annorlunda för fullsatta bilar"
+    ],
+    "correct": 2,
+    "explanation": "Sociala behov – att passa in, imponera och inte verka feg – kan i stunden kännas viktigare än säkerheten. Att vara medveten om mekanismen gör det lättare att stå emot.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-grupp-015",
+    "category": "personliga",
+    "subtopic": "grupptryck-risk",
+    "difficulty": 3,
+    "question": "Varför tar förarutbildningen upp attityder och självinsikt, inte bara regler och manövrering?",
+    "options": [
+      "För att förlänga utbildningstiden",
+      "För att göra kunskapsprovet svårare",
+      "För att alla ska köra på samma sätt",
+      "För att förarens värderingar och självbild styr risktagandet – och därmed säkerheten mer än tekniken"
+    ],
+    "correct": 3,
+    "explanation": "De flesta olyckor beror inte på bristande körteknik utan på beslut: att köra för fort, trött, påverkad eller för att imponera. Därför är attityder och självinsikt centrala i utbildningen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-001",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 1,
+    "question": "Vilken synskärpa krävs minst för körkort B, med båda ögonen tillsammans och vid behov med glasögon eller linser?",
+    "options": [
+      "0,5",
+      "0,8",
+      "1,0",
+      "0,3"
+    ],
+    "correct": 0,
+    "explanation": "Kravet för behörighet B är en binokulär synskärpa på minst 0,5, med korrektion om det behövs. Den som behöver glasögon får ett villkor om det på körkortet.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-002",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 1,
+    "question": "Hur brett måste synfältet minst vara i sidled för körkort B?",
+    "options": [
+      "90 grader",
+      "120 grader",
+      "150 grader",
+      "180 grader"
+    ],
+    "correct": 1,
+    "explanation": "För behörighet B krävs ett horisontellt synfält på minst 120 grader. Ett normalt synfält är cirka 180 grader, och det perifera seendet är viktigt för att upptäcka rörelser.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-003",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 2,
+    "question": "Vad händer med ditt synfält när hastigheten ökar?",
+    "options": [
+      "Det breddas",
+      "Det påverkas inte",
+      "Det upplevs smalare – vid hög fart uppfattar du främst det som är rakt fram",
+      "Det blir oskarpt i mitten"
+    ],
+    "correct": 2,
+    "explanation": "Ju fortare du kör, desto längre fram måste du titta och desto mindre hinner hjärnan bearbeta från sidorna. Det kallas tunnelseende och gör att du lättare missar faror vid vägkanten.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-004",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 1,
+    "question": "Vilken uppgift har det perifera seendet vid körning?",
+    "options": [
+      "Att läsa skyltar på långt håll",
+      "Att urskilja färger",
+      "Att se skarpt i mörker",
+      "Att upptäcka rörelser vid sidan"
+    ],
+    "correct": 3,
+    "explanation": "Det perifera seendet ser inte skarpt men är känsligt för rörelse. Det är det som gör att du upptäcker ett barn vid vägkanten eller en bil från sidan innan du tittar dit.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-005",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 2,
+    "question": "Hur påverkas mörkerseendet med stigande ålder?",
+    "options": [
+      "Det försämras – äldre behöver mer ljus och bländas lättare",
+      "Det förbättras eftersom ögat tränas",
+      "Det påverkas inte",
+      "Bara färgseendet påverkas"
+    ],
+    "correct": 0,
+    "explanation": "Med åldern släpper ögats lins igenom mindre ljus och återhämtningen efter bländning tar längre tid. En 60-åring kan behöva flera gånger mer ljus än en 20-åring för att se lika bra.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-006",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 1,
+    "question": "Du har ett villkor om glasögon på körkortet. Vad gäller?",
+    "options": [
+      "Du får köra utan glasögon på vägar du känner till",
+      "Du måste alltid använda glasögon eller linser när du kör",
+      "Villkoret gäller bara vid mörkerkörning",
+      "Villkoret gäller bara på motorväg"
+    ],
+    "correct": 1,
+    "explanation": "Ett villkor på körkortet gäller alltid. Kör du utan glasögon eller linser uppfyller du inte körkortets villkor, vilket kan ge böter och påverka körkortsinnehavet.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-007",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 2,
+    "question": "Är god hörsel ett krav för körkort B?",
+    "options": [
+      "Ja, man måste höra normalt på båda öronen",
+      "Ja, men det räcker att höra på ett öra",
+      "Nej, även den som är döv kan få körkort B",
+      "Nej, men hörapparat är obligatorisk vid nedsatt hörsel"
+    ],
+    "correct": 2,
+    "explanation": "Det finns inget hörselkrav för behörighet B. Hörseln hjälper dock till att uppfatta sirener, tutningar och ljud från bilen, så den som hör dåligt behöver kompensera med synen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-008",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 3,
+    "question": "Hur lång tid tar det ungefär för ögat att anpassa sig fullt ut till mörker?",
+    "options": [
+      "Några sekunder",
+      "Cirka 1 minut",
+      "Cirka 5 minuter",
+      "Uppemot 20–30 minuter"
+    ],
+    "correct": 3,
+    "explanation": "Full mörkeradaptation tar upp till 20–30 minuter, medan ögat anpassar sig till ljus på några sekunder. Därför ser du dåligt en stund efter att ha lämnat ett upplyst område.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-009",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 2,
+    "question": "Varför är mycket hög musik i bilen en säkerhetsrisk?",
+    "options": [
+      "Du hör inte sirener, tutningar eller ljud från bilen och koncentrationen splittras",
+      "Bilens elsystem överbelastas",
+      "Hög musik i bil är förbjuden enligt lag",
+      "Passagerarna somnar lättare"
+    ],
+    "correct": 0,
+    "explanation": "Hörseln är ett viktigt komplement till synen. Hög musik döljer varningsljud och tar dessutom en del av din uppmärksamhet från trafiken.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-syn-010",
+    "category": "personliga",
+    "subtopic": "syn-horsel",
+    "difficulty": 3,
+    "question": "Efter att ha bländats av ett mötande fordon dröjer det innan du ser bra igen. Vad bör du göra under mötet?",
+    "options": [
+      "Titta rakt in i lyktorna för att snabbare vänja ögonen",
+      "Titta mot vägens högra kant och sänka farten",
+      "Blinka med helljuset tills den andra bländar av",
+      "Blunda med ena ögat en kort stund"
+    ],
+    "correct": 1,
+    "explanation": "Genom att titta mot högerkanten skyddar du det centrala seendet från bländning och behåller riktningen. Sänk farten eftersom du ser sämre i flera sekunder efter mötet.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-001",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 1,
+    "question": "Du har diabetes och känner under körning symtom på lågt blodsocker, som svettning, darrningar och koncentrationssvårigheter. Vad gör du?",
+    "options": [
+      "Kör hem så fort som möjligt",
+      "Öppnar fönstret och kör vidare",
+      "Stannar så snart det säkert går, äter något med socker och väntar tills du mår bra",
+      "Tar en extra dos insulin"
+    ],
+    "correct": 2,
+    "explanation": "Lågt blodsocker kan snabbt leda till förvirring och medvetslöshet. Stanna direkt på säker plats, ät eller drick något sött och kör inte vidare förrän du är säker på att blodsockret är normalt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-002",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 2,
+    "question": "Vilken skyldighet har en läkare som bedömer att en patient av medicinska skäl är olämplig att köra bil?",
+    "options": [
+      "Ingen – det är patientens ensak",
+      "Att informera patientens arbetsgivare",
+      "Att ta hand om patientens körkort",
+      "Att anmäla det till Transportstyrelsen, om inte patienten kan antas följa en uppmaning att avstå från att köra"
+    ],
+    "correct": 3,
+    "explanation": "Läkare har anmälningsplikt till Transportstyrelsen när en patient av medicinska skäl är olämplig som förare. Anmälan kan underlåtas om patienten kan antas följa läkarens uppmaning att inte köra.",
+    "legalRef": "KKL 10 kap. 5 §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-003",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 2,
+    "question": "Vad gäller normalt för bilkörning efter ett epileptiskt anfall?",
+    "options": [
+      "Man får inte köra förrän man varit anfallsfri en längre tid, för behörighet B normalt minst ett år",
+      "Man får köra igen så snart man mår bra",
+      "Man får köra korta sträckor efter en vecka",
+      "Man får köra om man har sin medicin med sig"
+    ],
+    "correct": 0,
+    "explanation": "Epilepsi utgör hinder för körkort tills man varit anfallsfri under en viss tid – för personbil normalt ett år. Bedömningen görs av läkare och Transportstyrelsen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-004",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 2,
+    "question": "Hur kompenserar många äldre förare för sämre reaktionsförmåga och syn?",
+    "options": [
+      "Genom att köra fortare för att hinna fram innan de blir trötta",
+      "Genom att köra i dagsljus, undvika rusningstrafik och hålla större marginaler",
+      "Genom att bara köra på motorväg",
+      "Genom att alltid ha en passagerare med sig"
+    ],
+    "correct": 1,
+    "explanation": "Äldre förare har ofta god självinsikt och kompenserar med erfarenhet: de väljer dagsljus, kända vägar, lugna tider och större säkerhetsmarginaler. Det håller nere deras olycksrisk.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-005",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 1,
+    "question": "Vem ansvarar för att du är frisk nog att köra vid varje enskilt körtillfälle?",
+    "options": [
+      "Din läkare",
+      "Transportstyrelsen",
+      "Du själv",
+      "Bilens ägare"
+    ],
+    "correct": 2,
+    "explanation": "Föraren ansvarar alltid för att kunna köra på ett betryggande sätt. Har du feber, migrän, yrsel eller annan tillfällig sjukdom ska du avstå från att köra även om körkortet är giltigt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-006",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 2,
+    "question": "Varför är äldre förare överrepresenterade i korsningsolyckor, särskilt vid vänstersväng?",
+    "options": [
+      "De kör oftare påverkade",
+      "De använder sällan bilbälte",
+      "De kör oftast för fort",
+      "Komplexa situationer med mycket information kräver snabb bearbetning, vilket tar längre tid med åldern"
+    ],
+    "correct": 3,
+    "explanation": "I en korsning ska mycket information bedömas samtidigt. Med åldern går bearbetningen långsammare, synfältet och rörligheten i nacken minskar – därför är vänstersvängar särskilt riskfyllda.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-007",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 3,
+    "question": "Du drabbas av en sjukdom som kan påverka körförmågan, t.ex. hjärtproblem med risk för svimning. Vad gäller?",
+    "options": [
+      "Du är skyldig att avstå från att köra och bör rådgöra med läkare om när du kan köra igen",
+      "Du får köra så länge du har läkemedel med dig",
+      "Du får köra korta sträckor",
+      "Ingenting förändras så länge körkortet inte har återkallats"
+    ],
+    "correct": 0,
+    "explanation": "Ett giltigt körkort ger inte rätt att köra om du inte uppfyller de medicinska kraven. Vid sjukdom med risk för plötslig medvetslöshet ska du avstå och låta läkare bedöma när du kan köra igen.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-008",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 1,
+    "question": "Finns det en övre åldersgräns för körkort B i Sverige?",
+    "options": [
+      "Ja, 75 år",
+      "Nej, men körkortshavaren måste alltid uppfylla de medicinska kraven",
+      "Ja, 80 år med läkarintyg",
+      "Ja, 85 år"
+    ],
+    "correct": 1,
+    "explanation": "Sverige har ingen övre åldersgräns och ingen obligatorisk hälsokontroll för körkort B. Däremot gäller de medicinska kraven livet ut och läkare har anmälningsplikt.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-009",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 2,
+    "question": "Varför är äldre personer mer utsatta vid en kollision?",
+    "options": [
+      "De kör mindre säkra bilar",
+      "De använder inte bilbälte",
+      "Kroppen är skörare och skadas lättare vid samma krockvåld",
+      "De kör alltid utan krockkudde"
+    ],
+    "correct": 2,
+    "explanation": "Med åldern blir skelett och vävnader skörare. En krock som en 25-åring klarar med blåmärken kan ge en 75-åring livshotande skador – därför är äldre överrepresenterade bland dödade.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-sjuk-010",
+    "category": "personliga",
+    "subtopic": "sjukdom-alder",
+    "difficulty": 3,
+    "question": "Vad gäller för obehandlad sömnapné och bilkörning?",
+    "options": [
+      "Sömnapné påverkar inte körförmågan",
+      "Det räcker att sova längre på natten",
+      "Man får köra men bara på dagtid",
+      "Kraftig dagtrötthet på grund av sömnapné kan göra att man inte uppfyller de medicinska kraven för körkort"
+    ],
+    "correct": 3,
+    "explanation": "Sömnapné ger avbruten sömn och kraftig dagtrötthet med hög risk att somna vid ratten. Obehandlad, med uttalad sömnighet, är den ett hinder för körkortsinnehav; behandling kan återge körförmågan.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-001",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 1,
+    "question": "Hur lång är prövotiden för ett nytt körkort?",
+    "options": [
+      "2 år",
+      "1 år",
+      "3 år",
+      "6 månader"
+    ],
+    "correct": 0,
+    "explanation": "Prövotiden är två år från den dag körkortet utfärdas. Under den tiden gäller samma regler som annars, men konsekvenserna av en återkallelse är större.",
+    "legalRef": "KKL 3 kap. 18 §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-002",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 1,
+    "question": "Vad händer om körkortet återkallas under prövotiden?",
+    "options": [
+      "Du får tillbaka det automatiskt när spärrtiden gått ut",
+      "Du måste ansöka om nytt körkortstillstånd och göra nytt kunskapsprov och körprov",
+      "Du får bara en varning",
+      "Du måste göra om enbart kunskapsprovet"
+    ],
+    "correct": 1,
+    "explanation": "Återkallas körkortet under prövotiden krävs nytt körkortstillstånd samt godkänt kunskapsprov och körprov för att få ett nytt körkort. Även riskutbildningen måste vara giltig.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-003",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "När är olycksrisken som störst för en ny förare?",
+    "options": [
+      "Efter fem års körning",
+      "Efter två år, när man kör som mest",
+      "Under de första månaderna efter att körkortet tagits",
+      "Under övningskörningen"
+    ],
+    "correct": 2,
+    "explanation": "Risken är högst direkt efter körkortet, när föraren kör ensam för första gången med liten erfarenhet, och sjunker sedan snabbt under det första året i takt med att erfarenheten växer.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-004",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 1,
+    "question": "Från vilken ålder får man börja övningsköra privat för behörighet B?",
+    "options": [
+      "18 år",
+      "17 år och 6 månader",
+      "17 år",
+      "16 år"
+    ],
+    "correct": 3,
+    "explanation": "Övningskörning för personbil får påbörjas från 16 års ålder, förutsatt att man har körkortstillstånd och en godkänd handledare. Körkortet kan tas tidigast vid 18 år.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-005",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Vilka krav ställs på en privat handledare för behörighet B?",
+    "options": [
+      "Minst 24 år, körkort B i minst 5 av de senaste 10 åren samt genomförd introduktionsutbildning",
+      "Minst 21 år och körkort i 2 år",
+      "Minst 18 år och egen bil",
+      "Minst 30 år och yrkesförare"
+    ],
+    "correct": 0,
+    "explanation": "Handledaren ska vara minst 24 år, ha haft körkort för behörigheten i minst fem av de senaste tio åren, ha gått introduktionsutbildning (giltig 5 år) och vara godkänd av Transportstyrelsen för eleven.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-006",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Vem räknas som förare vid privat övningskörning?",
+    "options": [
+      "Eleven",
+      "Handledaren",
+      "Båda två gemensamt",
+      "Bilens ägare"
+    ],
+    "correct": 1,
+    "explanation": "Vid övningskörning anses handledaren vara förare och ansvarar för körningen. Handledaren måste därför vara nykter, sitta bredvid eleven och kunna ingripa.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-007",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 1,
+    "question": "Vad krävs av dig för att du ska få börja övningsköra?",
+    "options": [
+      "Endast handledarens godkännande",
+      "Ett godkänt kunskapsprov",
+      "Ett giltigt körkortstillstånd",
+      "Att du har fyllt 18 år"
+    ],
+    "correct": 2,
+    "explanation": "Du måste ha ett giltigt körkortstillstånd från Transportstyrelsen. För privat övningskörning krävs dessutom att både du och handledaren gått introduktionsutbildning.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-008",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Hur länge är ett körkortstillstånd giltigt?",
+    "options": [
+      "1 år",
+      "2 år",
+      "3 år",
+      "5 år"
+    ],
+    "correct": 3,
+    "explanation": "Körkortstillståndet gäller i fem år. För att få det krävs bland annat hälsodeklaration och synintyg, och Transportstyrelsen prövar om du är lämplig som förare.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-009",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Vad gäller för användning av mobiltelefon under körning?",
+    "options": [
+      "Du får inte hålla telefonen i handen medan du kör",
+      "Du får hålla den så länge du inte skriver meddelanden",
+      "Du får använda den fritt när bilen står stilla vid rött ljus",
+      "Handsfree är förbjudet"
+    ],
+    "correct": 0,
+    "explanation": "Sedan 2018 är det förbjudet att hålla mobiltelefon i handen under körning – det gäller även vid tillfälliga stopp i trafiken. Handsfree är tillåtet, men får inte påverka körningen negativt.",
+    "legalRef": "TrF 4 kap. 10 e §",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-010",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 3,
+    "question": "GDE-matrisen beskriver förarutbildningens mål på fyra nivåer. Vilken nivå handlar om förarens livsmål och personliga förutsättningar, t.ex. attityder och självkontroll?",
+    "options": [
+      "Nivå 1",
+      "Nivå 4",
+      "Nivå 2",
+      "Nivå 3"
+    ],
+    "correct": 1,
+    "explanation": "Nivå 1 är fordonsmanövrering, nivå 2 körning i trafiksituationer, nivå 3 resans mål och sammanhang och nivå 4 personliga förutsättningar och mål i livet – attityder, personlighet och självkontroll.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-011",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Vad handlar GDE-matrisens tredje nivå, 'resans mål och sammanhang', om?",
+    "options": [
+      "Hur man växlar och styr",
+      "Hur man hanterar korsningar",
+      "Varför, när och med vem man reser – och hur det påverkar risken",
+      "Bilens tekniska utrustning"
+    ],
+    "correct": 2,
+    "explanation": "Nivå 3 handlar om beslut kring själva resan: syfte, tidpunkt, sällskap, väg och om man är i skick att köra. Sådana beslut avgör vilka trafiksituationer man överhuvudtaget hamnar i.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-012",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 3,
+    "question": "Varför är de högre nivåerna i GDE-matrisen (nivå 3 och 4) så viktiga för trafiksäkerheten?",
+    "options": [
+      "De handlar om den körteknik som är svårast att lära sig",
+      "De krävs bara för yrkesförare",
+      "De ersätter behovet av manöverträning",
+      "Besluten som tas där – t.ex. att köra trött eller med kompisar som hetsar – styr risken på de lägre nivåerna"
+    ],
+    "correct": 3,
+    "explanation": "Attityder och beslut om resan (nivå 4 och 3) avgör hur föraren agerar i trafiken och vid manövrering (nivå 2 och 1). Den som väljer att köra påverkad har redan skapat risken innan den första kurvan.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-013",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 1,
+    "question": "Vad menas med att köra defensivt?",
+    "options": [
+      "Att köra med marginaler och räkna med att andra kan göra misstag",
+      "Att köra långsammare än alla andra",
+      "Att alltid avstå från sin företrädesrätt",
+      "Att undvika att köra i mörker"
+    ],
+    "correct": 0,
+    "explanation": "Defensiv körning innebär att hålla säkerhetsmarginaler, läsa av trafiken i förväg och vara beredd på andras misstag – inte att köra onormalt långsamt eller ge upp sina rättigheter.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-014",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 2,
+    "question": "Vad menas med överinlärning av grundläggande körmoment?",
+    "options": [
+      "Att man tränat för mycket och blivit slarvig",
+      "Att momenten är automatiserade så att uppmärksamheten kan läggas på trafiken",
+      "Att man kan trafikreglerna utantill",
+      "Att man har tränat mer än handledaren kräver"
+    ],
+    "correct": 1,
+    "explanation": "När växling, styrning och bromsning sker automatiskt frigörs mental kapacitet för det viktiga: att läsa trafiken. Nya förare saknar denna reserv, vilket är ett skäl till deras högre olycksrisk.",
+    "reviewed": false
+  },
+  {
+    "id": "pe-mogn-015",
+    "category": "personliga",
+    "subtopic": "mognad-korstil",
+    "difficulty": 3,
+    "question": "En ny förare har haft körkort i två månader, tycker att körningen 'sitter' och börjar köra fortare och närmare framförvarande. Vad beskriver detta bäst?",
+    "options": [
+      "En normal utveckling mot att bli en säker förare",
+      "Att föraren har nått GDE-nivå 4",
+      "Överskattning av den egna förmågan – ett vanligt och farligt skede för nya förare",
+      "Att prövotiden kan förkortas"
+    ],
+    "correct": 2,
+    "explanation": "När manövreringen börjar kännas enkel växer självförtroendet snabbare än förmågan att förutse faror. Det är i detta skede många nya förare minskar sina marginaler och råkar ut för olyckor.",
+    "reviewed": false
+  }
+]
