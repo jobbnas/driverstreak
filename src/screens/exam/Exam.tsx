@@ -241,19 +241,12 @@ function ExamReview(props: { id: string; onlyWrong: boolean }) {
       <BackHeader to={`/exam/result/${exam.id}`} title={props.onlyWrong ? 'Dina fel' : 'Alla frågor'} />
       <div class="stack">
         {rows.map(({ a, i, q }) => (
-          <ReviewCard key={a.qid} index={i} q={q as Question} chosenOriginal={a.chosen === null ? null : chosenOriginal(exam, a, q as Question)} correct={a.correct} />
+          <ReviewCard key={a.qid} index={i} q={q as Question} chosenOriginal={a.chosen} correct={a.correct} />
         ))}
         {rows.length === 0 && <p class="empty">Inga fel – snyggt!</p>}
       </div>
     </div>
   );
-}
-
-// We do not store the shuffled order in the result, so map chosen position back via the correct flag.
-function chosenOriginal(_exam: ExamResult, a: ExamResult['answers'][number], q: Question): number | null {
-  if (a.chosen === null) return null;
-  if (a.correct) return q.correct;
-  return -1; // unknown wrong option; UI shows "fel svar"
 }
 
 export function ReviewCard(props: { index?: number; q: Question; chosenOriginal: number | null; correct: boolean; chosenLabel?: string }) {

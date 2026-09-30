@@ -59,6 +59,11 @@ describe('buildExam', () => {
     s.answers[0] = (correctPosition(s.questions[0]!) + 2) % 4;
     expect(scoreExam(s, 2000).passed).toBe(false);
     expect(isCorrect(s.questions[1]!, null)).toBe(false);
+    // chosen is stored as the original option index
+    const r2 = scoreExam(s, 2000);
+    expect(r2.answers[0]!.chosen).toBe((s.questions[0]!.q.correct + 2) % 4);
+    expect(r2.answers[1]!.chosen).toBe(s.questions[1]!.q.correct);
+    expect(r2.answers[64]!.chosen).toBeNull();
   });
   it('computes remaining time', () => {
     const s = buildExam(makePool(20), mulberry32(4), 1000);

@@ -100,7 +100,8 @@ export function scoreExam(session: ExamSession, endedAt = Date.now()): ExamResul
     const row = (perArea[eq.q.category] ??= { correct: 0, total: 0 });
     row.total++;
     if (ok) row.correct++;
-    return { qid: eq.q.id, chosen, correct: ok, flagged: session.flagged[i] ?? false };
+    // store the ORIGINAL option index so reviews can highlight the picked answer
+    return { qid: eq.q.id, chosen: chosen === null ? null : (eq.order[chosen] ?? null), correct: ok, flagged: session.flagged[i] ?? false };
   });
   const correct = answers.filter((a) => a.correct).length;
   const total = session.questions.length;
