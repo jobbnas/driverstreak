@@ -1,0 +1,73 @@
+{
+  "trafikregler": {
+    "vajningsregler": { "label": "Väjningsregler", "target": 25 },
+    "hogerregeln": { "label": "Högerregeln", "target": 15 },
+    "cirkulationsplats": { "label": "Cirkulationsplats", "target": 15 },
+    "omkorning": { "label": "Omkörning", "target": 25 },
+    "stanna-parkera": { "label": "Stanna & parkera", "target": 30 },
+    "hastigheter": { "label": "Hastigheter", "target": 20 },
+    "motorvag": { "label": "Motorväg & motortrafikled", "target": 15 },
+    "jarnvag": { "label": "Järnvägskorsning", "target": 10 },
+    "korfalt-placering": { "label": "Körfält & placering", "target": 20 },
+    "vandning-backning": { "label": "Vändning & backning", "target": 10 },
+    "ljus-signaler": { "label": "Ljus & signaler", "target": 15 },
+    "gagata-gangfart": { "label": "Gågata & gångfartsområde", "target": 10 },
+    "tillaggstavlor": { "label": "Tilläggstavlor", "target": 10 },
+    "korfaltsbyte-tecken": { "label": "Körfältsbyte & tecken", "target": 10 },
+    "cykel-moped": { "label": "Cykel & moped", "target": 10 },
+    "buss-sparvagn": { "label": "Buss & spårvagn", "target": 10 }
+  },
+  "trafiksakerhet": {
+    "stoppstracka": { "label": "Reaktion, broms & stoppsträcka", "target": 30 },
+    "halka-vinter": { "label": "Halka & vinter", "target": 25 },
+    "morker": { "label": "Mörker", "target": 20 },
+    "vaglag-vader": { "label": "Väglag & väder", "target": 15 },
+    "sikt": { "label": "Sikt", "target": 15 },
+    "oskyddade": { "label": "Oskyddade trafikanter", "target": 25 },
+    "barn-aldre": { "label": "Barn & äldre", "target": 15 },
+    "landsvag-vilt": { "label": "Landsväg & vilt", "target": 15 },
+    "tatort-korsningar": { "label": "Tätort & korsningar", "target": 15 },
+    "krockvald": { "label": "Krockvåld & fysik", "target": 10 },
+    "riskutbildning": { "label": "Riskutbildning & sladd", "target": 15 }
+  },
+  "fordon": {
+    "dack": { "label": "Däck", "target": 25 },
+    "bromsar": { "label": "Bromsar", "target": 20 },
+    "belysning": { "label": "Belysning", "target": 20 },
+    "lastsakring": { "label": "Last & lastsäkring", "target": 15 },
+    "slap-vikter": { "label": "Släp & vikter", "target": 25 },
+    "besiktning": { "label": "Besiktning & registrering", "target": 15 },
+    "balte-krockkudde": { "label": "Bälte & krockkudde", "target": 10 },
+    "barnsakerhet": { "label": "Barnsäkerhet", "target": 10 },
+    "teknik": { "label": "Teknik & system", "target": 20 }
+  },
+  "miljo": {
+    "drivmedel": { "label": "Drivmedel", "target": 20 },
+    "ecodriving": { "label": "Sparsam körning", "target": 30 },
+    "utslapp-halsa": { "label": "Utsläpp & hälsa", "target": 15 },
+    "underhall": { "label": "Däcktryck & underhåll", "target": 10 },
+    "motorvarmare-tomgang": { "label": "Motorvärmare & tomgång", "target": 15 },
+    "transportval": { "label": "Transportval & miljözoner", "target": 10 }
+  },
+  "personliga": {
+    "alkohol": { "label": "Alkohol & promille", "target": 25 },
+    "droger-lakemedel": { "label": "Droger & läkemedel", "target": 15 },
+    "trotthet": { "label": "Trötthet", "target": 15 },
+    "stress": { "label": "Stress & humör", "target": 15 },
+    "grupptryck-risk": { "label": "Grupptryck & riskbeteende", "target": 15 },
+    "syn-horsel": { "label": "Syn & hörsel", "target": 10 },
+    "sjukdom-alder": { "label": "Sjukdom & ålder", "target": 10 },
+    "mognad-korstil": { "label": "Mognad & körstil", "target": 15 }
+  },
+  "vagmarken": {
+    "varningsmarken": { "label": "Varningsmärken", "target": 20 },
+    "vajningsplikt": { "label": "Väjningspliktsmärken", "target": 10 },
+    "forbudsmarken": { "label": "Förbudsmärken", "target": 25 },
+    "pabudsmarken": { "label": "Påbudsmärken", "target": 10 },
+    "anvisningsmarken": { "label": "Anvisningsmärken", "target": 25 },
+    "lokalisering": { "label": "Lokaliseringsmärken", "target": 10 },
+    "tillaggstavlor": { "label": "Tilläggstavlor", "target": 10 },
+    "vagmarkeringar": { "label": "Vägmarkeringar", "target": 10 },
+    "signaler-tecken": { "label": "Signaler & polismans tecken", "target": 5 }
+  }
+}
