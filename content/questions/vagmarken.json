@@ -1,0 +1,2363 @@
+[
+  {
+    "id": "vm-varn-001",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Vilket märke sätts upp omedelbart före en obevakad järnvägskorsning?",
+    "options": [
+      "Varning för järnvägskorsning med bommar",
+      "Kryssmärke",
+      "Avstånd till plankorsning",
+      "Varning för annan fara"
+    ],
+    "correct": 1,
+    "explanation": "Kryssmärket sitter alltid omedelbart före själva plankorsningen. Vid en obevakad korsning finns varken bommar eller ljussignal, så kryssmärket är det enda som markerar spåret och du måste själv försäkra dig om att inget tåg kommer.",
+    "signRefs": [
+      "A39"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-002",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Vad betyder avståndsmärket med tre sneda streck före en järnvägskorsning?",
+    "options": [
+      "Korsningen har tre spår",
+      "Tåg passerar korsningen tre gånger per timme",
+      "Det är ungefär 50 meter kvar till plankorsningen",
+      "Det är ungefär 150 meter kvar till plankorsningen"
+    ],
+    "correct": 3,
+    "explanation": "Avståndsmärkena har tre, två och ett streck och anger ungefär 150, 100 respektive 50 meter kvar till plankorsningen. Antalet spår visas i stället med ett dubbelt kryssmärke.",
+    "signRefs": [
+      "A38"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-003",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 3,
+    "question": "Du kör på en landsväg där hastighetsgränsen är 90 km/h. Ungefär hur långt före faran sitter normalt ett varningsmärke?",
+    "options": [
+      "5–75 meter",
+      "50–100 meter",
+      "150–250 meter",
+      "300–500 meter"
+    ],
+    "correct": 2,
+    "explanation": "Utanför tättbebyggt område på vägar med högre hastighet sätts varningsmärken normalt upp 150–250 meter före faran. I tätort med låg hastighet är avståndet betydligt kortare (5–75 meter). Avviker avståndet anges det på en tilläggstavla.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-004",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Du kör på en landsväg och ser det här varningsmärket. Vad innebär det?",
+    "options": [
+      "Du närmar dig en korsning där högerregeln gäller",
+      "Du närmar dig en korsning där trafiken på den anslutande vägen har väjningsplikt eller stopplikt",
+      "Du har väjningsplikt i nästa korsning",
+      "Du närmar dig en cirkulationsplats"
+    ],
+    "correct": 1,
+    "explanation": "Märket varnar för en vägkorsning där trafikanterna på den anslutande vägen har väjningsplikt eller stopplikt. Den tjocka linjen visar din väg. Varning för korsning där högerregeln gäller har i stället ett kryss med lika tjocka linjer.",
+    "signRefs": [
+      "A29"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-005",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här varningsmärket med en bil som slirar?",
+    "options": [
+      "Varning för stenskott",
+      "Varning för ojämn väg",
+      "Varning för sidvind",
+      "Varning för slirig väg"
+    ],
+    "correct": 3,
+    "explanation": "Märket varnar för slirig väg, alltså att vägbanan kan vara hal. Orsaken, till exempel is eller halka vid regn, kan anges på en tilläggstavla. Sänk farten och undvik häftiga rattrörelser och inbromsningar.",
+    "signRefs": [
+      "A10"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-006",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Du har kört på en väg med skilda körbanor och ser det här märket. Vad innebär det?",
+    "options": [
+      "Varning för mötande trafik",
+      "Enkelriktad trafik upphör",
+      "Omkörning förbjuden",
+      "Motortrafikled upphör"
+    ],
+    "correct": 0,
+    "explanation": "Märket varnar för mötande trafik och sätts upp där en väg som varit enkelriktad eller haft skilda körbanor övergår till dubbelriktad trafik. Håll till höger och var beredd på möten.",
+    "signRefs": [
+      "A25"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-007",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Du ser ett varningsmärke med en trafiksignal som symbol. Vad ska du främst tänka på?",
+    "options": [
+      "Signalen längre fram är ur funktion och högerregeln gäller",
+      "Du får inte köra mot gult ljus på den här sträckan",
+      "Det finns en trafiksignal längre fram som kan vara svår att upptäcka i tid",
+      "Signalen gäller bara för kollektivtrafik"
+    ],
+    "correct": 2,
+    "explanation": "Varning för flerfärgssignal sätts upp där en trafiksignal kan vara svår att upptäcka i tid, till exempel efter en kurva eller ett backkrön. Var beredd på att signalen kan visa rött när du kommer fram.",
+    "signRefs": [
+      "A22"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-008",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Vad skiljer märkena Varning för järnvägskorsning med bommar och Varning för järnvägskorsning utan bommar åt?",
+    "options": [
+      "Märket för korsning med bommar visar ett staket, märket för korsning utan bommar visar ett ånglok",
+      "Märket för korsning med bommar visar ett ånglok, märket för korsning utan bommar visar ett staket",
+      "Märket för korsning utan bommar har röd botten",
+      "Märket för korsning med bommar sätts bara upp på motorvägar"
+    ],
+    "correct": 0,
+    "explanation": "Varning för järnvägskorsning med bommar har en symbol som ser ut som ett staket (bommen), medan Varning för järnvägskorsning utan bommar visar ett ånglok. Vid en korsning utan bommar måste du vara särskilt uppmärksam eftersom det kan saknas ljus- och ljudsignal.",
+    "signRefs": [
+      "A35",
+      "A36"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-009",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Du ser märket Varning för annan fara. Hur får du veta vilken fara det gäller?",
+    "options": [
+      "Det framgår av vägmarkeringar längre fram",
+      "Faran anges på en tilläggstavla under märket",
+      "Märket används bara vid vägarbete",
+      "Det framgår av vägens hastighetsbegränsning"
+    ],
+    "correct": 1,
+    "explanation": "Varning för annan fara används när det inte finns något särskilt varningsmärke för faran. Vilken fara det gäller anges på en tilläggstavla, till exempel med text som \"Lösa stenar\" eller \"Vägen översvämmad\".",
+    "signRefs": [
+      "A40"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-010",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Du ser märket Varning för barn. Vad är det viktigaste du bör göra?",
+    "options": [
+      "Tuta för att göra barnen uppmärksamma på bilen",
+      "Sänka farten och vara beredd på att barn kan springa ut plötsligt",
+      "Hålla dig mitt i vägen för att öka avståndet till trottoaren",
+      "Slå på helljuset så att barnen ser dig bättre"
+    ],
+    "correct": 1,
+    "explanation": "Märket sätts upp där barn ofta uppehåller sig, till exempel vid skolor och lekplatser. Barn är oberäkneliga och har svårt att bedöma fart och avstånd, så du ska sänka farten och vara beredd att stanna.",
+    "signRefs": [
+      "A15"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-011",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Du passerar märket Varning för älg. När på dygnet är risken för att möta älg på vägen som störst?",
+    "options": [
+      "Mitt på dagen när det är ljust",
+      "I gryning och skymning",
+      "Mitt i natten",
+      "Risken är lika stor hela dygnet"
+    ],
+    "correct": 1,
+    "explanation": "Vilt rör sig mest i gryning och skymning, och då är också sikten sämre. Märket sätts upp på sträckor där älgar ofta korsar vägen. Sänk farten och spana längs vägkanterna, särskilt under dessa tider.",
+    "signRefs": [
+      "A19-1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-012",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här triangelformade märket med pilar i en cirkel?",
+    "options": [
+      "Påbjuden körriktning i cirkulationsplats",
+      "Varning för cirkulationsplats",
+      "Vändplats",
+      "Varning för vägkorsning"
+    ],
+    "correct": 1,
+    "explanation": "Märket varnar för att det kommer en cirkulationsplats längre fram. Själva cirkulationsplatsen anges med det blå påbudsmärket Cirkulationsplats tillsammans med märket Väjningsplikt.",
+    "signRefs": [
+      "A30"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-013",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Du kör mot en trafikplats och ser det här varningsmärket. Vad innebär det?",
+    "options": [
+      "Varning för långsamtgående fordon",
+      "Varning för vägarbete",
+      "Förbud mot omkörning",
+      "Varning för kö"
+    ],
+    "correct": 3,
+    "explanation": "Märket varnar för att köer kan bildas längre fram, till exempel före en trafikplats eller ett vägarbete. Öka avståndet till framförvarande och var beredd att bromsa.",
+    "signRefs": [
+      "A34"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-014",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Du ser märket Varning för sidvind. Var är risken för kraftiga vindbyar särskilt stor?",
+    "options": [
+      "I tunnlar och under broar",
+      "På broar, vid öppna fält och när du lämnar skogsområden",
+      "Bara i skarpa kurvor",
+      "Bara när det regnar"
+    ],
+    "correct": 1,
+    "explanation": "Sidvind märks mest på broar, öppna slätter och där du kommer ut ur lä, till exempel efter en skogsdunge eller vid omkörning av en lastbil. Håll ett stadigt grepp om ratten och sänk farten.",
+    "signRefs": [
+      "A24"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-015",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 3,
+    "question": "Du ser det här varningsmärket på en nyasfalterad väg. Vad innebär det?",
+    "options": [
+      "Varning för avsmalnande väg",
+      "Varning för stenras",
+      "Varning för svag vägkant eller hög körbanekant",
+      "Varning för ojämn väg"
+    ],
+    "correct": 2,
+    "explanation": "Märket varnar för att vägkanten är svag eller att körbanan har en hög kant, till exempel efter en ny beläggning. Kör inte ut på vägrenen, eftersom kanten kan ge vika eller göra att du tappar kontrollen.",
+    "signRefs": [
+      "A27"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-016",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här varningsmärket med en person som gräver?",
+    "options": [
+      "Varning för vägarbete",
+      "Slut på sträcka med vägarbete",
+      "Varning för stenras",
+      "Varning för farthinder"
+    ],
+    "correct": 0,
+    "explanation": "Märket varnar för vägarbete längre fram. Sänk farten, följ vägarbetarnas anvisningar och tillfälliga märken, och var beredd på att vägbanan kan vara smalare eller ha en annan sträckning.",
+    "signRefs": [
+      "A20"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-017",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här varningsmärket som du ser före ett vattendrag?",
+    "options": [
+      "Varning för kaj",
+      "Varning för öppningsbar bro",
+      "Varning för tunnel",
+      "Varning för färja"
+    ],
+    "correct": 1,
+    "explanation": "Märket varnar för en öppningsbar bro. Var beredd på att bron kan vara öppen och att du kan behöva stanna vid bommar eller ljussignal.",
+    "signRefs": [
+      "A6"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-018",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Vad är skillnaden mellan det triangelformade märket Varning för övergångsställe och det blå fyrkantiga märket Övergångsställe?",
+    "options": [
+      "Det finns ingen skillnad, de används växelvis",
+      "Det triangelformade varnar för ett övergångsställe längre fram, det blå anger var övergångsstället är",
+      "Det blå märket gäller bara bevakade övergångsställen",
+      "Det triangelformade märket används bara i tätort"
+    ],
+    "correct": 1,
+    "explanation": "Varningsmärket sätts upp i förväg där övergångsstället kan vara svårt att upptäcka, medan det blå märket Övergångsställe sitter vid själva övergångsstället och markerar var du har väjningsplikt mot gående.",
+    "signRefs": [
+      "A13",
+      "B3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-019",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär det här varningsmärket med en traktor som symbol?",
+    "options": [
+      "Varning för långsamtgående fordon",
+      "Förbud mot trafik med traktor",
+      "Varning för vägarbete",
+      "Varning för terrängskotertrafik"
+    ],
+    "correct": 0,
+    "explanation": "Märket varnar för att långsamtgående fordon, till exempel traktorer eller motorredskap, ofta kör ut på eller korsar vägen. Var beredd på stora fartskillnader och planera omkörningar noga.",
+    "signRefs": [
+      "A31"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-varn-020",
+    "category": "vagmarken",
+    "subtopic": "varningsmarken",
+    "difficulty": 3,
+    "question": "Du ser märket Varning för nedförslutning med tilläggstavlan 12 %. Hur bör du köra?",
+    "options": [
+      "Frikoppla för att spara bränsle i backen",
+      "Växla ned och låt motorn bromsa så att färdbromsen inte överhettas",
+      "Använda bara parkeringsbromsen för att sakta ner",
+      "Öka farten före backen för att komma upp snabbare på andra sidan"
+    ],
+    "correct": 1,
+    "explanation": "I en lång, brant nedförsbacke ska du växla ned och motorbromsa. Bromsar du hela vägen med färdbromsen kan bromsarna bli så varma att bromsverkan försämras (fading). Att frikoppla gör att du förlorar motorbromsen helt.",
+    "signRefs": [
+      "A3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-001",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 1,
+    "question": "Vad innebär den nedåtvända triangeln med röd bård?",
+    "options": [
+      "Du har stopplikt och måste alltid stanna",
+      "Du har väjningsplikt mot trafiken på den korsande vägen",
+      "Korsande trafik har väjningsplikt mot dig",
+      "Varning för vägkorsning"
+    ],
+    "correct": 1,
+    "explanation": "Märket Väjningsplikt betyder att du ska sänka farten eller stanna och släppa fram trafiken på den korsande vägen. Du behöver bara stanna om det krävs för att lämna företräde, till skillnad från stopplikt där du alltid måste stanna.",
+    "signRefs": [
+      "B1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-002",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 2,
+    "question": "Du har stopplikt i en korsning men det finns ingen stopplinje. Var ska du stanna?",
+    "options": [
+      "Vid märket Stopplikt",
+      "Omedelbart före den korsande vägen, där du har god sikt",
+      "Mitt i korsningen",
+      "Cirka 10 meter före korsningen"
+    ],
+    "correct": 1,
+    "explanation": "Vid stopplikt ska du stanna vid stopplinjen. Saknas stopplinje stannar du omedelbart innan du kör in på den korsande vägen, på en plats där du kan se trafiken. Du måste alltid stanna helt, även om vägen ser tom ut.",
+    "signRefs": [
+      "B2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-003",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 1,
+    "question": "Vad gäller för parkering på en väg med märket Huvudled?",
+    "options": [
+      "Parkering är tillåten utom inom 10 meter från korsning",
+      "Parkering är tillåten bara på höger sida",
+      "Parkering är förbjuden, men du får stanna",
+      "Både stannande och parkering är förbjudet"
+    ],
+    "correct": 2,
+    "explanation": "På en huvudled är det förbjudet att parkera, om inte något annat anges med ett märke. Det är däremot tillåtet att stanna, till exempel för att släppa av en passagerare. Korsande trafik har väjningsplikt mot dig.",
+    "signRefs": [
+      "B4"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-004",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 2,
+    "question": "Vad gäller efter märket Huvudled upphör om inga andra märken finns?",
+    "options": [
+      "Du har stopplikt i nästa korsning",
+      "Högerregeln gäller i kommande korsningar",
+      "Korsande trafik har fortfarande väjningsplikt mot dig",
+      "Du måste sänka farten till 50 km/h"
+    ],
+    "correct": 1,
+    "explanation": "När huvudleden upphör försvinner din förtur i korsningarna. Om inget annat anges med väjningsplikts- eller stoppliktsmärken gäller högerregeln. Märket brukar därför sitta en bit före den första korsningen.",
+    "signRefs": [
+      "B5"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-005",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 1,
+    "question": "På en smal vägsträcka ser du det här runda märket med två pilar. Vad innebär det?",
+    "options": [
+      "Mötande trafik har väjningsplikt mot dig",
+      "Du har väjningsplikt mot mötande trafik",
+      "Förbud mot omkörning",
+      "Varning för mötande trafik"
+    ],
+    "correct": 1,
+    "explanation": "Märket är runt med röd bård och en röd pil i din riktning: du har väjningsplikt mot mötande trafik på den smala vägsträckan och ska vänta tills mötande fordon har passerat. Det motsatta blå märket ger dig företräde.",
+    "signRefs": [
+      "B6"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-006",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 1,
+    "question": "På en smal bro ser du det här blå fyrkantiga märket med två pilar. Vad innebär det?",
+    "options": [
+      "Du har väjningsplikt mot mötande trafik",
+      "Enkelriktad trafik",
+      "Påbjuden körriktning rakt fram",
+      "Mötande trafik har väjningsplikt mot dig"
+    ],
+    "correct": 3,
+    "explanation": "Det blå märket med en vit pil i din riktning och en röd pil för mötande betyder att mötande trafik har väjningsplikt mot dig på den smala sträckan. Kör ändå försiktigt och var beredd på att någon kan ha missat märket.",
+    "signRefs": [
+      "B7"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-007",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 1,
+    "question": "Du närmar dig ett obevakat övergångsställe med märket Övergångsställe. Vilka har du väjningsplikt mot?",
+    "options": [
+      "Bara gående som redan är ute på övergångsstället",
+      "Inga, gående ska vänta tills vägen är fri",
+      "Bara barn och äldre",
+      "Gående som gått ut på eller just ska gå ut på övergångsstället"
+    ],
+    "correct": 3,
+    "explanation": "Vid ett obevakat övergångsställe har du väjningsplikt mot gående som gått ut på eller just ska gå ut på övergångsstället. Anpassa farten i god tid så att du kan stanna, och kör aldrig om strax före eller på övergångsstället.",
+    "signRefs": [
+      "B3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-008",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 2,
+    "question": "Vad innebär det här blå märket med en cykel och ett vitt fält?",
+    "options": [
+      "Påbjuden cykelbana",
+      "Cykelpassage där cyklister har väjningsplikt",
+      "Cykelöverfart där du har väjningsplikt mot cyklister",
+      "Varning för cyklande"
+    ],
+    "correct": 2,
+    "explanation": "Märket Cykelöverfart anger en plats där du har väjningsplikt mot cyklister och mopedförare som är ute på eller just ska köra ut på överfarten. Vid en cykelpassage är det i stället cyklisterna som har väjningsplikt, men du ska ändå anpassa farten.",
+    "signRefs": [
+      "B8"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-009",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 3,
+    "question": "Under märket Väjningsplikt sitter en tilläggstavla med texten Flervägsväjning. Vad betyder det?",
+    "options": [
+      "Bara du har väjningsplikt, övriga tillfarter har huvudled",
+      "Alla tillfarter till korsningen har väjningsplikt",
+      "Korsningen har stopplikt i alla riktningar",
+      "Väjningsplikten gäller bara mot trafik från vänster"
+    ],
+    "correct": 1,
+    "explanation": "Tilläggstavlan Flervägsväjning talar om att alla som kör in i korsningen har väjningsplikt. Ingen har förtur enligt märken, så du måste visa tydligt vad du tänker göra och samspela med de andra förarna.",
+    "signRefs": [
+      "B1",
+      "T13"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-vaj-010",
+    "category": "vagmarken",
+    "subtopic": "vajningsplikt",
+    "difficulty": 3,
+    "question": "Varför har märket Stopplikt en åttakantig form?",
+    "options": [
+      "För att det ska synas bättre i mörker",
+      "För att formen ska kunna kännas igen även bakifrån eller när märket är täckt av snö",
+      "För att skilja det från förbudsmärken som alltid är fyrkantiga",
+      "Formen har ingen särskild betydelse"
+    ],
+    "correct": 1,
+    "explanation": "Stopplikt är det enda åttakantiga märket och Väjningsplikt den enda nedåtvända triangeln. De unika formerna gör att du kan förstå vad märket betyder även om det är täckt av snö eller om du ser det bakifrån från den korsande vägen.",
+    "signRefs": [
+      "B2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-001",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Hur långt gäller ett förbudsmärke om inget annat anges?",
+    "options": [
+      "100 meter",
+      "Till nästa vägmärke av något slag",
+      "Från märket fram till nästa korsning",
+      "Till tättbebyggt område upphör"
+    ],
+    "correct": 2,
+    "explanation": "Ett förbudsmärke gäller från platsen där det sitter fram till nästa korsning, om inte något annat anges med tilläggstavla eller ett slutmärke. Vissa märken, till exempel hastighetsbegränsning, har egna regler och gäller tills ett nytt märke anger något annat.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-002",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här röda runda märket med ett vitt tvärstreck?",
+    "options": [
+      "Förbud mot infart med fordon",
+      "Förbud mot trafik med fordon i båda riktningarna",
+      "Förbud mot att stanna och parkera",
+      "Återvändsväg"
+    ],
+    "correct": 0,
+    "explanation": "Det runda röda märket med ett vitt tvärstreck betyder förbud mot infart med fordon. Det sitter ofta i slutet av enkelriktade gator. Trafik i motsatt riktning är alltså tillåten, till skillnad från märket Förbud mot trafik med fordon.",
+    "signRefs": [
+      "C1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-003",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Vad är skillnaden mellan märkena Förbud mot infart med fordon och Förbud mot trafik med fordon?",
+    "options": [
+      "Det ena gäller bara motorfordon, det andra alla fordon",
+      "Förbud mot trafik med fordon gäller bara nattetid",
+      "Det finns ingen skillnad i betydelse",
+      "Förbud mot infart gäller bara från det håll du kommer, Förbud mot trafik med fordon gäller i båda riktningarna"
+    ],
+    "correct": 3,
+    "explanation": "Förbud mot infart med fordon förbjuder bara att köra in från det håll där märket sitter, till exempel i slutet av en enkelriktad gata. Förbud mot trafik med fordon (rund, gul med röd bård) stänger vägen för all fordonstrafik i båda riktningarna.",
+    "signRefs": [
+      "C2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-004",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär det här förbudsmärket med en bil och en motorcykel?",
+    "options": [
+      "Förbud mot trafik med motorcykel",
+      "Förbud mot trafik med alla motordrivna fordon utom moped klass II",
+      "Förbud mot trafik med personbil, men moped och motorcykel är tillåtna",
+      "Förbud mot trafik med fordon i linjetrafik"
+    ],
+    "correct": 1,
+    "explanation": "Märket med bil och motorcykel betyder förbud mot trafik med annat motordrivet fordon än moped klass II. Personbilar, lastbilar, motorcyklar och mopeder klass I får alltså inte köra här, men moped klass II och cyklar får det.",
+    "signRefs": [
+      "C3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-005",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Du ser märket Förbud mot trafik med motordrivet fordon med fler än två hjul. Vilka får köra in?",
+    "options": [
+      "Bara bussar i linjetrafik",
+      "Personbilar men inte lastbilar",
+      "Tvåhjuliga motorcyklar och mopeder samt cyklar",
+      "Inga motordrivna fordon alls"
+    ],
+    "correct": 2,
+    "explanation": "Märket förbjuder motordrivna fordon med fler än två hjul, till exempel bilar och lastbilar. Tvåhjuliga motorcyklar och mopeder omfattas inte av förbudet, och cyklar är inte motordrivna fordon.",
+    "signRefs": [
+      "C4"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-006",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här förbudsmärket med en bil och släpvagn?",
+    "options": [
+      "Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn",
+      "Förbud mot trafik med husbil",
+      "Förbud mot omkörning med släpvagn",
+      "Påbjuden väg för fordon med släpvagn"
+    ],
+    "correct": 0,
+    "explanation": "Märket förbjuder trafik med motordrivet fordon som har en släpvagn tillkopplad. Kör du personbil med släp får du alltså inte fortsätta här, medan samma bil utan släp får köra in. En tilläggstavla kan begränsa förbudet till släp över en viss vikt.",
+    "signRefs": [
+      "C6"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-007",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Märket Förbud mot trafik med tung lastbil sitter vid infarten till en gata. Vilken lastbil räknas som tung?",
+    "options": [
+      "En lastbil med fler än två axlar",
+      "En lastbil längre än 12 meter",
+      "En lastbil med tillkopplat släp",
+      "En lastbil med totalvikt över 3,5 ton"
+    ],
+    "correct": 3,
+    "explanation": "En tung lastbil har en totalvikt över 3 500 kg. Lätta lastbilar (högst 3 500 kg totalvikt) omfattas inte av förbudet och får köra på gatan. Antal axlar, längd och släp avgör inte om lastbilen är tung.",
+    "signRefs": [
+      "C7"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-008",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Du kör en bil med takbox och ser märket Begränsad fordonshöjd 2,5 m. Vad gäller?",
+    "options": [
+      "Bara bilens egen höjd räknas, inte lasten",
+      "Fordonet får inklusive last inte vara högre än 2,5 meter",
+      "Märket gäller bara lastbilar och bussar",
+      "Du får passera om du kör långsamt"
+    ],
+    "correct": 1,
+    "explanation": "Märket förbjuder trafik med fordon vars höjd, inklusive last, överstiger den angivna höjden. Takbox, cyklar på taket eller annan last räknas alltså in. Tänk också på att en viadukt inte blir högre av att du kör sakta.",
+    "signRefs": [
+      "C17"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-009",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Minsta avstånd med angivelsen 50 m?",
+    "options": [
+      "Motordrivna fordon måste hålla minst 50 meter till framförvarande fordon",
+      "Det är minst 50 meter kvar till nästa korsning",
+      "Du får inte köra om inom 50 meter",
+      "Du måste stanna minst 50 meter före en järnvägskorsning"
+    ],
+    "correct": 0,
+    "explanation": "Märket Minsta avstånd anger att motordrivna fordon ska hålla minst det angivna avståndet till fordonet framför. Det används till exempel på broar och i tunnlar för att begränsa belastningen eller minska risken för seriekrockar.",
+    "signRefs": [
+      "C19"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-010",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Vid en korsning sitter märket Förbud mot vänstersväng. Får du vända (göra en U-sväng) i korsningen?",
+    "options": [
+      "Ja, förbudet gäller bara vänstersväng in på den korsande vägen",
+      "Ja, om det inte kommer någon mötande trafik",
+      "Nej, förbud mot vänstersväng innebär också förbud mot U-sväng",
+      "Nej, du får bara vända om det finns ett särskilt vändfält"
+    ],
+    "correct": 2,
+    "explanation": "Märket Förbud mot vänstersväng i korsning förbjuder både att svänga till vänster och att vända i korsningen, eftersom en U-sväng inleds som en vänstersväng. Förbudet gäller i den korsning där märket sitter.",
+    "signRefs": [
+      "C25-1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-011",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Vid en korsning sitter märket Förbud mot U-sväng. Får du svänga vänster i korsningen?",
+    "options": [
+      "Nej, förbud mot U-sväng innebär också förbud mot vänstersväng",
+      "Nej, du får bara köra rakt fram eller svänga höger",
+      "Bara om du blinkar i god tid",
+      "Ja, förbudet gäller bara att vända"
+    ],
+    "correct": 3,
+    "explanation": "Märket Förbud mot U-sväng förbjuder bara att vända i korsningen. Vanlig vänstersväng är tillåten. Det omvända gäller däremot inte: ett förbud mot vänstersväng innebär även förbud mot U-sväng.",
+    "signRefs": [
+      "C26"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-012",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Du kör personbil på en sträcka med märket Förbud mot omkörning. Vilket fordon får du ändå köra om?",
+    "options": [
+      "En långsam traktor",
+      "En tvåhjulig moped utan sidvagn",
+      "En personbil med släpvagn",
+      "En lätt lastbil som kör under hastighetsgränsen"
+    ],
+    "correct": 1,
+    "explanation": "Förbud mot omkörning gäller omkörning av andra motordrivna fordon än tvåhjuliga mopeder och tvåhjuliga motorcyklar utan sidvagn. Du får alltså köra om en tvåhjulig moped, men inte traktorer, bilar eller lastbilar.",
+    "signRefs": [
+      "C27"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-013",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här gråa märket med två bilar och sneda streck över?",
+    "options": [
+      "Slut på förbud mot omkörning",
+      "Förbud mot omkörning",
+      "Omkörning förbjuden för lastbil",
+      "Förbud mot att köra om till höger"
+    ],
+    "correct": 0,
+    "explanation": "Ett förbudsmärke i grått med sneda streck över betyder att förbudet upphör. Här upphör förbudet mot omkörning, och de vanliga omkörningsreglerna gäller igen. Kontrollera ändå alltid att sikten och vägen tillåter en omkörning.",
+    "signRefs": [
+      "C28"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-014",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Du passerar märket Hastighetsbegränsning 50 km/tim. Hur långt gäller begränsningen?",
+    "options": [
+      "Till nästa korsning",
+      "100 meter",
+      "Till nästa varningsmärke",
+      "Tills ett nytt märke anger en annan hastighet eller att området upphör"
+    ],
+    "correct": 3,
+    "explanation": "Till skillnad från de flesta andra förbudsmärken upphör inte en hastighetsbegränsning vid nästa korsning. Den gäller tills ett nytt hastighetsmärke sätts upp, eller tills ett märke som Tättbebyggt område börjar eller upphör anger något annat.",
+    "signRefs": [
+      "C31-5"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-015",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Efter ett vägarbete ser du det här märket. Vad innebär det?",
+    "options": [
+      "Hastighetsbegränsningen upphör och du får köra hur fort du vill",
+      "Slut på tättbebyggt område",
+      "En tillfällig hastighetsbegränsning upphör och den tidigare gränsen gäller igen",
+      "Rekommenderad hastighet upphör"
+    ],
+    "correct": 2,
+    "explanation": "Märket betyder att en tillfällig hastighetsbegränsning, till exempel vid ett vägarbete, upphör. Därefter gäller den hastighetsgräns som gällde före den tillfälliga begränsningen, inte fri fart.",
+    "signRefs": [
+      "C32"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-016",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär märket Stopp för angivet ändamål?",
+    "options": [
+      "Du har stopplikt i nästa korsning",
+      "Du måste stanna för det ändamål som anges, till exempel poliskontroll eller tull",
+      "Du får stanna här bara för av- och påstigning",
+      "Du får inte stanna på sträckan"
+    ],
+    "correct": 1,
+    "explanation": "Märket är rött med vit text och anger att du måste stanna för det ändamål som texten visar, till exempel Polis, Tull eller Vakt. Det används alltså vid kontroller, inte i vanliga korsningar.",
+    "signRefs": [
+      "C34"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-017",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Märket Förbud mot att parkera fordon sitter på höger sida av gatan. Var gäller förbudet?",
+    "options": [
+      "På den sida av gatan där märket sitter, fram till nästa korsning",
+      "På båda sidor av gatan fram till nästa korsning",
+      "På hela gatan tills ett annat märke sätts upp",
+      "Bara 20 meter efter märket"
+    ],
+    "correct": 0,
+    "explanation": "Förbud mot att parkera gäller på den sida av vägen där märket är uppsatt, från märket fram till nästa korsning, om inte en tilläggstavla anger något annat. Efter korsningen måste märket upprepas för att förbudet ska fortsätta gälla.",
+    "signRefs": [
+      "C35"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-018",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär det här parkeringsmärket med ett rött snedstreck och siffran I?",
+    "options": [
+      "Förbud mot att parkera på dag med jämnt datum",
+      "Förbud mot att parkera mer än en dag",
+      "Förbud mot att parkera på dag med udda datum",
+      "Parkering tillåten bara på udda husnummer"
+    ],
+    "correct": 2,
+    "explanation": "Märket med ett rött snedstreck och siffran I (ett) betyder förbud mot att parkera på dagar med udda datum. Motsvarande märke med siffran II gäller jämna datum. Tidsangivelser kan finnas på tilläggstavla.",
+    "signRefs": [
+      "C36"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-019",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Vad innebär märket Datumparkering?",
+    "options": [
+      "Parkering är tillåten bara på det datum som anges på tilläggstavlan",
+      "Förbjudet på sidan med udda husnummer på udda datum och på sidan med jämna husnummer på jämna datum",
+      "Parkering är tillåten på sidan med udda husnummer på udda datum",
+      "Parkering är förbjuden i hela området på helgdagar"
+    ],
+    "correct": 1,
+    "explanation": "Datumparkering betyder att det är förbjudet att parkera på den sida av gatan som har udda husnummer på dagar med udda datum, och på sidan med jämna husnummer på dagar med jämnt datum. Syftet är att underlätta snöröjning och städning.",
+    "signRefs": [
+      "C38"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-020",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Du ska släppa av en passagerare på en gata med märket Förbud mot att stanna och parkera. Vad gäller?",
+    "options": [
+      "Du får stanna högst 3 minuter för av- och påstigning",
+      "Du får stanna om du håller motorn igång",
+      "Du får stanna om passageraren är rörelsehindrad",
+      "Du får inte stanna alls, inte ens för av- eller påstigning"
+    ],
+    "correct": 3,
+    "explanation": "Där märket Förbud mot att stanna och parkera gäller får du inte stanna frivilligt över huvud taget, inte ens för att släppa av någon. Endast stopp som krävs på grund av trafikförhållandena, till exempel kö, eller för att undvika fara är tillåtna.",
+    "signRefs": [
+      "C39"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-021",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "I vilket fall får du stanna på en sträcka med märket Förbud mot att stanna och parkera?",
+    "options": [
+      "När trafiken framför dig står stilla i en kö",
+      "När du snabbt ska lämna ett paket",
+      "När du ska släppa av en passagerare",
+      "När du väntar på någon i högst en minut"
+    ],
+    "correct": 0,
+    "explanation": "Stoppförbudet gäller frivilliga stopp. Stannar du för att trafikförhållandena kräver det, till exempel i en kö eller för att undvika en olycka, bryter du inte mot förbudet. Att lämna paket, släppa av eller vänta på någon är däremot förbjudet.",
+    "signRefs": [
+      "C39"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-022",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 2,
+    "question": "Märket Ändamålsplats med texten Lastplats sitter längs en gata. Vad gäller för dig som kör personbil?",
+    "options": [
+      "Du får parkera i högst 30 minuter",
+      "Du får stanna för att släppa av passagerare men inte parkera",
+      "Du får varken stanna eller parkera, om du inte lastar eller lossar gods",
+      "Du får parkera om du har parkeringsskiva"
+    ],
+    "correct": 2,
+    "explanation": "En ändamålsplats får bara användas för det ändamål som anges på märket, här lastning och lossning av gods. Andra fordon får varken stanna eller parkera där. Platsen upphör vid slutmärket eller enligt tilläggstavla.",
+    "signRefs": [
+      "C40"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-023",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 1,
+    "question": "Vad gäller vid märket Vändplats?",
+    "options": [
+      "Du får varken stanna eller parkera",
+      "Du får stanna men inte parkera",
+      "Du får parkera i högst 10 minuter",
+      "Platsen får bara användas av bussar"
+    ],
+    "correct": 1,
+    "explanation": "En vändplats är avsedd för att fordon ska kunna vända, till exempel i slutet av en återvändsgata. Det är förbjudet att parkera på vändplatsen, men det är tillåtet att stanna tillfälligt.",
+    "signRefs": [
+      "C42"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-024",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Vad innebär märket med en däcksymbol med dubbar och röd bård?",
+    "options": [
+      "Förbud mot trafik med fordon utan vinterdäck",
+      "Påbjudna vinterdäck på sträckan",
+      "Varning för halka",
+      "Förbud mot trafik med motordrivet fordon med dubbdäck, utom moped klass II"
+    ],
+    "correct": 3,
+    "explanation": "Märket förbjuder trafik med dubbdäck på motordrivna fordon (utom moped klass II) och används på vissa gator för att minska mängden hälsofarliga partiklar i luften. Har du dubbdäck måste du välja en annan väg.",
+    "signRefs": [
+      "C44"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-forb-025",
+    "category": "vagmarken",
+    "subtopic": "forbudsmarken",
+    "difficulty": 3,
+    "question": "Märket Begränsad bruttovikt på fordon anger 4 ton. Vilken vikt är det som inte får överskridas?",
+    "options": [
+      "Fordonets faktiska vikt med förare, passagerare och last i det ögonblicket",
+      "Fordonets tjänstevikt enligt registreringsbeviset",
+      "Fordonets totalvikt enligt registreringsbeviset",
+      "Fordonets maxlast"
+    ],
+    "correct": 0,
+    "explanation": "Bruttovikt är den vikt fordonet faktiskt har vid tillfället, inklusive förare, passagerare och last. Det är alltså den verkliga vikten som räknas, inte den totalvikt eller tjänstevikt som står i registreringsbeviset.",
+    "signRefs": [
+      "C20"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-001",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här blå runda märket med en rak pil?",
+    "options": [
+      "Du måste köra rakt fram i korsningen",
+      "Rekommenderad körriktning rakt fram",
+      "Enkelriktad trafik",
+      "Huvudled fortsätter rakt fram"
+    ],
+    "correct": 0,
+    "explanation": "Påbjuden körriktning rakt fram betyder att du måste fortsätta rakt fram i den korsning där märket sitter. Du får varken svänga höger eller vänster. Påbudsmärken är runda och blå och talar om vad du är skyldig att göra.",
+    "signRefs": [
+      "D1-3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-002",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär det här blå runda märket med en sned pil som pekar nedåt höger?",
+    "options": [
+      "Påbjuden högersväng i nästa korsning",
+      "Enkelriktad trafik åt höger",
+      "Förbud mot vänstersväng",
+      "Du måste passera märket på dess högra sida"
+    ],
+    "correct": 3,
+    "explanation": "Påbjuden körbana höger sitter till exempel på en refug eller vid ett hinder och talar om att du ska köra förbi märket på höger sida. Det är inte samma sak som en påbjuden högersväng, som visar en böjd pil.",
+    "signRefs": [
+      "D2-1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-003",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 2,
+    "question": "Du närmar dig en cirkulationsplats med märkena Väjningsplikt och Cirkulationsplats. Vad gäller?",
+    "options": [
+      "Fordon i cirkulationen har väjningsplikt mot dig",
+      "Högerregeln gäller inne i cirkulationsplatsen",
+      "Du har väjningsplikt mot fordon som redan kör i cirkulationen och ska köra moturs runt rondellen",
+      "Du måste alltid stanna innan du kör in"
+    ],
+    "correct": 2,
+    "explanation": "Märket Cirkulationsplats är ett påbudsmärke som anger att du ska köra moturs runt rondellen. Tillsammans med märket Väjningsplikt betyder det att du ska lämna företräde åt fordon som redan är inne i cirkulationen, men du behöver inte stanna om det är fritt.",
+    "signRefs": [
+      "D3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-004",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här blå runda märket med en cykel?",
+    "options": [
+      "Varning för cyklande",
+      "Påbjuden cykelbana, som cyklister ska använda och som andra fordon inte får köra på",
+      "Cykelöverfart",
+      "Cykelgata där bilar får köra i högst 30 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Påbjuden cykelbana anger en bana som är avsedd för cyklister och förare av moped klass II. Cyklisterna är skyldiga att använda banan, och andra fordon får inte köra där.",
+    "signRefs": [
+      "D4"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-005",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här blå runda märket med en gående?",
+    "options": [
+      "Varning för gående",
+      "Övergångsställe",
+      "Gågata",
+      "Påbjuden gångbana"
+    ],
+    "correct": 3,
+    "explanation": "Påbjuden gångbana är ett runt blått märke med en gående som symbol. Det anger en bana som gående ska använda. Cyklister och fordon får inte använda banan.",
+    "signRefs": [
+      "D5"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-006",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 2,
+    "question": "Vad är skillnaden mellan märkena Påbjuden gång- och cykelbana och Påbjudna gång- och cykelbanor?",
+    "options": [
+      "På det första delar gående och cyklister samma bana, på det andra har de var sin del av banan",
+      "Det första gäller bara gående, det andra bara cyklister",
+      "Det andra märket tillåter även moped klass I",
+      "Det första märket används bara i tätort"
+    ],
+    "correct": 0,
+    "explanation": "Påbjuden gång- och cykelbana (symbolerna ovanför varandra) betyder att gående och cyklister delar på samma bana. Påbjudna gång- och cykelbanor (symbolerna bredvid varandra med ett streck emellan) betyder att banan är uppdelad och att var och en ska hålla sig på sin del.",
+    "signRefs": [
+      "D6",
+      "D7"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-007",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 2,
+    "question": "Du kör personbil och ser ett körfält märkt med Påbjudet körfält för fordon i linjetrafik. Vad gäller för dig?",
+    "options": [
+      "Du får använda körfältet om du har minst två passagerare",
+      "Du får använda körfältet på kvällar och helger",
+      "Du får inte köra i körfältet, men du får korsa det för att svänga eller nå en parkering",
+      "Du får köra i körfältet om trafiken i övriga körfält står stilla"
+    ],
+    "correct": 2,
+    "explanation": "Körfältet är reserverat för fordon i linjetrafik, till exempel bussar, samt de fordon som anges på tilläggstavla. Andra fordon får inte köra i fältet men får korsa det, till exempel för att svänga in på en tvärgata. Tidsbegränsningar kan anges på tilläggstavla.",
+    "signRefs": [
+      "D10"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-008",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här blå runda märket med ett rött snedstreck?",
+    "options": [
+      "Förbud mot trafik med cykel",
+      "Slut på påbjuden bana, körfält, väg eller led",
+      "Cykelöverfart upphör",
+      "Varning för cyklande"
+    ],
+    "correct": 1,
+    "explanation": "Ett påbudsmärke med ett rött snedstreck betyder att den påbjudna banan, körfältet, vägen eller leden upphör. Symbolen på märket visar vilken bana det gäller, till exempel en cykelbana.",
+    "signRefs": [
+      "D11"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-009",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 3,
+    "question": "Vad innebär märket Påbjuden körriktning för fordon lastat med farligt gods?",
+    "options": [
+      "Fordon med farligt gods måste köra i den riktning pilen visar",
+      "Alla tunga fordon måste köra i pilens riktning",
+      "Farligt gods får inte transporteras på vägen",
+      "Rekommenderad väg för fordon med farligt gods"
+    ],
+    "correct": 0,
+    "explanation": "Märket är ett påbudsmärke och gäller bara fordon lastade med farligt gods. Sådana fordon måste köra i den riktning pilen visar, till exempel för att ledas förbi en tunnel eller ett vattenskyddsområde. Andra fordon påverkas inte.",
+    "signRefs": [
+      "D12"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-pab-010",
+    "category": "vagmarken",
+    "subtopic": "pabudsmarken",
+    "difficulty": 2,
+    "question": "Hur känner du igen ett påbudsmärke?",
+    "options": [
+      "Det är triangelformat med röd bård",
+      "Det är runt med gul botten och röd bård",
+      "Det är fyrkantigt och blått",
+      "Det är runt och blått med vit symbol"
+    ],
+    "correct": 3,
+    "explanation": "Påbudsmärken är runda och blå med vita symboler och talar om vad du måste göra, till exempel vilken körriktning eller bana du ska använda. Runda märken med röd bård är förbud, trianglar är varningar och fyrkantiga blå märken är anvisningsmärken.",
+    "signRefs": [
+      "D1-2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-001",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Du passerar märket Motorväg. Vilka fordon får köra på motorvägen?",
+    "options": [
+      "Alla motordrivna fordon",
+      "Motorfordon som är konstruerade för minst 40 km/h",
+      "Bara personbilar och lastbilar",
+      "Alla fordon utom cyklar"
+    ],
+    "correct": 1,
+    "explanation": "På motorväg får bara motorfordon köra som är konstruerade för och får framföras i minst 40 km/h. Mopeder, traktorer, A-traktorer, cyklar och gående är därför förbjudna. Det är också förbjudet att stanna, backa, vända och köra på vägrenen.",
+    "signRefs": [
+      "E1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-002",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Du kör på en motorväg och ser det här märket. Vad innebär det?",
+    "options": [
+      "Motorvägen upphör och vanliga vägregler gäller igen",
+      "Motorväg börjar",
+      "Förbud mot trafik på motorväg",
+      "Motortrafikled börjar"
+    ],
+    "correct": 0,
+    "explanation": "Märket Motorväg med ett rött snedstreck betyder att motorvägen upphör. Efter märket kan det förekomma korsningar, mötande trafik, långsamma fordon och oskyddade trafikanter, så var beredd på att sänka farten.",
+    "signRefs": [
+      "E2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-003",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad skiljer en motortrafikled från en motorväg?",
+    "options": [
+      "På motortrafikled får mopeder och traktorer köra",
+      "På motortrafikled är det tillåtet att stanna på vägrenen",
+      "På motortrafikled gäller alltid högst 90 km/h",
+      "På motortrafikled kan det förekomma mötande trafik och plankorsningar"
+    ],
+    "correct": 3,
+    "explanation": "På en motortrafikled gäller samma regler som på motorväg: bara fordon som får köras i minst 40 km/h, förbud mot att stanna, vända och backa. Skillnaden är att en motortrafikled kan sakna mittseparering, så mötande trafik kan förekomma, och den kan ha korsningar i plan.",
+    "signRefs": [
+      "E3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-004",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Du passerar märket Tättbebyggt område utan något hastighetsmärke. Vilken hastighet gäller?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "70 km/h"
+    ],
+    "correct": 2,
+    "explanation": "Inom tättbebyggt område gäller bashastigheten 50 km/h om ingen annan hastighet är skyltad. Märket betyder också att vissa regler ändras, till exempel att du ska underlätta för bussar som lämnar hållplats.",
+    "signRefs": [
+      "E5"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-005",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Du passerar märket Tättbebyggt område upphör och det finns inget hastighetsmärke. Vilken hastighet gäller nu?",
+    "options": [
+      "50 km/h",
+      "70 km/h",
+      "90 km/h",
+      "110 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Utanför tättbebyggt område gäller bashastigheten 70 km/h om inget annat är skyltat. Vill väghållaren ha en högre gräns, till exempel 80 eller 90 km/h, måste det anges med ett hastighetsmärke.",
+    "signRefs": [
+      "E6"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-006",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad gäller för dig som bilförare på en gågata?",
+    "options": [
+      "Motorfordon får bara köras i undantagsfall, till exempel för varuleveranser eller boende, och då i gångfart",
+      "Du får köra i högst 30 km/h och ska väja för gående",
+      "Du får köra fritt men gående har företräde",
+      "Du får bara köra på gågatan mellan klockan 18 och 06"
+    ],
+    "correct": 0,
+    "explanation": "På en gågata är motorfordon i princip förbjudna. Undantag finns bland annat för varuleveranser, transport av boende och rörelsehindrade. Den som får köra ska hålla gångfart, lämna företräde åt gående och får bara parkera på markerade platser.",
+    "signRefs": [
+      "E7"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-007",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad gäller i ett gångfartsområde?",
+    "options": [
+      "Högst 30 km/h och parkering är tillåten överallt",
+      "Högst 20 km/h och gående ska hålla sig på trottoaren",
+      "Gående har företräde men fordon får köra i högst 50 km/h",
+      "Du ska köra i gångfart, väja för gående och får bara parkera på markerade platser"
+    ],
+    "correct": 3,
+    "explanation": "I ett gångfartsområde får fordon inte köra fortare än gångfart, förare har väjningsplikt mot gående och parkering är bara tillåten på särskilt anordnade platser. Gående får använda hela ytan.",
+    "signRefs": [
+      "E9"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-008",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 3,
+    "question": "Du kör ut från ett gångfartsområde vid märket Gångfartsområde upphör och ska ut på en gata. Vad gäller?",
+    "options": [
+      "Högerregeln gäller i mötet med gatan",
+      "Trafiken på gatan ska släppa fram dig",
+      "Du har väjningsplikt mot all trafik på gatan enligt utfartsregeln",
+      "Du ska stanna och vänta på grön signal"
+    ],
+    "correct": 2,
+    "explanation": "När du kör ut från ett gångfartsområde gäller utfartsregeln: du har väjningsplikt mot alla fordon och gående på den väg du kör ut på. Samma regel gäller vid utfart från gågata, parkeringsplats, fastighet och bensinstation.",
+    "signRefs": [
+      "E10"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-009",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Rekommenderad lägre hastighet med angivelsen 30?",
+    "options": [
+      "Det är förbjudet att köra fortare än 30 km/h",
+      "Du rekommenderas att inte köra fortare än 30 km/h, till exempel vid ett farthinder, men det är inte tvingande",
+      "Det är förbjudet att köra långsammare än 30 km/h",
+      "Hastighetsgränsen 30 km/h upphör"
+    ],
+    "correct": 1,
+    "explanation": "Märket är blått och fyrkantigt, alltså ett anvisningsmärke, och anger en rekommenderad lägre hastighet på en kort sträcka, till exempel vid ett farthinder. Rekommendationen är inte tvingande, men den ordinarie hastighetsgränsen gäller fortfarande.",
+    "signRefs": [
+      "E11"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-010",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Rekommenderad högsta hastighet?",
+    "options": [
+      "En rekommendation att inte köra fortare än angivet, till exempel i en skarp kurva, men inte en tvingande gräns",
+      "Det är den lägsta hastighet du får hålla på sträckan",
+      "Det är hastighetsgränsen som gäller vid halt väglag",
+      "Det är hastighetsgränsen för tunga fordon"
+    ],
+    "correct": 0,
+    "explanation": "Rekommenderad högsta hastighet är ett anvisningsmärke som anger att det är lämpligt att inte köra fortare än det som står, till exempel i en kurva eller på en olycksdrabbad sträcka. Den skyltade hastighetsbegränsningen gäller fortfarande som högsta tillåtna hastighet.",
+    "signRefs": [
+      "E13"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-011",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Sammanvävning?",
+    "options": [
+      "Trafiken från höger har väjningsplikt",
+      "Du måste byta körfält till vänster",
+      "Trafiken från vänster har väjningsplikt",
+      "Två körfält går ihop till ett och fordonen ska väva samman växelvis enligt blixtlåsprincipen"
+    ],
+    "correct": 3,
+    "explanation": "Märket Sammanvävning anger att två körfält går ihop. Ingen har väjningsplikt enligt märket, utan förarna ska anpassa sig till varandra och köra ihop växelvis, ett fordon från varje fält, som ett blixtlås.",
+    "signRefs": [
+      "E15"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-012",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 3,
+    "question": "Du kör på en gata med märket Enkelriktad trafik. Får du parkera på gatans vänstra sida?",
+    "options": [
+      "Nej, man får bara parkera på höger sida i färdriktningen",
+      "Bara om gatan har mer än ett körfält",
+      "Ja, på en enkelriktad gata får du parkera på båda sidor om inga märken förbjuder det",
+      "Bara nattetid"
+    ],
+    "correct": 2,
+    "explanation": "Huvudregeln är att du ska parkera på höger sida i färdriktningen, men på en enkelriktad gata finns ingen mötande trafik och då är det tillåtet att stanna och parkera även på vänster sida, om inte märken säger något annat.",
+    "signRefs": [
+      "E16"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-013",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär det här blå märket med ett rött tvärstreck över en väg?",
+    "options": [
+      "Vägen är avstängd för all trafik",
+      "Återvändsväg – vägen saknar genomfart för fordon",
+      "Vändplats",
+      "Förbud mot infart med fordon"
+    ],
+    "correct": 1,
+    "explanation": "Märket Återvändsväg upplyser om att vägen inte har någon genomfart för fordon. Symbolen kan visa att det ändå går att fortsätta till fots eller med cykel. Du får köra in, men måste vända för att komma ut.",
+    "signRefs": [
+      "E17"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-014",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Du kör på en smal grusväg och ser märket Mötesplats. Vad gäller?",
+    "options": [
+      "Platsen är till för att fordon ska kunna mötas eller köras om, och det är förbjudet att parkera där",
+      "Platsen är en rastplats där du får parkera",
+      "Du har alltid företräde om du hunnit fram till mötesplatsen först",
+      "Du måste stanna på mötesplatsen och vänta på mötande trafik"
+    ],
+    "correct": 0,
+    "explanation": "Mötesplatser finns på smala vägar för att underlätta möten och omkörningar. Det är förbjudet att parkera på en mötesplats. Den som har mötesplatsen på sin sida bör köra in där och vänta när ett möte behöver ske.",
+    "signRefs": [
+      "E18"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-015",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 3,
+    "question": "På en gata i tätort sitter märket Parkering utan någon tilläggstavla. Hur länge får du parkera där en vanlig vardag?",
+    "options": [
+      "Högst 2 timmar",
+      "Högst 12 timmar",
+      "Obegränsad tid",
+      "Högst 24 timmar i följd"
+    ],
+    "correct": 3,
+    "explanation": "Om inget annat anges får du parkera högst 24 timmar i följd på vardagar utom dag före sön- och helgdag. Vill kommunen tillåta annan tid, kräva avgift eller parkeringsskiva anges det på en tilläggstavla under märket.",
+    "signRefs": [
+      "E19"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-016",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Du passerar ett områdesmärke med symbolen för parkeringsförbud. Hur länge gäller förbudet?",
+    "options": [
+      "Fram till nästa korsning",
+      "100 meter efter märket",
+      "I hela området tills du passerar märket Slut på område",
+      "Bara på den gata där märket sitter"
+    ],
+    "correct": 2,
+    "explanation": "Ett områdesmärke anger att den regel som visas med symbolen, till exempel parkeringsförbud, gäller i hela området, även efter korsningar, tills du passerar slutmärket. Andra märken inne i området kan ändra regeln lokalt.",
+    "signRefs": [
+      "E20"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-017",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 3,
+    "question": "Du vill släppa av en passagerare vid en busshållplats med märket Busshållplats. Vad gäller?",
+    "options": [
+      "Det är alltid förbjudet att stanna vid en busshållplats",
+      "Du får stanna för av- och påstigning om du inte hindrar bussen, men du får inte parkera",
+      "Du får parkera i högst 10 minuter",
+      "Du får stanna bara om ingen buss syns"
+    ],
+    "correct": 1,
+    "explanation": "Vid en busshållplats får du inte parkera, och du får inte stanna på ett sätt som hindrar bussen. Snabb av- eller påstigning är tillåten om det inte stör busstrafiken. Förbudet gäller 20 meter före och 5 meter efter märket om inte annat anges.",
+    "signRefs": [
+      "E22"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-018",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär märket Automatisk trafikövervakning?",
+    "options": [
+      "Hastigheten på sträckan övervakas med automatiska kameror",
+      "Det finns en poliskontroll längre fram",
+      "Trafiksignalerna på sträckan styrs automatiskt",
+      "Sträckan är videoövervakad mot stöld"
+    ],
+    "correct": 0,
+    "explanation": "Märket upplyser om att sträckan är utrustad med trafiksäkerhetskameror som automatiskt registrerar fordon som kör för fort. Kamerorna sätts upp på olycksdrabbade sträckor för att sänka hastigheten.",
+    "signRefs": [
+      "E24"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-019",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Du kör in i en tunnel som är märkt med märket Tunnel. Vad gäller?",
+    "options": [
+      "Du får stanna om du håller dig i högerkanten",
+      "Du får vända om tunneln är tom",
+      "Halvljus behövs inte eftersom tunneln är upplyst",
+      "Det är förbjudet att stanna, vända och backa, och du ska köra med halvljus"
+    ],
+    "correct": 3,
+    "explanation": "I en tunnel är det förbjudet att stanna, vända och backa, eftersom en olycka i en tunnel snabbt kan bli mycket allvarlig. Halvljus ska vara tänt så att du syns. Håll avstånd och lyssna på trafikinformation via radion.",
+    "signRefs": [
+      "E26"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-020",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Nöduppställningsplats?",
+    "options": [
+      "En rastplats där du får parkera",
+      "En plats där lastbilar ska stanna för kontroll",
+      "En plats där du får stanna vid nödsituation, till exempel motorstopp, på motorväg eller i tunnel",
+      "En plats där du får vända på motorvägen"
+    ],
+    "correct": 2,
+    "explanation": "Nöduppställningsplatser finns till exempel på motorvägar och i tunnlar. De får bara användas om fordonet måste stannas på grund av nöd, som motorstopp eller punktering. Ofta finns en nödtelefon i anslutning till platsen.",
+    "signRefs": [
+      "E27"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-021",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Vad innebär märket Miljözon?",
+    "options": [
+      "Det är förbjudet att köra med dubbdäck i området",
+      "Ett område där bara fordon som uppfyller vissa miljökrav får köra",
+      "Ett område med förbud mot tomgångskörning",
+      "Ett naturreservat med lägre hastighet"
+    ],
+    "correct": 1,
+    "explanation": "Miljözoner finns i vissa städer för att minska luftföroreningarna. Vilka fordon som får köra i zonen beror på zonens klass, som anges på märket. Det är fordonets avgasklass som avgör, inte vilka däck det har.",
+    "signRefs": [
+      "E31"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-022",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Du kör bil på en cykelgata. Vad gäller?",
+    "options": [
+      "Högst 30 km/h, du ska anpassa farten till cyklisterna och får bara parkera på markerade platser",
+      "Bilar får inte köra på gatan",
+      "Högst 50 km/h och cyklisterna ska hålla sig till höger",
+      "Cyklisterna har väjningsplikt mot bilar"
+    ],
+    "correct": 0,
+    "explanation": "På en cykelgata är motorfordon tillåtna men får inte köra fortare än 30 km/h och ska anpassa hastigheten till cykeltrafiken. Fordon som kör in på cykelgatan från en anslutande väg har väjningsplikt, och parkering är bara tillåten på markerade platser.",
+    "signRefs": [
+      "E33"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-023",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 3,
+    "question": "Vad innebär märket Särskilda bestämmelser för parkering?",
+    "options": [
+      "Parkering är helt förbjuden i området",
+      "Parkering är gratis under de tider som anges",
+      "Området har bara parkering för boende",
+      "Särskilda regler för parkering gäller på sträckan och framgår av tilläggstavlor under märket"
+    ],
+    "correct": 3,
+    "explanation": "Märket är blått med en P-symbol och en pilspets, och anger att särskilda parkeringsregler gäller. Exakt vad som gäller, till exempel tid, avgift eller vilka som får parkera, står på tilläggstavlorna under märket.",
+    "signRefs": [
+      "E30"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-024",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 1,
+    "question": "Vad gäller vid märket Taxi?",
+    "options": [
+      "Platsen är en busshållplats som taxi också får använda",
+      "Alla får parkera på platsen mot avgift",
+      "Platsen är reserverad för taxi, och andra fordon får inte stanna eller parkera där",
+      "Taxi har företräde i nästa korsning"
+    ],
+    "correct": 2,
+    "explanation": "Märket Taxi anger en plats där taxibilar får ställas upp i väntan på kunder. Andra fordon får varken stanna eller parkera där, eftersom platsen är reserverad för taxitrafiken.",
+    "signRefs": [
+      "E23"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-anv-025",
+    "category": "vagmarken",
+    "subtopic": "anvisningsmarken",
+    "difficulty": 2,
+    "question": "Vad innebär märket Slut på område?",
+    "options": [
+      "Tättbebyggt område upphör",
+      "De regler som gällde enligt områdesmärket upphör här",
+      "Parkering blir förbjuden efter märket",
+      "Motorvägen upphör"
+    ],
+    "correct": 1,
+    "explanation": "Slut på område är områdesmärket med sneda streck över. Det betyder att den regel som gällde i området, till exempel parkeringsförbud eller en hastighetsbegränsning, upphör. Efter märket gäller de vanliga reglerna igen.",
+    "signRefs": [
+      "E21"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-001",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 2,
+    "question": "Vilken färg har vägvisare som visar vägen till mål via motorväg?",
+    "options": [
+      "Grön",
+      "Blå",
+      "Vit",
+      "Brun"
+    ],
+    "correct": 0,
+    "explanation": "Vägvisare mot mål som nås via motorväg eller motortrafikled är gröna. Blå vägvisare används för övriga allmänna vägar, vita för lokala mål som stadsdelar och företag, och bruna för turistmål.",
+    "signRefs": [
+      "F5"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-002",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 2,
+    "question": "Vad betyder ett grönt vägnummermärke med ett E före numret, till exempel E4?",
+    "options": [
+      "Vägen är en enskild väg",
+      "Vägen är en länsväg",
+      "Vägen ingår i det europeiska huvudvägnätet (Europaväg)",
+      "Vägen är en lokal slinga"
+    ],
+    "correct": 2,
+    "explanation": "Europavägar har gröna vägnummermärken med bokstaven E, till exempel E4 och E6. Riksvägar och primära länsvägar har blå märken med vit text, medan övriga länsvägar oftast visas med vit text på blå botten i mindre format.",
+    "signRefs": [
+      "F14"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-003",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 2,
+    "question": "Vad anger märket Trafikplatsnummer?",
+    "options": [
+      "Antalet körfält i trafikplatsen",
+      "Avståndet i kilometer till nästa trafikplats",
+      "Vägens nummer",
+      "Numret på en trafikplats på motorväg eller motortrafikled, vilket underlättar orientering"
+    ],
+    "correct": 3,
+    "explanation": "Varje trafikplats på motorvägar och motortrafikleder har ett nummer som visas på märket Trafikplatsnummer. Numret gör det lättare att planera rutten och att beskriva var man befinner sig, till exempel vid ett larm.",
+    "signRefs": [
+      "F27"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-004",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 3,
+    "question": "Vad innebär märket Lokal slinga?",
+    "options": [
+      "Vägen leder runt och tillbaka till den väg du lämnade",
+      "Vägen är en återvändsgränd",
+      "Vägen är avstängd för genomfart",
+      "Vägen leder till en cirkulationsplats"
+    ],
+    "correct": 0,
+    "explanation": "Lokal slinga anger en väg som lämnar huvudvägen, går genom till exempel en tätort eller ett område, och sedan ansluter till samma väg igen. Den används för att visa alternativ till huvudvägen.",
+    "signRefs": [
+      "F30"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-005",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 1,
+    "question": "Vad visar en avståndstavla?",
+    "options": [
+      "Avståndet till nästa bensinstation",
+      "Hur långt det är till nästa varningsmärke",
+      "Avståndet i kilometer till orter längs vägen",
+      "Hur långt ett förbud gäller"
+    ],
+    "correct": 2,
+    "explanation": "Avståndstavlan sätts upp efter korsningar och visar avståndet i kilometer till de närmaste större orterna längs vägen. Den hjälper dig att planera körningen men innehåller inga regler.",
+    "signRefs": [
+      "F13"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-006",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 2,
+    "question": "Vad innebär märket Minskning av antal körfält?",
+    "options": [
+      "Ett körfält är tillfälligt avstängt på grund av vägarbete",
+      "Trafiken i det körfält som upphör har företräde",
+      "Vägen blir enkelriktad",
+      "Antalet körfält minskar längre fram och förare i det körfält som upphör måste byta körfält i god tid"
+    ],
+    "correct": 3,
+    "explanation": "Märket upplyser om att ett körfält upphör längre fram. Den som kör i det körfält som försvinner ska byta körfält i god tid och har inte något företräde. Är märket kompletterat med Sammanvävning gäller i stället blixtlåsprincipen.",
+    "signRefs": [
+      "F17"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-007",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 2,
+    "question": "Du kör på en motorväg och passerar en avfartsorienteringstavla. Vad är syftet med den?",
+    "options": [
+      "Att i god tid visa vilka mål som nås via nästa avfart så att du kan välja rätt körfält",
+      "Att ange att du måste lämna motorvägen vid nästa avfart",
+      "Att visa avståndet till nästa rastplats",
+      "Att varna för att motorvägen upphör"
+    ],
+    "correct": 0,
+    "explanation": "Avfartsorienteringstavlan sätts upp en bit före avfarten och visar vilka mål som nås via den. Den ger dig tid att välja körfält och förbereda avfarten utan hastiga körfältsbyten.",
+    "signRefs": [
+      "F4"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-008",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 1,
+    "question": "Vad innebär märket Platsmärke?",
+    "options": [
+      "Tättbebyggt område börjar och 50 km/h gäller",
+      "En rastplats finns här",
+      "Det anger namnet på en plats, till exempel en ort, en å eller ett län, utan att ändra några trafikregler",
+      "Parkering är tillåten på platsen"
+    ],
+    "correct": 2,
+    "explanation": "Platsmärket talar bara om var du befinner dig, till exempel namnet på en by, en bro eller en kommungräns. Till skillnad från märket Tättbebyggt område påverkar det inte hastighetsgränsen eller några andra regler.",
+    "signRefs": [
+      "F10"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-009",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 1,
+    "question": "Vilken typ av märke är märket Rastplats?",
+    "options": [
+      "Ett anvisningsmärke som anger att du måste stanna",
+      "Ett förbudsmärke",
+      "Ett varningsmärke",
+      "Ett lokaliseringsmärke som upplyser om vägnära service"
+    ],
+    "correct": 3,
+    "explanation": "Märken för service som rastplats, drivmedel, toalett och laddstation är lokaliseringsmärken. De ger upplysning om var servicen finns men innehåller inga påbud eller förbud.",
+    "signRefs": [
+      "H13"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-lok-010",
+    "category": "vagmarken",
+    "subtopic": "lokalisering",
+    "difficulty": 1,
+    "question": "Vad innebär märket Omledning?",
+    "options": [
+      "Trafiken leds en annan väg, till exempel för att den ordinarie vägen är avstängd",
+      "Vägen är enkelriktad",
+      "Du måste vända",
+      "Vägen leder till en parkeringsplats"
+    ],
+    "correct": 0,
+    "explanation": "Märket Omledning visar en tillfällig eller permanent alternativ väg när den ordinarie vägen inte kan användas, till exempel vid vägarbete eller olycka. Följ omledningsmärkena tills du är tillbaka på den ordinarie vägen.",
+    "signRefs": [
+      "F15"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-001",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "Under märket Förbud mot att parkera sitter en tilläggstavla med en pil som pekar både uppåt och nedåt. Vad betyder det?",
+    "options": [
+      "Förbudet börjar här",
+      "Förbudet slutar här",
+      "Förbudet gäller på båda sidor om märket, alltså fortsätter det här",
+      "Förbudet gäller på båda sidor av gatan"
+    ],
+    "correct": 2,
+    "explanation": "Tilläggstavlan Utsträckning visar var ett förbud börjar, fortsätter eller slutar. En pil uppåt betyder att förbudet börjar, en pil nedåt att det slutar, och en dubbelriktad pil att förbudet gäller på båda sidor om märket, det vill säga fortsätter.",
+    "signRefs": [
+      "T11"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-002",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket Varning för älg sitter tavlan 2 km. Vad betyder den?",
+    "options": [
+      "Det är 2 km kvar till faran",
+      "Faran finns bara vid 2-kilometersstolpen",
+      "Märket gäller 2 km efter nästa korsning",
+      "Varningen gäller på en sträcka av 2 km från märket"
+    ],
+    "correct": 3,
+    "explanation": "Tilläggstavlan Vägsträckas längd anger hur lång sträcka märket gäller, här 2 km. Tavlan Avstånd, som anger hur långt det är kvar till faran, skrivs i stället med text som 200 m eller 1 km i annan form och kan ha en pil.",
+    "signRefs": [
+      "T1"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-003",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket Väjningsplikt sitter en tavla med texten Stopp 150 m. Vad betyder det?",
+    "options": [
+      "Det är 150 meter kvar till en korsning där du har stopplikt",
+      "Du ska stanna om 150 meter och lämna företräde",
+      "Väjningsplikten gäller på 150 meter",
+      "Du får inte köra fortare än 150 meter"
+    ],
+    "correct": 0,
+    "explanation": "Tilläggstavlan Avstånd till stopplikt sitter under väjningspliktsmärket och förvarnar om att det om angivet avstånd kommer en korsning med stopplikt. Du får då tid att sänka farten och förbereda stoppet.",
+    "signRefs": [
+      "T3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-004",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "En tilläggstavla under ett parkeringsmärke visar 8–18, (8–14) och röda siffror 10–15. Vad betyder de olika angivelserna?",
+    "options": [
+      "Vardagar, lördagar och sommartid",
+      "Förmiddag, eftermiddag och kväll",
+      "Vardagar, dag före sön- och helgdag samt sön- och helgdag",
+      "Sommar, vinter och helger"
+    ],
+    "correct": 2,
+    "explanation": "På tilläggstavlan Tidsangivelse anger svarta siffror vardagar, svarta siffror inom parentes dag före sön- och helgdag (oftast lördag) och röda siffror sön- och helgdagar. Tiderna visar när märket ovanför gäller.",
+    "signRefs": [
+      "T6"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-005",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket Parkering sitter tavlan Parkeringsskiva och tavlan 2 tim. Vad ska du göra när du parkerar?",
+    "options": [
+      "Betala för 2 timmar i automaten",
+      "Lämna bilen olåst så att skivan kan kontrolleras",
+      "Ställa in skivan på den tid du tänker åka",
+      "Ställa in ankomsttiden på skivan, lägga den synlig i vindrutan och parkera högst 2 timmar"
+    ],
+    "correct": 3,
+    "explanation": "Tilläggstavlan Parkeringsskiva betyder att du ska använda parkeringsskiva och ställa in ankomsttiden, avrundad till närmast följande hel eller halv timme. Skivan ska ligga väl synlig, och du får parkera högst så länge som tidsbegränsningen anger.",
+    "signRefs": [
+      "T17"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-006",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket Förbud mot trafik med motordrivet fordon sitter tavlan Gäller genomfart. Vad betyder det?",
+    "options": [
+      "Du får köra in om du har ett ärende på gatan, men inte köra igenom den",
+      "Du får bara köra igenom gatan, inte stanna",
+      "Förbudet gäller bara tung trafik",
+      "Förbudet gäller bara på natten"
+    ],
+    "correct": 0,
+    "explanation": "Tavlan Gäller genomfart begränsar förbudet till genomfartstrafik. Du får alltså köra in på gatan om du ska till en fastighet eller parkering där, men inte använda gatan som en genväg för att komma vidare.",
+    "signRefs": [
+      "T22"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-007",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "Under märket Huvudled sitter en tavla som visar huvudleden som en bred linje som svänger vänster, medan en smal linje går rakt fram. Vad gäller om du ska fortsätta rakt fram?",
+    "options": [
+      "Du har fortfarande huvudled rakt fram",
+      "Du har väjningsplikt mot trafik från höger enligt högerregeln",
+      "Du lämnar huvudleden och måste väja för trafiken på huvudleden, alltså även den som kommer från vänster",
+      "Du måste stanna eftersom huvudleden upphör"
+    ],
+    "correct": 2,
+    "explanation": "Tilläggstavlan Vägars fortsättning i korsning visar med den breda linjen hur huvudleden går. Kör du rakt fram lämnar du huvudleden och har väjningsplikt mot alla fordon på den, oavsett från vilket håll de kommer.",
+    "signRefs": [
+      "T15"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-008",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Under ett parkeringsmärke sitter en tavla med en pil som pekar åt höger. Vad betyder den?",
+    "options": [
+      "Parkering är förbjuden till höger",
+      "Du ska svänga höger för att komma till parkeringen",
+      "Parkering är bara tillåten för högersvängande trafik",
+      "Parkeringen finns till höger om märket, i pilens riktning"
+    ],
+    "correct": 3,
+    "explanation": "Tilläggstavlan Riktning visar i vilken riktning det som märket avser finns. En pil åt höger under parkeringsmärket betyder alltså att parkeringsplatsen ligger åt höger, till exempel bakom en byggnad.",
+    "signRefs": [
+      "T12"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-009",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket Förbud mot att parkera sitter en symboltavla med en lastbil. Vad betyder det?",
+    "options": [
+      "Förbudet gäller bara lastbilar",
+      "Lastbilar är undantagna från förbudet",
+      "Lastplats för lastbilar",
+      "Endast lastbilar får stanna för lastning"
+    ],
+    "correct": 0,
+    "explanation": "En symboltavla under ett märke anger att märket bara gäller det fordonsslag som symbolen visar. Här gäller parkeringsförbudet alltså bara lastbilar, och personbilar får parkera. Undantag anges i stället med text som Gäller ej.",
+    "signRefs": [
+      "T8"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-till-010",
+    "category": "vagmarken",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Under märket Parkering sitter tavlan 2 tim. Vad innebär det?",
+    "options": [
+      "Parkering är avgiftsfri i 2 timmar, därefter kostar det",
+      "Du måste parkera i minst 2 timmar",
+      "Du får parkera i högst 2 timmar i följd under den tid som anges",
+      "Parkering är tillåten mellan klockan 2 och 4"
+    ],
+    "correct": 2,
+    "explanation": "Tilläggstavlan Tillåten tid för parkering anger den längsta tid du får parkera i följd. Finns det en tidsangivelse gäller begränsningen bara under de tiderna, och övrig tid får du normalt parkera enligt de allmänna reglerna.",
+    "signRefs": [
+      "T18"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-001",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 2,
+    "question": "Vad innebär en heldragen kantlinje?",
+    "options": [
+      "Du får köra på vägrenen om det underlättar en omkörning",
+      "Vägen saknar vägren",
+      "Du måste hålla dig på vägrenen",
+      "Vägrenen är inte avsedd för fordonstrafik och du bör inte köra ut på den"
+    ],
+    "correct": 3,
+    "explanation": "En heldragen kantlinje markerar körbanans kant mot en vägren som inte är avsedd för fordonstrafik, till exempel för att den är för smal eller har dålig bärighet. En streckad kantlinje visar en vägren som får användas, till exempel för att underlätta omkörning.",
+    "signRefs": [
+      "M2"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-002",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 3,
+    "question": "Du kör på en landsväg där mittlinjen övergår till långa streck med korta mellanrum. Vad betyder det?",
+    "options": [
+      "Det är en varningslinje som varnar för att sikten är begränsad och att omkörning är olämplig",
+      "Omkörning är förbjuden",
+      "Vägen övergår till motortrafikled",
+      "Körfältet upphör"
+    ],
+    "correct": 0,
+    "explanation": "Varningslinjen har långa streck och korta mellanrum och används där sikten är begränsad, till exempel före kurvor och backkrön. Den får korsas, men den varnar för att det är olämpligt att köra om eftersom du inte kan se mötande trafik i tid.",
+    "signRefs": [
+      "M3"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-003",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 1,
+    "question": "Vad gäller vid en heldragen mittlinje?",
+    "options": [
+      "Du får köra över linjen om det inte kommer mötande trafik",
+      "Du får köra över linjen för att köra om långsamma fordon",
+      "Du får inte köra över eller på linjen med något hjul",
+      "Linjen visar bara vägens mitt och saknar betydelse"
+    ],
+    "correct": 2,
+    "explanation": "En heldragen linje får inte korsas eller överskridas, inte ens med ett hjul, och den används där det är farligt att byta körfält eller köra om. Undantag finns bara om ett hinder gör det nödvändigt och det kan ske utan fara.",
+    "signRefs": [
+      "M8"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-004",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 2,
+    "question": "Vad innebär ett spärrområde, alltså en yta med sneda vita streck avgränsad av heldragna linjer?",
+    "options": [
+      "En yta där du får stanna tillfälligt",
+      "En yta där du får köra om det inte finns annan trafik",
+      "En parkeringsyta för utryckningsfordon",
+      "Du får varken köra in på eller stanna på ytan"
+    ],
+    "correct": 3,
+    "explanation": "Ett spärrområde används till exempel för att skilja körfält åt eller vid refuger. Du får inte köra in på det med något hjul och inte stanna på det. Är området avgränsat med streckade linjer får du korsa det om det behövs.",
+    "signRefs": [
+      "M9"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-005",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 1,
+    "question": "Vad betyder en tvärgående rad av vita trianglar (hajtänder) i körbanan?",
+    "options": [
+      "Du har väjningsplikt och linjen visar var du bör stanna för att lämna företräde",
+      "Du har stopplikt och måste alltid stanna",
+      "Ett övergångsställe börjar",
+      "Ett farthinder finns längre fram"
+    ],
+    "correct": 0,
+    "explanation": "Väjningslinjen med hajtänder markerar var du bör stanna om du behöver lämna företräde vid väjningsplikt. Du måste inte stanna om det är fritt. Vid stopplikt används i stället en heldragen tvärgående stopplinje.",
+    "signRefs": [
+      "M14"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-006",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 1,
+    "question": "Var ska du stanna när trafiksignalen visar rött och det finns en stopplinje?",
+    "options": [
+      "Så nära signalen som möjligt",
+      "Där du har bäst sikt in i korsningen",
+      "Före stopplinjen, så att inget av hjulen passerar den",
+      "Före övergångsstället oavsett var stopplinjen är"
+    ],
+    "correct": 2,
+    "explanation": "Stopplinjen visar var du ska stanna vid rött ljus eller stopplikt. Hela fordonet ska stanna före linjen. Linjen är placerad så att gående och cyklister kan korsa framför dig och så att du inte hindrar korsande trafik.",
+    "signRefs": [
+      "M13"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-007",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 2,
+    "question": "Du ser en stor vit triangel målad i körbanan med spetsen mot dig. Vad betyder den?",
+    "options": [
+      "Ett övergångsställe är nära",
+      "Cykelpassage längre fram",
+      "Körfältet är reserverat för buss",
+      "Den förvarnar om att du har väjningsplikt eller stopplikt längre fram"
+    ],
+    "correct": 3,
+    "explanation": "Triangeln i körbanan är en förberedande upplysning om väjningsplikt eller stopplikt. Den ger dig tid att sänka farten och förbereda dig på att lämna företräde i den korsning som kommer.",
+    "signRefs": [
+      "M18"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-008",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 2,
+    "question": "Vad betyder en sned pil målad i ditt körfält som pekar in mot körfältet bredvid?",
+    "options": [
+      "Körfältet upphör och du ska byta körfält i pilens riktning",
+      "Du får köra om till höger",
+      "Trafiken i körfältet bredvid ska väja för dig",
+      "Du måste svänga i nästa korsning"
+    ],
+    "correct": 0,
+    "explanation": "Markeringen Körfältsbyte är en sned pil som visar att körfältet upphör och att du ska byta till körfältet i pilens riktning i god tid. Den som byter körfält har väjningsplikt mot trafiken i det fält man kör in i.",
+    "signRefs": [
+      "M20"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-009",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 3,
+    "question": "Mittlinjen består av en streckad linje på din sida och en heldragen linje på den mötandes sida. Får du köra om?",
+    "options": [
+      "Nej, en heldragen linje i mitten förbjuder alltid omkörning",
+      "Bara om fordonet framför kör långsammare än 30 km/h",
+      "Ja, du får korsa linjen om omkörningen i övrigt är säker, eftersom den streckade linjen är på din sida",
+      "Bara om du kan slutföra omkörningen inom 100 meter"
+    ],
+    "correct": 2,
+    "explanation": "När mittlinjen är kombinerad gäller den linje som är närmast dig. Är den streckad får du korsa linjen för att köra om, medan mötande trafik med den heldragna linjen närmast inte får korsa. Omkörningen måste förstås vara säker i övrigt.",
+    "signRefs": [
+      "M10"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-mark-010",
+    "category": "vagmarken",
+    "subtopic": "vagmarkeringar",
+    "difficulty": 1,
+    "question": "Vad betyder en gul heldragen linje längs trottoarkanten?",
+    "options": [
+      "Parkering är förbjuden men du får stanna",
+      "Platsen är reserverad för lastning",
+      "Det är en busshållplats",
+      "Det är förbjudet att både stanna och parkera"
+    ],
+    "correct": 3,
+    "explanation": "En gul heldragen linje på kantstenen eller i körbanans kant betyder förbud mot att stanna och parkera. En gul streckad linje betyder förbud mot att parkera, men stannande är tillåtet. Markeringarna kan finnas i stället för eller som förstärkning av vägmärken.",
+    "signRefs": [
+      "M21"
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vm-sig-001",
+    "category": "vagmarken",
+    "subtopic": "signaler-tecken",
+    "difficulty": 1,
+    "question": "Vad betyder blinkande gult ljus i en trafiksignal?",
+    "options": [
+      "Signalen är ur funktion eller avstängd, och du ska följa vägmärken och trafikregler med särskild försiktighet",
+      "Du ska stanna och vänta på grönt ljus",
+      "Du har företräde genom korsningen",
+      "Grönt ljus kommer strax"
+    ],
+    "correct": 0,
+    "explanation": "Blinkande gult ljus betyder att signalanläggningen är avstängd eller ur funktion. Då gäller de vägmärken som finns i korsningen, till exempel väjningsplikt, och finns inga märken gäller högerregeln. Kör med särskild försiktighet.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-sig-002",
+    "category": "vagmarken",
+    "subtopic": "signaler-tecken",
+    "difficulty": 1,
+    "question": "Trafiksignalen slår om till fast gult ljus när du närmar dig korsningen. Vad gäller?",
+    "options": [
+      "Du ska öka farten för att hinna igenom innan det blir rött",
+      "Gult ljus betyder att du får köra om korsningen är fri",
+      "Du ska stanna, om du inte har kommit så långt att det är farligt att stanna",
+      "Du får köra om du blinkar"
+    ],
+    "correct": 2,
+    "explanation": "Fast gult ljus betyder stopp, precis som rött. Du får bara fortsätta om du har hunnit så nära korsningen att ett stopp skulle innebära fara, till exempel för bakomvarande. Gult ljus är alltså inte en uppmaning att skynda sig.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-sig-003",
+    "category": "vagmarken",
+    "subtopic": "signaler-tecken",
+    "difficulty": 2,
+    "question": "En polis står i en korsning med armen rakt upp i luften. Vad betyder tecknet?",
+    "options": [
+      "Trafiken från polisens sidor får köra",
+      "Du ska öka farten och lämna korsningen",
+      "Bara mötande trafik ska stanna",
+      "Stopp för all trafik från alla håll, du får inte köra in i korsningen"
+    ],
+    "correct": 3,
+    "explanation": "En uppsträckt arm betyder stopp för all trafik oavsett från vilket håll den kommer. När polisen står med ansiktet eller ryggen mot dig ska du stanna, och står polisen med sidan mot dig får du köra. Polisens tecken gäller före trafiksignaler och vägmärken.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-sig-004",
+    "category": "vagmarken",
+    "subtopic": "signaler-tecken",
+    "difficulty": 1,
+    "question": "Du väntar vid rött ljus och signalen tänder gult samtidigt som det röda lyser. Vad gäller?",
+    "options": [
+      "Grönt kommer strax, men du ska fortfarande vänta tills det blir grönt",
+      "Du får köra om korsningen är fri",
+      "Signalen är ur funktion",
+      "Du får svänga höger men inte köra rakt fram"
+    ],
+    "correct": 0,
+    "explanation": "Rött och gult samtidigt visas strax innan signalen slår om till grönt. Det betyder att du ska göra dig beredd att köra, till exempel lägga i växeln, men du får inte köra förrän det är grönt.",
+    "reviewed": false
+  },
+  {
+    "id": "vm-sig-005",
+    "category": "vagmarken",
+    "subtopic": "signaler-tecken",
+    "difficulty": 3,
+    "question": "I en korsning finns både trafiksignal och märket Väjningsplikt, och en polis dirigerar trafiken. Vad ska du rätta dig efter i första hand?",
+    "options": [
+      "Vägmärket",
+      "Trafiksignalen",
+      "Polisens tecken",
+      "Högerregeln"
+    ],
+    "correct": 2,
+    "explanation": "Anvisningar från polis eller annan behörig person gäller alltid först, därefter trafiksignaler, sedan vägmärken och sist de allmänna trafikreglerna som högerregeln. Signalerna och märkena finns kvar men polisens tecken går före dem.",
+    "signRefs": [
+      "P6"
+    ],
+    "reviewed": false
+  }
+]
