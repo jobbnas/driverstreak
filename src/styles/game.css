@@ -196,6 +196,8 @@
 
 .tile-row {
   width: 100%;
+  max-width: none;
+  aspect-ratio: auto;
   min-height: 60px;
   border-radius: 18px;
   display: flex;
