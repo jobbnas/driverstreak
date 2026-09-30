@@ -16,6 +16,8 @@ const MANIFEST = path.join(ROOT, 'content/signs/signs.json');
 const REPORT = path.join(ROOT, 'content/signs/fetch-report.json');
 const OUT_DIR = path.join(ROOT, 'public/signs');
 const ATTRIBUTION = path.join(OUT_DIR, 'ATTRIBUTION.md');
+// file -> Commons title index, kept across runs so skipped files stay attributed
+const ATTRIBUTION_INDEX = path.join(ROOT, 'content/signs/attribution-index.json');
 
 const USER_AGENT =
   'DriverStreak/0.1 (https://github.com/jobbnas/driverstreak; educational road-sign quiz)';
@@ -99,6 +101,21 @@ function cleanSvg(body) {
   let s = body;
   s = s.replace(/^﻿/, '');
   s = s.replace(/<\?xml[^>]*\?>\s*/gi, '');
+  // Illustrator exports declare entities in the DOCTYPE internal subset
+  // (e.g. <!ENTITY ns_svg "http://www.w3.org/2000/svg">) and reference them
+  // as &ns_svg; in the markup. Expand them before the DOCTYPE is removed.
+  const subset = s.match(/<!DOCTYPE[^>[]*\[([\s\S]*?)\]\s*>/i)?.[1];
+  if (subset) {
+    const entities = new Map();
+    for (const m of subset.matchAll(/<!ENTITY\s+([A-Za-z_][\w.-]*)\s+(?:"([^"]*)"|'([^']*)')\s*>/g)) {
+      entities.set(m[1], m[2] ?? m[3] ?? '');
+    }
+    if (entities.size) {
+      s = s.replace(/&([A-Za-z_][\w.-]*);/g, (whole, name) =>
+        entities.has(name) ? entities.get(name) : whole,
+      );
+    }
+  }
   s = s.replace(/<!DOCTYPE[^>[]*(\[[^\]]*\])?[^>]*>\s*/gi, '');
   s = s.replace(/<!--[\s\S]*?-->/g, '');
   s = s.replace(/<metadata\b[\s\S]*?<\/metadata>/gi, '');
@@ -208,7 +225,7 @@ await writeFile(REPORT, JSON.stringify(report, null, 2) + '\n', 'utf8');
 const titlesByFile = new Map();
 for (const f of found) titlesByFile.set(f.file, f.title);
 try {
-  const prev = JSON.parse(await readFile(ATTRIBUTION + '.json', 'utf8'));
+  const prev = JSON.parse(await readFile(ATTRIBUTION_INDEX, 'utf8'));
   for (const [file, title] of Object.entries(prev)) {
     if (!titlesByFile.has(file) && (await exists(path.join(OUT_DIR, file)))) {
       titlesByFile.set(file, title);
@@ -218,7 +235,7 @@ try {
   /* no previous attribution index */
 }
 await writeFile(
-  ATTRIBUTION + '.json',
+  ATTRIBUTION_INDEX,
   JSON.stringify(Object.fromEntries([...titlesByFile.entries()].sort()), null, 2) + '\n',
   'utf8',
 );

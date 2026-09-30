@@ -1,1767 +1,6 @@
 {
-  "generatedAt": "2026-09-30T09:31:07.665Z",
-  "found": [
-    {
-      "code": "A1",
-      "file": "A1-1.svg",
-      "title": "Sweden road sign A1-1.svg"
-    },
-    {
-      "code": "A1",
-      "file": "A1-2.svg",
-      "title": "Sweden road sign A1-2.svg"
-    },
-    {
-      "code": "A10",
-      "file": "A10.svg",
-      "title": "Sweden road sign A10.svg"
-    },
-    {
-      "code": "A11",
-      "file": "A11.svg",
-      "title": "Sweden road sign A11.svg"
-    },
-    {
-      "code": "A12",
-      "file": "A12-1.svg",
-      "title": "Sweden road sign A12-1.svg"
-    },
-    {
-      "code": "A12",
-      "file": "A12-2.svg",
-      "title": "Sweden road sign A12-2.svg"
-    },
-    {
-      "code": "A13",
-      "file": "A13.svg",
-      "title": "Sweden road sign A13.svg"
-    },
-    {
-      "code": "A14",
-      "file": "A14.svg",
-      "title": "Sweden road sign A14.svg"
-    },
-    {
-      "code": "A15",
-      "file": "A15.svg",
-      "title": "Sweden road sign A15.svg"
-    },
-    {
-      "code": "A16",
-      "file": "A16.svg",
-      "title": "Sweden road sign A16.svg"
-    },
-    {
-      "code": "A17",
-      "file": "A17.svg",
-      "title": "Sweden road sign A17.svg"
-    },
-    {
-      "code": "A18",
-      "file": "A18.svg",
-      "title": "Sweden road sign A18.svg"
-    },
-    {
-      "code": "A19-1",
-      "file": "A19-1.svg",
-      "title": "Sweden road sign A19-1.svg"
-    },
-    {
-      "code": "A19-2",
-      "file": "A19-2.svg",
-      "title": "Sweden road sign A19-2.svg"
-    },
-    {
-      "code": "A19-3",
-      "file": "A19-3.svg",
-      "title": "Sweden road sign A19-3.svg"
-    },
-    {
-      "code": "A19-4",
-      "file": "A19-4.svg",
-      "title": "Sweden road sign A19-4.svg"
-    },
-    {
-      "code": "A19-5",
-      "file": "A19-5.svg",
-      "title": "Sweden road sign A19-5.svg"
-    },
-    {
-      "code": "A19-6",
-      "file": "A19-6.svg",
-      "title": "Sweden road sign A19-6.svg"
-    },
-    {
-      "code": "A19-7",
-      "file": "A19-7.svg",
-      "title": "Sweden road sign A19-7.svg"
-    },
-    {
-      "code": "A2",
-      "file": "A2-1.svg",
-      "title": "Sweden road sign A2-1.svg"
-    },
-    {
-      "code": "A2",
-      "file": "A2-2.svg",
-      "title": "Sweden road sign A2-2.svg"
-    },
-    {
-      "code": "A20",
-      "file": "A20.svg",
-      "title": "Sweden road sign A20.svg"
-    },
-    {
-      "code": "A21",
-      "file": "A21.svg",
-      "title": "Sweden road sign A21.svg"
-    },
-    {
-      "code": "A22",
-      "file": "A22.svg",
-      "title": "Sweden road sign A22.svg"
-    },
-    {
-      "code": "A23",
-      "file": "A23-1.svg",
-      "title": "Sweden road sign A23-1.svg"
-    },
-    {
-      "code": "A23",
-      "file": "A23-2.svg",
-      "title": "Sweden road sign A23-2.svg"
-    },
-    {
-      "code": "A24",
-      "file": "A24-1.svg",
-      "title": "Sweden road sign A24-1.svg"
-    },
-    {
-      "code": "A24",
-      "file": "A24-2.svg",
-      "title": "Sweden road sign A24-2.svg"
-    },
-    {
-      "code": "A25",
-      "file": "A25.svg",
-      "title": "Sweden road sign A25.svg"
-    },
-    {
-      "code": "A26",
-      "file": "A26.svg",
-      "title": "Sweden road sign A26.svg"
-    },
-    {
-      "code": "A27",
-      "file": "A27.svg",
-      "title": "Sweden road sign A27.svg"
-    },
-    {
-      "code": "A28",
-      "file": "A28.svg",
-      "title": "Sweden road sign A28.svg"
-    },
-    {
-      "code": "A29",
-      "file": "A29-1.svg",
-      "title": "Sweden road sign A29-1.svg"
-    },
-    {
-      "code": "A29",
-      "file": "A29-2.svg",
-      "title": "Sweden road sign A29-2.svg"
-    },
-    {
-      "code": "A29",
-      "file": "A29-3.svg",
-      "title": "Sweden road sign A29-3.svg"
-    },
-    {
-      "code": "A29",
-      "file": "A29-4.svg",
-      "title": "Sweden road sign A29-4.svg"
-    },
-    {
-      "code": "A3",
-      "file": "A3.svg",
-      "title": "Sweden road sign A3.svg"
-    },
-    {
-      "code": "A30",
-      "file": "A30.svg",
-      "title": "Sweden road sign A30.svg"
-    },
-    {
-      "code": "A31",
-      "file": "A31.svg",
-      "title": "Sweden road sign A31.svg"
-    },
-    {
-      "code": "A32",
-      "file": "A32-1.svg",
-      "title": "Sweden road sign A32-1.svg"
-    },
-    {
-      "code": "A32",
-      "file": "A32-2.svg",
-      "title": "Sweden road sign A32-2.svg"
-    },
-    {
-      "code": "A32",
-      "file": "A32-3.svg",
-      "title": "Sweden road sign A32-3.svg"
-    },
-    {
-      "code": "A33",
-      "file": "A33.svg",
-      "title": "Sweden road sign A33.svg"
-    },
-    {
-      "code": "A34",
-      "file": "A34.svg",
-      "title": "Sweden road sign A34.svg"
-    },
-    {
-      "code": "A35",
-      "file": "A35.svg",
-      "title": "Sweden road sign A35.svg"
-    },
-    {
-      "code": "A36",
-      "file": "A36.svg",
-      "title": "Sweden road sign A36.svg"
-    },
-    {
-      "code": "A37",
-      "file": "A37.svg",
-      "title": "Sweden road sign A37.svg"
-    },
-    {
-      "code": "A38",
-      "file": "A38-1.svg",
-      "title": "Sweden road sign A38-1.svg"
-    },
-    {
-      "code": "A38",
-      "file": "A38-2.svg",
-      "title": "Sweden road sign A38-2.svg"
-    },
-    {
-      "code": "A38",
-      "file": "A38-3.svg",
-      "title": "Sweden road sign A38-3.svg"
-    },
-    {
-      "code": "A39",
-      "file": "A39-1.svg",
-      "title": "Sweden road sign A39-1.svg"
-    },
-    {
-      "code": "A39",
-      "file": "A39-2.svg",
-      "title": "Sweden road sign A39-2.svg"
-    },
-    {
-      "code": "A39",
-      "file": "A39-3.svg",
-      "title": "Sweden road sign A39-3.svg"
-    },
-    {
-      "code": "A39",
-      "file": "A39-4.svg",
-      "title": "Sweden road sign A39-4.svg"
-    },
-    {
-      "code": "A4",
-      "file": "A4.svg",
-      "title": "Sweden road sign A4.svg"
-    },
-    {
-      "code": "A40",
-      "file": "A40.svg",
-      "title": "Sweden road sign A40.svg"
-    },
-    {
-      "code": "A41",
-      "file": "A41.svg",
-      "title": "Sweden road sign A41.svg"
-    },
-    {
-      "code": "A5",
-      "file": "A5-1.svg",
-      "title": "Sweden road sign A5-1.svg"
-    },
-    {
-      "code": "A5",
-      "file": "A5-2.svg",
-      "title": "Sweden road sign A5-2.svg"
-    },
-    {
-      "code": "A5",
-      "file": "A5-3.svg",
-      "title": "Sweden_road_sign_A5-3.svg"
-    },
-    {
-      "code": "A6",
-      "file": "A6.svg",
-      "title": "Sweden road sign A6.svg"
-    },
-    {
-      "code": "A7",
-      "file": "A7.svg",
-      "title": "Sweden road sign A7.svg"
-    },
-    {
-      "code": "A8",
-      "file": "A8.svg",
-      "title": "Sweden_road_sign_A8.svg"
-    },
-    {
-      "code": "A9",
-      "file": "A9-1.svg",
-      "title": "Sweden_road_sign_A9-1.svg"
-    },
-    {
-      "code": "A9",
-      "file": "A9-2.svg",
-      "title": "Sweden_road_sign_A9-2.svg"
-    },
-    {
-      "code": "B1",
-      "file": "B1.svg",
-      "title": "Sweden road sign B1.svg"
-    },
-    {
-      "code": "B2",
-      "file": "B2.svg",
-      "title": "Sweden road sign B2.svg"
-    },
-    {
-      "code": "B3",
-      "file": "B3-1.svg",
-      "title": "Sweden road sign B3-1.svg"
-    },
-    {
-      "code": "B3",
-      "file": "B3-2.svg",
-      "title": "Sweden road sign B3-2.svg"
-    },
-    {
-      "code": "B4",
-      "file": "B4.svg",
-      "title": "Sweden road sign B4.svg"
-    },
-    {
-      "code": "B5",
-      "file": "B5.svg",
-      "title": "Sweden road sign B5.svg"
-    },
-    {
-      "code": "B6",
-      "file": "B6.svg",
-      "title": "Sweden road sign B6.svg"
-    },
-    {
-      "code": "B7",
-      "file": "B7.svg",
-      "title": "Sweden road sign B7.svg"
-    },
-    {
-      "code": "B8",
-      "file": "B8.svg",
-      "title": "Sweden road sign B8.svg"
-    },
-    {
-      "code": "C1",
-      "file": "C1.svg",
-      "title": "Sweden road sign C1.svg"
-    },
-    {
-      "code": "C10",
-      "file": "C10.svg",
-      "title": "Sweden road sign C10.svg"
-    },
-    {
-      "code": "C11",
-      "file": "C11.svg",
-      "title": "Sweden road sign C11.svg"
-    },
-    {
-      "code": "C12",
-      "file": "C12.svg",
-      "title": "Sweden road sign C12.svg"
-    },
-    {
-      "code": "C13",
-      "file": "C13.svg",
-      "title": "Sweden road sign C13.svg"
-    },
-    {
-      "code": "C14",
-      "file": "C14.svg",
-      "title": "Sweden road sign C14.svg"
-    },
-    {
-      "code": "C15",
-      "file": "C15.svg",
-      "title": "Sweden road sign C15.svg"
-    },
-    {
-      "code": "C16",
-      "file": "C16.svg",
-      "title": "Sweden road sign C16.svg"
-    },
-    {
-      "code": "C17",
-      "file": "C17.svg",
-      "title": "Sweden road sign C17.svg"
-    },
-    {
-      "code": "C18",
-      "file": "C18.svg",
-      "title": "Sweden road sign C18.svg"
-    },
-    {
-      "code": "C19",
-      "file": "C19.svg",
-      "title": "Sweden road sign C19.svg"
-    },
-    {
-      "code": "C2",
-      "file": "C2.svg",
-      "title": "Sweden road sign C2.svg"
-    },
-    {
-      "code": "C20",
-      "file": "C20.svg",
-      "title": "Sweden road sign C20.svg"
-    },
-    {
-      "code": "C21",
-      "file": "C21.svg",
-      "title": "Sweden road sign C21.svg"
-    },
-    {
-      "code": "C22",
-      "file": "C22-1.svg",
-      "title": "Sweden road sign C22-1.svg"
-    },
-    {
-      "code": "C22",
-      "file": "C22-2.svg",
-      "title": "Sweden road sign C22-2.svg"
-    },
-    {
-      "code": "C23",
-      "file": "C23.svg",
-      "title": "Sweden road sign C23.svg"
-    },
-    {
-      "code": "C24",
-      "file": "C24.svg",
-      "title": "Sweden road sign C24.svg"
-    },
-    {
-      "code": "C25-1",
-      "file": "C25-1.svg",
-      "title": "Sweden road sign C25-1.svg"
-    },
-    {
-      "code": "C25-2",
-      "file": "C25-2.svg",
-      "title": "Sweden road sign C25-2.svg"
-    },
-    {
-      "code": "C26",
-      "file": "C26.svg",
-      "title": "Sweden road sign C26.svg"
-    },
-    {
-      "code": "C27",
-      "file": "C27.svg",
-      "title": "Sweden road sign C27.svg"
-    },
-    {
-      "code": "C28",
-      "file": "C28.svg",
-      "title": "Sweden road sign C28.svg"
-    },
-    {
-      "code": "C29",
-      "file": "C29.svg",
-      "title": "Sweden road sign C29.svg"
-    },
-    {
-      "code": "C3",
-      "file": "C3.svg",
-      "title": "Sweden road sign C3.svg"
-    },
-    {
-      "code": "C30",
-      "file": "C30.svg",
-      "title": "Sweden road sign C30.svg"
-    },
-    {
-      "code": "C31-10",
-      "file": "C31-10.svg",
-      "title": "Sweden road sign C31-10.svg"
-    },
-    {
-      "code": "C31-11",
-      "file": "C31-11.svg",
-      "title": "Sweden road sign C31-11.svg"
-    },
-    {
-      "code": "C31-12",
-      "file": "C31-12.svg",
-      "title": "Sweden road sign C31-12.svg"
-    },
-    {
-      "code": "C31-3",
-      "file": "C31-3.svg",
-      "title": "Sweden road sign C31-3.svg"
-    },
-    {
-      "code": "C31-4",
-      "file": "C31-4.svg",
-      "title": "Sweden road sign C31-4.svg"
-    },
-    {
-      "code": "C31-5",
-      "file": "C31-5.svg",
-      "title": "Sweden road sign C31-5.svg"
-    },
-    {
-      "code": "C31-6",
-      "file": "C31-6.svg",
-      "title": "Sweden road sign C31-6.svg"
-    },
-    {
-      "code": "C31-7",
-      "file": "C31-7.svg",
-      "title": "Sweden road sign C31-7.svg"
-    },
-    {
-      "code": "C31-8",
-      "file": "C31-8.svg",
-      "title": "Sweden road sign C31-8.svg"
-    },
-    {
-      "code": "C31-9",
-      "file": "C31-9.svg",
-      "title": "Sweden road sign C31-9.svg"
-    },
-    {
-      "code": "C32",
-      "file": "C32-5.svg",
-      "title": "Sweden road sign C32-5.svg"
-    },
-    {
-      "code": "C32",
-      "file": "C32-7.svg",
-      "title": "Sweden road sign C32-7.svg"
-    },
-    {
-      "code": "C32",
-      "file": "C32-9.svg",
-      "title": "Sweden road sign C32-9.svg"
-    },
-    {
-      "code": "C33",
-      "file": "C33-1.svg",
-      "title": "Sweden road sign C33-1.svg"
-    },
-    {
-      "code": "C33",
-      "file": "C33-2.svg",
-      "title": "Sweden road sign C33-2.svg"
-    },
-    {
-      "code": "C34",
-      "file": "C34-1.svg",
-      "title": "Sweden road sign C34-1.svg"
-    },
-    {
-      "code": "C34",
-      "file": "C34-2.svg",
-      "title": "Sweden road sign C34-2.svg"
-    },
-    {
-      "code": "C35",
-      "file": "C35.svg",
-      "title": "Sweden road sign C35.svg"
-    },
-    {
-      "code": "C36",
-      "file": "C36.svg",
-      "title": "Sweden road sign C36.svg"
-    },
-    {
-      "code": "C37",
-      "file": "C37.svg",
-      "title": "Sweden road sign C37.svg"
-    },
-    {
-      "code": "C38",
-      "file": "C38.svg",
-      "title": "Sweden road sign C38.svg"
-    },
-    {
-      "code": "C39",
-      "file": "C39.svg",
-      "title": "Sweden road sign C39.svg"
-    },
-    {
-      "code": "C4",
-      "file": "C4.svg",
-      "title": "Sweden road sign C4.svg"
-    },
-    {
-      "code": "C40",
-      "file": "C40-1.svg",
-      "title": "Sweden road sign C40-1.svg"
-    },
-    {
-      "code": "C40",
-      "file": "C40-2.svg",
-      "title": "Sweden road sign C40-2.svg"
-    },
-    {
-      "code": "C40",
-      "file": "C40-3.svg",
-      "title": "Sweden road sign C40-3.svg"
-    },
-    {
-      "code": "C41",
-      "file": "C41-1.svg",
-      "title": "Sweden road sign C41-1.svg"
-    },
-    {
-      "code": "C41",
-      "file": "C41-2.svg",
-      "title": "Sweden road sign C41-2.svg"
-    },
-    {
-      "code": "C42",
-      "file": "C42-1.svg",
-      "title": "Sweden road sign C42-1.svg"
-    },
-    {
-      "code": "C42",
-      "file": "C42-2.svg",
-      "title": "Sweden road sign C42-2.svg"
-    },
-    {
-      "code": "C43",
-      "file": "C43-1.svg",
-      "title": "Sweden road sign C43-1.svg"
-    },
-    {
-      "code": "C43",
-      "file": "C43-2.svg",
-      "title": "Sweden road sign C43-2.svg"
-    },
-    {
-      "code": "C44",
-      "file": "C44.svg",
-      "title": "Sweden road sign C44.svg"
-    },
-    {
-      "code": "C46",
-      "file": "C46.svg",
-      "title": "SE road sign C46.svg"
-    },
-    {
-      "code": "C5",
-      "file": "C5.svg",
-      "title": "Sweden road sign C5.svg"
-    },
-    {
-      "code": "C6",
-      "file": "C6.svg",
-      "title": "Sweden road sign C6.svg"
-    },
-    {
-      "code": "C7",
-      "file": "C7.svg",
-      "title": "Sweden road sign C7.svg"
-    },
-    {
-      "code": "C8",
-      "file": "C8.svg",
-      "title": "Sweden road sign C8.svg"
-    },
-    {
-      "code": "C9",
-      "file": "C9.svg",
-      "title": "Sweden road sign C9.svg"
-    },
-    {
-      "code": "D1-1",
-      "file": "D1-1.svg",
-      "title": "Sweden road sign D1-1.svg"
-    },
-    {
-      "code": "D1-2",
-      "file": "D1-2.svg",
-      "title": "Sweden road sign D1-2.svg"
-    },
-    {
-      "code": "D1-3",
-      "file": "D1-3.svg",
-      "title": "Sweden road sign D1-3.svg"
-    },
-    {
-      "code": "D1-4",
-      "file": "D1-4.svg",
-      "title": "Sweden road sign D1-4.svg"
-    },
-    {
-      "code": "D1-5",
-      "file": "D1-5.svg",
-      "title": "Sweden road sign D1-5.svg"
-    },
-    {
-      "code": "D1-6",
-      "file": "D1-6.svg",
-      "title": "Sweden road sign D1-6.svg"
-    },
-    {
-      "code": "D1-7",
-      "file": "D1-7.svg",
-      "title": "Sweden road sign D1-7.svg"
-    },
-    {
-      "code": "D1-8",
-      "file": "D1-8.svg",
-      "title": "Sweden road sign D1-8.svg"
-    },
-    {
-      "code": "D10",
-      "file": "D10.svg",
-      "title": "Sweden road sign D10.svg"
-    },
-    {
-      "code": "D11",
-      "file": "D11-1.svg",
-      "title": "Sweden road sign D11-1.svg"
-    },
-    {
-      "code": "D11",
-      "file": "D11-2.svg",
-      "title": "Sweden road sign D11-2.svg"
-    },
-    {
-      "code": "D11",
-      "file": "D11-3.svg",
-      "title": "Sweden road sign D11-3.svg"
-    },
-    {
-      "code": "D12",
-      "file": "D12-1-1.svg",
-      "title": "Sweden road sign D12-1-1.svg"
-    },
-    {
-      "code": "D12",
-      "file": "D12-2-1.svg",
-      "title": "Sweden road sign D12-2-1.svg"
-    },
-    {
-      "code": "D12",
-      "file": "D12-3-1.svg",
-      "title": "Sweden road sign D12-3-1.svg"
-    },
-    {
-      "code": "D2-1",
-      "file": "D2-1.svg",
-      "title": "Sweden road sign D2-1.svg"
-    },
-    {
-      "code": "D2-2",
-      "file": "D2-2.svg",
-      "title": "Sweden road sign D2-2.svg"
-    },
-    {
-      "code": "D2-3",
-      "file": "D2-3.svg",
-      "title": "Sweden road sign D2-3.svg"
-    },
-    {
-      "code": "D3",
-      "file": "D3.svg",
-      "title": "Sweden road sign D3.svg"
-    },
-    {
-      "code": "D4",
-      "file": "D4.svg",
-      "title": "Sweden road sign D4.svg"
-    },
-    {
-      "code": "D5",
-      "file": "D5.svg",
-      "title": "Sweden road sign D5.svg"
-    },
-    {
-      "code": "D6",
-      "file": "D6.svg",
-      "title": "Sweden road sign D6.svg"
-    },
-    {
-      "code": "D7",
-      "file": "D7-1.svg",
-      "title": "Sweden road sign D7-1.svg"
-    },
-    {
-      "code": "D7",
-      "file": "D7-2.svg",
-      "title": "Sweden road sign D7-2.svg"
-    },
-    {
-      "code": "D8",
-      "file": "D8.svg",
-      "title": "Sweden road sign D8.svg"
-    },
-    {
-      "code": "D9",
-      "file": "D9.svg",
-      "title": "Sweden road sign D9.svg"
-    },
-    {
-      "code": "E1",
-      "file": "E1.svg",
-      "title": "Sweden road sign E1.svg"
-    },
-    {
-      "code": "E10",
-      "file": "E10.svg",
-      "title": "Sweden road sign E10.svg"
-    },
-    {
-      "code": "E11",
-      "file": "E11-3.svg",
-      "title": "Sweden road sign E11-3.svg"
-    },
-    {
-      "code": "E11",
-      "file": "E11-5.svg",
-      "title": "Sweden road sign E11-5.svg"
-    },
-    {
-      "code": "E11",
-      "file": "E11-7.svg",
-      "title": "Sweden road sign E11-7.svg"
-    },
-    {
-      "code": "E12",
-      "file": "E12-3.svg",
-      "title": "Sweden road sign E12-3.svg"
-    },
-    {
-      "code": "E12",
-      "file": "E12-5.svg",
-      "title": "Sweden road sign E12-5.svg"
-    },
-    {
-      "code": "E13",
-      "file": "E13-5.svg",
-      "title": "Sweden road sign E13-5.svg"
-    },
-    {
-      "code": "E13",
-      "file": "E13-7.svg",
-      "title": "Sweden road sign E13-7.svg"
-    },
-    {
-      "code": "E13",
-      "file": "E13-9.svg",
-      "title": "Sweden road sign E13-9.svg"
-    },
-    {
-      "code": "E14",
-      "file": "E14.svg",
-      "title": "Sweden road sign E14.svg"
-    },
-    {
-      "code": "E15",
-      "file": "E15.svg",
-      "title": "Sweden road sign E15.svg"
-    },
-    {
-      "code": "E16",
-      "file": "E16-1.svg",
-      "title": "Sweden road sign E16-1.svg"
-    },
-    {
-      "code": "E16",
-      "file": "E16-2.svg",
-      "title": "Sweden road sign E16-2.svg"
-    },
-    {
-      "code": "E17",
-      "file": "E17-1.svg",
-      "title": "Sweden road sign E17-1.svg"
-    },
-    {
-      "code": "E17",
-      "file": "E17-2.svg",
-      "title": "Sweden road sign E17-2.svg"
-    },
-    {
-      "code": "E17",
-      "file": "E17-3.svg",
-      "title": "Sweden road sign E17-3.svg"
-    },
-    {
-      "code": "E18",
-      "file": "E18.svg",
-      "title": "Sweden road sign E18.svg"
-    },
-    {
-      "code": "E19",
-      "file": "E19.svg",
-      "title": "Sweden road sign E19.svg"
-    },
-    {
-      "code": "E2",
-      "file": "E2.svg",
-      "title": "Sweden road sign E2.svg"
-    },
-    {
-      "code": "E20",
-      "file": "E20-1.svg",
-      "title": "Sweden road sign E20-1.svg"
-    },
-    {
-      "code": "E20",
-      "file": "E20-14.svg",
-      "title": "Sweden road sign E20-14.svg"
-    },
-    {
-      "code": "E20",
-      "file": "E20-15.svg",
-      "title": "Sweden road sign E20-15.svg"
-    },
-    {
-      "code": "E21",
-      "file": "E21-1.svg",
-      "title": "Sweden road sign E21-1.svg"
-    },
-    {
-      "code": "E21",
-      "file": "E21-15.svg",
-      "title": "Sweden road sign E21-15.svg"
-    },
-    {
-      "code": "E22",
-      "file": "E22.svg",
-      "title": "Sweden road sign E22.svg"
-    },
-    {
-      "code": "E23",
-      "file": "E23.svg",
-      "title": "Sweden road sign E23.svg"
-    },
-    {
-      "code": "E24",
-      "file": "E24.svg",
-      "title": "Sweden road sign E24.svg"
-    },
-    {
-      "code": "E25",
-      "file": "E25.svg",
-      "title": "Sweden road sign E25.svg"
-    },
-    {
-      "code": "E26",
-      "file": "E26.svg",
-      "title": "Sweden road sign E26.svg"
-    },
-    {
-      "code": "E27",
-      "file": "E27.svg",
-      "title": "Sweden road sign E27.svg"
-    },
-    {
-      "code": "E28",
-      "file": "E28-1.svg",
-      "title": "Sweden road sign E28-1.svg"
-    },
-    {
-      "code": "E28",
-      "file": "E28-2.svg",
-      "title": "Sweden road sign E28-2.svg"
-    },
-    {
-      "code": "E29",
-      "file": "E29-1.svg",
-      "title": "Sweden road sign E29-1.svg"
-    },
-    {
-      "code": "E29",
-      "file": "E29-2.svg",
-      "title": "Sweden road sign E29-2.svg"
-    },
-    {
-      "code": "E3",
-      "file": "E3.svg",
-      "title": "Sweden road sign E3.svg"
-    },
-    {
-      "code": "E33",
-      "file": "E33.svg",
-      "title": "SE road sign E33.svg"
-    },
-    {
-      "code": "E34",
-      "file": "E34.svg",
-      "title": "SE road sign E34.svg"
-    },
-    {
-      "code": "E4",
-      "file": "E4.svg",
-      "title": "Sweden road sign E4.svg"
-    },
-    {
-      "code": "E5",
-      "file": "E5.svg",
-      "title": "Sweden road sign E5.svg"
-    },
-    {
-      "code": "E6",
-      "file": "E6.svg",
-      "title": "Sweden road sign E6.svg"
-    },
-    {
-      "code": "E7",
-      "file": "E7.svg",
-      "title": "Sweden road sign E7.svg"
-    },
-    {
-      "code": "E8",
-      "file": "E8.svg",
-      "title": "Sweden road sign E8.svg"
-    },
-    {
-      "code": "E9",
-      "file": "E9.svg",
-      "title": "Sweden road sign E9.svg"
-    },
-    {
-      "code": "F1",
-      "file": "F1-1.svg",
-      "title": "Sweden road sign F1-1.svg"
-    },
-    {
-      "code": "F10",
-      "file": "F10.svg",
-      "title": "Sweden road sign F10.svg"
-    },
-    {
-      "code": "F11",
-      "file": "F11.svg",
-      "title": "Swedish road sign F11.svg"
-    },
-    {
-      "code": "F13",
-      "file": "F13.svg",
-      "title": "Sweden road sign F13.svg"
-    },
-    {
-      "code": "F14",
-      "file": "F14-1.svg",
-      "title": "Sweden road sign F14-1.svg"
-    },
-    {
-      "code": "F14",
-      "file": "F14-3.svg",
-      "title": "Sweden road sign F14-3.svg"
-    },
-    {
-      "code": "F14",
-      "file": "F14-4.svg",
-      "title": "Sweden road sign F14-4.svg"
-    },
-    {
-      "code": "F15",
-      "file": "F15.svg",
-      "title": "Sweden road sign F15.svg"
-    },
-    {
-      "code": "F16",
-      "file": "F16.svg",
-      "title": "Swedish road sign F16.svg"
-    },
-    {
-      "code": "F17",
-      "file": "F17.svg",
-      "title": "Sweden road sign F17.svg"
-    },
-    {
-      "code": "F2",
-      "file": "F2.svg",
-      "title": "Sweden road sign F2.svg"
-    },
-    {
-      "code": "F21",
-      "file": "F21.svg",
-      "title": "Sweden road sign F21.svg"
-    },
-    {
-      "code": "F23",
-      "file": "F23.svg",
-      "title": "Swedish road sign F23.svg"
-    },
-    {
-      "code": "F24",
-      "file": "F24-1.svg",
-      "title": "Sweden road sign F24-1.svg"
-    },
-    {
-      "code": "F25",
-      "file": "F25-3.svg",
-      "title": "Sweden road sign F25-3.svg"
-    },
-    {
-      "code": "F26",
-      "file": "F26-1.svg",
-      "title": "Sweden road sign F26-1.svg"
-    },
-    {
-      "code": "F26",
-      "file": "F26-2.svg",
-      "title": "Sweden road sign F26-2.svg"
-    },
-    {
-      "code": "F27",
-      "file": "F27.svg",
-      "title": "Sweden road sign F27.svg"
-    },
-    {
-      "code": "F29",
-      "file": "F29.svg",
-      "title": "Sweden road sign F29.svg"
-    },
-    {
-      "code": "F30",
-      "file": "F30.svg",
-      "title": "Sweden road sign F30.svg"
-    },
-    {
-      "code": "F31",
-      "file": "F31-1.svg",
-      "title": "Sweden road sign F31-1.svg"
-    },
-    {
-      "code": "F31",
-      "file": "F31-5.svg",
-      "title": "Sweden road sign F31-5.svg"
-    },
-    {
-      "code": "F32",
-      "file": "F32.svg",
-      "title": "Sweden road sign F32.svg"
-    },
-    {
-      "code": "F4",
-      "file": "F4.svg",
-      "title": "Sweden road sign F4.svg"
-    },
-    {
-      "code": "F5",
-      "file": "F5.svg",
-      "title": "Sweden road sign F5.svg"
-    },
-    {
-      "code": "F6",
-      "file": "F6.svg",
-      "title": "Sweden road sign F6.svg"
-    },
-    {
-      "code": "F7",
-      "file": "F7.svg",
-      "title": "Sweden road sign F7.svg"
-    },
-    {
-      "code": "F8",
-      "file": "F8.svg",
-      "title": "Swedish road sign 1 5 2 2.svg"
-    },
-    {
-      "code": "F9",
-      "file": "F9.svg",
-      "title": "Sweden road sign F9.svg"
-    },
-    {
-      "code": "G1",
-      "file": "G1.svg",
-      "title": "Sweden road sign G1.svg"
-    },
-    {
-      "code": "G10",
-      "file": "G10.svg",
-      "title": "Sweden road sign G10.svg"
-    },
-    {
-      "code": "G11",
-      "file": "G11.svg",
-      "title": "Sweden road sign G11.svg"
-    },
-    {
-      "code": "G12",
-      "file": "G12.svg",
-      "title": "Sweden road sign G12.svg"
-    },
-    {
-      "code": "G2",
-      "file": "G2.svg",
-      "title": "Sweden road sign G2.svg"
-    },
-    {
-      "code": "G3",
-      "file": "G3.svg",
-      "title": "Sweden road sign G3.svg"
-    },
-    {
-      "code": "G4",
-      "file": "G4.svg",
-      "title": "Sweden road sign G4.svg"
-    },
-    {
-      "code": "G5",
-      "file": "G5.svg",
-      "title": "Sweden road sign G5.svg"
-    },
-    {
-      "code": "G6",
-      "file": "G6.svg",
-      "title": "Sweden road sign G6.svg"
-    },
-    {
-      "code": "G7",
-      "file": "G7.svg",
-      "title": "Sweden road sign G7.svg"
-    },
-    {
-      "code": "G8",
-      "file": "G8-1.svg",
-      "title": "Sweden road sign G8-1.svg"
-    },
-    {
-      "code": "G8",
-      "file": "G8-2.svg",
-      "title": "Sweden road sign G8-2.svg"
-    },
-    {
-      "code": "G9",
-      "file": "G9.svg",
-      "title": "Sweden road sign G9.svg"
-    },
-    {
-      "code": "H1",
-      "file": "H1.svg",
-      "title": "Sweden road sign H1.svg"
-    },
-    {
-      "code": "H10",
-      "file": "H10.svg",
-      "title": "Sweden road sign H10.svg"
-    },
-    {
-      "code": "H11",
-      "file": "H11.svg",
-      "title": "Sweden road sign H11.svg"
-    },
-    {
-      "code": "H12",
-      "file": "H12.svg",
-      "title": "Sweden road sign H12.svg"
-    },
-    {
-      "code": "H13",
-      "file": "H13.svg",
-      "title": "Sweden road sign H13.svg"
-    },
-    {
-      "code": "H14",
-      "file": "H14.svg",
-      "title": "Sweden road sign H14.svg"
-    },
-    {
-      "code": "H15",
-      "file": "H15.svg",
-      "title": "Sweden road sign H15.svg"
-    },
-    {
-      "code": "H16",
-      "file": "H16.svg",
-      "title": "Sweden road sign H16.svg"
-    },
-    {
-      "code": "H17",
-      "file": "H17.svg",
-      "title": "Sweden road sign H17.svg"
-    },
-    {
-      "code": "H18",
-      "file": "H18.svg",
-      "title": "Sweden road sign H18.svg"
-    },
-    {
-      "code": "H19",
-      "file": "H19.svg",
-      "title": "Sweden road sign H19.svg"
-    },
-    {
-      "code": "H2",
-      "file": "H2.svg",
-      "title": "Sweden road sign H2.svg"
-    },
-    {
-      "code": "H20",
-      "file": "H20.svg",
-      "title": "Sweden road sign H20.svg"
-    },
-    {
-      "code": "H21",
-      "file": "H21.svg",
-      "title": "Sweden road sign H21.svg"
-    },
-    {
-      "code": "H22",
-      "file": "H22.svg",
-      "title": "Sweden road sign H22.svg"
-    },
-    {
-      "code": "H23",
-      "file": "H23.svg",
-      "title": "Sweden road sign H23.svg"
-    },
-    {
-      "code": "H24",
-      "file": "H24.svg",
-      "title": "Sweden road sign H24.svg"
-    },
-    {
-      "code": "H25",
-      "file": "H25.svg",
-      "title": "Sweden road sign H25.svg"
-    },
-    {
-      "code": "H26",
-      "file": "H26.svg",
-      "title": "Sweden road sign H26.svg"
-    },
-    {
-      "code": "H27",
-      "file": "H27.svg",
-      "title": "Sweden road sign H27.svg"
-    },
-    {
-      "code": "H28",
-      "file": "H28.svg",
-      "title": "Sweden road sign H28.svg"
-    },
-    {
-      "code": "H3",
-      "file": "H3.svg",
-      "title": "Sweden road sign H3.svg"
-    },
-    {
-      "code": "H4",
-      "file": "H4-1.svg",
-      "title": "Sweden road sign H4-1.svg"
-    },
-    {
-      "code": "H4",
-      "file": "H4-2.svg",
-      "title": "Sweden road sign H4-2.svg"
-    },
-    {
-      "code": "H5",
-      "file": "H5.svg",
-      "title": "Sweden road sign H5.svg"
-    },
-    {
-      "code": "H6",
-      "file": "H6.svg",
-      "title": "Sweden road sign H6.svg"
-    },
-    {
-      "code": "H7",
-      "file": "H7.svg",
-      "title": "Sweden road sign H7.svg"
-    },
-    {
-      "code": "H8",
-      "file": "H8.svg",
-      "title": "Sweden road sign H8.svg"
-    },
-    {
-      "code": "H9",
-      "file": "H9.svg",
-      "title": "Sweden road sign H9.svg"
-    },
-    {
-      "code": "I1",
-      "file": "I1.svg",
-      "title": "Sweden road sign I1.svg"
-    },
-    {
-      "code": "I2",
-      "file": "I2.svg",
-      "title": "Sweden road sign I2.svg"
-    },
-    {
-      "code": "I3",
-      "file": "I3.svg",
-      "title": "Sweden road sign I3.svg"
-    },
-    {
-      "code": "I4",
-      "file": "I4.svg",
-      "title": "Sweden road sign I4.svg"
-    },
-    {
-      "code": "J1",
-      "file": "J1.svg",
-      "title": "Swedish road sign J1 1.svg"
-    },
-    {
-      "code": "J2",
-      "file": "J2.svg",
-      "title": "Sweden road sign J2.svg"
-    },
-    {
-      "code": "J3",
-      "file": "J3-1.svg",
-      "title": "Sweden road sign J3-1.svg"
-    },
-    {
-      "code": "J3",
-      "file": "J3-2.svg",
-      "title": "Sweden road sign J3-2.svg"
-    },
-    {
-      "code": "M1",
-      "file": "M1.svg",
-      "title": "Swedish road sign 4 1 1.svg"
-    },
-    {
-      "code": "M10",
-      "file": "M10.svg",
-      "title": "4 1 4 1.svg"
-    },
-    {
-      "code": "M11",
-      "file": "M11.svg",
-      "title": "4 1 4 3.svg"
-    },
-    {
-      "code": "M14",
-      "file": "M14.svg",
-      "title": "4 2 2.svg"
-    },
-    {
-      "code": "M15",
-      "file": "M15.svg",
-      "title": "Swedish road sign 4 2 3.svg"
-    },
-    {
-      "code": "M16",
-      "file": "M16.svg",
-      "title": "Swedish road sign 4 2 4.svg"
-    },
-    {
-      "code": "M18",
-      "file": "M18.svg",
-      "title": "Swedish road sign 4 3 9.svg"
-    },
-    {
-      "code": "M19",
-      "file": "M19.svg",
-      "title": "Swedish road sign 4 3 1.svg"
-    },
-    {
-      "code": "M2",
-      "file": "M2.svg",
-      "title": "4 1 9 1.svg"
-    },
-    {
-      "code": "M20",
-      "file": "M20.svg",
-      "title": "Swedish road sign 4 3 2.svg"
-    },
-    {
-      "code": "M21",
-      "file": "M21.svg",
-      "title": "Swedish road sign 4 3 6.svg"
-    },
-    {
-      "code": "M22",
-      "file": "M22.svg",
-      "title": "Swedish road sign 4 3 7 1.svg"
-    },
-    {
-      "code": "M24",
-      "file": "M24.svg",
-      "title": "Swedish road sign 4 3 5.svg"
-    },
-    {
-      "code": "M26",
-      "file": "M26.svg",
-      "title": "Swedish road sign 4 3 8.svg"
-    },
-    {
-      "code": "M29",
-      "file": "M29.svg",
-      "title": "Vägmarkering hastighet.svg"
-    },
-    {
-      "code": "M3",
-      "file": "M3.svg",
-      "title": "4 1 3.svg"
-    },
-    {
-      "code": "M30",
-      "file": "M30.svg",
-      "title": "Vägmarkering vägnummer.svg"
-    },
-    {
-      "code": "M33",
-      "file": "M33.svg",
-      "title": "Swedish road sign 4 3 10.svg"
-    },
-    {
-      "code": "M4",
-      "file": "M4.svg",
-      "title": "4 1 6.svg"
-    },
-    {
-      "code": "M5",
-      "file": "M5.svg",
-      "title": "4 1 8.svg"
-    },
-    {
-      "code": "M6",
-      "file": "M6.svg",
-      "title": "4 1 7.svg"
-    },
-    {
-      "code": "M7",
-      "file": "M7.svg",
-      "title": "4 1 5.svg"
-    },
-    {
-      "code": "M8",
-      "file": "M8.svg",
-      "title": "4 1 2.svg"
-    },
-    {
-      "code": "M9",
-      "file": "M9.svg",
-      "title": "Swedish road sign 4 3 3.svg"
-    },
-    {
-      "code": "P6",
-      "file": "P6.svg",
-      "title": "Sweden road sign P6.svg"
-    },
-    {
-      "code": "P7",
-      "file": "P7.svg",
-      "title": "Sweden road sign P7.svg"
-    },
-    {
-      "code": "T10",
-      "file": "T10.svg",
-      "title": "Sweden road sign T10.svg"
-    },
-    {
-      "code": "T11",
-      "file": "T11-1.svg",
-      "title": "Utsträckning, höger.svg"
-    },
-    {
-      "code": "T11",
-      "file": "T11-2.svg",
-      "title": "Utsträckning, vänster och höger.svg"
-    },
-    {
-      "code": "T12",
-      "file": "T12-1.svg",
-      "title": "Swedish road sign 11 18 11.svg"
-    },
-    {
-      "code": "T12",
-      "file": "T12-2.svg",
-      "title": "Swedish road sign 11 18 12.svg"
-    },
-    {
-      "code": "T13",
-      "file": "T13.svg",
-      "title": "Sweden road sign T13.svg"
-    },
-    {
-      "code": "T14",
-      "file": "T14.svg",
-      "title": "Sweden road sign T14.svg"
-    },
-    {
-      "code": "T15",
-      "file": "T15-1.svg",
-      "title": "Swedish road sign 11 23 1.svg"
-    },
-    {
-      "code": "T15",
-      "file": "T15-2.svg",
-      "title": "Swedish road sign 11 23 2.svg"
-    },
-    {
-      "code": "T16",
-      "file": "T16.svg",
-      "title": "Sweden road sign T16.svg"
-    },
-    {
-      "code": "T17",
-      "file": "T17.svg",
-      "title": "Sweden road sign T17.svg"
-    },
-    {
-      "code": "T18",
-      "file": "T18.svg",
-      "title": "Sweden road sign T18.svg"
-    },
-    {
-      "code": "T19",
-      "file": "T19.svg",
-      "title": "Sweden road sign T19.svg"
-    },
-    {
-      "code": "T2",
-      "file": "T2.svg",
-      "title": "Sweden road sign T2.svg"
-    },
-    {
-      "code": "T20",
-      "file": "T20.svg",
-      "title": "Sweden road sign T20.svg"
-    },
-    {
-      "code": "T21",
-      "file": "T21-1.svg",
-      "title": "Sweden road sign T21-1.svg"
-    },
-    {
-      "code": "T21",
-      "file": "T21-2.svg",
-      "title": "Sweden road sign T21-2.svg"
-    },
-    {
-      "code": "T23",
-      "file": "T23-1.svg",
-      "title": "Sweden road sign T23-1.svg"
-    },
-    {
-      "code": "T23",
-      "file": "T23-2.svg",
-      "title": "Sweden road sign T23-2.svg"
-    },
-    {
-      "code": "T24",
-      "file": "T24.svg",
-      "title": "Sweden road sign T24.svg"
-    },
-    {
-      "code": "T25",
-      "file": "T25.svg",
-      "title": "Sweden road sign T25.svg"
-    },
-    {
-      "code": "T3",
-      "file": "T3.svg",
-      "title": "Sweden road sign T3.svg"
-    },
-    {
-      "code": "T4",
-      "file": "T4.svg",
-      "title": "Sweden road sign T4.svg"
-    },
-    {
-      "code": "T5",
-      "file": "T5.svg",
-      "title": "Sweden road sign T5.svg"
-    },
-    {
-      "code": "T6",
-      "file": "T6.svg",
-      "title": "Sweden road sign T6.svg"
-    },
-    {
-      "code": "T7",
-      "file": "T7.svg",
-      "title": "Swedish road sign 11 13 2.svg"
-    },
-    {
-      "code": "T8",
-      "file": "T8-1.svg",
-      "title": "Swedish road sign 11 13 11.svg"
-    },
-    {
-      "code": "T8",
-      "file": "T8-2.svg",
-      "title": "Swedish road sign 11 13 41.svg"
-    },
-    {
-      "code": "T8",
-      "file": "T8-3.svg",
-      "title": "Swedish road sign 11 13 6.svg"
-    },
-    {
-      "code": "T9",
-      "file": "T9.svg",
-      "title": "Sweden road sign T9.svg"
-    },
-    {
-      "code": "X1",
-      "file": "X1-1.svg",
-      "title": "SE road sign X1 (2 chevrons, right).svg"
-    },
-    {
-      "code": "X1",
-      "file": "X1-2.svg",
-      "title": "SE road sign X1 (2 chevrons, left).svg"
-    },
-    {
-      "code": "X2",
-      "file": "X2.svg",
-      "title": "Swedish road sign 7 1 3.svg"
-    },
-    {
-      "code": "X3",
-      "file": "X3-1.svg",
-      "title": "Markeringsskärm sidohinder, höger.svg"
-    },
-    {
-      "code": "X3",
-      "file": "X3-2.svg",
-      "title": "Markeringsskärm sidohinder, vänster.svg"
-    },
-    {
-      "code": "X4",
-      "file": "X4.svg",
-      "title": "Sweden road sign X4.svg"
-    },
-    {
-      "code": "X5",
-      "file": "X5.svg",
-      "title": "Sweden road sign X5.svg"
-    },
-    {
-      "code": "X6",
-      "file": "X6-1.svg",
-      "title": "Sweden road sign X6-1.svg"
-    }
-  ],
+  "generatedAt": "2026-09-30T12:28:08.171Z",
+  "found": [],
   "missing": [
     {
       "code": "C45",
@@ -1803,28 +42,6 @@
         "Sweden_road_sign_E32-1.svg",
         "SE road sign E32-1.svg",
         "Swedish road sign E32-1.svg"
-      ]
-    },
-    {
-      "code": "M12",
-      "file": "M12.svg",
-      "tried": [
-        "4 1 4 2.svg",
-        "Sweden road sign M12.svg",
-        "Sweden_road_sign_M12.svg",
-        "SE road sign M12.svg",
-        "Swedish road sign M12.svg"
-      ]
-    },
-    {
-      "code": "M13",
-      "file": "M13.svg",
-      "tried": [
-        "4 2 1.svg",
-        "Sweden road sign M13.svg",
-        "Sweden_road_sign_M13.svg",
-        "SE road sign M13.svg",
-        "Swedish road sign M13.svg"
       ]
     },
     {
@@ -1968,5 +185,1422 @@
       ]
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "code": "A1",
+      "file": "A1-1.svg"
+    },
+    {
+      "code": "A1",
+      "file": "A1-2.svg"
+    },
+    {
+      "code": "A10",
+      "file": "A10.svg"
+    },
+    {
+      "code": "A11",
+      "file": "A11.svg"
+    },
+    {
+      "code": "A12",
+      "file": "A12-1.svg"
+    },
+    {
+      "code": "A12",
+      "file": "A12-2.svg"
+    },
+    {
+      "code": "A13",
+      "file": "A13.svg"
+    },
+    {
+      "code": "A14",
+      "file": "A14.svg"
+    },
+    {
+      "code": "A15",
+      "file": "A15.svg"
+    },
+    {
+      "code": "A16",
+      "file": "A16.svg"
+    },
+    {
+      "code": "A17",
+      "file": "A17.svg"
+    },
+    {
+      "code": "A18",
+      "file": "A18.svg"
+    },
+    {
+      "code": "A19-1",
+      "file": "A19-1.svg"
+    },
+    {
+      "code": "A19-2",
+      "file": "A19-2.svg"
+    },
+    {
+      "code": "A19-3",
+      "file": "A19-3.svg"
+    },
+    {
+      "code": "A19-4",
+      "file": "A19-4.svg"
+    },
+    {
+      "code": "A19-5",
+      "file": "A19-5.svg"
+    },
+    {
+      "code": "A19-6",
+      "file": "A19-6.svg"
+    },
+    {
+      "code": "A19-7",
+      "file": "A19-7.svg"
+    },
+    {
+      "code": "A2",
+      "file": "A2-1.svg"
+    },
+    {
+      "code": "A2",
+      "file": "A2-2.svg"
+    },
+    {
+      "code": "A20",
+      "file": "A20.svg"
+    },
+    {
+      "code": "A21",
+      "file": "A21.svg"
+    },
+    {
+      "code": "A22",
+      "file": "A22.svg"
+    },
+    {
+      "code": "A23",
+      "file": "A23-1.svg"
+    },
+    {
+      "code": "A23",
+      "file": "A23-2.svg"
+    },
+    {
+      "code": "A24",
+      "file": "A24-1.svg"
+    },
+    {
+      "code": "A24",
+      "file": "A24-2.svg"
+    },
+    {
+      "code": "A25",
+      "file": "A25.svg"
+    },
+    {
+      "code": "A26",
+      "file": "A26.svg"
+    },
+    {
+      "code": "A27",
+      "file": "A27.svg"
+    },
+    {
+      "code": "A28",
+      "file": "A28.svg"
+    },
+    {
+      "code": "A29",
+      "file": "A29-1.svg"
+    },
+    {
+      "code": "A29",
+      "file": "A29-2.svg"
+    },
+    {
+      "code": "A29",
+      "file": "A29-3.svg"
+    },
+    {
+      "code": "A29",
+      "file": "A29-4.svg"
+    },
+    {
+      "code": "A3",
+      "file": "A3.svg"
+    },
+    {
+      "code": "A30",
+      "file": "A30.svg"
+    },
+    {
+      "code": "A31",
+      "file": "A31.svg"
+    },
+    {
+      "code": "A32",
+      "file": "A32-1.svg"
+    },
+    {
+      "code": "A32",
+      "file": "A32-2.svg"
+    },
+    {
+      "code": "A32",
+      "file": "A32-3.svg"
+    },
+    {
+      "code": "A33",
+      "file": "A33.svg"
+    },
+    {
+      "code": "A34",
+      "file": "A34.svg"
+    },
+    {
+      "code": "A35",
+      "file": "A35.svg"
+    },
+    {
+      "code": "A36",
+      "file": "A36.svg"
+    },
+    {
+      "code": "A37",
+      "file": "A37.svg"
+    },
+    {
+      "code": "A38",
+      "file": "A38-1.svg"
+    },
+    {
+      "code": "A38",
+      "file": "A38-2.svg"
+    },
+    {
+      "code": "A38",
+      "file": "A38-3.svg"
+    },
+    {
+      "code": "A39",
+      "file": "A39-1.svg"
+    },
+    {
+      "code": "A39",
+      "file": "A39-2.svg"
+    },
+    {
+      "code": "A39",
+      "file": "A39-3.svg"
+    },
+    {
+      "code": "A39",
+      "file": "A39-4.svg"
+    },
+    {
+      "code": "A4",
+      "file": "A4.svg"
+    },
+    {
+      "code": "A40",
+      "file": "A40.svg"
+    },
+    {
+      "code": "A41",
+      "file": "A41.svg"
+    },
+    {
+      "code": "A5",
+      "file": "A5-1.svg"
+    },
+    {
+      "code": "A5",
+      "file": "A5-2.svg"
+    },
+    {
+      "code": "A5",
+      "file": "A5-3.svg"
+    },
+    {
+      "code": "A6",
+      "file": "A6.svg"
+    },
+    {
+      "code": "A7",
+      "file": "A7.svg"
+    },
+    {
+      "code": "A8",
+      "file": "A8.svg"
+    },
+    {
+      "code": "A9",
+      "file": "A9-1.svg"
+    },
+    {
+      "code": "A9",
+      "file": "A9-2.svg"
+    },
+    {
+      "code": "B1",
+      "file": "B1.svg"
+    },
+    {
+      "code": "B2",
+      "file": "B2.svg"
+    },
+    {
+      "code": "B3",
+      "file": "B3-1.svg"
+    },
+    {
+      "code": "B3",
+      "file": "B3-2.svg"
+    },
+    {
+      "code": "B4",
+      "file": "B4.svg"
+    },
+    {
+      "code": "B5",
+      "file": "B5.svg"
+    },
+    {
+      "code": "B6",
+      "file": "B6.svg"
+    },
+    {
+      "code": "B7",
+      "file": "B7.svg"
+    },
+    {
+      "code": "B8",
+      "file": "B8.svg"
+    },
+    {
+      "code": "C1",
+      "file": "C1.svg"
+    },
+    {
+      "code": "C10",
+      "file": "C10.svg"
+    },
+    {
+      "code": "C11",
+      "file": "C11.svg"
+    },
+    {
+      "code": "C12",
+      "file": "C12.svg"
+    },
+    {
+      "code": "C13",
+      "file": "C13.svg"
+    },
+    {
+      "code": "C14",
+      "file": "C14.svg"
+    },
+    {
+      "code": "C15",
+      "file": "C15.svg"
+    },
+    {
+      "code": "C16",
+      "file": "C16.svg"
+    },
+    {
+      "code": "C17",
+      "file": "C17.svg"
+    },
+    {
+      "code": "C18",
+      "file": "C18.svg"
+    },
+    {
+      "code": "C19",
+      "file": "C19.svg"
+    },
+    {
+      "code": "C2",
+      "file": "C2.svg"
+    },
+    {
+      "code": "C20",
+      "file": "C20.svg"
+    },
+    {
+      "code": "C21",
+      "file": "C21.svg"
+    },
+    {
+      "code": "C22",
+      "file": "C22-1.svg"
+    },
+    {
+      "code": "C22",
+      "file": "C22-2.svg"
+    },
+    {
+      "code": "C23",
+      "file": "C23.svg"
+    },
+    {
+      "code": "C24",
+      "file": "C24.svg"
+    },
+    {
+      "code": "C25-1",
+      "file": "C25-1.svg"
+    },
+    {
+      "code": "C25-2",
+      "file": "C25-2.svg"
+    },
+    {
+      "code": "C26",
+      "file": "C26.svg"
+    },
+    {
+      "code": "C27",
+      "file": "C27.svg"
+    },
+    {
+      "code": "C28",
+      "file": "C28.svg"
+    },
+    {
+      "code": "C29",
+      "file": "C29.svg"
+    },
+    {
+      "code": "C3",
+      "file": "C3.svg"
+    },
+    {
+      "code": "C30",
+      "file": "C30.svg"
+    },
+    {
+      "code": "C31-10",
+      "file": "C31-10.svg"
+    },
+    {
+      "code": "C31-11",
+      "file": "C31-11.svg"
+    },
+    {
+      "code": "C31-12",
+      "file": "C31-12.svg"
+    },
+    {
+      "code": "C31-3",
+      "file": "C31-3.svg"
+    },
+    {
+      "code": "C31-4",
+      "file": "C31-4.svg"
+    },
+    {
+      "code": "C31-5",
+      "file": "C31-5.svg"
+    },
+    {
+      "code": "C31-6",
+      "file": "C31-6.svg"
+    },
+    {
+      "code": "C31-7",
+      "file": "C31-7.svg"
+    },
+    {
+      "code": "C31-8",
+      "file": "C31-8.svg"
+    },
+    {
+      "code": "C31-9",
+      "file": "C31-9.svg"
+    },
+    {
+      "code": "C32",
+      "file": "C32-5.svg"
+    },
+    {
+      "code": "C32",
+      "file": "C32-7.svg"
+    },
+    {
+      "code": "C32",
+      "file": "C32-9.svg"
+    },
+    {
+      "code": "C33",
+      "file": "C33-1.svg"
+    },
+    {
+      "code": "C33",
+      "file": "C33-2.svg"
+    },
+    {
+      "code": "C34",
+      "file": "C34-1.svg"
+    },
+    {
+      "code": "C34",
+      "file": "C34-2.svg"
+    },
+    {
+      "code": "C35",
+      "file": "C35.svg"
+    },
+    {
+      "code": "C36",
+      "file": "C36.svg"
+    },
+    {
+      "code": "C37",
+      "file": "C37.svg"
+    },
+    {
+      "code": "C38",
+      "file": "C38.svg"
+    },
+    {
+      "code": "C39",
+      "file": "C39.svg"
+    },
+    {
+      "code": "C4",
+      "file": "C4.svg"
+    },
+    {
+      "code": "C40",
+      "file": "C40-1.svg"
+    },
+    {
+      "code": "C40",
+      "file": "C40-2.svg"
+    },
+    {
+      "code": "C40",
+      "file": "C40-3.svg"
+    },
+    {
+      "code": "C41",
+      "file": "C41-1.svg"
+    },
+    {
+      "code": "C41",
+      "file": "C41-2.svg"
+    },
+    {
+      "code": "C42",
+      "file": "C42-1.svg"
+    },
+    {
+      "code": "C42",
+      "file": "C42-2.svg"
+    },
+    {
+      "code": "C43",
+      "file": "C43-1.svg"
+    },
+    {
+      "code": "C43",
+      "file": "C43-2.svg"
+    },
+    {
+      "code": "C44",
+      "file": "C44.svg"
+    },
+    {
+      "code": "C46",
+      "file": "C46.svg"
+    },
+    {
+      "code": "C5",
+      "file": "C5.svg"
+    },
+    {
+      "code": "C6",
+      "file": "C6.svg"
+    },
+    {
+      "code": "C7",
+      "file": "C7.svg"
+    },
+    {
+      "code": "C8",
+      "file": "C8.svg"
+    },
+    {
+      "code": "C9",
+      "file": "C9.svg"
+    },
+    {
+      "code": "D1-1",
+      "file": "D1-1.svg"
+    },
+    {
+      "code": "D1-2",
+      "file": "D1-2.svg"
+    },
+    {
+      "code": "D1-3",
+      "file": "D1-3.svg"
+    },
+    {
+      "code": "D1-4",
+      "file": "D1-4.svg"
+    },
+    {
+      "code": "D1-5",
+      "file": "D1-5.svg"
+    },
+    {
+      "code": "D1-6",
+      "file": "D1-6.svg"
+    },
+    {
+      "code": "D1-7",
+      "file": "D1-7.svg"
+    },
+    {
+      "code": "D1-8",
+      "file": "D1-8.svg"
+    },
+    {
+      "code": "D10",
+      "file": "D10.svg"
+    },
+    {
+      "code": "D11",
+      "file": "D11-1.svg"
+    },
+    {
+      "code": "D11",
+      "file": "D11-2.svg"
+    },
+    {
+      "code": "D11",
+      "file": "D11-3.svg"
+    },
+    {
+      "code": "D12",
+      "file": "D12-1-1.svg"
+    },
+    {
+      "code": "D12",
+      "file": "D12-2-1.svg"
+    },
+    {
+      "code": "D12",
+      "file": "D12-3-1.svg"
+    },
+    {
+      "code": "D2-1",
+      "file": "D2-1.svg"
+    },
+    {
+      "code": "D2-2",
+      "file": "D2-2.svg"
+    },
+    {
+      "code": "D2-3",
+      "file": "D2-3.svg"
+    },
+    {
+      "code": "D3",
+      "file": "D3.svg"
+    },
+    {
+      "code": "D4",
+      "file": "D4.svg"
+    },
+    {
+      "code": "D5",
+      "file": "D5.svg"
+    },
+    {
+      "code": "D6",
+      "file": "D6.svg"
+    },
+    {
+      "code": "D7",
+      "file": "D7-1.svg"
+    },
+    {
+      "code": "D7",
+      "file": "D7-2.svg"
+    },
+    {
+      "code": "D8",
+      "file": "D8.svg"
+    },
+    {
+      "code": "D9",
+      "file": "D9.svg"
+    },
+    {
+      "code": "E1",
+      "file": "E1.svg"
+    },
+    {
+      "code": "E10",
+      "file": "E10.svg"
+    },
+    {
+      "code": "E11",
+      "file": "E11-3.svg"
+    },
+    {
+      "code": "E11",
+      "file": "E11-5.svg"
+    },
+    {
+      "code": "E11",
+      "file": "E11-7.svg"
+    },
+    {
+      "code": "E12",
+      "file": "E12-3.svg"
+    },
+    {
+      "code": "E12",
+      "file": "E12-5.svg"
+    },
+    {
+      "code": "E13",
+      "file": "E13-5.svg"
+    },
+    {
+      "code": "E13",
+      "file": "E13-7.svg"
+    },
+    {
+      "code": "E13",
+      "file": "E13-9.svg"
+    },
+    {
+      "code": "E14",
+      "file": "E14.svg"
+    },
+    {
+      "code": "E15",
+      "file": "E15.svg"
+    },
+    {
+      "code": "E16",
+      "file": "E16-1.svg"
+    },
+    {
+      "code": "E16",
+      "file": "E16-2.svg"
+    },
+    {
+      "code": "E17",
+      "file": "E17-1.svg"
+    },
+    {
+      "code": "E17",
+      "file": "E17-2.svg"
+    },
+    {
+      "code": "E17",
+      "file": "E17-3.svg"
+    },
+    {
+      "code": "E18",
+      "file": "E18.svg"
+    },
+    {
+      "code": "E19",
+      "file": "E19.svg"
+    },
+    {
+      "code": "E2",
+      "file": "E2.svg"
+    },
+    {
+      "code": "E20",
+      "file": "E20-1.svg"
+    },
+    {
+      "code": "E20",
+      "file": "E20-14.svg"
+    },
+    {
+      "code": "E20",
+      "file": "E20-15.svg"
+    },
+    {
+      "code": "E21",
+      "file": "E21-1.svg"
+    },
+    {
+      "code": "E21",
+      "file": "E21-15.svg"
+    },
+    {
+      "code": "E22",
+      "file": "E22.svg"
+    },
+    {
+      "code": "E23",
+      "file": "E23.svg"
+    },
+    {
+      "code": "E24",
+      "file": "E24.svg"
+    },
+    {
+      "code": "E25",
+      "file": "E25.svg"
+    },
+    {
+      "code": "E26",
+      "file": "E26.svg"
+    },
+    {
+      "code": "E27",
+      "file": "E27.svg"
+    },
+    {
+      "code": "E28",
+      "file": "E28-1.svg"
+    },
+    {
+      "code": "E28",
+      "file": "E28-2.svg"
+    },
+    {
+      "code": "E29",
+      "file": "E29-1.svg"
+    },
+    {
+      "code": "E29",
+      "file": "E29-2.svg"
+    },
+    {
+      "code": "E3",
+      "file": "E3.svg"
+    },
+    {
+      "code": "E33",
+      "file": "E33.svg"
+    },
+    {
+      "code": "E34",
+      "file": "E34.svg"
+    },
+    {
+      "code": "E4",
+      "file": "E4.svg"
+    },
+    {
+      "code": "E5",
+      "file": "E5.svg"
+    },
+    {
+      "code": "E6",
+      "file": "E6.svg"
+    },
+    {
+      "code": "E7",
+      "file": "E7.svg"
+    },
+    {
+      "code": "E8",
+      "file": "E8.svg"
+    },
+    {
+      "code": "E9",
+      "file": "E9.svg"
+    },
+    {
+      "code": "F1",
+      "file": "F1-1.svg"
+    },
+    {
+      "code": "F10",
+      "file": "F10.svg"
+    },
+    {
+      "code": "F11",
+      "file": "F11.svg"
+    },
+    {
+      "code": "F13",
+      "file": "F13.svg"
+    },
+    {
+      "code": "F14",
+      "file": "F14-1.svg"
+    },
+    {
+      "code": "F14",
+      "file": "F14-3.svg"
+    },
+    {
+      "code": "F14",
+      "file": "F14-4.svg"
+    },
+    {
+      "code": "F15",
+      "file": "F15.svg"
+    },
+    {
+      "code": "F16",
+      "file": "F16.svg"
+    },
+    {
+      "code": "F17",
+      "file": "F17.svg"
+    },
+    {
+      "code": "F2",
+      "file": "F2.svg"
+    },
+    {
+      "code": "F21",
+      "file": "F21.svg"
+    },
+    {
+      "code": "F23",
+      "file": "F23.svg"
+    },
+    {
+      "code": "F24",
+      "file": "F24-1.svg"
+    },
+    {
+      "code": "F25",
+      "file": "F25-3.svg"
+    },
+    {
+      "code": "F26",
+      "file": "F26-1.svg"
+    },
+    {
+      "code": "F26",
+      "file": "F26-2.svg"
+    },
+    {
+      "code": "F27",
+      "file": "F27.svg"
+    },
+    {
+      "code": "F29",
+      "file": "F29.svg"
+    },
+    {
+      "code": "F30",
+      "file": "F30.svg"
+    },
+    {
+      "code": "F31",
+      "file": "F31-1.svg"
+    },
+    {
+      "code": "F31",
+      "file": "F31-5.svg"
+    },
+    {
+      "code": "F32",
+      "file": "F32.svg"
+    },
+    {
+      "code": "F4",
+      "file": "F4.svg"
+    },
+    {
+      "code": "F5",
+      "file": "F5.svg"
+    },
+    {
+      "code": "F6",
+      "file": "F6.svg"
+    },
+    {
+      "code": "F7",
+      "file": "F7.svg"
+    },
+    {
+      "code": "F8",
+      "file": "F8.svg"
+    },
+    {
+      "code": "F9",
+      "file": "F9.svg"
+    },
+    {
+      "code": "G1",
+      "file": "G1.svg"
+    },
+    {
+      "code": "G10",
+      "file": "G10.svg"
+    },
+    {
+      "code": "G11",
+      "file": "G11.svg"
+    },
+    {
+      "code": "G12",
+      "file": "G12.svg"
+    },
+    {
+      "code": "G2",
+      "file": "G2.svg"
+    },
+    {
+      "code": "G3",
+      "file": "G3.svg"
+    },
+    {
+      "code": "G4",
+      "file": "G4.svg"
+    },
+    {
+      "code": "G5",
+      "file": "G5.svg"
+    },
+    {
+      "code": "G6",
+      "file": "G6.svg"
+    },
+    {
+      "code": "G7",
+      "file": "G7.svg"
+    },
+    {
+      "code": "G8",
+      "file": "G8-1.svg"
+    },
+    {
+      "code": "G8",
+      "file": "G8-2.svg"
+    },
+    {
+      "code": "G9",
+      "file": "G9.svg"
+    },
+    {
+      "code": "H1",
+      "file": "H1.svg"
+    },
+    {
+      "code": "H10",
+      "file": "H10.svg"
+    },
+    {
+      "code": "H11",
+      "file": "H11.svg"
+    },
+    {
+      "code": "H12",
+      "file": "H12.svg"
+    },
+    {
+      "code": "H13",
+      "file": "H13.svg"
+    },
+    {
+      "code": "H14",
+      "file": "H14.svg"
+    },
+    {
+      "code": "H15",
+      "file": "H15.svg"
+    },
+    {
+      "code": "H16",
+      "file": "H16.svg"
+    },
+    {
+      "code": "H17",
+      "file": "H17.svg"
+    },
+    {
+      "code": "H18",
+      "file": "H18.svg"
+    },
+    {
+      "code": "H19",
+      "file": "H19.svg"
+    },
+    {
+      "code": "H2",
+      "file": "H2.svg"
+    },
+    {
+      "code": "H20",
+      "file": "H20.svg"
+    },
+    {
+      "code": "H21",
+      "file": "H21.svg"
+    },
+    {
+      "code": "H22",
+      "file": "H22.svg"
+    },
+    {
+      "code": "H23",
+      "file": "H23.svg"
+    },
+    {
+      "code": "H24",
+      "file": "H24.svg"
+    },
+    {
+      "code": "H25",
+      "file": "H25.svg"
+    },
+    {
+      "code": "H26",
+      "file": "H26.svg"
+    },
+    {
+      "code": "H27",
+      "file": "H27.svg"
+    },
+    {
+      "code": "H28",
+      "file": "H28.svg"
+    },
+    {
+      "code": "H3",
+      "file": "H3.svg"
+    },
+    {
+      "code": "H4",
+      "file": "H4-1.svg"
+    },
+    {
+      "code": "H4",
+      "file": "H4-2.svg"
+    },
+    {
+      "code": "H5",
+      "file": "H5.svg"
+    },
+    {
+      "code": "H6",
+      "file": "H6.svg"
+    },
+    {
+      "code": "H7",
+      "file": "H7.svg"
+    },
+    {
+      "code": "H8",
+      "file": "H8.svg"
+    },
+    {
+      "code": "H9",
+      "file": "H9.svg"
+    },
+    {
+      "code": "I1",
+      "file": "I1.svg"
+    },
+    {
+      "code": "I2",
+      "file": "I2.svg"
+    },
+    {
+      "code": "I3",
+      "file": "I3.svg"
+    },
+    {
+      "code": "I4",
+      "file": "I4.svg"
+    },
+    {
+      "code": "J1",
+      "file": "J1.svg"
+    },
+    {
+      "code": "J2",
+      "file": "J2.svg"
+    },
+    {
+      "code": "J3",
+      "file": "J3-1.svg"
+    },
+    {
+      "code": "J3",
+      "file": "J3-2.svg"
+    },
+    {
+      "code": "M1",
+      "file": "M1.svg"
+    },
+    {
+      "code": "M10",
+      "file": "M10.svg"
+    },
+    {
+      "code": "M11",
+      "file": "M11.svg"
+    },
+    {
+      "code": "M12",
+      "file": "M12.svg"
+    },
+    {
+      "code": "M13",
+      "file": "M13.svg"
+    },
+    {
+      "code": "M14",
+      "file": "M14.svg"
+    },
+    {
+      "code": "M15",
+      "file": "M15.svg"
+    },
+    {
+      "code": "M16",
+      "file": "M16.svg"
+    },
+    {
+      "code": "M18",
+      "file": "M18.svg"
+    },
+    {
+      "code": "M19",
+      "file": "M19.svg"
+    },
+    {
+      "code": "M2",
+      "file": "M2.svg"
+    },
+    {
+      "code": "M20",
+      "file": "M20.svg"
+    },
+    {
+      "code": "M21",
+      "file": "M21.svg"
+    },
+    {
+      "code": "M22",
+      "file": "M22.svg"
+    },
+    {
+      "code": "M24",
+      "file": "M24.svg"
+    },
+    {
+      "code": "M26",
+      "file": "M26.svg"
+    },
+    {
+      "code": "M29",
+      "file": "M29.svg"
+    },
+    {
+      "code": "M3",
+      "file": "M3.svg"
+    },
+    {
+      "code": "M30",
+      "file": "M30.svg"
+    },
+    {
+      "code": "M33",
+      "file": "M33.svg"
+    },
+    {
+      "code": "M4",
+      "file": "M4.svg"
+    },
+    {
+      "code": "M5",
+      "file": "M5.svg"
+    },
+    {
+      "code": "M6",
+      "file": "M6.svg"
+    },
+    {
+      "code": "M7",
+      "file": "M7.svg"
+    },
+    {
+      "code": "M8",
+      "file": "M8.svg"
+    },
+    {
+      "code": "M9",
+      "file": "M9.svg"
+    },
+    {
+      "code": "P6",
+      "file": "P6.svg"
+    },
+    {
+      "code": "P7",
+      "file": "P7.svg"
+    },
+    {
+      "code": "T10",
+      "file": "T10.svg"
+    },
+    {
+      "code": "T11",
+      "file": "T11-1.svg"
+    },
+    {
+      "code": "T11",
+      "file": "T11-2.svg"
+    },
+    {
+      "code": "T12",
+      "file": "T12-1.svg"
+    },
+    {
+      "code": "T12",
+      "file": "T12-2.svg"
+    },
+    {
+      "code": "T13",
+      "file": "T13.svg"
+    },
+    {
+      "code": "T14",
+      "file": "T14.svg"
+    },
+    {
+      "code": "T15",
+      "file": "T15-1.svg"
+    },
+    {
+      "code": "T15",
+      "file": "T15-2.svg"
+    },
+    {
+      "code": "T16",
+      "file": "T16.svg"
+    },
+    {
+      "code": "T17",
+      "file": "T17.svg"
+    },
+    {
+      "code": "T18",
+      "file": "T18.svg"
+    },
+    {
+      "code": "T19",
+      "file": "T19.svg"
+    },
+    {
+      "code": "T2",
+      "file": "T2.svg"
+    },
+    {
+      "code": "T20",
+      "file": "T20.svg"
+    },
+    {
+      "code": "T21",
+      "file": "T21-1.svg"
+    },
+    {
+      "code": "T21",
+      "file": "T21-2.svg"
+    },
+    {
+      "code": "T23",
+      "file": "T23-1.svg"
+    },
+    {
+      "code": "T23",
+      "file": "T23-2.svg"
+    },
+    {
+      "code": "T24",
+      "file": "T24.svg"
+    },
+    {
+      "code": "T25",
+      "file": "T25.svg"
+    },
+    {
+      "code": "T3",
+      "file": "T3.svg"
+    },
+    {
+      "code": "T4",
+      "file": "T4.svg"
+    },
+    {
+      "code": "T5",
+      "file": "T5.svg"
+    },
+    {
+      "code": "T6",
+      "file": "T6.svg"
+    },
+    {
+      "code": "T7",
+      "file": "T7.svg"
+    },
+    {
+      "code": "T8",
+      "file": "T8-1.svg"
+    },
+    {
+      "code": "T8",
+      "file": "T8-2.svg"
+    },
+    {
+      "code": "T8",
+      "file": "T8-3.svg"
+    },
+    {
+      "code": "T9",
+      "file": "T9.svg"
+    },
+    {
+      "code": "X1",
+      "file": "X1-1.svg"
+    },
+    {
+      "code": "X1",
+      "file": "X1-2.svg"
+    },
+    {
+      "code": "X2",
+      "file": "X2.svg"
+    },
+    {
+      "code": "X3",
+      "file": "X3-1.svg"
+    },
+    {
+      "code": "X3",
+      "file": "X3-2.svg"
+    },
+    {
+      "code": "X4",
+      "file": "X4.svg"
+    },
+    {
+      "code": "X5",
+      "file": "X5.svg"
+    },
+    {
+      "code": "X6",
+      "file": "X6-1.svg"
+    }
+  ]
 }

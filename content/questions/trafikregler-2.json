@@ -1,0 +1,2076 @@
+[
+  {
+    "id": "tr-park-001",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Vad är skillnaden mellan att stanna och att parkera enligt trafikreglerna?",
+    "options": [
+      "Parkering är all uppställning som inte beror på trafiken, av- eller påstigning eller på- och avlastning",
+      "Parkering är när fordonet står stilla längre än fem minuter, oavsett anledning",
+      "Att stanna är att stå still med motorn igång, att parkera är att stå med motorn avstängd",
+      "Att stanna är bara när du tvingas stå still i en kö eller vid rött ljus"
+    ],
+    "correct": 0,
+    "explanation": "Parkering är uppställning av fordonet, med eller utan förare, av annan anledning än trafikförhållanden, av- eller påstigning eller på- eller avlastning. Tiden och om motorn är igång spelar ingen roll.",
+    "legalRef": "TrF 1 kap. 3 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-002",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Hur nära före ett övergångsställe får du stanna eller parkera?",
+    "options": [
+      "Inte inom 5 meter före övergångsstället",
+      "Inte inom 10 meter före övergångsstället",
+      "Inte inom 20 meter före övergångsstället",
+      "Inte inom 30 meter före övergångsstället"
+    ],
+    "correct": 1,
+    "explanation": "Det är förbjudet att stanna eller parkera på eller inom 10 meter före ett övergångsställe, en cykelpassage eller en cykelöverfart. Ett fordon där skulle skymma sikten mellan förare och gående.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-003",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du vill parkera bilen strax efter ett obevakat övergångsställe, sett i din färdriktning. Vad gäller?",
+    "options": [
+      "Det är förbjudet, samma 10-metersregel gäller efter övergångsstället",
+      "Det är tillåtet bara om du står minst 20 meter efter övergångsstället",
+      "Det är tillåtet, förbudet gäller bara på och inom 10 meter före övergångsstället",
+      "Det är tillåtet bara för av- och påstigning, inte för parkering"
+    ],
+    "correct": 2,
+    "explanation": "Stoppförbudet gäller på övergångsstället och 10 meter före det. Efter övergångsstället skymmer bilen inte sikten för dem som närmar sig, så där får du både stanna och parkera om inget annat förbjuder det.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-004",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du står i en T-korsning på den sida av genomgående gatan där ingen väg ansluter. Får du parkera 5 meter från korsningen?",
+    "options": [
+      "Ja, förbudet gäller bara på den sida där sidogatan ansluter",
+      "Ja, om du står minst 5 meter från den anslutande vägens förlängning",
+      "Ja, men bara under högst 10 minuter",
+      "Nej, 10-metersregeln gäller även på den sida som saknar anslutande väg"
+    ],
+    "correct": 3,
+    "explanation": "Förbudet att stanna och parkera inom 10 meter från en korsande körbanas närmaste ytterkant gäller på alla sidor i korsningen, även den sida i en T-korsning där ingen väg ansluter. Fordon som svänger behöver utrymme och sikt.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-005",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Vad gäller för att stanna och parkera på en huvudled?",
+    "options": [
+      "Parkering är förbjuden, men du får stanna för av- och påstigning",
+      "Både stannande och parkering är förbjudet",
+      "Både stannande och parkering är tillåtet om det inte hindrar någon",
+      "Parkering är tillåten på vardagar men förbjuden på helger"
+    ],
+    "correct": 0,
+    "explanation": "På huvudled råder parkeringsförbud, men det är tillåtet att stanna, till exempel för att släppa av en passagerare. Förbudet finns för att huvudledens framkomlighet inte ska störas.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-006",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Det är den 7 mars och du kör in på en gata med märket för datumparkering utan tilläggstavla. På vilken sida får du parkera?",
+    "options": [
+      "På sidan med udda husnummer",
+      "På sidan med jämna husnummer",
+      "På valfri sida, eftersom det är en vardag",
+      "På ingen av sidorna före klockan 16"
+    ],
+    "correct": 1,
+    "explanation": "Datumparkering innebär att det är förbjudet att parkera på sidan med udda husnummer på dagar med udda datum, och på sidan med jämna husnummer på jämna datum. Den 7:e är ett udda datum, så du parkerar på jämna sidan.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-007",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "En gata har datumparkering med tilläggstavlan 0–16. Den 9:e klockan 18 parkerar du på sidan med udda husnummer och vill stå kvar till klockan 08 nästa dag. Är det tillåtet?",
+    "options": [
+      "Nej, du måste flytta bilen före midnatt",
+      "Nej, på udda datum får du aldrig stå på udda sida oavsett klockslag",
+      "Ja, efter klockan 16 gäller inte förbudet, och den 10:e gäller förbudet på sidan med jämna husnummer",
+      "Ja, men bara om du flyttar bilen senast klockan 00"
+    ],
+    "correct": 2,
+    "explanation": "Med tilläggstavlan 0–16 gäller förbudet bara den tiden. Den 9:e efter klockan 16 är det fritt, och den 10:e är ett jämnt datum då förbudet gäller på den jämna sidan. Bilen på udda sidan står alltså rätt hela natten.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-008",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du parkerar klockan 10.10 på en plats där parkeringsskiva krävs. Vilken tid ska du ställa in på skivan?",
+    "options": [
+      "10.30, den närmast följande hela eller halva timmen",
+      "10.00, den närmast föregående halvtimmen",
+      "10.10, den exakta ankomsttiden",
+      "11.00, alltid nästa hela timme"
+    ],
+    "correct": 0,
+    "explanation": "Parkeringsskivan ställs in på ankomsttiden avrundad uppåt till närmast följande hel eller halv timme. Kommer du 10.10 ställer du alltså in 10.30.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-009",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "På en parkering krävs p-skiva och parkering är begränsad till 2 timmar mellan klockan 9 och 18. Du anländer en vardag klockan 08.20. Vad ställer du in och hur länge får du stå?",
+    "options": [
+      "Ställ in 08.30 och stå till 10.30",
+      "Ställ in 09.00 och stå till 11.00",
+      "Ställ in 08.20 och stå till 10.20",
+      "Ingen p-skiva behövs, eftersom du kom före klockan 9"
+    ],
+    "correct": 1,
+    "explanation": "Kommer du innan tidsbegränsningen börjar gälla ställer du in tiden då begränsningen börjar, här 09.00. De två timmarna räknas från den tiden, så du får stå till 11.00.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-010",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Får du stanna på en busshållplats för att släppa av en passagerare?",
+    "options": [
+      "Nej, det är alltid förbjudet att stanna på en busshållplats",
+      "Ja, och du får även parkera där när ingen buss är i sikte",
+      "Ja, om det inte hindrar bussen, men du får inte parkera där",
+      "Ja, men bara utanför bussens turlista"
+    ],
+    "correct": 2,
+    "explanation": "På en busshållplats får du stanna för av- eller påstigning om det kan ske utan att hindra busstrafiken. Parkering är däremot förbjuden inom hållplatsområdet.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-011",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "Hur långt sträcker sig parkeringsförbudet vid en busshållplats om det saknas vägmarkering som visar hållplatsens längd?",
+    "options": [
+      "10 meter före och 10 meter efter hållplatsmärket",
+      "5 meter före och 20 meter efter hållplatsmärket",
+      "15 meter på båda sidor om hållplatsmärket",
+      "20 meter före och 5 meter efter hållplatsmärket"
+    ],
+    "correct": 3,
+    "explanation": "Saknas markering gäller förbudet 20 meter före och 5 meter efter hållplatsmärket. Den längre sträckan före behövs för att bussen ska kunna svänga in mot kanten.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-012",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Hur ska du ställa bilen när du parkerar längs kanten på en dubbelriktad gata?",
+    "options": [
+      "På höger sida i färdriktningen, så nära kanten som möjligt",
+      "På den sida där det finns mest plats, oavsett färdriktning",
+      "På vänster sida om det är närmare dit du ska",
+      "Med minst en halv meter till kanten så att dörren går att öppna"
+    ],
+    "correct": 0,
+    "explanation": "På en dubbelriktad väg ska du stanna och parkera på höger sida i färdriktningen och så nära kanten som möjligt. Att stå på vänster sida innebär att du står mot färdriktningen, vilket är förbjudet.",
+    "legalRef": "TrF 3 kap. 52 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-013",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Du kör på en enkelriktad gata och hittar en ledig lucka på vänster sida. Får du parkera där?",
+    "options": [
+      "Nej, du måste alltid parkera på höger sida i färdriktningen",
+      "Ja, på en enkelriktad gata får du stanna och parkera på båda sidor",
+      "Ja, men bara om det finns parkeringsmärke på just den sidan",
+      "Nej, vänster sida är reserverad för lastning och lossning"
+    ],
+    "correct": 1,
+    "explanation": "Förbudet mot att stå på vänster sida gäller för att man inte ska stå mot färdriktningen. På en enkelriktad gata går all trafik åt samma håll, så där får du använda båda sidorna om inget annat anges.",
+    "legalRef": "TrF 3 kap. 52 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-014",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Inom vilket avstånd från en järnvägskorsning är det förbjudet att parkera?",
+    "options": [
+      "10 meter",
+      "20 meter",
+      "30 meter",
+      "50 meter"
+    ],
+    "correct": 2,
+    "explanation": "Parkering är förbjuden inom 30 meter från en plankorsning med järnväg eller spårväg. Ett parkerat fordon kan skymma sikten mot spåret och hindra fordon som väntar på tåget.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-015",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du kör på en landsväg med heldragen mittlinje och vill stanna vid vägkanten en stund. Vad gäller?",
+    "options": [
+      "Du får inte stanna alls längs en heldragen linje",
+      "Du får stanna om du slår på varningsblinkers",
+      "Du får stanna om minst 1 meter blir kvar mellan bilen och linjen",
+      "Du får stanna om avståndet mellan bilen och den heldragna linjen blir minst 3 meter"
+    ],
+    "correct": 3,
+    "explanation": "Det är förbjudet att stanna eller parkera så att avståndet mellan fordonet och en heldragen linje blir mindre än 3 meter, om det inte finns en streckad linje mellan fordonet och den heldragna. Annars tvingas andra köra över linjen.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-016",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "På vilken av följande platser är det förbjudet att stanna?",
+    "options": [
+      "I en tunnel",
+      "På en huvudled",
+      "På vägrenen på en landsväg",
+      "Strax efter ett övergångsställe"
+    ],
+    "correct": 0,
+    "explanation": "I en tunnel eller vägport är det förbjudet att stanna eftersom ett stillastående fordon där är svårt att upptäcka och omöjligt att väja för. På huvudled, vägren och efter övergångsställe får du stanna.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-017",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du parkerar på en gata inom tättbebyggt område där det inte finns några vägmärken om parkering. Hur länge får du stå?",
+    "options": [
+      "Så länge du vill, eftersom inget vägmärke begränsar tiden",
+      "Högst 24 timmar i följd på vardagar utom vardag före sön- och helgdag",
+      "Högst 12 timmar i följd alla dagar",
+      "Högst 48 timmar i följd alla dagar"
+    ],
+    "correct": 1,
+    "explanation": "Inom tättbebyggt område får du utan andra anvisningar parkera högst 24 timmar i följd på vardagar utom vardag före sön- och helgdag. Regeln finns för att gator ska kunna städas och snöröjas.",
+    "legalRef": "TrF 3 kap. 49 a §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-018",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Får du ställa bilen framför infarten till en fastighet?",
+    "options": [
+      "Ja, om du lämnar en lapp med telefonnummer i rutan",
+      "Ja, om infarten inte används dagligen",
+      "Nej, men du får stanna där en kort stund för av- och påstigning",
+      "Nej, varken stannande eller parkering är tillåtet framför en infart"
+    ],
+    "correct": 2,
+    "explanation": "Det är förbjudet att parkera framför infarten till en fastighet eller så att trafik till och från fastigheten väsentligt försvåras. Att stanna kort för att släppa av någon är däremot tillåtet.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-019",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Du står med bilen vid körbanans kant på en plats med parkeringsförbud och bär in tunga kartonger i några minuter. Räknas det som parkering?",
+    "options": [
+      "Ja, all uppställning längre än en minut räknas som parkering",
+      "Ja, om du lämnar bilen och går in i huset",
+      "Nej, men bara om varningsblinkers är på",
+      "Nej, pågående på- och avlastning räknas som stannande, inte parkering"
+    ],
+    "correct": 3,
+    "explanation": "Uppställning för på- eller avlastning är stannande, inte parkering, så länge lastningen faktiskt pågår. Blir det uppehåll i arbetet övergår det till parkering, som är förbjuden på platsen.",
+    "legalRef": "TrF 1 kap. 3 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-020",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Vad gäller när du vill parkera på en väg utanför tättbebyggt område?",
+    "options": [
+      "Du ska om möjligt ställa fordonet utanför körbanan",
+      "Du får bara parkera på markerade parkeringsplatser",
+      "Parkering är alltid förbjuden utanför tättbebyggt område",
+      "Du måste ha varningsblinkers på under hela parkeringen"
+    ],
+    "correct": 0,
+    "explanation": "Utanför tättbebyggt område ska du om det är möjligt parkera utanför körbanan, till exempel på vägrenen eller i en parkeringsficka, så att den snabba trafiken inte hindras.",
+    "legalRef": "TrF 3 kap. 52 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-021",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Får du parkera med bilen på en gångbana (trottoar)?",
+    "options": [
+      "Ja, om två hjul står kvar på körbanan",
+      "Ja, under högst 10 minuter",
+      "Ja, om det blir minst en meter kvar för de gående",
+      "Nej, det är förbjudet, även med bara två hjul på gångbanan"
+    ],
+    "correct": 3,
+    "explanation": "Det är förbjudet att stanna eller parkera på en gångbana. Gångbanan är till för gående, och även ett fordon som bara delvis står på den hindrar barnvagnar, rullstolar och synskadade.",
+    "legalRef": "TrF 3 kap. 48 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-022",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "Du har fått motorstopp på en landsväg med hastighetsgräns 90 km/h och bilen står så att den kan bli en fara för andra. Vad är du skyldig att göra?",
+    "options": [
+      "Bara slå på varningsblinkers, varningstriangel krävs enbart på motorväg",
+      "Ringa polisen och sitta kvar i bilen tills hjälp kommer",
+      "Slå på varningsblinkers och sätta ut varningstriangeln på tillräckligt avstånd bakom bilen",
+      "Ställa varningstriangeln direkt bakom bilen så att den syns tydligt"
+    ],
+    "correct": 2,
+    "explanation": "Blir bilen stående där den kan utgöra fara på en väg med högre hastighetsgräns än 50 km/h ska du sätta ut varningstriangeln på tillräckligt avstånd bakom bilen, så att andra hinner reagera. Varningsblinkers är ett komplement.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-023",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Vad gäller för att stanna och parkera på en plats som är utmärkt som mötesplats på en smal väg?",
+    "options": [
+      "Både stannande och parkering är tillåtet, det är en breddning av vägen",
+      "Du får parkera där om du står så att ett fordon fortfarande får plats",
+      "Stannande är förbjudet men parkering tillåten på natten",
+      "Parkering är förbjuden, men du får stanna för att släppa fram mötande"
+    ],
+    "correct": 3,
+    "explanation": "En mötesplats finns för att fordon ska kunna mötas på en smal väg. Därför är parkering förbjuden där, medan det är just meningen att du ska stanna där för att släppa fram mötande.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-024",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Vad ska du göra när du lämnar bilen parkerad för att den inte ska komma i rullning eller användas av någon obehörig?",
+    "options": [
+      "Dra åt parkeringsbromsen, stänga av motorn och låsa bilen",
+      "Lämna motorn igång så att bilen håller sig varm",
+      "Lägga i friläge och låta parkeringsbromsen vara",
+      "Bara låsa bilen, växeln räcker som broms"
+    ],
+    "correct": 0,
+    "explanation": "När du lämnar fordonet ska du se till att det inte kan komma i rörelse av sig självt eller brukas obehörigen. Det gör du genom att dra åt parkeringsbromsen, stänga av motorn och låsa bilen.",
+    "legalRef": "TrF 3 kap. 50 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-025",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 2,
+    "question": "Får du parkera bredvid ett annat fordon som redan står parkerat längs körbanans kant?",
+    "options": [
+      "Ja, om du slår på varningsblinkers",
+      "Nej, parkering bredvid ett annat fordon längs kanten är förbjuden",
+      "Ja, om det tar kortare tid än 10 minuter",
+      "Ja, om det finns ett fritt körfält kvar för trafiken"
+    ],
+    "correct": 1,
+    "explanation": "Att parkera i andra led bredvid ett fordon som redan står vid kanten är förbjudet. Det innebär också att det parkerade fordonet blockeras. Undantag gäller bara för tvåhjuliga fordon.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-026",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Var är det förbjudet att parkera?",
+    "options": [
+      "På vägrenen på en landsväg",
+      "Så att bilen skymmer ett vägmärke eller en trafiksignal",
+      "På vänster sida på en enkelriktad gata",
+      "På en markerad parkeringsplats efter klockan 22"
+    ],
+    "correct": 1,
+    "explanation": "Du får inte parkera så att ett vägmärke eller en trafiksignal skyms, eftersom andra trafikanter då kan missa viktig information. De övriga platserna är tillåtna om inget annat anges.",
+    "legalRef": "TrF 3 kap. 54 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-027",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Du vill stanna med bilen på en cykelbana i två minuter för att hämta ett paket. Vad gäller?",
+    "options": [
+      "Det är tillåtet om du sätter på varningsblinkers",
+      "Det är tillåtet under högst tre minuter",
+      "Det är tillåtet om ingen cyklist är i sikte",
+      "Det är förbjudet att stanna eller parkera på en cykelbana"
+    ],
+    "correct": 3,
+    "explanation": "Cykelbanan är avsedd för cyklister och moped klass II. Det är förbjudet att stanna eller parkera där, oavsett hur kort tid det gäller, eftersom cyklister annars tvingas ut i körbanan.",
+    "legalRef": "TrF 3 kap. 48 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-028",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "Du parkerar bilen längs en väg i mörker där det saknas gatubelysning. Vilken belysning ska bilen ha?",
+    "options": [
+      "Parkeringsljus ska vara tänt så att bilen syns",
+      "Ingen belysning behövs eftersom bilen har reflexer",
+      "Halvljus ska vara tänt hela tiden",
+      "Varningsblinkers ska vara på hela natten"
+    ],
+    "correct": 0,
+    "explanation": "Ett fordon som står på väg under mörker ska ha parkeringsljus tänt om vägbelysningen inte gör att fordonet ändå syns tydligt. Halvljus bländar och varningsblinkers är till för nödsituationer.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-029",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 1,
+    "question": "Får du parkera i ett körfält som är reserverat för fordon i linjetrafik (busskörfält) när det inte finns någon tidsangivelse?",
+    "options": [
+      "Ja, om du står så att bussen kommer förbi",
+      "Nej, det är förbjudet att stanna eller parkera i körfältet",
+      "Ja, men bara på kvällar och nätter",
+      "Ja, för av- och påstigning i högst fem minuter"
+    ],
+    "correct": 1,
+    "explanation": "I ett körfält för fordon i linjetrafik är det förbjudet att stanna och parkera under den tid körfältet är reserverat. Utan tidsangivelse gäller det dygnet runt.",
+    "legalRef": "TrF 3 kap. 53 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-park-030",
+    "category": "trafikregler",
+    "subtopic": "stanna-parkera",
+    "difficulty": 3,
+    "question": "Du sitter kvar i bilen på en plats med parkeringsförbud och väntar i 15 minuter på en kompis som ska komma. Är det tillåtet?",
+    "options": [
+      "Ja, det räknas som stannande så länge du sitter kvar i bilen",
+      "Ja, om motorn är igång",
+      "Nej, väntan räknas som parkering även om du sitter kvar i bilen",
+      "Nej, men det hade varit tillåtet om du väntat högst 10 minuter"
+    ],
+    "correct": 2,
+    "explanation": "Parkering är uppställning med eller utan förare av annan anledning än trafikförhållanden, av- eller påstigning eller lastning. Att vänta på någon är därför parkering, och det är förbjudet på platsen.",
+    "legalRef": "TrF 1 kap. 3 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-001",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Vilka fordon får köras på motorväg?",
+    "options": [
+      "Motorfordon som är konstruerade för och får köras i minst 40 km/h, dock inte mopeder",
+      "Alla motorfordon, även mopeder och traktorer",
+      "Endast personbilar, lastbilar och bussar utan släp",
+      "Alla fordon som kan köra i minst 30 km/h"
+    ],
+    "correct": 0,
+    "explanation": "På motorväg får bara motorfordon som är konstruerade för och får köras i minst 40 km/h användas. Mopeder är uttryckligen förbjudna, liksom traktorer, cyklar och gående. Bil med släp är tillåtet.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-002",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Vilken är den högsta tillåtna hastigheten för personbil på motorväg om inget vägmärke anger något annat?",
+    "options": [
+      "90 km/h",
+      "110 km/h",
+      "120 km/h",
+      "130 km/h"
+    ],
+    "correct": 1,
+    "explanation": "På motorväg får fordon köras i högst 110 km/h om inget annat är skyltat. På vissa sträckor är 120 km/h tillåtet, men då anges det alltid med vägmärke.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-003",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Du kör in på motorvägen via en påfart med accelerationsfält. Vad gäller?",
+    "options": [
+      "Fordonen på motorvägen har väjningsplikt mot dig när du ger tecken",
+      "Du ska hålla låg fart i accelerationsfältet tills någon släpper in dig",
+      "Du ska anpassa farten till trafiken på motorvägen och har väjningsplikt mot fordonen där",
+      "Du får köra ut direkt eftersom påfarten är ett eget körfält"
+    ],
+    "correct": 2,
+    "explanation": "Accelerationsfältet är till för att du ska komma upp i trafikens hastighet innan du kör in. Du har väjningsplikt mot trafiken på motorvägen och väljer en lucka som du kör in i utan att tvinga någon att bromsa.",
+    "legalRef": "TrF 3 kap. 21 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-004",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Du kör i höger körfält på motorvägen och ser en bil på påfarten som vill köra in. Vad gäller för dig?",
+    "options": [
+      "Du har väjningsplikt och måste bromsa in så att bilen kommer in",
+      "Du ska köra ut på vägrenen så att bilen får plats",
+      "Du ska öka farten så att luckan bakom dig blir större",
+      "Du har inte väjningsplikt, men bör underlätta genom att till exempel byta körfält om det går säkert"
+    ],
+    "correct": 3,
+    "explanation": "Den som kör in på motorvägen har väjningsplikt, inte du. Ändå ska du visa hänsyn och underlätta, till exempel genom att byta till vänster körfält eller anpassa farten något, om det kan göras utan fara.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-005",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 3,
+    "question": "Accelerationsfältet håller på att ta slut och det finns ingen lucka i trafiken. Vad gör du?",
+    "options": [
+      "Kör ut och litar på att bilarna på motorvägen bromsar",
+      "Saktar in och stannar i sista hand i slutet av accelerationsfältet tills en lucka kommer",
+      "Fortsätter på vägrenen tills det blir en lucka",
+      "Stannar och backar tillbaka i accelerationsfältet för att få ny fart"
+    ],
+    "correct": 1,
+    "explanation": "Du har väjningsplikt och får inte tvinga in dig. Går det inte att hitta en lucka i tid måste du minska farten och i sista hand stanna i slutet av accelerationsfältet. Att köra på vägrenen eller backa är förbjudet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-006",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Du ska lämna motorvägen via en avfart med retardationsfält. Hur gör du?",
+    "options": [
+      "Bromsar ner till lämplig fart på motorvägen innan du kör in i retardationsfältet",
+      "Ger tecken först när du är inne i retardationsfältet",
+      "Ger tecken i god tid, kör in i retardationsfältet och sänker farten först där",
+      "Kör ut på vägrenen i god tid och saktar in där"
+    ],
+    "correct": 2,
+    "explanation": "Retardationsfältet är till för att du ska bromsa där i stället för på motorvägen, där bakomvarande håller hög fart. Ge tecken i god tid, håll farten tills du är inne i fältet och sänk den sedan.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-007",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Du missade den avfart du skulle ta på motorvägen. Vad gör du?",
+    "options": [
+      "Stannar på vägrenen och backar försiktigt tillbaka till avfarten",
+      "Vänder genom nästa öppning i mitträcket",
+      "Bromsar in och backar i höger körfält med varningsblinkers på",
+      "Fortsätter till nästa avfart"
+    ],
+    "correct": 3,
+    "explanation": "På motorväg är det förbjudet att backa, vända och stanna annat än vid nödsituation. Enda alternativet är att fortsätta till nästa avfart och vända där det är tillåtet.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-008",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Vad gäller för vägrenen på en motorväg?",
+    "options": [
+      "Den får bara användas vid nödstopp, inte för körning",
+      "Den får användas för att släppa fram snabbare trafik",
+      "Den får användas av långsamma fordon som kör under 70 km/h",
+      "Den får användas för korta stopp, till exempel för att läsa kartan"
+    ],
+    "correct": 0,
+    "explanation": "På motorväg får du inte köra på vägrenen. Den är till för nödstopp vid motorfel eller olycka och för utryckningsfordon. Att stanna där av bekvämlighet är förbjudet.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-009",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 3,
+    "question": "Du får motorstopp på motorvägen och lyckas rulla ut på vägrenen. Vad är säkrast att göra?",
+    "options": [
+      "Sitta kvar i bilen med säkerhetsbältet på och ringa efter hjälp",
+      "Slå på varningsblinkers, sätta ut varningstriangeln långt bakom bilen och ställa er bakom vägräcket",
+      "Öppna motorhuven och stå framför bilen så att andra ser att ni behöver hjälp",
+      "Gå längs vägrenen tillbaka mot närmaste påfart för att få hjälp"
+    ],
+    "correct": 1,
+    "explanation": "Ett stillastående fordon på vägrenen riskerar att bli påkört i hög fart. Slå på varningsblinkers, sätt ut triangeln på långt avstånd, lämna bilen på sidan bort från trafiken och vänta bakom räcket.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-010",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Vad gäller för bogsering på motorväg?",
+    "options": [
+      "Bogsering är helt förbjuden på motorväg",
+      "Bogsering är tillåten hela vägen om farten hålls under 30 km/h",
+      "Bogsering får ske endast till närmaste avfart",
+      "Bogsering är tillåten om det bogserade fordonet har varningsblinkers på"
+    ],
+    "correct": 2,
+    "explanation": "Ett fordon som fått stopp på motorvägen får bogseras, men bara till närmaste avfart. Ett långsamt bogserande ekipage är en fara i den snabba trafiken och ska bort så fort som möjligt.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-011",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Vilket körfält ska du normalt använda på en motorväg med tre körfält i din riktning?",
+    "options": [
+      "Mittenkörfältet, så att både snabbare och långsammare trafik kommer förbi",
+      "Det vänstra, eftersom det har jämnast fart",
+      "Valfritt körfält, eftersom det finns fler än två",
+      "Det högra, övriga körfält används för omkörning"
+    ],
+    "correct": 3,
+    "explanation": "På motorväg gäller att du ska använda det högra körfältet när det är fritt. Övriga körfält är till för omkörning. Att bli kvar i mitten hindrar trafiken och lockar till omkörning till höger.",
+    "legalRef": "TrF 3 kap. 7 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-012",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Vilket påstående om motortrafikled stämmer?",
+    "options": [
+      "Samma fordon får köra där som på motorväg, men mötande trafik kan förekomma",
+      "Alla fordon som får köra på landsväg får också köra på motortrafikled",
+      "På motortrafikled får du stanna på vägrenen för en kort rast",
+      "Motortrafikled har alltid mitträcke och skilda körbanor"
+    ],
+    "correct": 0,
+    "explanation": "Motortrafikled har i stort samma regler som motorväg: samma fordonskrav och förbud mot att stanna, backa och vända. Skillnaden är att den kan ha en körbana med mötande trafik.",
+    "legalRef": "TrF 9 kap. 2 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-013",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 2,
+    "question": "Du kör personbil med en släpvagn på motorväg där hastigheten är skyltad till 120 km/h. Vilken är din högsta tillåtna hastighet?",
+    "options": [
+      "120 km/h, skyltningen gäller alla fordon",
+      "80 km/h",
+      "100 km/h",
+      "110 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Personbil med släp får köras i högst 80 km/h oavsett vad vägen är skyltad till. Skyltad hastighet är en övre gräns för vägen, men fordonets egen begränsning gäller om den är lägre.",
+    "legalRef": "TrF 4 kap. 20 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-014",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 1,
+    "question": "Vad av följande är förbjudet på motorväg?",
+    "options": [
+      "Att köra om till vänster",
+      "Att köra med släpvagn",
+      "Att vända, backa eller stanna annat än vid nödsituation",
+      "Att köra långsammare än 90 km/h"
+    ],
+    "correct": 2,
+    "explanation": "På motorväg är det förbjudet att stanna, backa och vända, samt att köra på vägrenen annat än vid nöd. Omkörning till vänster och körning med släp är tillåtet, och det finns ingen lägsta hastighet.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-mvag-015",
+    "category": "trafikregler",
+    "subtopic": "motorvag",
+    "difficulty": 3,
+    "question": "Du kör på motorvägen och närmar dig en öppning i mitträcket. Får du använda den för att vända?",
+    "options": [
+      "Ja, om du ger tecken i god tid och det inte kommer någon trafik",
+      "Ja, men bara om du missat din avfart",
+      "Ja, om öppningen saknar vägmärke som förbjuder vändning",
+      "Nej, öppningarna är till för räddningstjänst och vägarbete"
+    ],
+    "correct": 3,
+    "explanation": "Vändning är förbjuden på motorväg, och öppningarna i mitträcket är avsedda för utryckningsfordon och vägarbetsfordon. Att vända där skulle innebära att du korsar körfält där trafiken håller hög fart.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-001",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 1,
+    "question": "Var på vägen ska du normalt placera bilen när du kör?",
+    "options": [
+      "Så långt till höger som det är lämpligt med hänsyn till trafiken och vägen",
+      "Mitt i körbanan så att du syns bra",
+      "Nära mittlinjen så att du håller avstånd till cyklister",
+      "På vägrenen om det finns en"
+    ],
+    "correct": 0,
+    "explanation": "Grundregeln är att du kör så långt till höger som det är lämpligt. Det ger utrymme för mötande och omkörande, men du ska ändå hålla marginal till vägkant och oskyddade trafikanter.",
+    "legalRef": "TrF 3 kap. 7 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-002",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du ska svänga vänster i en korsning på en dubbelriktad gata utan körfältsmarkeringar. Hur placerar du bilen före svängen?",
+    "options": [
+      "Så långt till höger som möjligt för att få en vid sväng",
+      "Nära körbanans mitt, intill mittlinjen",
+      "Mitt i din körbanehalva",
+      "På den vänstra körbanehalvan för att förkorta svängen"
+    ],
+    "correct": 1,
+    "explanation": "Inför en vänstersväng placerar du dig nära körbanans mitt så att trafik bakom dig kan passera till höger och andra förstår vad du tänker göra. Du får inte köra över på mötandes sida före svängen.",
+    "legalRef": "TrF 3 kap. 26 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-003",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du ska svänga vänster från en enkelriktad gata. Hur placerar du bilen?",
+    "options": [
+      "Nära gatans mitt, som på en dubbelriktad gata",
+      "I höger körfält för att kunna se korsningen bättre",
+      "Så långt till vänster som möjligt",
+      "Var som helst, eftersom all trafik går åt samma håll"
+    ],
+    "correct": 2,
+    "explanation": "På en enkelriktad gata finns ingen mötande trafik, så inför en vänstersväng ska du placera dig så långt till vänster som möjligt. Då kan trafik bakom passera till höger om dig.",
+    "legalRef": "TrF 3 kap. 26 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-004",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 1,
+    "question": "Du ska svänga höger i nästa korsning. Hur placerar du bilen före svängen?",
+    "options": [
+      "Nära mittlinjen för att kunna ta en vid sväng",
+      "Mitt i körfältet",
+      "Ute på vägrenen",
+      "Så nära körbanans högra kant som möjligt"
+    ],
+    "correct": 3,
+    "explanation": "Inför en högersväng ska du hålla så långt till höger som möjligt. Det förhindrar att cyklister eller mopedister tränger sig in på din högra sida just när du svänger.",
+    "legalRef": "TrF 3 kap. 26 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-005",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör i ett körfält med en körfältspil målad i körbanan som pekar rakt fram, men du vill svänga höger i korsningen. Vad gäller?",
+    "options": [
+      "Du måste följa pilen och köra rakt fram",
+      "Du får svänga höger om du ger tecken i god tid",
+      "Du får svänga höger om inget fordon finns i höger körfält",
+      "Pilarna är bara en rekommendation"
+    ],
+    "correct": 0,
+    "explanation": "Körfältspilar är bindande. Kör du i ett körfält med pil rakt fram måste du fortsätta rakt fram i korsningen. Vill du svänga måste du byta körfält innan pilarna börjar gälla.",
+    "legalRef": "TrF 3 kap. 9 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-006",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "På vilka vägar får du välja körfält fritt, det vill säga ligga kvar i vänster körfält utan att köra om?",
+    "options": [
+      "På alla vägar inom tättbebyggt område",
+      "På vägar med högst 70 km/h och minst två markerade körfält i din riktning",
+      "På motorvägar med minst tre körfält i din riktning",
+      "På alla vägar med skyltad hastighet under 90 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Där högsta tillåtna hastighet är 70 km/h eller lägre och det finns minst två körfält i samma riktning som är markerade med vägmarkering får du använda det körfält som passar bäst. På snabbare vägar gäller att du ska hålla till höger.",
+    "legalRef": "TrF 3 kap. 7 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-007",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Vad gäller för dig som bilförare i ett körfält som är märkt för fordon i linjetrafik (busskörfält) utan tilläggstavla?",
+    "options": [
+      "Du får använda det utanför rusningstid",
+      "Du får köra där om ni är minst tre personer i bilen",
+      "Du får bara korsa körfältet, till exempel för att svänga, inte köra i det",
+      "Du får köra där om du håller dig bakom bussarna"
+    ],
+    "correct": 2,
+    "explanation": "Ett körfält för fordon i linjetrafik är reserverat för bussar i linjetrafik. Andra fordon får bara korsa det, till exempel för att svänga in på en tvärgata, och ska då göra det utan att hindra bussarna.",
+    "legalRef": "TrF 3 kap. 8 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-008",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 3,
+    "question": "En taxi kör i busskörfältet. När är det tillåtet?",
+    "options": [
+      "Alltid, taxi räknas som yrkestrafik",
+      "När taxin har en passagerare",
+      "När det är kö i övriga körfält",
+      "När en tilläggstavla anger att taxi får använda körfältet"
+    ],
+    "correct": 3,
+    "explanation": "Busskörfältet är till för fordon i linjetrafik. Taxi, färdtjänst eller andra fordon får bara använda det när det anges med tilläggstavla under märket.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-009",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör på en gata där spårvagnsspåren ligger i körbanan. Vad gäller i förhållande till spårvagnen?",
+    "options": [
+      "Spårvagnen har företräde och du ska lämna spåret fritt i god tid",
+      "Högerregeln gäller mellan dig och spårvagnen",
+      "Spårvagnen har väjningsplikt mot bilar eftersom den är tyngre",
+      "Du får aldrig köra på spåren"
+    ],
+    "correct": 0,
+    "explanation": "Spårvagnen kan inte väja och har långa bromssträckor. Den har därför företräde framför andra fordon om inte vägmärke eller signal anger annat. Du får köra på spåren, men ska lämna dem fria när en spårvagn kommer.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-010",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 3,
+    "question": "I en korsning finns två körfält som båda är avsedda för vänstersväng. Du kör i det vänstra av dem. Hur genomför du svängen?",
+    "options": [
+      "Svänger in i det högra körfältet efter korsningen om det är ledigt",
+      "Behåller mitt körfält genom hela svängen och byter inte körfält i korsningen",
+      "Väljer körfält fritt efter svängen eftersom båda svänger",
+      "Svänger så snävt som möjligt för att komma före bilen bredvid"
+    ],
+    "correct": 1,
+    "explanation": "När två körfält svänger parallellt ska du hålla ditt körfält genom hela svängen. Byter du körfält mitt i svängen riskerar du att köra in i sidan på bilen bredvid.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-011",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 1,
+    "question": "Vad betyder en heldragen körfältslinje mellan två körfält i samma riktning?",
+    "options": [
+      "Körfälten leder till olika hastighetsgränser",
+      "Det vänstra körfältet är ett omkörningsfält",
+      "Du får inte byta körfält över linjen",
+      "Du får byta körfält, men bara åt höger"
+    ],
+    "correct": 2,
+    "explanation": "En heldragen körfältslinje får inte överskridas. Den används där körfältsbyten är farliga, till exempel strax före korsningar eller där körfälten skiljs åt.",
+    "legalRef": "TrF 3 kap. 11 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-012",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 1,
+    "question": "Vad gäller för ett spärrområde, det vill säga en yta målad med snedstreck inramade av heldragna linjer?",
+    "options": [
+      "Du får köra där för att släppa fram utryckningsfordon",
+      "Du får köra där om du ska svänga vänster",
+      "Du får stanna där för av- och påstigning",
+      "Du får inte köra på det"
+    ],
+    "correct": 3,
+    "explanation": "Ett spärrområde är en yta som fordon inte får köra på. Det används för att styra trafiken, till exempel vid avfarter eller för att ge skydd åt vänstersvängande.",
+    "legalRef": "TrF 3 kap. 11 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-013",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör på en smal landsväg med asfalterad vägren och en snabbare bil ligger bakom dig och vill köra om. Vad bör du göra?",
+    "options": [
+      "Om det kan göras säkert: hålla åt höger, gärna på vägrenen, för att underlätta omkörningen",
+      "Öka farten så att den bakomvarande slipper köra om",
+      "Hålla din placering, eftersom vägrenen aldrig får användas av bilar",
+      "Bromsa och stanna på vägrenen tills bilen kört förbi"
+    ],
+    "correct": 0,
+    "explanation": "För att underlätta framkomligheten för andra får och bör du tillfälligt använda vägrenen om det kan ske utan fara, till exempel när du blir omkörd. Kontrollera först att vägrenen är fri och hållbar.",
+    "legalRef": "TrF 3 kap. 12 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-014",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Vilka ska normalt använda vägrenen på en landsväg när den är tillräckligt bred?",
+    "options": [
+      "Alla fordon som kör långsammare än hastighetsgränsen",
+      "Gående, cyklister, förare av moped klass II och långsamma fordon",
+      "Endast gående",
+      "Personbilar som vill släppa fram tung trafik"
+    ],
+    "correct": 1,
+    "explanation": "Gående, cyklister, mopedister klass II och långsamtgående fordon ska använda vägrenen om den är tillräckligt bred och lämplig. Bilister använder den bara tillfälligt för att underlätta för andra.",
+    "legalRef": "TrF 3 kap. 12 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-015",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Det finns ett cykelfält längs din högra sida och du ska snart svänga höger. Får du placera dig i cykelfältet inför svängen?",
+    "options": [
+      "Ja, det är just så du ska göra inför en högersväng",
+      "Ja, om det inte finns någon cyklist i cykelfältet",
+      "Nej, du får bara korsa cykelfältet när du svänger, inte köra i det",
+      "Nej, du måste svänga från vänster körfält"
+    ],
+    "correct": 2,
+    "explanation": "Cykelfältet är avsett för cyklister och moped klass II. Bilar får bara korsa det. Inför högersvängen håller du dig till höger i ditt körfält, kontrollerar cykelfältet noga och lämnar företräde åt cyklister som kör rakt fram.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-016",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Ovanför körfältet du kör i lyser en signal med ett rött kryss. Vad betyder det?",
+    "options": [
+      "Körfältet är reserverat för bussar",
+      "Vägarbete pågår längre fram",
+      "Du får köra vidare men inte köra om",
+      "Körfältet får inte användas"
+    ],
+    "correct": 3,
+    "explanation": "Körfältssignaler används bland annat vid reversibla körfält och i tunnlar. Rött kryss betyder att körfältet är stängt för dig, grön pil att det får användas och gul blinkande sned pil att du ska lämna körfältet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-017",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör på en smal landsväg utan mittlinje. Hur placerar du bilen?",
+    "options": [
+      "Till höger om vägens tänkta mitt, med marginal till vägkanten",
+      "Mitt på vägen för att ha marginal åt båda hållen",
+      "Så långt till höger att höger hjulpar går på grusets kant",
+      "Till vänster om mitten i högerkurvor för bättre sikt"
+    ],
+    "correct": 0,
+    "explanation": "Saknas mittlinje tänker du dig vägen delad i två halvor och håller dig på höger halva. Håll samtidigt marginal till vägkanten, som kan vara mjuk eller ojämn.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-018",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 3,
+    "question": "Du ska köra rakt fram i en korsning. Höger körfält har körfältspilar för både höger och rakt fram, vänster körfält har pilar för rakt fram och vänster. Vilket körfält får du använda?",
+    "options": [
+      "Bara det högra, eftersom man alltid ska hålla till höger",
+      "Vilket som helst av dem, båda tillåter rakt fram",
+      "Bara det vänstra, eftersom det högra är avsett för svängande",
+      "Inget av dem, du måste byta till ett körfält med pil endast rakt fram"
+    ],
+    "correct": 1,
+    "explanation": "Körfältspilarna anger vilka färdriktningar som är tillåtna från körfältet. När båda fälten har pil rakt fram får du välja det som passar bäst, till exempel med hänsyn till köer.",
+    "legalRef": "TrF 3 kap. 9 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-019",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 2,
+    "question": "Du kör i höger körfält och ser att det längre fram är markerat med en pil för enbart högersväng. Du ska rakt fram. Vad gör du?",
+    "options": [
+      "Fortsätter i körfältet och kör rakt fram om ingen svänger höger",
+      "Svänger höger och letar en plats att vända på",
+      "Byter till vänster körfält i god tid, innan pilarna börjar gälla i korsningen",
+      "Stannar i korsningen och väntar på en lucka i vänster körfält"
+    ],
+    "correct": 2,
+    "explanation": "Körfältspilarna är bindande i korsningen. Ser du dem i tid ska du byta körfält lugnt och i god tid, med tecken och dödvinkelkontroll, i stället för att göra ett sent och farligt byte.",
+    "legalRef": "TrF 3 kap. 9 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-korf-020",
+    "category": "trafikregler",
+    "subtopic": "korfalt-placering",
+    "difficulty": 1,
+    "question": "Du kör på en gata med två markerade körfält i din riktning och ska svänga vänster i nästa korsning. Vilket körfält väljer du?",
+    "options": [
+      "Det högra, så att du kan se mötande trafik bättre",
+      "Valfritt, körfältet spelar ingen roll om du ger tecken",
+      "Körfältet för mötande trafik om det är ledigt",
+      "Det vänstra av körfälten i din riktning"
+    ],
+    "correct": 3,
+    "explanation": "Inför en vänstersväng ska du använda det körfält som ligger närmast körbanans mitt i din riktning, det vill säga det vänstra. Så kan trafik som ska rakt fram passera till höger om dig.",
+    "legalRef": "TrF 3 kap. 26 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-001",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 1,
+    "question": "Vad gäller när du backar med bilen?",
+    "options": [
+      "Du får bara backa om det kan ske utan fara eller hinder för andra, du har hela ansvaret",
+      "Bakomvarande trafik har väjningsplikt mot dig när backljusen lyser",
+      "Du får backa fritt så länge du ger tecken",
+      "Backning är bara tillåten på parkeringsplatser"
+    ],
+    "correct": 0,
+    "explanation": "Den som backar har det fulla ansvaret. Backning får bara ske om det kan göras utan fara eller onödigt hinder för andra trafikanter. Backljusen ger dig ingen rätt att kräva plats.",
+    "legalRef": "TrF 3 kap. 47 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-002",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 1,
+    "question": "På vilka vägar är det förbjudet att både backa och vända?",
+    "options": [
+      "På alla huvudleder",
+      "På motorväg och motortrafikled",
+      "På alla vägar med hastighetsgräns 70 km/h eller högre",
+      "På gågator och i gångfartsområden"
+    ],
+    "correct": 1,
+    "explanation": "På motorväg och motortrafikled är det förbjudet att backa och vända. Där håller trafiken hög fart och räknar inte med fordon som rör sig mot färdriktningen. På huvudled är vändning tillåten om det kan ske utan fara.",
+    "legalRef": "TrF 9 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-003",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Får du vända bilen på en enkelriktad gata?",
+    "options": [
+      "Ja, om du ger tecken och ingen trafik kommer bakifrån",
+      "Ja, men bara i en korsning",
+      "Nej, vändning är förbjuden, men du får backa en kort sträcka för att till exempel parkera",
+      "Nej, och du får inte heller backa alls på gatan"
+    ],
+    "correct": 2,
+    "explanation": "På en enkelriktad gata får du inte vända, eftersom du då skulle köra mot färdriktningen. En kort backning, till exempel in i en parkeringsficka, är däremot tillåten om den kan ske utan fara.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-004",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Du behöver vända på en landsväg och ser en mindre sidoväg. Vilket sätt att vända är säkrast?",
+    "options": [
+      "Köra in på en sidoväg till vänster och backa ut på landsvägen",
+      "Vända direkt på landsvägen med en U-sväng",
+      "Köra in på en sidoväg till höger och backa ut på landsvägen",
+      "Backa in på en sidoväg till höger och sedan köra ut framåt på landsvägen"
+    ],
+    "correct": 3,
+    "explanation": "Säkrast är att backa in på en väg till höger, eftersom du då backar bort från landsvägen i låg fart och sedan kör ut framåt med god sikt över trafiken. Att backa ut på landsvägen är det farligaste momentet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-005",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 1,
+    "question": "Du ska backa ut från en parkeringsplats intill en lekplats. Vad är viktigast att göra innan du börjar backa?",
+    "options": [
+      "Kontrollera bakom bilen, gärna genom att titta ut eller gå runt, eftersom små barn inte syns i speglarna",
+      "Tuta två gånger för att varna barnen",
+      "Backa långsamt med varningsblinkers på",
+      "Lita på backkameran, den täcker hela området bakom bilen"
+    ],
+    "correct": 0,
+    "explanation": "Små barn är korta, rör sig snabbt och syns varken i speglar eller alltid i backkameran. Innan du backar ska du därför försäkra dig om att området bakom bilen är fritt.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-006",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Får du göra en U-sväng i en vanlig gatukorsning?",
+    "options": [
+      "Nej, U-sväng är alltid förbjuden i korsningar",
+      "Ja, om inget vägmärke eller någon heldragen linje förbjuder det och det kan ske utan fara",
+      "Ja, men bara om korsningen har trafiksignal",
+      "Nej, U-sväng får bara göras på parkeringsplatser"
+    ],
+    "correct": 1,
+    "explanation": "Det finns inget allmänt förbud mot U-sväng i korsningar. Du måste dock respektera märken som förbjuder vändning, heldragna linjer och påbjudna körriktningar, och svängen måste kunna göras utan fara eller hinder.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-007",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 3,
+    "question": "Du vill vända på en landsväg strax före ett backkrön. Vad gäller?",
+    "options": [
+      "Det är tillåtet om du gör det snabbt",
+      "Det är tillåtet om du slår på varningsblinkers",
+      "Vänd inte där sikten är skymd, vändning får bara göras där den inte innebär fara för andra",
+      "Det är tillåtet eftersom förbudet bara gäller kurvor"
+    ],
+    "correct": 2,
+    "explanation": "Vid backkrön och i kurvor med skymd sikt kan andra inte upptäcka dig i tid. Vändning får bara ske där det kan göras utan fara, så fortsätt över krönet och vänd på en plats med fri sikt åt båda hållen.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-008",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Var ska du främst titta när du backar en längre sträcka?",
+    "options": [
+      "I innerbackspegeln hela tiden",
+      "Omväxlande i de båda sidospeglarna",
+      "På backkamerans skärm",
+      "Bakåt genom bakrutan, med speglar och kamera som komplement"
+    ],
+    "correct": 3,
+    "explanation": "När du backar ska du vända dig och titta bakåt, eftersom speglarna och kameran har döda vinklar. Speglar och kamera används som komplement, till exempel för att se bilens sidor.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-009",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 3,
+    "question": "Du ska parkera i en ficka som ligger vinkelrätt mot en trafikerad gata. Vilket är det säkraste sättet?",
+    "options": [
+      "Backa in i fickan och köra ut framåt när du ska åka",
+      "Köra in framåt och backa ut när du ska åka",
+      "Köra in framåt, eftersom det är förbjudet att backa mot en gata",
+      "Ställa bilen snett så att du kan köra ut framåt åt båda hållen"
+    ],
+    "correct": 0,
+    "explanation": "Backar du in när du kommer har du redan överblick över platsen. När du sedan åker kör du ut framåt med full sikt över gatans trafik, i stället för att backa ut blint bland fordon och gående.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-vand-010",
+    "category": "trafikregler",
+    "subtopic": "vandning-backning",
+    "difficulty": 2,
+    "question": "Får du vända över en heldragen mittlinje på en landsväg om vägen är fri från trafik?",
+    "options": [
+      "Ja, om du ger tecken i god tid",
+      "Nej, en heldragen mittlinje får inte överskridas, du måste vända på annan plats",
+      "Ja, om du gör det på en raksträcka",
+      "Ja, om hastighetsgränsen är högst 70 km/h"
+    ],
+    "correct": 1,
+    "explanation": "En heldragen linje på din sida får inte överskridas med något hjul, så vändning över den är förbjuden. Linjen finns där sikten eller vägens utformning gör att sidbyten är farliga.",
+    "legalRef": "TrF 3 kap. 11 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-001",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "Trafiksignalen visar rött och gult ljus samtidigt. Vad betyder det?",
+    "options": [
+      "Signalen växlar snart till grönt, men du ska fortfarande stå kvar",
+      "Du får köra om korsningen är fri",
+      "Signalen är ur funktion",
+      "Du får köra, men bara om du ska svänga höger"
+    ],
+    "correct": 0,
+    "explanation": "Rött och gult tillsammans är en förberedelsesignal som talar om att det snart blir grönt. Du ska stanna kvar tills signalen faktiskt visar grönt.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-002",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Du kör i 50 km/h och trafiksignalen slår om till fast gult ljus när du är mycket nära stopplinjen. Vad gäller?",
+    "options": [
+      "Gult betyder kör, så du fortsätter",
+      "Gult betyder stopp, men du får fortsätta om du inte kan stanna på ett säkert sätt",
+      "Du måste alltid stanna vid gult, även om du tvingas panikbromsa",
+      "Du ska öka farten för att hinna över innan det blir rött"
+    ],
+    "correct": 1,
+    "explanation": "Fast gult ljus betyder stopp. Har du kommit så långt att du inte kan stanna utan fara, till exempel en kraftig inbromsning med bakomvarande tätt bakom, får du fortsätta. Du ska däremot aldrig gasa på.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-003",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Trafiksignalen i en korsning blinkar gult. Vad gäller?",
+    "options": [
+      "Du har företräde framför korsande trafik",
+      "Alla måste stanna som vid rött ljus",
+      "Signalen är ur funktion eller varnar: följ vägmärkena, och saknas märken gäller högerregeln",
+      "Du får köra, men högst 30 km/h"
+    ],
+    "correct": 2,
+    "explanation": "Blinkande gult ljus betyder att signalen inte reglerar trafiken. Då gäller vägmärkena i korsningen, till exempel väjningsplikt eller stopplikt, och finns inga märken gäller högerregeln.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-004",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "Trafiksignalen i en korsning är helt släckt och under signalen sitter märket väjningsplikt. Vad gäller?",
+    "options": [
+      "Högerregeln, eftersom signalen inte fungerar",
+      "Du har företräde, eftersom du kommer från signalens riktning",
+      "Alla måste stanna helt innan de kör in i korsningen",
+      "Väjningsplikt enligt vägmärket"
+    ],
+    "correct": 3,
+    "explanation": "När trafiksignalen är släckt eller blinkar gult gäller vägmärkena under den. Väjningspliktsmärket sitter där just för denna situation, så du har väjningsplikt mot korsande trafik.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-005",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "Får du svänga höger mot rött ljus om korsningen är helt fri?",
+    "options": [
+      "Nej, rött ljus gäller alltid oavsett vart du ska",
+      "Ja, om du först stannar helt",
+      "Ja, om det inte finns någon gående",
+      "Ja, om det inte finns någon stopplinje"
+    ],
+    "correct": 0,
+    "explanation": "I Sverige gäller rött ljus för alla riktningar. Högersväng mot rött är tillåtet i vissa andra länder, men här får du bara svänga när signalen visar grönt eller en grön pil för din riktning.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-006",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 3,
+    "question": "Du står först i kön för att svänga vänster och en extra signal med grön pil åt vänster tänds medan huvudsignalen visar rött. Vad gäller?",
+    "options": [
+      "Du får svänga vänster, men måste väja för mötande som har grönt",
+      "Du får svänga vänster, mötande trafik har rött, men du ska ändå vara uppmärksam",
+      "Du måste vänta tills huvudsignalen visar grönt",
+      "Du får bara svänga om det inte finns någon mötande bil i sikte"
+    ],
+    "correct": 1,
+    "explanation": "En grön pil ger klartecken för just den riktningen, och trafik som skulle korsa din väg har rött. Du kan därför svänga utan att väja för mötande, men ska alltid vara beredd på att någon kör mot rött.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-007",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "Vilken ordning gäller när polismans tecken, trafiksignal, vägmärke och allmänna regler motsäger varandra?",
+    "options": [
+      "Vägmärke, trafiksignal, polismans tecken, allmänna regler",
+      "Trafiksignal, vägmärke, polismans tecken, allmänna regler",
+      "Polismans tecken, trafiksignal, vägmärke, allmänna regler",
+      "Allmänna regler, vägmärke, trafiksignal, polismans tecken"
+    ],
+    "correct": 2,
+    "explanation": "Polisens tecken gäller före allt annat. Därefter gäller trafiksignaler före vägmärken, och vägmärken före de allmänna reglerna som högerregeln.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-008",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Vid en järnvägskorsning blinkar två röda ljus växelvis, men bommarna har ännu inte fällts. Vad gäller?",
+    "options": [
+      "Du får köra över om du inte ser något tåg",
+      "Du får köra över om bommarna är uppe",
+      "Rött blinkande ljus är bara en varning om att korsningen finns",
+      "Stopp, ett tåg är på väg, oavsett bommarnas läge"
+    ],
+    "correct": 3,
+    "explanation": "Rött blinkande ljus vid en plankorsning betyder stopp. Ljuset tänds innan bommarna fälls, så du ska stanna vid stopplinjen även om bommarna fortfarande är uppe.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-009",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Vid en plankorsning med järnväg blinkar ett vitt ljus. Vad betyder det?",
+    "options": [
+      "Signalanläggningen fungerar och inget tåg är i antågande, du får passera med uppmärksamhet",
+      "Signalanläggningen är ur funktion",
+      "Ett tåg närmar sig men på avstånd",
+      "Korsningen är stängd för biltrafik"
+    ],
+    "correct": 0,
+    "explanation": "Vitt blinkande ljus visar att anläggningen är i drift och att inget tåg är på väg. Du får passera, men ska ändå vara uppmärksam. Är signalen släckt vet du inte om den fungerar och måste vara extra försiktig.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-010",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "När får du använda varningsblinkers?",
+    "options": [
+      "När du parkerar en kort stund på en plats med parkeringsförbud",
+      "När bilen på grund av motorfel eller olycka stannats där den kan vara till fara eller hinder",
+      "När du kör långsamt i tät dimma",
+      "När du vill tacka någon som släppt fram dig"
+    ],
+    "correct": 1,
+    "explanation": "Varningsblinkers är till för att varna andra när fordonet blivit stående där det utgör fara eller hinder, till exempel efter motorstopp eller olycka. De får inte användas som ursäkt för felparkering.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-011",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "När får du använda bilens signalhorn?",
+    "options": [
+      "För att hälsa på en bekant",
+      "För att uppmana bilen framför att köra fortare",
+      "När det behövs för att avvärja fara",
+      "För att tacka den som släppt fram dig"
+    ],
+    "correct": 2,
+    "explanation": "Ljudsignal får bara användas när det behövs för att förebygga eller avvärja fara, till exempel om någon är på väg att köra in i din sida. Att tuta för att hälsa eller visa irritation är inte tillåtet.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-012",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "I vilken situation är det rätt att ge ljussignal, det vill säga blinka med helljuset?",
+    "options": [
+      "För att visa att du släpper fram en bil som väntar på att svänga",
+      "För att tacka en förare som lämnat plats",
+      "För att tala om att du tänker köra om",
+      "För att varna en annan trafikant för en fara, i stället för att tuta"
+    ],
+    "correct": 3,
+    "explanation": "Ljussignal får ges i samma syfte som ljudsignal, alltså för att uppmärksamma någon på en fara. Att blinka som tack eller för att avstå från företräde kan missförstås och ska undvikas.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-013",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 1,
+    "question": "Vilken belysning ska du använda när du kör i dagsljus på en landsväg?",
+    "options": [
+      "Halvljus eller särskilt varselljus",
+      "Ingen belysning, det är dagsljus",
+      "Parkeringsljus",
+      "Helljus om ingen möter"
+    ],
+    "correct": 0,
+    "explanation": "Under körning ska halvljus eller särskilt varselljus alltid vara tänt, även i dagsljus. Det gör att andra upptäcker dig tidigare, särskilt mot en ljus himmel eller i skugga.",
+    "legalRef": "TrF 3 kap. 66 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-014",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 3,
+    "question": "Det börjar skymma och din bil har automatiska varselljus tända fram. Vad bör du tänka på?",
+    "options": [
+      "Inget, varselljusen räcker tills det är helt mörkt",
+      "Varselljus tänder ofta inte bakljusen, så du ska slå på halvljuset för att synas bakifrån",
+      "Du ska slå på dimbakljuset så att du syns bakifrån",
+      "Du ska slå på parkeringsljuset som komplement"
+    ],
+    "correct": 1,
+    "explanation": "Varselljus är godkänt bara i dagsljus. I skymning, mörker och dålig sikt krävs halvljus, som också tänder bakljusen. Med bara varselljus är bilen i praktiken osynlig bakifrån.",
+    "legalRef": "TrF 3 kap. 66 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-ljus-015",
+    "category": "trafikregler",
+    "subtopic": "ljus-signaler",
+    "difficulty": 2,
+    "question": "Du står först vid rött ljus när en ambulans med blåljus och siren kommer bakifrån. Vad gör du?",
+    "options": [
+      "Kör ut i korsningen mot rött så att ambulansen kommer fram",
+      "Sitter still, du får aldrig flytta bilen vid rött ljus",
+      "Försöker lämna plats åt sidan utan att köra mot rött ljus, rött gäller även nu",
+      "Backar mot bilen bakom för att skapa en lucka"
+    ],
+    "correct": 2,
+    "explanation": "Du ska lämna fri väg åt utryckningsfordon, men du får inte bryta mot rött ljus eller skapa nya faror. Flytta bilen åt sidan så mycket som går inom det utrymme du har, så att ambulansen kan passera.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-001",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 1,
+    "question": "Hur fort får du köra i ett gångfartsområde?",
+    "options": [
+      "Gångfart, du får inte köra fortare än gående går",
+      "Högst 10 km/h",
+      "Högst 20 km/h",
+      "Högst 30 km/h"
+    ],
+    "correct": 0,
+    "explanation": "I ett gångfartsområde får fordon inte köras fortare än gångfart. Det finns ingen siffra i km/h, utan du ska anpassa dig till de gående som delar ytan med dig.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-002",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 1,
+    "question": "Vem har företräde i ett gångfartsområde?",
+    "options": [
+      "Fordon som kör i gångfart",
+      "Gående, förare har väjningsplikt mot dem",
+      "Den som kommer från höger enligt högerregeln",
+      "Cyklister före både bilar och gående"
+    ],
+    "correct": 1,
+    "explanation": "I ett gångfartsområde har alla förare väjningsplikt mot gående. Gående får använda hela ytan, och du som kör måste vara beredd att stanna.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-003",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 1,
+    "question": "Var får du parkera i ett gångfartsområde?",
+    "options": [
+      "Var som helst där du inte hindrar gående",
+      "Längs husväggarna",
+      "Endast på särskilt anordnade parkeringsplatser",
+      "Inte alls, parkering är helt förbjuden"
+    ],
+    "correct": 2,
+    "explanation": "I gångfartsområden och på gågator får fordon bara parkeras på särskilt anordnade parkeringsplatser. Fritt parkerade bilar skulle ta ytan från de gående som området är byggt för.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-004",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 2,
+    "question": "Du kör ut från ett gångfartsområde på en vanlig gata. Vad gäller?",
+    "options": [
+      "Högerregeln gäller mellan dig och trafiken på gatan",
+      "Trafiken på gatan har väjningsplikt mot dig eftersom du kör långsamt",
+      "Du har företräde om gatan saknar vägmärken",
+      "Du har väjningsplikt mot all trafik på gatan enligt utfartsregeln"
+    ],
+    "correct": 3,
+    "explanation": "När du lämnar ett gångfartsområde eller en gågata gäller utfartsregeln: du har väjningsplikt mot alla fordon och gående på den väg du kör ut på, oavsett vilket håll de kommer från.",
+    "legalRef": "TrF 3 kap. 21 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-005",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 1,
+    "question": "Vad är den viktigaste skillnaden mellan en gågata och ett gångfartsområde?",
+    "options": [
+      "På gågata är motordriven trafik i princip förbjuden, i ett gångfartsområde får alla fordon köra",
+      "På gågata gäller 20 km/h, i gångfartsområde gäller gångfart",
+      "I gångfartsområde är cykling förbjuden, på gågata tillåten",
+      "Det är ingen skillnad, bara två namn på samma sak"
+    ],
+    "correct": 0,
+    "explanation": "Båda har gångfart, väjningsplikt mot gående och parkering bara på anordnade platser. Skillnaden är att motordrivna fordon på gågata bara får köra i särskilda undantagsfall, medan gångfartsområdet är öppet för all trafik.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-006",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 2,
+    "question": "I vilket fall får du köra bil på en gågata?",
+    "options": [
+      "När du ska handla i en butik på gatan",
+      "När du levererar varor till en butik på gatan eller kör till en bostad på gatan",
+      "När det är efter klockan 18 och få gående är ute",
+      "När du bara ska korsa gatan för att komma till en parkering på andra sidan"
+    ],
+    "correct": 1,
+    "explanation": "Motordriven trafik på gågata är tillåten bara för till exempel varuleveranser till butiker vid gatan, transporter av gods eller boende till adress vid gatan, hotellgäster samt sjuka och rörelsehindrade. Egna inköp är inte ett undantag.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-007",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 2,
+    "question": "Du får köra in på en gågata för att leverera varor. Vilka regler gäller under själva körningen?",
+    "options": [
+      "Högst 30 km/h och företräde för fordon",
+      "Vanliga tätortsregler, eftersom du har ett giltigt ärende",
+      "Gångfart, väjningsplikt mot gående och parkering bara på markerade platser",
+      "Gångfart, men gående ska hålla sig på trottoaren"
+    ],
+    "correct": 2,
+    "explanation": "Även med ett tillåtet ärende gäller gågatans regler fullt ut: du kör i gångfart, har väjningsplikt mot gående och får bara parkera på särskilt anordnade platser.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-008",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 2,
+    "question": "Får du cykla på en gågata?",
+    "options": [
+      "Nej, all fordonstrafik är förbjuden på gågata",
+      "Ja, i normal cykelfart eftersom cykeln inte är motordriven",
+      "Nej, bara om du leder cykeln",
+      "Ja, men i gångfart och med väjningsplikt mot gående"
+    ],
+    "correct": 3,
+    "explanation": "Förbudet på gågata gäller motordrivna fordon. Cykel är ett fordon utan motor och får framföras där, men samma regler gäller som för alla fordon: gångfart och väjningsplikt mot gående.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-009",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 3,
+    "question": "Du ska hämta en rörelsehindrad släkting vid en bostad på en gågata. Får du köra in med bilen?",
+    "options": [
+      "Ja, transport av sjuka eller rörelsehindrade till eller från en adress vid gågatan är tillåten",
+      "Nej, bara varuleveranser är tillåtna på gågata",
+      "Nej, bara färdtjänst och taxi får köra på gågata",
+      "Ja, men bara om du har ett parkeringstillstånd för rörelsehindrade"
+    ],
+    "correct": 0,
+    "explanation": "Ett av undantagen för motordriven trafik på gågata är transport av sjuka eller rörelsehindrade personer till eller från en adress vid gatan. Något särskilt tillstånd krävs inte för själva körningen.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-gag-010",
+    "category": "trafikregler",
+    "subtopic": "gagata-gangfart",
+    "difficulty": 3,
+    "question": "Du kör genom ett gångfartsområde och en gående går långsamt mitt i gatan framför dig. Vad gör du?",
+    "options": [
+      "Tutar kort så att den gående flyttar sig",
+      "Anpassar dig till den gående, som får använda hela gatan, och passerar bara i gångfart med god marginal",
+      "Kör om på trottoaren i låg fart",
+      "Blinkar med helljuset för att visa att du vill förbi"
+    ],
+    "correct": 1,
+    "explanation": "I ett gångfartsområde delar gående och fordon ytan på de gåendes villkor. Du har väjningsplikt mot den gående och får varken tuta eller pressa dig förbi. Vänta eller passera lugnt när det finns plats.",
+    "legalRef": "TrF 8 kap. 1 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-001",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Under ett märke om parkeringsförbud sitter en tilläggstavla med svarta siffror: 8–18. När gäller förbudet?",
+    "options": [
+      "Alla dagar klockan 8–18",
+      "Endast lördagar klockan 8–18",
+      "Vardagar utom dag före sön- och helgdag, klockan 8–18",
+      "Sön- och helgdagar klockan 8–18"
+    ],
+    "correct": 2,
+    "explanation": "Svarta siffror utan parentes på en tidstavla avser vardagar utom vardag före sön- och helgdag. Lördagar anges inom parentes och sön- och helgdagar med röda siffror.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-002",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Vad betyder en tid inom parentes, till exempel (8–14), på en tilläggstavla under ett vägmärke?",
+    "options": [
+      "Tiden gäller sön- och helgdagar",
+      "Tiden är bara en rekommendation",
+      "Tiden gäller nattetid",
+      "Tiden gäller vardag före sön- och helgdag, oftast lördag"
+    ],
+    "correct": 3,
+    "explanation": "Siffror inom parentes avser vardag före sön- och helgdag, i praktiken oftast lördag. Så kan samma tavla ange olika tider för vanliga vardagar, lördagar och söndagar.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-003",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Vad betyder röda siffror på en tilläggstavla med tidsangivelser?",
+    "options": [
+      "Tiderna gäller sön- och helgdagar",
+      "Tiderna gäller när det är halt väglag",
+      "Tiderna gäller vardagar med förhöjd avgift",
+      "Tiderna gäller lördagar"
+    ],
+    "correct": 0,
+    "explanation": "Röda siffror på en tidstavla anger att bestämmelsen gäller sön- och helgdagar. Svarta siffror avser vardagar och siffror i parentes vardag före sön- och helgdag.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-004",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 1,
+    "question": "Ett förbudsmärke saknar tilläggstavla med tidsangivelse. När gäller förbudet?",
+    "options": [
+      "Bara på vardagar under dagtid",
+      "Bara vardagar klockan 8–18",
+      "Bara under den tid butikerna i området har öppet",
+      "Alla dagar, dygnet runt"
+    ],
+    "correct": 3,
+    "explanation": "Ett vägmärke gäller alltid, dygnet runt och alla dagar, om det inte finns en tilläggstavla som begränsar tiden. Tilläggstavlan inskränker alltså märkets giltighet, inte tvärtom.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-005",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under ett varningsmärke för älg sitter en tilläggstavla med texten 2 km. Vad betyder det?",
+    "options": [
+      "Det är 2 km till platsen där älgar brukar korsa vägen",
+      "Varningen upphör att gälla efter 2 km utan ny skylt",
+      "Det finns risk för älg på en sträcka av 2 km från märket",
+      "Nästa varningsmärke kommer om 2 km"
+    ],
+    "correct": 2,
+    "explanation": "En tilläggstavla med en längd, till exempel 2 km, anger vägsträckans längd, alltså hur lång sträcka varningen gäller. Ett avstånd till faran anges i stället med tavlan avstånd, till exempel 200 m.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-006",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under ett varningsmärke sitter en tilläggstavla med texten 200 m. Vad betyder det?",
+    "options": [
+      "Faran sträcker sig 200 m framåt",
+      "Du ska hålla 200 m avstånd till framförvarande",
+      "Märket gäller i 200 m bakåt",
+      "Det är 200 m till den plats där faran börjar"
+    ],
+    "correct": 3,
+    "explanation": "Tilläggstavlan avstånd anger hur långt det är från märket till den plats där faran eller bestämmelsen börjar. En sträckas längd anges i stället med tavlan vägsträckans längd.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-007",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "Ett parkeringsmärke har tilläggstavlorna 2 tim och 8–18 (svarta siffror). Du parkerar en söndag klockan 12. Hur länge får du stå?",
+    "options": [
+      "Utan tidsgräns just på söndagen, 2-timmarsregeln gäller bara vardagar klockan 8–18",
+      "Högst 2 timmar, tidsgränsen gäller alla dagar",
+      "Högst 2 timmar, men bara om du använder parkeringsskiva",
+      "Inte alls, parkering är bara tillåten vardagar klockan 8–18"
+    ],
+    "correct": 0,
+    "explanation": "Tidsbegränsningen 2 tim gäller bara under den tid som tidstavlan anger, här vardagar 8–18. Övrig tid får du parkera utan tidsgräns enligt märket, dock högst 24 timmar i följd på vardagar inom tättbebyggt område.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-008",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under märket väjningsplikt sitter en tilläggstavla med texten STOP 150 m. Vad betyder det?",
+    "options": [
+      "Du ska stanna inom 150 m från märket",
+      "Om 150 m kommer en korsning med stopplikt",
+      "Väjningsplikten gäller i 150 m",
+      "Du har stopplikt i 150 m framåt"
+    ],
+    "correct": 1,
+    "explanation": "Tilläggstavlan avstånd till stopplikt förvarnar om att det om 150 m kommer en korsning där du har stopplikt. Väjningspliktsmärket den sitter under är då en förvarning.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-009",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 3,
+    "question": "Vid en korsning sitter märket väjningsplikt med en tilläggstavla som visar en tjock linje som svänger och tunna linjer rakt fram. Vad visar tavlan?",
+    "options": [
+      "Att du måste svänga i korsningen",
+      "Att vägen är avstängd rakt fram",
+      "Hur huvudleden fortsätter genom korsningen, den tjocka linjen är huvudleden",
+      "Att det finns två körfält i svängen"
+    ],
+    "correct": 2,
+    "explanation": "Tilläggstavlan vägars fortsättning i korsning visar med en tjock linje hur huvudleden går. Du med väjningsplikt ska väja för trafiken på den tjocka linjen, även om den svänger.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-till-010",
+    "category": "trafikregler",
+    "subtopic": "tillaggstavlor",
+    "difficulty": 2,
+    "question": "Under ett parkeringsmärke sitter en tilläggstavla med symbolen för rörelsehindrad. Vem får parkera där?",
+    "options": [
+      "Alla, men rörelsehindrade har förtur",
+      "Den som har någon med nedsatt rörelseförmåga i bilen",
+      "Alla som betalar avgift",
+      "Endast den som har ett giltigt parkeringstillstånd för rörelsehindrade"
+    ],
+    "correct": 3,
+    "explanation": "Symboltavlan anger att platsen är reserverad för den fordonskategori eller grupp som visas. En plats med symbolen för rörelsehindrad får bara användas med ett giltigt parkeringstillstånd, väl synligt i bilen.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-001",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 1,
+    "question": "I vilken ordning gör du ett säkert körfältsbyte?",
+    "options": [
+      "Kontrollera speglarna, ge tecken, kontrollera döda vinkeln och byt sedan körfält mjukt",
+      "Ge tecken, byt körfält och kontrollera sedan speglarna",
+      "Kontrollera döda vinkeln, byt körfält och ge tecken under bytet",
+      "Ge tecken och byt körfält direkt, tecknet ger dig rätten till luckan"
+    ],
+    "correct": 0,
+    "explanation": "Först skaffar du dig en bild av trafiken bakom via speglarna, sedan ger du tecken så att andra hinner reagera, därefter kontrollerar du döda vinkeln med en huvudvridning och byter sedan körfält utan tvära rörelser.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-002",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Du har gett tecken för att byta körfält. Vad gäller?",
+    "options": [
+      "Fordonen i det andra körfältet måste släppa in dig",
+      "Tecknet ger dig inte företräde, du måste förvissa dig om att bytet kan ske utan fara",
+      "Du får byta körfält efter tre sekunder oavsett trafiken",
+      "Fordonen bakom dig har väjningsplikt så snart blinkersen är på"
+    ],
+    "correct": 1,
+    "explanation": "Tecken är information till andra, inte en rättighet. Den som byter körfält ansvarar för att det kan göras utan fara eller hinder för den trafik som redan finns i körfältet.",
+    "legalRef": "TrF 3 kap. 44 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-003",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Ett av två körfält upphör och trafiken måste flätas samman. Vilken princip gäller?",
+    "options": [
+      "Fordonen i körfältet som upphör har väjningsplikt och ska vänta tills det blir helt fritt",
+      "Fordonen i körfältet som fortsätter ska stanna och släppa in alla från det andra",
+      "Blixtlåsprincipen, förarna ska växelvis släppa in varandra i det kvarvarande körfältet",
+      "Den som har högst fart kör först"
+    ],
+    "correct": 2,
+    "explanation": "Där körfält upphör ska förarna ömsesidigt anpassa sig så att fordonen körs in växelvis, ett från varje körfält, som ett blixtlås. Använd hela det upphörande körfältet fram till sammanflätningen.",
+    "legalRef": "TrF 3 kap. 44 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-004",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 1,
+    "question": "I vilka situationer ska du ge tecken med körriktningsvisarna?",
+    "options": [
+      "Bara vid sväng i korsningar",
+      "Bara när det finns andra trafikanter som kan se tecknet",
+      "Bara vid körfältsbyte och omkörning",
+      "Vid start från vägkant, sväng, körfältsbyte och omkörning, i god tid"
+    ],
+    "correct": 3,
+    "explanation": "Tecken ska ges i god tid inför varje förändring av bilens läge i sidled: när du startar från vägkanten, svänger, byter körfält, kör om eller vänder. Ge tecken även när du tror att ingen ser dig.",
+    "legalRef": "TrF 3 kap. 65 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-005",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "När ska du börja ge tecken inför ett körfältsbyte?",
+    "options": [
+      "I god tid, så att andra hinner uppfatta det, men inte så tidigt att det kan missförstås",
+      "Så tidigt som möjligt, gärna flera hundra meter före",
+      "I samma ögonblick som du börjar styra över",
+      "Först när du har kontrollerat att luckan är fri och redan börjat bytet"
+    ],
+    "correct": 0,
+    "explanation": "Tecknet ska ges så tidigt att andra hinner anpassa sig, men ett tecken som ges långt före till exempel en tidigare avfart eller korsning kan tolkas fel och skapa farliga situationer.",
+    "legalRef": "TrF 3 kap. 65 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-006",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Körriktningsvisarna på din bil har slutat fungera. Hur ger du tecken när du ska svänga?",
+    "options": [
+      "Med varningsblinkers strax före svängen",
+      "Med armen ut genom sidorutan",
+      "Genom att blinka med helljuset",
+      "Genom att tuta kort före svängen"
+    ],
+    "correct": 1,
+    "explanation": "Kan tecken inte ges med körriktningsvisarna ska du ge tecken med armen, tydligt ut genom sidorutan. Bilen ska sedan repareras så snart som möjligt.",
+    "legalRef": "TrF 3 kap. 65 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-007",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 3,
+    "question": "Du står parkerad i en ficka längs gatan och ska köra ut i trafiken. Vad gäller?",
+    "options": [
+      "Du har företräde när du gett tecken i minst tre sekunder",
+      "Trafiken på gatan ska släppa fram dig enligt högerregeln",
+      "Du ska ge tecken och har väjningsplikt mot trafiken på gatan",
+      "Du behöver inte ge tecken eftersom du redan står vid kanten"
+    ],
+    "correct": 2,
+    "explanation": "När du kör ut från vägkanten eller en parkeringsplats gäller utfartsregeln, du har väjningsplikt mot fordon och gående på vägen. Ge tecken i god tid och kör ut först när det kan ske utan hinder.",
+    "legalRef": "TrF 3 kap. 21 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-008",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 3,
+    "question": "Du kör i höger körfält på en väg med två körfält i din riktning och vill byta till vänster körfält. Var finns den största risken?",
+    "options": [
+      "Fordon långt bakom i ditt eget körfält",
+      "Mötande trafik i det vänstra körfältet",
+      "Fordon framför dig i vänster körfält",
+      "Ett fordon snett bakom till vänster, i döda vinkeln, som inte syns i speglarna"
+    ],
+    "correct": 3,
+    "explanation": "Ett fordon som ligger snett bakom i körfältet bredvid syns varken i inner- eller sidospegeln. Därför måste du alltid vrida på huvudet och kontrollera döda vinkeln precis innan du byter körfält.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-009",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Måste du ge tecken när du kör ut ur en cirkulationsplats?",
+    "options": [
+      "Ja, höger blinkers i god tid innan du lämnar cirkulationen",
+      "Nej, tecken behövs bara när du kör in i cirkulationen",
+      "Ja, vänster blinkers hela tiden du är i cirkulationen",
+      "Nej, tecken behövs bara om du byter körfält i cirkulationen"
+    ],
+    "correct": 0,
+    "explanation": "Att lämna cirkulationsplatsen är en högersväng, och du ska ge tecken höger i god tid före utfarten. Det hjälper både väntande förare vid infarterna och gående vid övergångsställen.",
+    "legalRef": "TrF 3 kap. 65 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-byte-010",
+    "category": "trafikregler",
+    "subtopic": "korfaltsbyte-tecken",
+    "difficulty": 2,
+    "question": "Bromsljusen på din bil är trasiga och du behöver plötsligt bromsa kraftigt med en bil tätt bakom. Hur varnar du bakomvarande?",
+    "options": [
+      "Genom att slå på varningsblinkers medan du bromsar",
+      "Genom att ge stopptecken med armen",
+      "Genom att tuta samtidigt som du bromsar",
+      "Genom att blinka med helljuset i innerspegeln"
+    ],
+    "correct": 1,
+    "explanation": "Ska du stanna eller minska farten kraftigt ska bakomvarande varnas med stopptecken. Normalt sköter bromsljusen det, men när de inte fungerar ger du tecknet med armen.",
+    "legalRef": "TrF 3 kap. 65 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-cyk-006",
+    "category": "trafikregler",
+    "subtopic": "cykel-moped",
+    "difficulty": 1,
+    "question": "Får en moped klass I köras på en cykelbana?",
+    "options": [
+      "Ja, alla mopeder får använda cykelbanor",
+      "Ja, om föraren håller högst 25 km/h",
+      "Nej, inte om det inte anges med tilläggstavla att moped klass I är tillåten",
+      "Nej, mopeder får bara köras på vägrenen"
+    ],
+    "correct": 2,
+    "explanation": "Moped klass I får köras i upp till 45 km/h och ska normalt köras på körbanan eller vägrenen. Cykelbanan är avsedd för cyklar och moped klass II, om inte en tilläggstavla särskilt tillåter moped klass I.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-cyk-007",
+    "category": "trafikregler",
+    "subtopic": "cykel-moped",
+    "difficulty": 2,
+    "question": "Vad gäller för dig som bilförare på en cykelgata?",
+    "options": [
+      "Cyklister har väjningsplikt mot bilar",
+      "Bilar får bara köra på cykelgatan för att korsa den",
+      "Du får köra högst 50 km/h men ska visa hänsyn",
+      "Högst 30 km/h, du ska anpassa farten till cyklisterna och har väjningsplikt när du kör in på gatan"
+    ],
+    "correct": 3,
+    "explanation": "På en cykelgata får motorfordon köra, men i högst 30 km/h och anpassat till cykeltrafiken. Den som kör in på cykelgatan har väjningsplikt mot fordonen på den.",
+    "reviewed": false
+  },
+  {
+    "id": "tr-cyk-008",
+    "category": "trafikregler",
+    "subtopic": "cykel-moped",
+    "difficulty": 2,
+    "question": "Ett barn cyklar på gångbanan längs en gata. När är det tillåtet?",
+    "options": [
+      "Barn till och med 8 år får cykla på gångbanan om cykelbana saknas",
+      "Aldrig, gångbanan är bara för gående",
+      "Alla barn under 15 år får cykla på gångbanan",
+      "Bara om barnet cyklar i gångfart och har hjälm"
+    ],
+    "correct": 0,
+    "explanation": "Barn till och med det år de fyller åtta får cykla på gångbanan om det saknas cykelbana. Regeln finns för att små barn inte ska behöva cykla bland bilarna på körbanan.",
+    "legalRef": "TrF 6 kap. 6 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-cyk-009",
+    "category": "trafikregler",
+    "subtopic": "cykel-moped",
+    "difficulty": 3,
+    "question": "En cyklist som fyllt 15 år cyklar på körbanan trots att det finns en cykelbana bredvid. När är det tillåtet?",
+    "options": [
+      "Aldrig, finns en cykelbana måste den användas",
+      "Om högsta tillåtna hastighet på vägen är högst 50 km/h och det är lämpligt med hänsyn till trafiken",
+      "Bara i mörker när cykelbanan är obelyst",
+      "Bara om cyklisten håller minst 30 km/h"
+    ],
+    "correct": 1,
+    "explanation": "Cyklister som fyllt 15 år får använda körbanan i stället för cykelbanan om hastighetsgränsen är högst 50 km/h och det med hänsyn till färdmål och trafik är lämpligt. Bilister måste därför räkna med cyklister även där cykelbana finns.",
+    "legalRef": "TrF 3 kap. 6 §",
+    "reviewed": false
+  },
+  {
+    "id": "tr-cyk-010",
+    "category": "trafikregler",
+    "subtopic": "cykel-moped",
+    "difficulty": 2,
+    "question": "Vilken är den högsta konstruktiva hastigheten för en moped klass II, och var får den köras?",
+    "options": [
+      "45 km/h, endast på körbanan",
+      "30 km/h, på körbanan och i busskörfält",
+      "25 km/h, den får köras på cykelbana",
+      "25 km/h, endast på körbanan"
+    ],
+    "correct": 2,
+    "explanation": "Moped klass II är konstruerad för högst 25 km/h och får, liksom cykel, köras på cykelbana. Moped klass I går i upp till 45 km/h och hör hemma på körbanan.",
+    "reviewed": false
+  }
+]

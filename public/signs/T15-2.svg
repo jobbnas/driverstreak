@@ -1,0 +1,13 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="512" height="525" viewBox="-0.872 -0.384 512 525" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		<rect fill="#ED171F" width="510.912" height="523.728"/> 
+		<rect x="15.984" y="15.984" fill="#FEB82F" width="479.016" height="491.688"/> 
+		<path d="M28.728,300.096h169.344c-0.072,0-0.072,0,0,0c10.584,0,19.152,8.568,19.152,19.152l0,0V488.52h76.536V287.28
+			c0.072-35.136-28.512-63.792-63.792-63.792h-0.072H28.728V300.096z"/>
+		<path d="M290.52,245.88c6.48,9.432,10.656,20.376,12.168,31.824h179.496V245.88H290.52z"/>
+		<path d="M271.368,226.8V35.136h-31.824v179.496C250.848,216.144,261.792,220.32,271.368,226.8z"/>
+	</g>
+</svg>

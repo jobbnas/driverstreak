@@ -1,0 +1,14 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="358" height="109" viewBox="-0.032 -0.368 358 109" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		<rect width="357.191" height="108.216"/> 
+		<polygon fill="#FFFFFF" points="292.248,59.76 357.191,59.76 357.191,56.016 292.248,56.016 259.775,56.016 259.775,59.76 "/>
+		<polygon fill="#FFFFFF" points="162.36,59.76 227.304,59.76 227.304,56.016 162.36,56.016 129.888,56.016 129.888,59.76 "/>
+		<polygon fill="#FFFFFF" points="32.472,59.76 97.416,59.76 97.416,56.016 32.472,56.016 0,56.016 0,59.76 "/>
+		<rect x="292.248" y="48.384" fill="#FFFFFF" width="32.472" height="3.816"/> 
+		<rect x="162.36" y="48.384" fill="#FFFFFF" width="32.544" height="3.816"/> 
+		<rect x="32.472" y="48.384" fill="#FFFFFF" width="32.472" height="3.816"/> 
+	</g>
+</svg>

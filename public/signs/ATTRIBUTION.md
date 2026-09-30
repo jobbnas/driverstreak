@@ -302,6 +302,8 @@ unmodified.
 | M1.svg | [Swedish road sign 4 1 1.svg](https://commons.wikimedia.org/wiki/File:Swedish_road_sign_4_1_1.svg) |
 | M10.svg | [4 1 4 1.svg](https://commons.wikimedia.org/wiki/File:4_1_4_1.svg) |
 | M11.svg | [4 1 4 3.svg](https://commons.wikimedia.org/wiki/File:4_1_4_3.svg) |
+| M12.svg | [4 1 4 2.svg](https://commons.wikimedia.org/wiki/File:4_1_4_2.svg) |
+| M13.svg | [4 2 1.svg](https://commons.wikimedia.org/wiki/File:4_2_1.svg) |
 | M14.svg | [4 2 2.svg](https://commons.wikimedia.org/wiki/File:4_2_2.svg) |
 | M15.svg | [Swedish road sign 4 2 3.svg](https://commons.wikimedia.org/wiki/File:Swedish_road_sign_4_2_3.svg) |
 | M16.svg | [Swedish road sign 4 2 4.svg](https://commons.wikimedia.org/wiki/File:Swedish_road_sign_4_2_4.svg) |
