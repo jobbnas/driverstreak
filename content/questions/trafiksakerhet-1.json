@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "ts-stopp-001",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vad består stoppsträckan av?",
+    "options": [
+      "Reaktionssträckan och bromssträckan",
+      "Bromssträckan och sladdsträckan",
+      "Reaktionssträckan och siktsträckan",
+      "Bromssträckan och säkerhetsavståndet till bilen framför"
+    ],
+    "correct": 0,
+    "explanation": "Stoppsträckan är summan av reaktionssträckan (den sträcka bilen rullar medan du reagerar) och bromssträckan (den sträcka bilen rullar medan bromsarna verkar).",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-002",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Ungefär hur lång är reaktionstiden för en uppmärksam och utvilad förare?",
+    "options": [
+      "Cirka 0,1 sekund",
+      "Cirka 1 sekund",
+      "Cirka 3 sekunder",
+      "Cirka 5 sekunder"
+    ],
+    "correct": 1,
+    "explanation": "Normal reaktionstid är ungefär 1 sekund, men den varierar mellan cirka 0,5 och 2 sekunder beroende på uppmärksamhet, trötthet och hur väntad faran är.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-003",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du kör 90 km/h och har en reaktionstid på 1 sekund. Ungefär hur lång blir reaktionssträckan?",
+    "options": [
+      "Cirka 9 meter",
+      "Cirka 45 meter",
+      "Cirka 25 meter",
+      "Cirka 90 meter"
+    ],
+    "correct": 2,
+    "explanation": "Tumregeln är hastigheten i km/h gånger 3 delat med 10, alltså 90 × 3/10 ≈ 27 meter. Exakt blir det 90/3,6 = 25 meter per sekund.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-004",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du kör 50 km/h i tätort och reagerar på 1 sekund. Ungefär hur långt hinner bilen rulla innan du börjar bromsa?",
+    "options": [
+      "Cirka 5 meter",
+      "Cirka 25 meter",
+      "Cirka 50 meter",
+      "Cirka 15 meter"
+    ],
+    "correct": 3,
+    "explanation": "Reaktionssträckan vid 50 km/h är 50 × 3/10 ≈ 15 meter (exakt 14 meter). Under hela den sträckan har bilen inte bromsat alls.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-005",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Ungefär hur lång blir bromssträckan vid 90 km/h på torr asfalt enligt tumregeln?",
+    "options": [
+      "Cirka 32 meter",
+      "Cirka 16 meter",
+      "Cirka 60 meter",
+      "Cirka 90 meter"
+    ],
+    "correct": 0,
+    "explanation": "Tumregeln för torr väg är (hastigheten/10)² × 0,4. Vid 90 km/h: 9² × 0,4 = 81 × 0,4 ≈ 32 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-006",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Ungefär hur lång är bromssträckan vid 50 km/h på torr asfalt?",
+    "options": [
+      "Cirka 5 meter",
+      "Cirka 10 meter",
+      "Cirka 20 meter",
+      "Cirka 40 meter"
+    ],
+    "correct": 1,
+    "explanation": "(50/10)² × 0,4 = 25 × 0,4 = 10 meter. Lägger du till reaktionssträckan på cirka 15 meter blir stoppsträckan cirka 25 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-007",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Ungefär hur lång blir den totala stoppsträckan vid 50 km/h på torr väg med 1 sekunds reaktionstid?",
+    "options": [
+      "Cirka 15 meter",
+      "Cirka 40 meter",
+      "Cirka 25 meter",
+      "Cirka 60 meter"
+    ],
+    "correct": 2,
+    "explanation": "Reaktionssträckan är cirka 15 meter och bromssträckan cirka 10 meter, vilket ger en stoppsträcka på cirka 25 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-008",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h på torr landsväg och reagerar på 1 sekund. Ungefär hur lång blir stoppsträckan?",
+    "options": [
+      "Cirka 30 meter",
+      "Cirka 90 meter",
+      "Cirka 120 meter",
+      "Cirka 60 meter"
+    ],
+    "correct": 3,
+    "explanation": "Reaktionssträckan är cirka 25–27 meter och bromssträckan cirka 32 meter. Tillsammans blir stoppsträckan ungefär 60 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-009",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Du ökar hastigheten från 50 till 100 km/h. Vad händer med bromssträckan?",
+    "options": [
+      "Den blir ungefär fyra gånger så lång",
+      "Den blir dubbelt så lång",
+      "Den blir tre gånger så lång",
+      "Den blir åtta gånger så lång"
+    ],
+    "correct": 0,
+    "explanation": "Bromssträckan ökar med kvadraten på hastigheten. Dubbel hastighet ger 2² = 4 gånger så lång bromssträcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-010",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Hastigheten fördubblas men reaktionstiden är densamma. Vad händer med reaktionssträckan?",
+    "options": [
+      "Den fyrdubblas",
+      "Den fördubblas",
+      "Den är oförändrad",
+      "Den halveras"
+    ],
+    "correct": 1,
+    "explanation": "Reaktionssträckan ökar linjärt med hastigheten, eftersom du hinner lika lång tid men rullar dubbelt så fort. Det är bromssträckan som ökar med kvadraten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-011",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du ökar farten från 30 km/h till 90 km/h. Hur mycket längre blir bromssträckan?",
+    "options": [
+      "Tre gånger så lång",
+      "Sex gånger så lång",
+      "Nio gånger så lång",
+      "Dubbelt så lång"
+    ],
+    "correct": 2,
+    "explanation": "Tre gånger så hög hastighet ger 3² = 9 gånger så lång bromssträcka, eftersom rörelseenergin ökar med kvadraten på hastigheten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-012",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vilket av följande påverkar reaktionssträckan men inte bromssträckan?",
+    "options": [
+      "Däckens mönsterdjup",
+      "Vägens lutning",
+      "Bilens last",
+      "Att du är trött"
+    ],
+    "correct": 3,
+    "explanation": "Trötthet förlänger reaktionstiden och därmed reaktionssträckan. Mönsterdjup, lutning och last påverkar i stället hur snabbt bilen kan bromsas.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-013",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vilket av följande påverkar bromssträckan men inte reaktionssträckan?",
+    "options": [
+      "Väglaget",
+      "Din uppmärksamhet",
+      "Alkoholpåverkan",
+      "Att du använder mobilen"
+    ],
+    "correct": 0,
+    "explanation": "Väglaget avgör friktionen mellan däck och väg och därmed bromssträckan. Uppmärksamhet, alkohol och mobil påverkar reaktionstiden.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-014",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du kör 70 km/h på torr asfalt. Ungefär hur lång blir bromssträckan?",
+    "options": [
+      "Cirka 10 meter",
+      "Cirka 20 meter",
+      "Cirka 35 meter",
+      "Cirka 50 meter"
+    ],
+    "correct": 1,
+    "explanation": "(70/10)² × 0,4 = 49 × 0,4 ≈ 20 meter. Reaktionssträckan på cirka 21 meter tillkommer, så stoppsträckan blir cirka 40 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-015",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 110 km/h på motorväg. Ungefär hur långt rullar bilen under en reaktionstid på 1 sekund?",
+    "options": [
+      "Cirka 11 meter",
+      "Cirka 55 meter",
+      "Cirka 30 meter",
+      "Cirka 110 meter"
+    ],
+    "correct": 2,
+    "explanation": "110 km/h är 110/3,6 ≈ 31 meter per sekund. Tumregeln 110 × 3/10 ger 33 meter, vilket är ett bra överslag.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-016",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h och är så trött att reaktionstiden ökar från 1 till 2 sekunder. Ungefär hur mycket längre blir reaktionssträckan?",
+    "options": [
+      "Cirka 5 meter längre",
+      "Cirka 50 meter längre",
+      "Cirka 100 meter längre",
+      "Cirka 25 meter längre"
+    ],
+    "correct": 3,
+    "explanation": "Vid 90 km/h rullar bilen cirka 25 meter per sekund. En extra sekund innebär därför cirka 25 meter längre reaktionssträcka och lika mycket längre stoppsträcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-017",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vad menas med reaktionssträcka?",
+    "options": [
+      "Sträckan bilen rullar från att du upptäcker faran tills du börjar bromsa",
+      "Sträckan bilen rullar från att du börjar bromsa tills den står stilla",
+      "Sträckan du kan överblicka framför bilen",
+      "Avståndet du bör hålla till framförvarande fordon"
+    ],
+    "correct": 0,
+    "explanation": "Reaktionssträckan är den sträcka du färdas under reaktionstiden, alltså innan bromsarna börjar verka. Den beror på hastigheten och din reaktionstid.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-018",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vad menas med bromssträcka?",
+    "options": [
+      "Sträckan bilen rullar medan du flyttar foten till bromspedalen",
+      "Sträckan bilen rullar från att bromsarna börjar verka tills den står stilla",
+      "Sträckan från att du ser hindret tills bilen står stilla",
+      "Avståndet mellan bilens hjulaxlar"
+    ],
+    "correct": 1,
+    "explanation": "Bromssträckan räknas från att bromsarna börjar verka tills bilen står stilla. Den påverkas av hastighet, väglag, däck, bromsar, last och lutning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-019",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du sänker farten från 100 km/h till 50 km/h. Hur påverkas bromssträckan?",
+    "options": [
+      "Den blir hälften så lång",
+      "Den blir en tredjedel så lång",
+      "Den blir en fjärdedel så lång",
+      "Den blir lika lång"
+    ],
+    "correct": 2,
+    "explanation": "Halverad hastighet ger (1/2)² = en fjärdedel så lång bromssträcka. Även en måttlig fartsänkning ger alltså stor effekt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-020",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Varför ökar bromssträckan med kvadraten på hastigheten?",
+    "options": [
+      "Däcken blir varmare och tappar grepp vid högre fart",
+      "Reaktionstiden blir längre ju fortare man kör",
+      "Motorbromsen slutar fungera i höga hastigheter",
+      "Rörelseenergin ökar med kvadraten på hastigheten och bromsarna måste ta upp all energi"
+    ],
+    "correct": 3,
+    "explanation": "Rörelseenergin är proportionell mot hastigheten i kvadrat. Med konstant bromskraft krävs därför fyra gånger så lång sträcka för att bromsa bort dubbel hastighet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-021",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du kör 30 km/h på torr väg och ett barn springer ut cirka 20 meter framför bilen. Ungefär hur lång är din stoppsträcka med normal reaktionstid?",
+    "options": [
+      "Cirka 13 meter – du hinner stanna",
+      "Cirka 20 meter – du stannar precis vid barnet",
+      "Cirka 25 meter – du hinner inte stanna",
+      "Cirka 30 meter – du hinner inte stanna"
+    ],
+    "correct": 0,
+    "explanation": "Reaktionssträckan är cirka 9 meter och bromssträckan cirka 4 meter, totalt cirka 13 meter. Vid 30 km/h finns alltså marginal.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-022",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 50 km/h på torr väg och ett barn springer ut cirka 20 meter framför bilen. Vad händer med normal reaktionstid?",
+    "options": [
+      "Du stannar med god marginal – stoppsträckan är cirka 10 meter",
+      "Du hinner inte stanna – stoppsträckan är cirka 25 meter",
+      "Du stannar precis – stoppsträckan är cirka 20 meter",
+      "Du hinner inte ens börja bromsa – reaktionssträckan är cirka 25 meter"
+    ],
+    "correct": 1,
+    "explanation": "Vid 50 km/h är reaktionssträckan cirka 15 meter och bromssträckan cirka 10 meter. Du träffar barnet med cirka 30 km/h kvar, vilket visar varför 30-gränser vid skolor räddar liv.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-023",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Vilken faktor har störst betydelse för hur lång stoppsträckan blir?",
+    "options": [
+      "Bilens vikt",
+      "Däckens bredd",
+      "Hastigheten",
+      "Vägens bredd"
+    ],
+    "correct": 2,
+    "explanation": "Hastigheten påverkar både reaktionssträckan (linjärt) och bromssträckan (i kvadrat). Ingen annan enskild faktor har lika stor effekt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-024",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 1,
+    "question": "Hur påverkas bromssträckan när vägen är våt jämfört med torr?",
+    "options": [
+      "Den blir kortare eftersom vattnet kyler bromsarna",
+      "Den påverkas inte om bilen har ABS",
+      "Den blir kortare eftersom däcken får bättre grepp på vått",
+      "Den blir längre eftersom friktionen mellan däck och väg minskar"
+    ],
+    "correct": 3,
+    "explanation": "Vatten minskar friktionen och därmed bromskraften som däcken kan överföra. ABS förhindrar hjullåsning men skapar inte mer friktion.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-025",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du har lastat bilen tungt inför semestern. Hur påverkar det bromssträckan?",
+    "options": [
+      "Den blir längre eftersom en tyngre bil har mer rörelseenergi",
+      "Den påverkas inte eftersom bromsarna kompenserar automatiskt",
+      "Den påverkas inte – lasten påverkar bara reaktionssträckan",
+      "Den blir kortare eftersom däcken trycks hårdare mot vägen"
+    ],
+    "correct": 0,
+    "explanation": "Rörelseenergin ökar med massan. Bromsarna måste ta upp mer energi, och därför blir bromssträckan längre med tung last.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-026",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du har sovit dåligt och för ett samtal i handsfree under körningen. Vilken del av stoppsträckan påverkas främst?",
+    "options": [
+      "Bromssträckan, eftersom du bromsar mjukare",
+      "Reaktionssträckan, eftersom reaktionstiden blir längre",
+      "Både reaktions- och bromssträckan lika mycket",
+      "Ingen del – handsfree påverkar inte körningen"
+    ],
+    "correct": 1,
+    "explanation": "Trötthet och mental distraktion förlänger reaktionstiden och därmed reaktionssträckan. Bromssträckan beror på fart, väglag och fordon, inte på förarens uppmärksamhet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-027",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Du bromsar i en brant nedförsbacke. Hur påverkas bromssträckan jämfört med plan väg?",
+    "options": [
+      "Den blir kortare eftersom motorbromsen hjälper till",
+      "Den blir lika lång – lutningen påverkar inte bromsningen",
+      "Den blir längre eftersom tyngdkraften driver bilen framåt",
+      "Den blir kortare eftersom bilen trycks hårdare mot vägen"
+    ],
+    "correct": 2,
+    "explanation": "I nedförsbacke verkar en del av tyngdkraften i färdriktningen och motverkar bromskraften. Bromssträckan blir längre, och i långa backar bör du använda motorbromsen för att avlasta bromsarna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-028",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Ungefär hur lång är bromssträckan vid 30 km/h på torr asfalt?",
+    "options": [
+      "Cirka 9 meter",
+      "Cirka 15 meter",
+      "Cirka 25 meter",
+      "Cirka 4 meter"
+    ],
+    "correct": 3,
+    "explanation": "(30/10)² × 0,4 = 9 × 0,4 ≈ 3,6 meter. 9 meter är ungefär reaktionssträckan vid samma fart, så stoppsträckan blir cirka 13 meter.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-029",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 2,
+    "question": "Hur kan du enkelt kontrollera att du håller tillräckligt avstånd till bilen framför på landsväg?",
+    "options": [
+      "Räkna sekunder från att bilen framför passerar ett fast föremål tills du gör det – minst tre sekunder",
+      "Håll alltid 20 meters avstånd oavsett hastighet",
+      "Håll lika många meter som hastigheten i km/h delat med tio",
+      "Håll så att du precis ser bakhjulen på bilen framför"
+    ],
+    "correct": 0,
+    "explanation": "Tresekundersregeln ger ett avstånd som växer med hastigheten och rymmer både reaktionssträcka och marginal. 20 meter eller hastigheten/10 räcker inte ens för reaktionssträckan vid landsvägsfart.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-stopp-030",
+    "category": "trafiksakerhet",
+    "subtopic": "stoppstracka",
+    "difficulty": 3,
+    "question": "Du kör 100 km/h i stället för 80 km/h. Ungefär hur mycket längre blir bromssträckan?",
+    "options": [
+      "Ungefär 25 procent längre",
+      "Ungefär 55 procent längre",
+      "Ungefär 100 procent längre",
+      "Ungefär 10 procent längre"
+    ],
+    "correct": 1,
+    "explanation": "Bromssträckan förhåller sig som kvadraten på hastigheterna: (100/80)² = 1,56. En fartökning på 25 procent ger alltså cirka 56 procent längre bromssträcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-001",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Vid vilken temperatur är is på vägbanan som halast?",
+    "options": [
+      "Vid cirka −10 °C",
+      "Vid cirka −20 °C",
+      "Nära 0 °C",
+      "Under −25 °C"
+    ],
+    "correct": 2,
+    "explanation": "Nära nollpunkten bildas en tunn vattenfilm ovanpå isen som gör den extremt hal. Vid sträng kyla är isen torrare och ger något bättre grepp.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-002",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Varför blir det ofta halt på broar innan det blir halt på vägen i övrigt?",
+    "options": [
+      "Broräckena skuggar vägbanan hela dagen",
+      "Saltet rinner av bron när det regnar",
+      "Broar beläggs med en halare typ av asfalt",
+      "Bron kyls av luften både ovanifrån och underifrån och saknar markens värme"
+    ],
+    "correct": 3,
+    "explanation": "Marken lagrar värme som håller vanliga vägar varmare, men en bro är omgiven av kall luft på alla sidor. Därför fryser den tidigare – räkna med is på broar när temperaturen närmar sig noll.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-003",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Det är en klar höstkväll, termometern visar +2 °C och du närmar dig en bro på en landsväg. Hur bör du köra?",
+    "options": [
+      "Sänk farten i god tid före bron och undvik kraftiga manövrer på den",
+      "Öka farten så att du snabbt kommer över bron",
+      "Bromsa hårt precis på bron för att känna efter om det är halt",
+      "Kör som vanligt – vid plusgrader kan det inte vara halt"
+    ],
+    "correct": 0,
+    "explanation": "Vid klar himmel strålar värme ut och bron kan vara isig även om luften visar plusgrader. Sänk farten före bron och håll jämn fart, eftersom bromsning eller styrning på is kan ge sladd.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-004",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Vad menas med blixthalka?",
+    "options": [
+      "Halka som orsakas av blixtnedslag i vägen",
+      "Plötslig halka när underkylt regn fryser direkt på vägbanan",
+      "Halka som bara uppstår nattetid",
+      "Halka på grund av löst grus efter sandning"
+    ],
+    "correct": 1,
+    "explanation": "Vid blixthalka faller regn på en vägbana som är kallare än noll grader och fryser till en jämn ishinna på några minuter. Det kommer utan förvarning och är mycket svårt att upptäcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-005",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Under vilken period ska en personbil ha vinterdäck när det råder vinterväglag?",
+    "options": [
+      "1 oktober–15 april",
+      "1 november–30 april",
+      "1 december–31 mars",
+      "15 november–15 mars"
+    ],
+    "correct": 2,
+    "explanation": "Vinterdäck krävs 1 december–31 mars om det är vinterväglag. Perioden 1 oktober–15 april gäller i stället när dubbdäck är tillåtna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-006",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Vilket är det minsta tillåtna mönsterdjupet på vinterdäck vid vinterväglag?",
+    "options": [
+      "1,6 mm",
+      "5 mm",
+      "8 mm",
+      "3 mm"
+    ],
+    "correct": 3,
+    "explanation": "Vid vinterväglag under vinterdäcksperioden krävs minst 3 mm mönsterdjup. 1,6 mm är lagkravet för sommardäck, men för säker vinterkörning rekommenderas betydligt mer än minimum.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-007",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Under vilken period får du normalt använda dubbdäck?",
+    "options": [
+      "1 oktober–15 april",
+      "1 december–31 mars",
+      "1 november–31 mars",
+      "15 oktober–30 april"
+    ],
+    "correct": 0,
+    "explanation": "Dubbdäck är tillåtna 1 oktober–15 april, och även utanför perioden när det är vinterväglag eller risk för det. Kravet på vinterdäck gäller den kortare perioden 1 december–31 mars.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-008",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Vilket är ett tydligt tecken på att vägbanan kan ha blivit isig?",
+    "options": [
+      "Vägbanan är ljusgrå och torr",
+      "Däcken på bilen framför slutar stänka trots att vägen ser våt ut",
+      "Det ligger löst grus på vägen",
+      "Du hör tydligt vattenstänk under bilen"
+    ],
+    "correct": 1,
+    "explanation": "När vattnet fryser upphör stänket från däcken och ljudet från vägbanan blir tystare, samtidigt som vägen fortfarande ser blank ut. Det är en klassisk varningssignal för is.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-009",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Var på vägen är risken för isfläckar störst en kall dag?",
+    "options": [
+      "På solbelysta raksträckor",
+      "Mitt inne i tätorter",
+      "I skuggiga partier, på broar och genom skogsdungar",
+      "På nysaltade huvudvägar"
+    ],
+    "correct": 2,
+    "explanation": "Där solen inte når hinner isen inte smälta, och broar kyls från alla håll. Vägen kan därför växla mellan torrt och isigt på korta sträckor.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-010",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Bakvagnen börjar glida ut i en kurva på halt underlag. Vad gör du?",
+    "options": [
+      "Bromsar hårt och håller ratten rakt fram",
+      "Gasar och styr bort från sladdriktningen",
+      "Drar i parkeringsbromsen för att räta upp bilen",
+      "Lättar på gasen och styr åt samma håll som bakvagnen glider"
+    ],
+    "correct": 3,
+    "explanation": "Vid överstyrning kontrastyr du, alltså styr dit bakvagnen är på väg, och tittar dit du vill komma. Hård bromsning låser hjulen och gör sladden värre.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-011",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Du svänger in i en kurva på vinterväg men bilen fortsätter rakt fram trots att du vrider på ratten. Vad gör du?",
+    "options": [
+      "Lättar på gasen och minskar rattutslaget något så att framhjulen får grepp igen",
+      "Vrider ratten ännu mer åt kurvhållet",
+      "Bromsar hårt med fullt rattutslag",
+      "Gasar för att få bilen att vända"
+    ],
+    "correct": 0,
+    "explanation": "Detta är understyrning: framhjulen har tappat greppet. Rullande hjul med mindre styrvinkel får lättare fäste igen, medan mer rattutslag bara ökar glidningen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-012",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Din bil har ABS och ett hinder dyker upp på halt underlag. Hur bromsar du bäst?",
+    "options": [
+      "Pumpbromsar för att hjulen inte ska låsa sig",
+      "Bromsar så hårt du kan och styr samtidigt undan hindret",
+      "Släpper bromsen när du känner att pedalen pulserar",
+      "Bromsar lätt så att ABS-systemet inte kopplas in"
+    ],
+    "correct": 1,
+    "explanation": "ABS hindrar hjulen från att låsa sig så att du kan styra under full bromsning. Pulserande pedal är normalt – håll kvar trycket och styr.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-013",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Vad ger ABS-bromsar främst för fördel på snö och grus?",
+    "options": [
+      "Alltid kortare bromssträcka än utan ABS",
+      "Bättre grepp för däcken på is",
+      "Styrbarhet under bromsning, men inte kortare bromssträcka",
+      "Att bilen inte kan få sladd"
+    ],
+    "correct": 2,
+    "explanation": "På löst underlag kan ett låst hjul bygga upp en kil av snö eller grus som bromsar, så ABS kan till och med förlänga bromssträckan något. Vinsten är att du behåller styrförmågan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-014",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Det är rimfrost på bilen en vintermorgon. Vad ska du göra innan du kör i väg?",
+    "options": [
+      "Skrapa ett titthål på förarsidan så du kommer i väg snabbt",
+      "Låta motorn gå på tomgång i en kvart tills isen smält",
+      "Köra med varselljus så att andra ser dig trots frosten",
+      "Skrapa alla rutor och borsta bort snö och is från tak, lyktor och skyltar"
+    ],
+    "correct": 3,
+    "explanation": "Du måste ha fri sikt åt alla håll, och lyktor och registreringsskyltar ska vara synliga. Tomgångskörning är dessutom begränsad, ofta till en minut, i de flesta kommuner.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-015",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Hur lång blir bromssträckan på blank is jämfört med på torr asfalt vid samma hastighet?",
+    "options": [
+      "Flera gånger längre – upp till ungefär tio gånger",
+      "Ungefär dubbelt så lång",
+      "Lika lång om bilen har ABS",
+      "Cirka 20 procent längre"
+    ],
+    "correct": 0,
+    "explanation": "Friktionen på is är bara en bråkdel av den på torr asfalt. Bromssträckan kan därför bli många gånger längre, och ABS ändrar inte friktionen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-016",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "När under dygnet är risken för frosthalka störst vintertid?",
+    "options": [
+      "Mitt på dagen när solen står högst",
+      "Tidigt på morgonen efter en klar natt",
+      "Tidig eftermiddag",
+      "Sent på kvällen strax efter solnedgången"
+    ],
+    "correct": 1,
+    "explanation": "Under en klar natt strålar värmen ut från vägbanan som blir kallast strax före gryningen. Då bildas rimfrost och is, ofta just när morgontrafiken kommer i gång.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-017",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Varför är packad snö i korsningar och vid busshållplatser ofta extra hal?",
+    "options": [
+      "Där saltas det aldrig",
+      "Vägen är bredare där och samlar mer snö",
+      "Snön poleras blank av fordon som bromsar och accelererar",
+      "Avgaserna smälter snön till vatten"
+    ],
+    "correct": 2,
+    "explanation": "Där många fordon bromsar, står stilla och startar slipas snön till en blank yta. Räkna med sämst grepp precis där du behöver det mest – före korsningen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-018",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 2,
+    "question": "Du kör på vinterväg och närmar dig en kurva. Var bör du bromsa?",
+    "options": [
+      "Mitt i kurvan där behovet av lägre fart är störst",
+      "Efter kurvan när vägen är rak igen",
+      "Genom hela kurvan med lätt tryck på bromsen",
+      "Före kurvan, på raksträckan, så att du kan hålla jämn fart genom kurvan"
+    ],
+    "correct": 3,
+    "explanation": "Däckens grepp ska räcka till både styrning och bromsning. Bromsar du i kurvan konkurrerar de om samma grepp och risken för sladd ökar kraftigt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-019",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Vad gör ett antisladdsystem (ESC/ESP)?",
+    "options": [
+      "Bromsar enskilda hjul och minskar motorkraften för att motverka sladd",
+      "Förkortar bromssträckan på is genom att pumpa bromsarna",
+      "Ersätter behovet av vinterdäck",
+      "Värmer däcken så att de får bättre grepp"
+    ],
+    "correct": 0,
+    "explanation": "Antisladdsystemet känner av när bilen börjar glida och bromsar det hjul som behövs för att räta upp bilen. Det kan hjälpa till att förhindra sladd, men det skapar inget nytt grepp.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-020",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Kan du köra fortare på halt underlag om bilen har antisladdsystem?",
+    "options": [
+      "Ja, ungefär 20 procent fortare",
+      "Nej – systemet kan bara utnyttja det grepp som finns, inte skapa mer",
+      "Ja, eftersom systemet ger däcken bättre grepp",
+      "Ja, om bilen dessutom har fyrhjulsdrift"
+    ],
+    "correct": 1,
+    "explanation": "Antisladdsystemet är en hjälp när något redan gått fel, inte en garanti. Fysikens gränser för friktion gäller lika oavsett elektronik.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-021",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Vad innebär fyrhjulsdrift vid körning på halt underlag?",
+    "options": [
+      "Kortare bromssträcka och bättre styrning i kurvor",
+      "Att bilen inte kan få sladd",
+      "Bättre framkomlighet vid start men inte kortare bromssträcka",
+      "Att vinterdäck inte behövs"
+    ],
+    "correct": 2,
+    "explanation": "Fyrhjulsdrift fördelar drivkraften på fyra hjul och hjälper vid acceleration. Vid bromsning bromsar alla bilar på fyra hjul, så bromssträckan blir lika lång.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-022",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Du kör i djup snömodd i 80 km/h och märker plötsligt att styrningen känns lätt. Vad händer?",
+    "options": [
+      "Servostyrningen har slutat fungera",
+      "Det är normalt när däcken blivit varma",
+      "Bilen har fått bättre grepp på modden",
+      "Däcken glider ovanpå modden (moddplaning) – lätta mjukt på gasen"
+    ],
+    "correct": 3,
+    "explanation": "Precis som vid vattenplaning kan däcken inte pressa undan modden vid hög fart och tappar kontakten med vägen. Släpp gasen mjukt och håll ratten stilla tills greppet kommer tillbaka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-023",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Du kör bakom en lastbil som virvlar upp snörök så att sikten framåt nästan försvinner. Vad gör du?",
+    "options": [
+      "Ökar avståndet så att du får sikt igen och avstår från omkörning",
+      "Kör om snabbt för att komma ur snöröken",
+      "Lägger dig nära bakom för att kunna följa lastbilens ljus",
+      "Tänder helljuset så att du ser bättre i snöröken"
+    ],
+    "correct": 0,
+    "explanation": "I snörök ser du varken vägen eller mötande trafik. Ökat avstånd ger sikt och tid att reagera, medan en omkörning i snörök är ren chansning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-024",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 3,
+    "question": "Du bromsar hårt på is i en bil utan ABS. Hjulen låser sig och bilen fortsätter rakt fram trots att du styr. Vad gör du?",
+    "options": [
+      "Trycker ännu hårdare på bromspedalen",
+      "Släpper bromsen kort så att hjulen rullar, styr och bromsar sedan igen",
+      "Drar i parkeringsbromsen",
+      "Vrider ratten till fullt utslag"
+    ],
+    "correct": 1,
+    "explanation": "Ett låst hjul kan inte styra. Genom att släppa bromsen får hjulen grepp och styrförmågan tillbaka – det är detta ABS gör automatiskt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-halka-025",
+    "category": "trafiksakerhet",
+    "subtopic": "halka-vinter",
+    "difficulty": 1,
+    "question": "Varför ger sommardäck dåligt grepp vintertid även när vägen är torr?",
+    "options": [
+      "Mönstret slits snabbare i kyla",
+      "Lufttrycket ökar när det är kallt",
+      "Gummiblandningen hårdnar i kyla och fäster sämre mot vägbanan",
+      "Däcken blir bredare av kylan"
+    ],
+    "correct": 2,
+    "explanation": "Sommardäckens gummi är gjort för värme och blir stelt under cirka +7 °C. Vinterdäck har en mjukare blandning som behåller greppet i kyla.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-001",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Ungefär hur långt fram lyser halvljuset upp vägen?",
+    "options": [
+      "Cirka 50–60 meter",
+      "Cirka 20–30 meter",
+      "Cirka 100–150 meter",
+      "Cirka 200–300 meter"
+    ],
+    "correct": 0,
+    "explanation": "Halvljuset räcker ungefär 50–60 meter. Vid 90 km/h är stoppsträckan på torr väg ungefär lika lång, så marginalen är mycket liten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-002",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Ungefär hur långt fram lyser helljuset upp vägen?",
+    "options": [
+      "Cirka 50–60 meter",
+      "Cirka 150–250 meter",
+      "Cirka 300–400 meter",
+      "Över 500 meter"
+    ],
+    "correct": 1,
+    "explanation": "Helljuset lyser cirka 150–250 meter, alltså flera gånger längre än halvljuset. Använd det så mycket som möjligt utan att blända andra.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-003",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "På ungefär vilket avstånd upptäcker du en mörkklädd gående utan reflex när du kör med halvljus?",
+    "options": [
+      "Cirka 60–70 meter",
+      "Cirka 125 meter",
+      "Cirka 20–30 meter",
+      "Cirka 200 meter"
+    ],
+    "correct": 2,
+    "explanation": "En mörkklädd person utan reflex syns först på cirka 20–30 meter i halvljus. Det är kortare än stoppsträckan redan vid 50 km/h.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-004",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "På ungefär vilket avstånd syns en gående som bär reflex i halvljus?",
+    "options": [
+      "Cirka 25 meter",
+      "Cirka 60 meter",
+      "Cirka 300 meter",
+      "Cirka 125 meter"
+    ],
+    "correct": 3,
+    "explanation": "Reflexen kastar tillbaka strålkastarljuset och syns på cirka 125 meter i halvljus. Det ger dig flera sekunder extra att reagera.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-005",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h på torr landsväg i mörker med halvljus. Vilket påstående stämmer?",
+    "options": [
+      "Stoppsträckan är ungefär lika lång som halvljusets räckvidd – du bör sänka farten",
+      "Halvljuset räcker gott eftersom stoppsträckan bara är cirka 30 meter",
+      "Halvljuset lyser 150 meter så marginalen är stor",
+      "Mörkret påverkar inte stoppsträckan, så farten är lämplig"
+    ],
+    "correct": 0,
+    "explanation": "Stoppsträckan vid 90 km/h är cirka 60 meter och halvljuset räcker 50–60 meter. En mörkklädd gående syns dessutom först på 20–30 meter, så du hinner inte stanna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-006",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "När ska du blända av från helljus till halvljus vid ett möte?",
+    "options": [
+      "Precis när fordonen möts",
+      "I god tid, cirka 200–300 meter före mötet",
+      "Cirka 50 meter före mötet",
+      "Först när den mötande har bländat av"
+    ],
+    "correct": 1,
+    "explanation": "Blända av så snart du riskerar att blända den mötande, normalt på 200–300 meters avstånd. Bländning gör att den andra föraren tillfälligt inte ser något alls.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-007",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Du hinner ikapp en bil framför dig i mörker. Hur använder du helljuset?",
+    "options": [
+      "Använder helljus så att föraren framför ser vägen bättre",
+      "Bländar av först när avståndet är under 20 meter",
+      "Bländar av i god tid så att du inte bländar föraren via backspeglarna",
+      "Växlar mellan hel- och halvljus för att visa att du vill köra om"
+    ],
+    "correct": 2,
+    "explanation": "Helljus bakifrån bländar via inner- och ytterbackspeglarna. Blända av i god tid när du närmar dig ett framförvarande fordon.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-008",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Du blir bländad av en mötande bil. Vad gör du?",
+    "options": [
+      "Tittar rakt in i ljuset så att ögonen vänjer sig",
+      "Bländar upp med helljuset för att markera",
+      "Bromsar hårt och stannar på vägen",
+      "Tittar mot höger vägkant och sänker farten"
+    ],
+    "correct": 3,
+    "explanation": "Genom att följa högra vägkanten med blicken undviker du det starkaste ljuset men behåller kontrollen över var vägen går. Sänkt fart ger marginal eftersom du ser sämre.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-009",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "En mötande bil bländar inte av trots att ni närmar er varandra. Vad gör du?",
+    "options": [
+      "Blinkar kort med helljuset, tittar åt höger och sänker farten",
+      "Kör med helljus tills den mötande bländar av",
+      "Tutar och håller farten",
+      "Stannar mitt på vägen och väntar"
+    ],
+    "correct": 0,
+    "explanation": "En kort blinkning kan påminna föraren. Att svara med helljus gör att båda blir bländade, vilket är mycket farligare än att själv bli bländad.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-010",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Varför ser du sämre en stund efter att du blivit bländad?",
+    "options": [
+      "Vindrutan blir immig av det starka ljuset",
+      "Ögat behöver flera sekunder för att återanpassa sig till mörkret",
+      "Halvljuset dämpas tillfälligt av bilens elsystem",
+      "Pupillen förstoras omedelbart och släpper in för mycket ljus"
+    ],
+    "correct": 1,
+    "explanation": "Starkt ljus får pupillen att dra ihop sig och näthinnan att tappa mörkerkänslighet. Återhämtningen tar tid, och under den tiden är du nästan blind – därför sänker du farten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-011",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "När får du slå på helljuset igen efter ett möte?",
+    "options": [
+      "När den mötande är minst 50 meter bakom dig",
+      "Efter minst tio sekunder",
+      "Så snart fordonen har passerat varandra",
+      "Först när du inte längre ser några baklyktor"
+    ],
+    "correct": 2,
+    "explanation": "Så fort fordonen är i jämnhöjd bländar du inte längre den mötande, och du bör då återgå till helljus för att få tillbaka sikten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-012",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 3,
+    "question": "Du närmar dig ett backkrön i mörker med helljus och ser ett ljussken bakom krönet. Vad gör du?",
+    "options": [
+      "Behåller helljuset tills du ser den mötande bilens strålkastare",
+      "Blinkar med helljuset för att varna",
+      "Tänder dimbakljuset så att du syns bättre",
+      "Bländar av i god tid eftersom ljusskenet kan komma från en mötande bil"
+    ],
+    "correct": 3,
+    "explanation": "Vid backkrön och kurvor ser du den mötande sent, men ljusskenet avslöjar att någon är på väg. Blända av innan ni får ögonkontakt med varandras strålkastare.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-013",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Vad är typiskt för synen i mörker?",
+    "options": [
+      "Färger och detaljer syns sämre och avstånd blir svårare att bedöma",
+      "Du ser bättre på långt håll än i dagsljus",
+      "Synskärpan är oförändrad men synfältet blir bredare",
+      "Färger syns tydligare eftersom ögat är utvilat"
+    ],
+    "correct": 0,
+    "explanation": "I mörker arbetar ögats stavar, som är känsliga för ljus men inte ser färg eller fina detaljer. Kontraster och rörelse i ögonvrån upptäcks fortfarande, men avståndsbedömningen försämras.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-014",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Bilen bakom dig kör med starka strålkastare och du bländas i innerbackspegeln. Vad gör du?",
+    "options": [
+      "Tänder dimbakljuset så att bakomvarande ökar avståndet",
+      "Ställer om innerbackspegeln till nattläge",
+      "Bromsar kraftigt för att markera",
+      "Vrider ytterbackspeglarna nedåt"
+    ],
+    "correct": 1,
+    "explanation": "Innerbackspegelns nattläge dämpar ljuset bakifrån utan att du förlorar sikten bakåt. Dimbakljus i onödan bländar och är inte tillåtet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-015",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Du måste parkera på en obelyst landsväg i mörker. Vilken belysning ska vara tänd?",
+    "options": [
+      "Helljus",
+      "Dimbakljus",
+      "Parkeringsljus",
+      "Ingen belysning behövs om bilen står på vägrenen"
+    ],
+    "correct": 2,
+    "explanation": "Ett fordon som står på väg i mörker utan vägbelysning ska ha parkeringsljus tänt så att andra upptäcker det i tid.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-016",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Varför är skymningen en särskilt riskfylld tid att köra?",
+    "options": [
+      "Det är alltid mer trafik i skymningen",
+      "Bromsarna fungerar sämre när temperaturen sjunker",
+      "Halvljuset lyser sämre i skymning än på natten",
+      "Kontrasterna minskar och ögat har svårt att anpassa sig, samtidigt som många trafikanter syns dåligt"
+    ],
+    "correct": 3,
+    "explanation": "I skymningen är det för ljust för att strålkastarna ska hjälpa mycket men för mörkt för att se detaljer. Gående utan reflex och vilt är då svåra att upptäcka.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-017",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Vilken grundregel gäller för hastigheten när du kör i mörker?",
+    "options": [
+      "Du ska kunna stanna inom den sträcka du kan överblicka i strålkastarljuset",
+      "Du får köra högsta tillåtna hastighet om helljuset är tänt",
+      "Du ska hålla samma hastighet som i dagsljus",
+      "Du ska hålla högst 70 km/h oavsett väg"
+    ],
+    "correct": 0,
+    "explanation": "Hastighetsgränsen är ett tak, inte ett mål. I mörker är den synliga sträckan begränsad av ljuset, och du måste kunna stanna inom den.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-018",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 2,
+    "question": "Efter ett möte i mörker ser du nästan ingenting en kort stund. Vad kan ha gjort bländningen värre?",
+    "options": [
+      "Att du körde med halvljus i stället för helljus",
+      "En smutsig eller repig vindruta som sprider ljuset",
+      "Att den mötande bilen hade LED-strålkastare",
+      "Att du höll för låg fart"
+    ],
+    "correct": 1,
+    "explanation": "Smuts, repor och imma på vindrutan bryter ljuset i alla riktningar och förstärker bländningen kraftigt. Håll rutorna rena både utvändigt och invändigt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-019",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 1,
+    "question": "Vilken del av vägen är särskilt viktig att bevaka vid möte i mörker?",
+    "options": [
+      "Vänster vägkant bakom den mötande bilen",
+      "Mittlinjen",
+      "Höger vägkant där gående och cyklister kan finnas",
+      "Backspeglarna"
+    ],
+    "correct": 2,
+    "explanation": "Gående och cyklister på din sida befinner sig vid höger vägkant, precis i det område som är svårast att se när du bländas av mötande ljus.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-mork-020",
+    "category": "trafiksakerhet",
+    "subtopic": "morker",
+    "difficulty": 3,
+    "question": "Trafiken är glesare på natten, men risken per körd kilometer är högre. Vilken är den viktigaste förklaringen?",
+    "options": [
+      "Vägbanan är alltid halare på natten",
+      "Bilens bromsar reagerar långsammare när det är kallt",
+      "Trafiksignalerna är avstängda på natten",
+      "Förare håller för hög fart i förhållande till hur långt de faktiskt ser"
+    ],
+    "correct": 3,
+    "explanation": "I mörker upplevs farten lägre och siktsträckan överskattas. Samtidigt är många förare trötta, vilket förlänger reaktionstiden ytterligare.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-001",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Vad händer med bilen vid vattenplaning?",
+    "options": [
+      "Bromsarna blir blöta och slutar fungera",
+      "Motorn får in vatten och tappar kraft",
+      "Styrningen blir tyngre på grund av vattnets motstånd",
+      "Däcken flyter upp på en vattenfilm och tappar kontakten med vägbanan"
+    ],
+    "correct": 3,
+    "explanation": "När däcken inte hinner pressa undan vattnet bildas en kil av vatten under dem. Då förlorar du både styr- och bromsförmåga tills däcken får kontakt med vägen igen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-002",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "Vilka faktorer ökar risken för vattenplaning?",
+    "options": [
+      "Hög fart, slitna däck och mycket vatten på vägen",
+      "Låg fart och nya däck med djupt mönster",
+      "Högt lufttryck och smala däck",
+      "Torr asfalt och hög fart"
+    ],
+    "correct": 0,
+    "explanation": "Ju högre fart och ju mer vatten, desto mer vatten måste däcken leda bort per sekund. Slitna däck och för lågt lufttryck försämrar förmågan att göra det.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-003",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Du får vattenplaning på motorvägen. Vad gör du?",
+    "options": [
+      "Bromsar hårt för att få ner farten snabbt",
+      "Släpper gasen, håller ratten stilla och väntar på att greppet kommer tillbaka",
+      "Gasar för att pressa däcken mot vägen",
+      "Styr kraftigt mot vägkanten"
+    ],
+    "correct": 1,
+    "explanation": "Under vattenplaningen har du inget grepp, så bromsning och styrning gör ingen nytta – men när greppet återvänder kan ett rattutslag eller låsta hjul ge sladd. Släpp gasen så minskar farten och däcken får fäste igen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-004",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "Varför är vägen extra hal när det börjar regna efter en lång torrperiod?",
+    "options": [
+      "Regnvattnet är kallare än vägbanan",
+      "Asfalten sväller och blir mjuk av fukten",
+      "Damm, olja och gummirester på vägen bildar en hal film med vattnet",
+      "Däcken är för varma för att fästa på vått underlag"
+    ],
+    "correct": 2,
+    "explanation": "Under torrperioden samlas smuts och olja på vägbanan. Det första regnet löser upp detta till en såpliknande hinna som är hal tills regnet sköljt bort den.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-005",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Det är höst och vägen är täckt av våta löv. Vad bör du tänka på?",
+    "options": [
+      "Löven ger bättre grepp än blank asfalt",
+      "Löven påverkar bara motorcyklister",
+      "Löven är bara hala när de är torra",
+      "Våta löv kan vara nästan lika hala som is – sänk farten och undvik häftiga manövrer"
+    ],
+    "correct": 3,
+    "explanation": "Våta löv bildar ett glatt lager mellan däck och asfalt. Särskilt i kurvor och vid bromsning kan greppet försvinna överraskande.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-006",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "Du kör ut ur ett skogsparti på en bro en mycket blåsig dag. Vad bör du vara beredd på?",
+    "options": [
+      "Plötslig sidvind som kan knuffa bilen i sidled – håll stadigt i ratten och sänk farten",
+      "Att vägbanan är halare på bron på grund av vinden",
+      "Att vinden minskar bromssträckan",
+      "Att bilen blir tyngre i vinden"
+    ],
+    "correct": 0,
+    "explanation": "Skogen ger lä, men på en öppen bro träffar vinden bilen med full kraft. Var beredd att parera med små rattrörelser och håll lägre fart.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-007",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 3,
+    "question": "Du kör om en lastbil i kraftig sidvind. När är risken för en vindknuff störst?",
+    "options": [
+      "När du ligger precis bakom lastbilen",
+      "När du kommer ut ur lastbilens lä framför den",
+      "När du är i höjd med lastbilens bakhjul",
+      "Risken är lika stor under hela omkörningen"
+    ],
+    "correct": 1,
+    "explanation": "Bredvid lastbilen ligger du i lä. När du passerar dess front träffas bilen plötsligt av full vind, och om du redan har kompenserat med ratten kan bilen kastas åt sidan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-008",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "Det regnar kraftigt och vatten samlas i hjulspåren på motorvägen. Hur bör du köra?",
+    "options": [
+      "Köra mitt i spåren för att få jämnare underlag",
+      "Öka farten så att däcken skjuter undan vattnet",
+      "Sänka farten och gärna köra något vid sidan av de vattenfyllda spåren",
+      "Hålla normal hastighet men öka avståndet framåt"
+    ],
+    "correct": 2,
+    "explanation": "I spåren är vattendjupet störst och risken för vattenplaning som högst. Lägre fart är den viktigaste åtgärden, och att undvika de djupaste spåren hjälper också.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-009",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Varför ska du inte köra med helljus i tät dimma?",
+    "options": [
+      "Helljuset drar för mycket ström i fuktig luft",
+      "Det är alltid förbjudet att använda helljus när det är fuktigt",
+      "Helljuset värmer upp dimman så att den blir tätare",
+      "Ljuset reflekteras i dimman och försämrar din sikt"
+    ],
+    "correct": 3,
+    "explanation": "Dimmans vattendroppar kastar tillbaka det starka, högt riktade helljuset mot dig som en vit vägg. Halvljus eller dimljus fram lyser lägre och ger bättre sikt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-010",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "När får du använda dimbakljuset?",
+    "options": [
+      "Vid dimma eller kraftig nederbörd när sikten är kraftigt nedsatt, ungefär under 50 meter",
+      "Alltid när det är mörkt på landsväg",
+      "När du kör i kö i regn så att bakomvarande ser dig",
+      "När det regnar lätt"
+    ],
+    "correct": 0,
+    "explanation": "Dimbakljuset är mycket starkt och bländar bakomvarande. Det får bara användas när sikten är kraftigt nedsatt och ska släckas när det inte längre behövs, till exempel i kö.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-011",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Det är tidig vår och vintersanden ligger kvar på asfalten. Vad innebär det i kurvor?",
+    "options": [
+      "Gruset ger bättre grepp än ren asfalt",
+      "Löst grus på asfalt gör att däcken kan tappa greppet – sänk farten",
+      "Gruset påverkar bara bromssträckan vid höga farter",
+      "Gruset är bara farligt när det regnar"
+    ],
+    "correct": 1,
+    "explanation": "Grus på hård asfalt fungerar som små kullager. Särskilt i kurvor och vid bromsning kan greppet försvinna plötsligt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-012",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 2,
+    "question": "Bilens termometer visar +1 °C en tidig morgon. Kan det vara halt?",
+    "options": [
+      "Nej – vid plusgrader kan is inte bildas",
+      "Bara om det har snöat under natten",
+      "Ja – vägbanan kan vara kallare än luften och isig på utsatta ställen",
+      "Nej – bilens termometer mäter vägbanans temperatur"
+    ],
+    "correct": 2,
+    "explanation": "Termometern mäter luften, inte vägbanan. Efter en klar natt kan vägytan vara flera grader kallare än luften, särskilt på broar och i skugga.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-013",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 1,
+    "question": "Du kör västerut en kväll med solen lågt framför dig. Vilken risk är störst?",
+    "options": [
+      "Att motorn överhettas av solen",
+      "Att mötande inte ser dig",
+      "Att vägen blir halare av värmen",
+      "Att du bländas och missar gående, cyklister eller trafiksignaler"
+    ],
+    "correct": 3,
+    "explanation": "Lågt stående sol kan göra dig nästan blind, särskilt genom en smutsig ruta. Sänk farten, använd solskyddet och håll rutorna rena både ut- och invändigt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-014",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 3,
+    "question": "Du kör med lågt stående sol i ryggen. Vad bör du särskilt tänka på?",
+    "options": [
+      "Att mötande förare kan vara bländade och ha svårt att se dig",
+      "Att du ska köra med dimbakljus så att bakomvarande ser dig",
+      "Att du måste tända helljuset",
+      "Att din reaktionssträcka blir längre"
+    ],
+    "correct": 0,
+    "explanation": "Solen som ligger bakom dig träffar mötande förare rakt i ögonen. Räkna med att de kan missa dig och var beredd, till exempel innan de svänger vänster framför dig.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vag-015",
+    "category": "trafiksakerhet",
+    "subtopic": "vaglag-vader",
+    "difficulty": 3,
+    "question": "Du kör 110 km/h på motorväg i kraftigt regn med däck som har 2 mm mönsterdjup. Vilken är den största risken?",
+    "options": [
+      "Att bromsarna blir blöta och slutar fungera",
+      "Vattenplaning, eftersom slitna däck inte hinner leda bort vattnet",
+      "Att bilen överstyr i kurvor på grund av vattnets tyngd",
+      "Att mönsterdjupet är olagligt – lagkravet är 3 mm på sommaren"
+    ],
+    "correct": 1,
+    "explanation": "Däckens mönster ska leda bort vattnet, och med 2 mm är kapaciteten kraftigt minskad. 2 mm är lagligt på sommaren (kravet är 1,6 mm) men långt från säkert i hög fart i regn.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-001",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Hur ska du anpassa hastigheten till siktsträckan?",
+    "options": [
+      "Så att du kan stanna inom dubbla siktsträckan",
+      "Så att du kan stanna inom den sträcka du kan överblicka",
+      "Så att du hinner tuta innan du når ett hinder",
+      "Så att du håller samma fart som framförvarande"
+    ],
+    "correct": 1,
+    "explanation": "Om ett hinder finns precis bortom det du ser måste hela stoppsträckan rymmas inom siktsträckan. Annars kör du i praktiken blint.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-002",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 3,
+    "question": "Du kör på en smal grusväg där möte sker på samma körfält och sikten skyms av en kurva. Hur bör du anpassa farten?",
+    "options": [
+      "Så att du kan stanna inom hela siktsträckan",
+      "Så att du kan stanna inom dubbla siktsträckan",
+      "Så att du kan stanna inom halva siktsträckan, eftersom en mötande behöver den andra halvan",
+      "Farten spelar ingen roll om du tutar före kurvan"
+    ],
+    "correct": 2,
+    "explanation": "Om en mötande bil kommer i samma fart delar ni på siktsträckan. Båda måste därför kunna stanna på var sin halva.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-003",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Du kör i tät dimma och följer bakljusen på bilen framför. Vad är risken med att ligga tätt bakom?",
+    "options": [
+      "Att bakljusen bländar dig",
+      "Att du förbrukar mer bränsle",
+      "Att föraren framför tror att du vill köra om",
+      "Att du inte hinner stanna om bilen framför bromsar plötsligt eller kör på något"
+    ],
+    "correct": 3,
+    "explanation": "Bakljusen säger inget om vad som finns framför den bilen. Håll avstånd och kör efter din egen siktsträcka, inte efter någon annans.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-004",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Rutorna immar igen på insidan när du kör. Vad gör du?",
+    "options": [
+      "Riktar fläkten mot rutorna och använder luftkonditioneringen för att avfukta luften",
+      "Öppnar sidorutan och kör vidare med ett litet titthål",
+      "Torkar rutan med handen medan du kör",
+      "Stänger av fläkten så att luften inte cirkulerar"
+    ],
+    "correct": 0,
+    "explanation": "Varm, torr luft mot rutorna tar bort imman snabbast, och AC:n avfuktar luften. Kör aldrig med begränsad sikt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-005",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Vad menas med döda vinkeln?",
+    "options": [
+      "Området precis framför motorhuven",
+      "Områden runt bilen som du inte ser i backspeglarna",
+      "Området som strålkastarna inte lyser upp",
+      "Den del av vindrutan som torkarna inte når"
+    ],
+    "correct": 1,
+    "explanation": "Speglarna täcker inte allt, framför allt snett bakåt vid sidan av bilen. Kontrollera döda vinkeln genom att vrida på huvudet före körfältsbyte och sväng.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-006",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Du ska köra ut från en parkeringsficka och en skåpbil skymmer sikten åt vänster. Vad gör du?",
+    "options": [
+      "Kör ut snabbt så att du inte hindrar trafiken bakom",
+      "Tutar och kör ut",
+      "Kryper fram långsamt tills du får fri sikt, beredd att stanna",
+      "Kör ut eftersom trafiken på gatan har väjningsplikt mot dig"
+    ],
+    "correct": 2,
+    "explanation": "Du har väjningsplikt vid utfart och måste kunna se att det är fritt. Genom att krypa fram får du sikt utan att köra ut i körbanan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-007",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Vad bör du göra inför vintern för att säkra sikten genom vindrutan?",
+    "options": [
+      "Vaxa rutan utvändigt så att is inte fastnar",
+      "Använda varmt vatten för att tina isen varje morgon",
+      "Sänka rutorna en bit för att undvika imma",
+      "Byta slitna torkarblad och fylla på spolarvätska med frostskydd"
+    ],
+    "correct": 3,
+    "explanation": "Slitna torkarblad smetar och vanligt vatten fryser i spolarsystemet. Varmt vatten kan spräcka rutan och fryser dessutom snabbt igen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-008",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Varför ska du borsta bort snön från biltaket innan du kör?",
+    "options": [
+      "Snön kan rasa ner över vindrutan vid inbromsning eller blåsa av och skymma sikten för andra",
+      "För att minska bilens vikt",
+      "För att snön annars skadar lacken",
+      "För att snön isolerar så att kupén blir för varm"
+    ],
+    "correct": 0,
+    "explanation": "Vid en inbromsning glider snön framåt över vindrutan och tar bort all sikt, och i fart kan sjok blåsa av i ansiktet på bakomvarande.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-009",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Vad är viktigt att tänka på i korsningar på grund av bilens vindrutestolpar (A-stolpar)?",
+    "options": [
+      "De gör att du inte kan se trafiksignalen",
+      "De kan dölja en gående eller cyklist – rör på huvudet för att titta runt stolpen",
+      "De skyddar dig så att du kan svänga snabbare",
+      "De påverkar bara sikten bakåt"
+    ],
+    "correct": 1,
+    "explanation": "En stolpe kan dölja en hel person eller cyklist, särskilt när ni rör er i samma vinkel. Genom att flytta huvudet ser du runt stolpen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-010",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Du närmar dig ett backkrön på en landsväg med ett körfält i vardera riktningen. Varför bör du sänka farten?",
+    "options": [
+      "Det är alltid förbjudet att köra fortare än 50 km/h över backkrön",
+      "Backkrönet gör att strålkastarna inte fungerar",
+      "Bakom krönet kan det finnas ett stillastående fordon eller en mötande som kör om – sikten är skymd",
+      "Högerregeln gäller på backkrön så du måste kunna stanna"
+    ],
+    "correct": 2,
+    "explanation": "Vid backkrön är siktsträckan mycket kort. Du måste kunna stanna för det du inte kan se ännu, och räkna med att någon kan komma på din sida av vägen.",
+    "reviewed": false
+  }
+]

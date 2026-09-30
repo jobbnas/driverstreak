@@ -6,7 +6,7 @@
     "difficulty": 1,
     "question": "Vad innebär det att du har väjningsplikt?",
     "options": [
-      "Du ska i god tid sänka farten eller stanna och får bara fortsätta om det kan ske utan fara eller hinder för andra.",
+      "Du ska sänka farten eller stanna i god tid och bara fortsätta om det kan ske utan fara eller hinder.",
       "Du ska alltid stanna helt vid korsningen, även om ingen annan trafik syns.",
       "Du behöver bara stanna om ett annat fordon tydligt visar att det inte tänker väja.",
       "Du får köra före om du kommer först fram till korsningen."
@@ -154,7 +154,7 @@
     "question": "Vad är skillnaden i väjningsplikt mellan en cykelöverfart och en cykelpassage?",
     "options": [
       "Vid båda har cyklisten väjningsplikt mot bilister.",
-      "Vid cykelöverfart har du väjningsplikt mot cyklister; vid cykelpassage har cyklisten väjningsplikt, men du ska anpassa farten.",
+      "Vid cykelöverfart har du väjningsplikt; vid cykelpassage har cyklisten det, men du ska anpassa farten.",
       "Vid båda har du som bilist väjningsplikt mot cyklister.",
       "Vid cykelpassage har du väjningsplikt mot cyklister; vid cykelöverfart har cyklisten väjningsplikt."
     ],
@@ -622,7 +622,7 @@
     "options": [
       "Ja, gående från höger har företräde.",
       "Ja, men bara i tätort.",
-      "Nej, högerregeln gäller mellan fordon; mot gående gäller andra regler, t.ex. att lämna dem företräde när du svänger.",
+      "Nej, högerregeln gäller mellan fordon; mot gående gäller t.ex. att lämna dem företräde när du svänger.",
       "Nej, gående har alltid väjningsplikt mot bilar."
     ],
     "correct": 2,
@@ -864,7 +864,7 @@
     "options": [
       "De ger högre hastigheter genom korsningen.",
       "De gör att högerregeln inte behöver läras ut.",
-      "De sänker farten och ersätter vinkelräta krockar med lindrigare sidokollisioner, vilket ger färre allvarliga olyckor.",
+      "De sänker farten och ersätter vinkelräta krockar med lindrigare sidokollisioner – färre svåra olyckor.",
       "De är billigare än trafiksignaler att bygga."
     ],
     "correct": 2,
@@ -879,7 +879,7 @@
     "question": "Du står vid infarten till en tvåfältig cirkulationsplats. En bil kör i det inre körfältet långt bort från din infart. Får du köra in?",
     "options": [
       "Nej, du måste alltid vänta tills cirkulationen är helt tom.",
-      "Ja, om du kan köra in utan att hindra eller störa bilen – väjningsplikt betyder inte att du måste stanna för alla.",
+      "Ja, om du kan köra in utan att hindra eller störa bilen – väjningsplikt kräver inte stopp för alla.",
       "Ja, eftersom bilen i inre körfältet inte får köra ut vid din infart.",
       "Nej, fordon i cirkulationen måste först ha stannat innan du får köra in."
     ],
@@ -929,7 +929,7 @@
     "options": [
       "Nej, att passera till höger är alltid förbjudet.",
       "Nej, du måste först byta till vänster körfält.",
-      "Ja, där körbanan har minst två markerade körfält i samma riktning och hastighetsgränsen är högst 70 km/h får du passera till höger.",
+      "Ja, med minst två markerade körfält i samma riktning och högst 70 km/h får du passera till höger.",
       "Ja, men bara om du tutar först."
     ],
     "correct": 2,
@@ -994,7 +994,7 @@
     "options": [
       "Nej, omkörning i korsningar är alltid förbjuden.",
       "Nej, eftersom du inte kan se om korsande trafik väjer.",
-      "Ja, förbudet mot omkörning i korsning gäller inte när korsande trafik har väjningsplikt, men det måste ändå kunna ske säkert.",
+      "Ja, förbudet gäller inte när korsande trafik har väjningsplikt, men det måste ändå kunna ske säkert.",
       "Ja, men bara om du kör om till höger."
     ],
     "correct": 2,
@@ -1153,7 +1153,7 @@
     "question": "Är det förbjudet att köra om strax före ett bevakat övergångsställe (med trafiksignal) när du har grönt?",
     "options": [
       "Ja, omkörning är förbjuden före alla övergångsställen.",
-      "Nej, förbudet gäller obevakade övergångsställen, men omkörningen måste ändå ske utan att gående utsätts för fara.",
+      "Nej, förbudet gäller obevakade övergångsställen, men gående får ändå inte utsättas för fara.",
       "Ja, men bara om övergångsstället är i tätort.",
       "Nej, vid bevakat övergångsställe får du alltid köra om oavsett trafiken."
     ],
@@ -1250,7 +1250,7 @@
     "options": [
       "Du måste sakta ner så att du inte passerar bilarna i vänster körfält.",
       "Du måste byta till vänster körfält innan du passerar någon.",
-      "Du får fortsätta i ditt körfält och passera bilarna till vänster om dig; vid kökörning i flera körfält är det tillåtet.",
+      "Du får fortsätta i ditt körfält och passera bilarna till vänster; vid kökörning i flera körfält är det ok.",
       "Du får bara passera om hastighetsgränsen är 30 km/h."
     ],
     "correct": 2,
@@ -1281,7 +1281,7 @@
     "question": "Varför är det farligare att köra om i mörker än i dagsljus på landsväg?",
     "options": [
       "Därför att omkörning är förbjuden i mörker.",
-      "Därför att det är svårare att bedöma mötande fordons avstånd och hastighet, och du ser inte vägen lika långt framåt.",
+      "Därför att mötandes avstånd och fart är svårare att bedöma, och du ser inte vägen lika långt fram.",
       "Därför att helljuset måste vara släckt under omkörning.",
       "Därför att fartskillnaden alltid blir mindre i mörker."
     ],
@@ -1358,7 +1358,7 @@
     "category": "trafikregler",
     "subtopic": "hastigheter",
     "difficulty": 1,
-    "question": "Hur fort får du köra i ett gångfartsområde?",
+    "question": "Du kör in på en gata skyltad som gångfartsområde för att hämta en vän. Hur fort får du köra där?",
     "options": [
       "Högst 30 km/h.",
       "Högst 20 km/h.",
@@ -1426,7 +1426,7 @@
     "options": [
       "Du får köra i hastighetsgränsen så länge vägen är torr.",
       "Du får köra så fort du kan hålla bilen på vägen.",
-      "Du ska anpassa farten så att du kan stanna inom den sträcka du överblickar och före varje hinder som går att förutse – aldrig över gränsen.",
+      "Du ska kunna stanna inom den sträcka du överblickar och före varje förutsebart hinder – aldrig över gränsen.",
       "Du ska följa hastigheten hos trafiken omkring dig."
     ],
     "correct": 2,
@@ -1491,7 +1491,7 @@
     "options": [
       "För att minska bullret i första hand.",
       "För att bilar ska slippa köa vid skolorna.",
-      "För att risken att en påkörd gående dör ökar kraftigt mellan 30 och 50 km/h, och stoppsträckan blir mycket kortare.",
+      "För att dödsrisken för en påkörd gående ökar kraftigt mellan 30 och 50 km/h, och stoppsträckan blir kortare.",
       "För att 30 km/h är den mest bränslesnåla hastigheten."
     ],
     "correct": 2,
@@ -1508,7 +1508,7 @@
       "Du får köra 70 km/h eftersom det är hastighetsgränsen.",
       "Du måste sänka till 50 km/h enligt lag vid regn.",
       "Hastighetsgränsen sänks automatiskt till 60 km/h vid regn.",
-      "Du ska sänka farten efter förhållandena; gränsen är ett tak, inte ett riktvärde, och risken för vattenplaning ökar med farten."
+      "Du ska sänka farten efter förhållandena; gränsen är ett tak, och risken för vattenplaning ökar med farten."
     ],
     "correct": 3,
     "explanation": "Ingen automatisk sänkning finns, men grundregeln kräver att du anpassar farten till väglaget. Vid vatten på vägen ökar risken för vattenplaning snabbt med hastigheten, särskilt med slitna däck.",
@@ -1572,7 +1572,7 @@
       "Du uppfattar farten som högre än den är.",
       "Hastighetsmätaren blir mindre exakt.",
       "Din reaktionstid blir kortare.",
-      "Du vänjer dig vid farten och upplever den som lägre än den är, så det är lätt att köra för fort när du lämnar motorvägen – kontrollera mätaren."
+      "Du vänjer dig vid farten och upplever den som lägre än den är – lätt att köra för fort efteråt, kolla mätaren."
     ],
     "correct": 3,
     "explanation": "Detta kallas fartblindhet. Efter en lång sträcka i 110 km/h känns 70 km/h som krypfart. Titta på hastighetsmätaren när du kör av motorvägen och in i tätort.",
@@ -1682,7 +1682,7 @@
     "question": "Ett tåg närmar sig medan din bil står fast på spåret och du inte hinner flytta den. Åt vilket håll ska du springa?",
     "options": [
       "Längs spåret i tågets färdriktning, så att du får försprång.",
-      "Bort från spåret, snett mot det håll tåget kommer ifrån, så att du inte träffas av delar som slungas framåt vid kollisionen.",
+      "Bort från spåret, snett mot det håll tåget kommer ifrån, så att du inte träffas av delar som slungas framåt.",
       "Bakåt längs vägen, i samma riktning som tåget kör.",
       "Det spelar ingen roll, bara du kommer bort från bilen."
     ],
@@ -1747,7 +1747,7 @@
     "question": "Varför måste du själv vara uppmärksam vid järnvägskorsningar även när de har bommar och signaler?",
     "options": [
       "Därför att tåg får köra mot rött.",
-      "Därför att ett tåg har mycket lång stoppsträcka – flera hundra meter upp till över en kilometer – och inte kan väja, samtidigt som teknik kan fela.",
+      "Därför att ett tåg har mycket lång stoppsträcka – upp till över en kilometer – och tekniken kan fela.",
       "Därför att bommarna fälls först när tåget redan är i korsningen.",
       "Därför att lokföraren har väjningsplikt men ofta bryter mot den."
     ],
@@ -1797,7 +1797,7 @@
       "Det är förbjudet att stanna inom 20 meter från hållplatsmärket åt båda håll.",
       "Du får stanna om du har varningsblinkers på.",
       "Du får stanna hur länge som helst så länge ingen buss är där.",
-      "Du får stanna för av- eller påstigning om det inte hindrar bussen, men inte parkera; förbudet gäller 20 m före och 5 m efter märket."
+      "Du får stanna för av-/påstigning om bussen inte hindras, men inte parkera; 20 m före och 5 m efter märket."
     ],
     "correct": 3,
     "explanation": "På en busshållplats får du bara stanna för att någon ska stiga av eller på, och bara om bussen inte hindras. Området sträcker sig 20 meter före och 5 meter efter märket om inget annat är markerat.",
@@ -1811,7 +1811,7 @@
     "difficulty": 2,
     "question": "Vilka får normalt köra i ett körfält för fordon i linjetrafik (kollektivkörfält)?",
     "options": [
-      "Bussar i linjetrafik, cyklar och mopeder klass II – andra fordon bara för att korsa körfältet eller svänga in och ut.",
+      "Bussar i linjetrafik, cyklar och mopeder klass II – andra fordon bara för att korsa eller svänga in/ut.",
       "Alla fordon med minst två personer i bilen.",
       "Bussar och taxibilar, alltid.",
       "Bussar, motorcyklar och elbilar."
@@ -1862,7 +1862,7 @@
       "Alltid till vänster, som med alla andra fordon.",
       "Du får aldrig köra om en spårvagn i rörelse.",
       "Till vänster, om spårvagnen blinkar höger.",
-      "Till höger om det finns plats; till vänster bara om spåren ligger så långt till höger att det inte går, eller på en enkelriktad gata."
+      "Till höger om det finns plats; till vänster bara om höger sida inte går eller gatan är enkelriktad."
     ],
     "correct": 3,
     "explanation": "Spårvagnar körs normalt om till höger, eftersom spåren oftast ligger mitt i gatan. Omkörning till vänster är tillåten bara när höger sida inte går att använda eller gatan är enkelriktad.",
@@ -1909,7 +1909,7 @@
     "options": [
       "När du kommer från höger.",
       "När spårvagnen kör långsammare än 30 km/h.",
-      "När trafiksignal eller vägmärke ger dig företräde, till exempel när du har grönt och spårvagnen har stoppsignal.",
+      "När trafiksignal eller vägmärke ger dig företräde, t.ex. när du har grönt och spårvagnen har stoppsignal.",
       "När du redan har hunnit in i korsningen före spårvagnen."
     ],
     "correct": 2,
@@ -1926,7 +1926,7 @@
       "Du måste tvärbromsa; bussen har alltid rätt.",
       "Du ska köra om bussen på vänster sida så snabbt som möjligt.",
       "Bussregeln gäller inte alls när du kommer nära.",
-      "Bussföraren får bara köra ut om det kan ske utan fara; regeln kräver att du underlättar, inte att du bromsar så hårt att det blir farligt."
+      "Bussföraren får bara köra ut om det är riskfritt; du ska underlätta, inte bromsa så hårt att det blir farligt."
     ],
     "correct": 3,
     "explanation": "Bussregeln ålägger dig att sakta ner och ge bussen möjlighet att köra ut, men bussföraren ska ändå iaktta särskild försiktighet och får inte köra ut framför en bil som är för nära. Bäst är att se bussen tidigt och släppa gasen i god tid.",
@@ -1953,9 +1953,9 @@
     "category": "trafikregler",
     "subtopic": "cykel-moped",
     "difficulty": 2,
-    "question": "Får en moped klass I köras på en cykelbana?",
+    "question": "En ungdom på moped klass I (45 km/h) kör på cykelbanan bredvid gatan där du kör. Är det tillåtet?",
     "options": [
-      "Nej, moped klass I ska köras på körbanan eller vägrenen om inget märke anger annat; moped klass II får normalt använda cykelbanan.",
+      "Nej, moped klass I ska köras på körbanan om inget märke anger annat; moped klass II får använda cykelbanan.",
       "Ja, alla mopeder får använda cykelbanor.",
       "Ja, om föraren har hjälm och mopeden är besiktigad.",
       "Nej, ingen moped får någonsin köras på cykelbana."
@@ -2004,7 +2004,7 @@
     "question": "Vad krävs för att få köra moped klass I?",
     "options": [
       "Förarbevis för moped och minst 15 års ålder.",
-      "Körkort med behörighet AM (eller annan körkortsbehörighet), minst 15 år, och mopeden ska vara registrerad med registreringsskylt.",
+      "AM-körkort (eller annan behörighet), minst 15 år, och mopeden ska vara registrerad med skylt.",
       "Inget särskilt; moped klass I räknas som ett cykelliknande fordon.",
       "Körkort med behörighet B och minst 18 år."
     ],

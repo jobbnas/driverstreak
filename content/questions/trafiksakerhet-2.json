@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "ts-sikt-011",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Hur påverkas ditt synfält när hastigheten ökar?",
+    "options": [
+      "Det upplevs smalare (tunnelseende) och du uppfattar mindre av det som händer vid sidorna",
+      "Det blir bredare eftersom ögonen skärps av farten",
+      "Det påverkas inte av hastigheten",
+      "Bara mörkerseendet påverkas"
+    ],
+    "correct": 0,
+    "explanation": "Ju fortare du kör, desto längre fram måste du fästa blicken, och hjärnan hinner inte bearbeta det som passerar i ögonvrån. Gående och cyklister vid sidan upptäcks senare.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-012",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Varför ska du inte lita enbart på backkameran när du backar?",
+    "options": [
+      "Kameran fungerar bara i dagsljus",
+      "Kameran visar bara ett begränsat område – du måste även titta bakåt och i speglarna",
+      "Kameran visar bilden spegelvänd",
+      "Det är förbjudet att använda backkamera i tätort"
+    ],
+    "correct": 1,
+    "explanation": "Backkameran täcker inte sidorna och kan vara smutsig eller ha fördröjning. Vänd dig om och använd speglarna för att få hela bilden.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-013",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 1,
+    "question": "Varför ska du inte köra med solglasögon i skymning eller mörker?",
+    "options": [
+      "De gör att strålkastarna verkar starkare",
+      "De förstör mörkerseendet permanent",
+      "De minskar ljusinsläppet så att du ser sämre",
+      "Det är förbjudet enligt trafikförordningen"
+    ],
+    "correct": 2,
+    "explanation": "I svagt ljus behöver ögat allt ljus det kan få. Tonade glas gör att svagt upplysta gående och cyklister syns ännu senare.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-014",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 2,
+    "question": "Varför är sikten ofta sämst när det regnar i mörker?",
+    "options": [
+      "Regnet gör att halvljuset lyser kortare",
+      "Vindrutetorkarna fungerar sämre på natten",
+      "Ögonen tål inte fuktig luft",
+      "Våt asfalt reflekterar ljus, vägmarkeringar syns sämre och droppar på rutan sprider mötande ljus"
+    ],
+    "correct": 3,
+    "explanation": "Den blanka vägbanan speglar strålkastare och gatlyktor så att markeringarna försvinner, samtidigt som varje regndroppe på rutan bryter ljuset. Sänk farten rejält.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-sikt-015",
+    "category": "trafiksakerhet",
+    "subtopic": "sikt",
+    "difficulty": 3,
+    "question": "Du kör 90 km/h på en landsväg i dimma och ser ungefär 50 meter framåt. Vad stämmer?",
+    "options": [
+      "Stoppsträckan är längre än siktsträckan – sänk farten rejält",
+      "Farten är lämplig eftersom siktsträckan är längre än bromssträckan",
+      "Du kan behålla farten om du tänder dimbakljuset",
+      "Du behöver bara öka avståndet till framförvarande"
+    ],
+    "correct": 0,
+    "explanation": "Stoppsträckan vid 90 km/h är cirka 60 meter på torr väg, mer på våt. Med 50 meters sikt kan du inte stanna för ett hinder du upptäcker vid siktgränsen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-001",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "Vilka trafikanter räknas som oskyddade?",
+    "options": [
+      "Endast gående",
+      "Gående, cyklister, mopedister och motorcyklister",
+      "Förare av bilar som saknar krockkudde",
+      "Passagerare i buss utan bälte"
+    ],
+    "correct": 1,
+    "explanation": "Oskyddade trafikanter saknar kaross och deformationszoner som tar upp krockvåldet. Vid en kollision med en bil är det nästan alltid den oskyddade som skadas.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-002",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Du ska köra om en cyklist på en landsväg. Hur gör du?",
+    "options": [
+      "Tutar för att varna och kör om nära så att du slipper ut i mötande körfält",
+      "Kör om tätt inpå i oförändrad fart så att omkörningen går snabbt",
+      "Sänker farten, håller stort sidoavstånd (gärna minst 1,5 meter) och kör om när inget möter",
+      "Väntar alltid tills cyklisten svänger av vägen"
+    ],
+    "correct": 2,
+    "explanation": "Cyklisten kan vingla eller väja för hål, och vinddraget från en bil i fart kan få cykeln ur balans. Behandla omkörningen som vilken omkörning som helst: fri sikt, inget möte och gott om plats.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-003",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Varför ska du hålla stort avstånd i sidled när du kör om en cyklist?",
+    "options": [
+      "För att cyklisten annars får rätt att köra om dig",
+      "För att lagen kräver exakt tre meters avstånd",
+      "För att cyklisten ska hinna se ditt registreringsnummer",
+      "Cyklisten kan behöva väja för hål eller vingla, och vinddraget från bilen kan påverka balansen"
+    ],
+    "correct": 3,
+    "explanation": "En cyklist rör sig aldrig helt rakt och kan plötsligt behöva väja. Med litet avstånd finns ingen marginal, och luftdraget från bilen kan i sig göra att cyklisten tappar balansen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-004",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Du närmar dig en cykelöverfart. Vad gäller?",
+    "options": [
+      "Du har väjningsplikt mot cyklister och mopedförare som är ute på eller just ska ut på överfarten",
+      "Cyklisterna har väjningsplikt mot dig",
+      "Du behöver bara väja om cyklisten är ett barn",
+      "Väjningsplikten gäller bara om överfarten har trafiksignal"
+    ],
+    "correct": 0,
+    "explanation": "Vid en cykelöverfart gäller samma princip som vid ett övergångsställe: bilföraren ska anpassa farten och lämna företräde åt cyklister som är på väg ut.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-005",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Vad skiljer en cykelpassage från en cykelöverfart?",
+    "options": [
+      "Vid cykelpassage har bilföraren väjningsplikt, vid cykelöverfart har cyklisten det",
+      "Vid cykelpassage har cyklisten väjningsplikt, vid cykelöverfart har bilföraren väjningsplikt",
+      "Skillnaden är bara att överfarten är målad i blå färg",
+      "Cykelpassager finns bara i tätort"
+    ],
+    "correct": 1,
+    "explanation": "Vid en cykelpassage ska cyklisten ta hänsyn till fordon på vägen, men bilföraren ska ändå anpassa hastigheten så att det inte uppstår fara. Vid en cykelöverfart, som är markerad med vägmärke och väjningslinje, har bilföraren väjningsplikt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-006",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "En gående står vid kanten av ett obevakat övergångsställe och ser ut att vilja gå över. Vad gäller?",
+    "options": [
+      "Den gående måste vänta tills körbanan är fri",
+      "Du behöver bara stanna om den gående redan har gått ut",
+      "Du har väjningsplikt och ska sakta in eller stanna så att den gående kan gå över",
+      "Du tutar så att den gående väntar"
+    ],
+    "correct": 2,
+    "explanation": "Väjningsplikten vid obevakat övergångsställe gäller både gående som gått ut och gående som just ska gå ut. Anpassa farten i god tid så att du kan stanna.",
+    "legalRef": "TrF 3 kap. 61 §",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-007",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Bilen framför dig saktar in strax före ett obevakat övergångsställe. Får du köra om den?",
+    "options": [
+      "Ja, om du kör om på vänster sida",
+      "Ja, om ingen gående syns på övergångsstället",
+      "Ja, om du tutar innan du kör om",
+      "Nej – omkörning strax före eller på ett obevakat övergångsställe är förbjuden"
+    ],
+    "correct": 3,
+    "explanation": "Bilen framför kan ha saktat in för en gående som du inte ser. Just den situationen har orsakat många dödsolyckor, därför är omkörning förbjuden där.",
+    "legalRef": "TrF 3 kap. 40 §",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-008",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Varför är det lätt att missa en motorcyklist när du ska svänga vänster i en korsning?",
+    "options": [
+      "Den smala silhuetten är svår att upptäcka och att bedöma fart och avstånd på",
+      "Motorcyklar är alltid mörka",
+      "Motorcyklister kör alltid för fort",
+      "Motorcyklar hörs inte förrän de är nära"
+    ],
+    "correct": 0,
+    "explanation": "Ett smalt fordon som kommer rakt emot dig växer långsamt i synfältet, så hjärnan underskattar farten. Titta en extra gång och vänta hellre än att chansa.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-009",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "En cyklist framför dig sträcker ut vänster arm. Vad betyder det och hur agerar du?",
+    "options": [
+      "Cyklisten ska stanna – kör om på vänster sida",
+      "Cyklisten ska svänga vänster – håll dig bakom och kör inte om",
+      "Cyklisten vill att du kör om",
+      "Cyklisten ska svänga höger – kör om på vänster sida"
+    ],
+    "correct": 1,
+    "explanation": "Utsträckt arm är cyklistens tecken för sväng åt det hållet. En omkörning just då skulle ske rakt genom cyklistens väg.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-010",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "Du har parkerat längs en gata och ska öppna förardörren. Vad är viktigt?",
+    "options": [
+      "Öppna dörren snabbt så att den inte blockerar cykelbanan länge",
+      "Blinka med varningsblinkers innan du öppnar",
+      "Titta i speglarna och över axeln så att du inte öppnar dörren framför en cyklist",
+      "Tuta kort för att varna cyklister"
+    ],
+    "correct": 2,
+    "explanation": "En dörr som öppnas framför en cyklist kan ge mycket allvarliga skador. Ett tips är att öppna dörren med höger hand, då vrids kroppen automatiskt så att du ser bakåt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-011",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "En buss står vid en hållplats på en landsväg utan trottoar. Vad är den största risken när du passerar?",
+    "options": [
+      "Bussen kan börja backa",
+      "Bussens avgaser skymmer sikten",
+      "Bussen kan börja köra utan att blinka",
+      "Passagerare kan gå ut i körbanan framför eller bakom bussen"
+    ],
+    "correct": 3,
+    "explanation": "Avstigande passagerare vill ofta korsa vägen direkt och skyms av bussen tills de kliver ut framför dig. Sänk farten och var beredd att stanna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-012",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Varför ska du hålla extra uppsikt efter gående i tätort en regnig och mörk kväll?",
+    "options": [
+      "Gående skyms av paraplyer och huvor, syns dåligt och skyndar sig ofta över gatan",
+      "Gående är oftare berusade när det regnar",
+      "Gående tvingas gå på körbanan när det regnar",
+      "Övergångsställen upphör att gälla i regn"
+    ],
+    "correct": 0,
+    "explanation": "I regn och mörker är den gående både svårare att se och mindre uppmärksam, eftersom huvan begränsar synfältet och alla vill fort in i värmen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-013",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Hur påverkas en påkörd gåendes chans att överleva om bilens fart sänks från 50 till 30 km/h?",
+    "options": [
+      "Den påverkas bara marginellt",
+      "Den ökar kraftigt – de flesta överlever en påkörning i 30 km/h",
+      "Den minskar eftersom bilen träffar lägre på kroppen",
+      "Den är oförändrad eftersom bilens vikt är det som avgör"
+    ],
+    "correct": 1,
+    "explanation": "Krockvåldet växer med kvadraten på hastigheten. Vid 30 km/h överlever nästan alla gående, medan risken att dö är mångdubbelt högre vid 50 km/h. Därför sänks gränsen där gående och bilar blandas.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-014",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Du ska svänga höger i en korsning i tätort och en cykelbana löper parallellt med vägen. Vad ska du göra?",
+    "options": [
+      "Tuta innan du svänger",
+      "Svänga snabbt så att cyklisten hinner stanna",
+      "Titta i höger backspegel och över axeln – cyklister kan komma bakifrån snabbare än du tror",
+      "Ingenting särskilt – cykelbanan är cyklisternas ansvar"
+    ],
+    "correct": 2,
+    "explanation": "Cyklister på en parallell cykelbana ligger ofta i döda vinkeln och håller rak kurs medan du korsar deras väg. Högersvängen är en av de vanligaste cykelolyckorna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-015",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Vad gäller för elsparkcyklar i trafiken?",
+    "options": [
+      "De får köras på gångbanan i gångfart",
+      "De räknas som moped klass I",
+      "De kräver körkort med behörighet AM",
+      "De räknas som cyklar och får inte köras på gångbanan"
+    ],
+    "correct": 3,
+    "explanation": "En elsparkcykel med begränsad effekt och fart räknas som cykel. Sedan 2022 är det förbjudet att köra dem på gångbana, och de får inte parkeras på gång- eller cykelbanor.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-016",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "På vilken sida av vägen ska gående gå där gångbana saknas?",
+    "options": [
+      "På vänster sida, mot trafiken",
+      "På höger sida, med trafiken",
+      "På valfri sida",
+      "Mitt på vägrenen"
+    ],
+    "correct": 0,
+    "explanation": "Genom att gå mot trafiken ser den gående mötande bilar och kan kliva åt sidan. Som bilförare ska du därför räkna med gående på din vänstra sida på landsväg.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-017",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "Du möter en ryttare på en smal landsväg. Hur bör du köra?",
+    "options": [
+      "Kör förbi i normal fart så att hästen snabbt blir av med störningen",
+      "Sänker farten rejält, håller stort avstånd och undviker att tuta",
+      "Tutar kort så att ryttaren vet att du kommer",
+      "Stannar helt och väntar tills ryttaren ridit förbi långt bort"
+    ],
+    "correct": 1,
+    "explanation": "En häst är ett flyktdjur som kan skygga för plötsliga ljud och rörelser och kasta sig ut i vägen. Låg fart och stort avstånd skyddar både ryttaren och dig.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-018",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "En gående med vit käpp står vid trottoarkanten en bit från övergångsstället. Vad gör du?",
+    "options": [
+      "Kör vidare i oförändrad fart eftersom det inte är ett övergångsställe",
+      "Tutar så att personen vet att du kommer",
+      "Sänker farten och är beredd att stanna – personen kan inte se dig",
+      "Blinkar med helljuset"
+    ],
+    "correct": 2,
+    "explanation": "En vit käpp betyder synnedsättning. Du ska visa särskild hänsyn mot personer med funktionsnedsättning och kunna stanna om personen kliver ut.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-019",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "En skolpatrull står med flagga vid ett övergångsställe. Vad gäller?",
+    "options": [
+      "Skolpatrullens tecken är bara en rekommendation",
+      "Du behöver bara stanna om du ser barn på övergångsstället",
+      "Skolpatrull får bara stoppa cyklister",
+      "Du ska stanna när skolpatrullen visar tecken på att barn ska gå över"
+    ],
+    "correct": 3,
+    "explanation": "Skolpatrullens tecken ska följas. Barnen bakom patrullen har begränsad trafikvana och litar på att bilarna stannar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-020",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Vilken grupp trafikanter är störst bland de allvarligt skadade i svensk trafik?",
+    "options": [
+      "Cyklister",
+      "Motorcyklister",
+      "Bilförare",
+      "Gående"
+    ],
+    "correct": 0,
+    "explanation": "Räknat i antal allvarligt skadade är cyklister den största gruppen, till stor del genom singelolyckor på halt eller ojämnt underlag. Bland de omkomna dominerar i stället bilister.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-021",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "Du vill köra om en cyklist men det kommer mötande trafik. Vad gör du?",
+    "options": [
+      "Kör om nära cyklisten så att du ryms i ditt körfält",
+      "Saktar in och väntar bakom cyklisten tills mötet är klart",
+      "Tutar så att cyklisten kör ut på vägrenen",
+      "Ökar farten för att hinna om före mötet"
+    ],
+    "correct": 1,
+    "explanation": "En omkörning kräver plats. Att pressa sig förbi mellan cyklist och mötande fordon lämnar ingen marginal för någon.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-022",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Vad innebär svängningsregeln för gående och cyklister?",
+    "options": [
+      "Gående ska alltid vänta på svängande fordon",
+      "Regeln gäller bara vid bevakade övergångsställen",
+      "När du svänger i en korsning ska du lämna företräde åt gående och cyklister som korsar den körbana du svänger in på",
+      "Regeln gäller bara när du svänger vänster"
+    ],
+    "correct": 2,
+    "explanation": "Den som svänger korsar andras väg och har därför skyldighet att lämna företräde – både åt mötande fordon och åt gående och cyklister som korsar körbanan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-023",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 3,
+    "question": "Varför bör du titta en extra gång åt sidorna innan du kör ut i en korsning, även om vägen ser tom ut?",
+    "options": [
+      "Bilar kan vara osynliga på grund av solreflexer",
+      "Trafiksignalerna kan visa fel",
+      "Vägen kan ha ändrats sedan du senast körde där",
+      "Motorcyklar och cyklar är smala och kan döljas av stolpar eller andra fordon, och ögat missar små objekt vid en snabb blick"
+    ],
+    "correct": 3,
+    "explanation": "En snabb ögonkast registrerar stora, förväntade objekt. Små, oväntade fordon blir lätt osedda – därför ska blicken stanna upp och svepa långsamt åt båda hållen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-024",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 2,
+    "question": "Du ska köra ut från en parkeringsplats och måste korsa en cykelbana. Vad gäller?",
+    "options": [
+      "Du har väjningsplikt mot cyklisterna och ska passera cykelbanan i låg fart",
+      "Cyklisterna har väjningsplikt mot dig eftersom du kommer från höger",
+      "Du får köra ut om du tutar först",
+      "Cykelbanan får inte korsas – du måste hitta en annan utfart"
+    ],
+    "correct": 0,
+    "explanation": "Enligt utfartsregeln har du väjningsplikt när du kör ut från parkeringsplats och när du korsar en cykelbana. Cyklister kan komma fort från båda hållen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-osk-025",
+    "category": "trafiksakerhet",
+    "subtopic": "oskyddade",
+    "difficulty": 1,
+    "question": "En gående går ut på ett bevakat övergångsställe mot röd gubbe samtidigt som du har grönt. Vad gör du?",
+    "options": [
+      "Kör eftersom du har grönt ljus",
+      "Stannar – du får aldrig köra på en gående, oavsett vad signalen visar",
+      "Tutar och fortsätter",
+      "Ökar farten för att hinna före"
+    ],
+    "correct": 1,
+    "explanation": "Grönt ljus ger dig rätt att köra, inte rätt att köra på någon. Du är alltid skyldig att undvika en olycka om du kan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-001",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "En buss står stilla vid en hållplats i ett bostadsområde och barn kliver av. Vad är den största risken?",
+    "options": [
+      "Bussen kan börja rulla bakåt",
+      "Barnen kan kasta saker mot bilen",
+      "Barn kan springa ut framför eller bakom bussen utan att titta",
+      "Bussföraren kan öppna dörrarna mot körbanan"
+    ],
+    "correct": 2,
+    "explanation": "Barn tänker på vart de ska, inte på trafiken, och är helt skymda av bussen tills de plötsligt är framför din bil.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-002",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "Hur bör du passera en stillastående buss vid en hållplats där barn stiger av?",
+    "options": [
+      "I normal fart men med tutan beredd",
+      "Snabbt så att du är förbi innan barnen hinner ut",
+      "Genom att blinka med helljuset så att barnen ser dig",
+      "I mycket låg fart, beredd att stanna, med så stort avstånd till bussen som möjligt"
+    ],
+    "correct": 3,
+    "explanation": "Låg fart ger kort stoppsträcka, och avståndet till bussen ger dig några meter extra sikt och tid om ett barn springer ut.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-003",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Varför har barn svårt att bedöma hur fort en bil kör och om den hinner stanna?",
+    "options": [
+      "Deras förmåga att uppfatta fart och avstånd är inte färdigutvecklad och de saknar erfarenhet",
+      "De är alltid upptagna med mobiltelefoner",
+      "Deras hörsel är sämre än vuxnas",
+      "De väljer medvetet att ta risker"
+    ],
+    "correct": 0,
+    "explanation": "Ett barn kan tro att en bil som syns långt bort är ofarlig eller att den kan stanna direkt. Bedömningsförmågan mognar först i tonåren.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-004",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Vad är typiskt för små barns synfält jämfört med vuxnas?",
+    "options": [
+      "Det är bredare än vuxnas",
+      "Det är smalare, så de upptäcker inte bilar från sidan lika lätt",
+      "Det är lika brett men med sämre färgseende",
+      "De ser bättre i mörker än vuxna"
+    ],
+    "correct": 1,
+    "explanation": "Barns synfält är smalare och deras längd gör att parkerade bilar och häckar skymmer helt. De måste vrida huvudet för att se det en vuxen ser i ögonvrån.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-005",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Varför reagerar barn inte alltid på ett fordon de faktiskt hör?",
+    "options": [
+      "Deras hörsel är svagare än vuxnas",
+      "De tror att alla ljud kommer från lekplatsen",
+      "De har svårt att avgöra varifrån ljudet kommer",
+      "De hör bara höga toner"
+    ],
+    "correct": 2,
+    "explanation": "Förmågan att lokalisera ljud utvecklas sent. Ett barn kan höra bilen men titta åt fel håll och kliva ut ändå.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-006",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "En boll rullar ut på gatan framför dig i ett villaområde. Vad gör du?",
+    "options": [
+      "Väjer runt bollen och fortsätter i samma fart",
+      "Tutar för att varna barnen",
+      "Kör över bollen eftersom den inte skadar bilen",
+      "Bromsar direkt och är beredd på att ett barn följer efter bollen"
+    ],
+    "correct": 3,
+    "explanation": "Där bollen är kommer barnet strax. Räkna alltid med att ett barn springer efter utan att titta.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-007",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "Varför är små barn särskilt svåra att upptäcka bakom parkerade bilar?",
+    "options": [
+      "De är så korta att de döljs helt av bilarna",
+      "De har oftast mörka kläder",
+      "De rör sig långsammare än vuxna",
+      "De står alltid stilla när de ser en bil"
+    ],
+    "correct": 0,
+    "explanation": "Ett litet barn syns inte över en bilhuv. Det första du ser är barnet som redan är ute i körbanan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-008",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "En äldre person med rullator håller på att gå över ett övergångsställe när signalen slår om till grönt för dig. Vad gör du?",
+    "options": [
+      "Kör försiktigt runt personen",
+      "Väntar tills personen har kommit över – äldre behöver längre tid",
+      "Tutar kort så att personen skyndar sig",
+      "Kör så snart personen har passerat mitten av vägen"
+    ],
+    "correct": 1,
+    "explanation": "Den som redan är ute på övergångsstället ska få gå klart. Att pressa en äldre person leder lätt till fall och skador.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-009",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Varför är äldre gående särskilt utsatta i trafiken?",
+    "options": [
+      "De går oftare mot rött",
+      "De väljer att gå på körbanan",
+      "De rör sig långsammare, ser och hör sämre och skadas lättare vid påkörning",
+      "De är oftare påverkade av alkohol"
+    ],
+    "correct": 2,
+    "explanation": "En äldre person behöver längre tid över gatan, uppfattar bilar senare och tål krockvåld sämre. Skador som en ung person överlever kan vara dödliga för en 80-åring.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-010",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 3,
+    "question": "Vad är typiskt för äldre bilförare som grupp?",
+    "options": [
+      "De kör oftast för fort",
+      "De är överrepresenterade i singelolyckor nattetid",
+      "De har snabbare reaktionsförmåga än unga",
+      "De kompenserar med försiktighet och lägre fart men kan ha svårt i komplexa situationer som vänstersvängar"
+    ],
+    "correct": 3,
+    "explanation": "Erfarenhet och försiktighet väger upp mycket, men när flera saker händer samtidigt i en korsning kan äldre få svårare att hinna med.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-011",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "Varför är hastigheten ofta begränsad till 30 km/h vid skolor?",
+    "options": [
+      "Barn är oförutsägbara, och vid 30 km/h är stoppsträckan kort och en påkörning sällan dödlig",
+      "För att bussar ska hinna stanna vid hållplatserna",
+      "För att minska buller för eleverna",
+      "För att föräldrar ska hinna parkera"
+    ],
+    "correct": 0,
+    "explanation": "Vid 30 km/h är stoppsträckan cirka 13 meter och de flesta gående överlever en påkörning. Vid 50 km/h är stoppsträckan dubbelt så lång och krockvåldet nästan tre gånger större.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-012",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "Ett barn cyklar framför dig på en villagata. Vad bör du räkna med?",
+    "options": [
+      "Att barnet håller sig till höger kant hela tiden",
+      "Att barnet kan svänga plötsligt utan att ge tecken eller titta bakåt",
+      "Att barnet stannar när det hör bilen",
+      "Att barnet ger tecken före varje sväng"
+    ],
+    "correct": 1,
+    "explanation": "Barn på cykel är upptagna med att hålla balansen och med kompisar. Håll stort avstånd och kör inte om förrän du har god plats.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-013",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 3,
+    "question": "Du ser barn som leker på en gångbana längs gatan, och en vuxen står i närheten. Hur påverkar den vuxne din körning?",
+    "options": [
+      "Du kan hålla farten eftersom den vuxne har ansvaret",
+      "Du kan hålla farten men bör tuta för att varna",
+      "Inte alls – sänk farten ändå, en vuxen i närheten hindrar inte barnen från att springa ut",
+      "Du måste stanna helt tills barnen har lämnat gångbanan"
+    ],
+    "correct": 2,
+    "explanation": "En vuxen kan inte fånga ett barn som plötsligt springer efter en boll. Ansvaret för att kunna stanna ligger alltid på dig.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-014",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 2,
+    "question": "En äldre man börjar gå över gatan utanför övergångsställe utan att titta åt ditt håll. Vad är troligast och hur agerar du?",
+    "options": [
+      "Han har sett dig och räknar med att du kör – håll farten",
+      "Tuta kraftigt så att han vänder tillbaka",
+      "Kör runt honom på vänster sida i oförändrad fart",
+      "Han har troligen inte uppfattat bilen – sakta in och var beredd att stanna"
+    ],
+    "correct": 3,
+    "explanation": "Nedsatt hörsel och syn gör att många äldre inte märker en bil förrän den är nära. En kraftig signal kan dessutom skrämma så att personen snubblar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-barn-015",
+    "category": "trafiksakerhet",
+    "subtopic": "barn-aldre",
+    "difficulty": 1,
+    "question": "Vad kännetecknar barns beteende i trafiken?",
+    "options": [
+      "De är impulsiva, koncentrerar sig på en sak i taget och blir lätt distraherade",
+      "De är mer försiktiga än vuxna",
+      "De följer alltid trafikreglerna de lärt sig i skolan",
+      "De rör sig alltid i grupp"
+    ],
+    "correct": 0,
+    "explanation": "Ett barn som ser en kompis på andra sidan gatan ser bara kompisen. Trafikvett som barnet kan i teorin glöms bort i stunden.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-001",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 1,
+    "question": "När under dygnet sker flest älgolyckor?",
+    "options": [
+      "Mitt på dagen",
+      "Mitt i natten",
+      "Tidig eftermiddag",
+      "I gryning och skymning"
+    ],
+    "correct": 3,
+    "explanation": "Älgen är mest aktiv i gryning och skymning, just när ljuset är dåligt och den bruna kroppen smälter in i skogsbrynet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-002",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Under vilka månader är risken för älgolyckor störst?",
+    "options": [
+      "Maj–juni och september–december",
+      "Januari–februari",
+      "Juli–augusti",
+      "Mars–april"
+    ],
+    "correct": 0,
+    "explanation": "På försommaren stöts fjolårskalvarna bort och irrar omkring, och på hösten sammanfaller brunst, jakt och fler mörkertimmar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-003",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Varför ökar antalet älgolyckor i maj och juni?",
+    "options": [
+      "Älgarna brunstar",
+      "Fjolårskalvarna stöts bort av kon och irrar omkring på egen hand",
+      "Älgjakten pågår",
+      "Älgarna söker sig till vägsaltet"
+    ],
+    "correct": 1,
+    "explanation": "När kon får nya kalvar jagar hon bort fjolårets kalvar. De unga, oerfarna djuren rör sig mycket och korsar ofta vägar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-004",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Varför är september–december en riskperiod för älgolyckor?",
+    "options": [
+      "Kalvarna föds då",
+      "Älgarna vandrar till kusten",
+      "Brunsttid, jakt och fler mörkertimmar gör att älgarna rör sig mer och syns sämre",
+      "Vägarna saltas då"
+    ],
+    "correct": 2,
+    "explanation": "Under brunsten vandrar tjurarna långt, jakten skrämmer upp djuren och den mörka delen av dygnet sammanfaller med pendlingstrafiken.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-005",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 1,
+    "question": "Du kör 90 km/h i skymningen genom skog och ser en älg stå vid vägkanten cirka 100 meter framför dig. Vad gör du?",
+    "options": [
+      "Tutar och håller farten så att älgen skräms bort",
+      "Blinkar med helljuset så att älgen ser dig",
+      "Ökar farten för att hinna förbi innan älgen går ut",
+      "Bromsar direkt, är beredd att stanna och räknar med att fler älgar kan följa"
+    ],
+    "correct": 3,
+    "explanation": "En älg vid vägkanten kan när som helst kliva ut, och där en älg finns kommer ofta fler. Ljud- och ljussignaler kan lika gärna få djuret att springa ut i vägen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-006",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 3,
+    "question": "En älg springer ut precis framför bilen och du hinner inte stanna. Hur bör du agera?",
+    "options": [
+      "Bromsa hårt och styr om möjligt bakom älgen, eftersom den oftast fortsätter framåt",
+      "Styr framför älgen för att komma förbi",
+      "Gasa för att hinna före",
+      "Släpp bromsen och håll ratten rakt"
+    ],
+    "correct": 0,
+    "explanation": "Älgen rör sig oftast vidare i sin riktning, så utrymmet bakom den ökar. Behåll bromsningen så mycket som möjligt – varje km/h mindre minskar krockvåldet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-007",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Du kör på ett rådjur som sedan springer skadat in i skogen. Vad är du skyldig att göra?",
+    "options": [
+      "Ingenting, eftersom djuret sprang vidare",
+      "Markera platsen och ringa 112",
+      "Leta upp djuret och avliva det själv",
+      "Anmäla händelsen till kommunen nästa vardag"
+    ],
+    "correct": 1,
+    "explanation": "Kollision med rådjur omfattas av anmälningsplikten även om djuret inte ligger kvar. Platsen ska märkas ut så att en eftersöksjägare kan hitta djuret.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-008",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Vilka djur omfattas av anmälningsplikten vid viltolycka?",
+    "options": [
+      "Endast älg och hjort",
+      "Alla vilda djur, inklusive hare och räv",
+      "Älg, rådjur, hjort, vildsvin, björn, varg, lo, järv, utter, örn och mufflonfår",
+      "Endast djur som dör på olycksplatsen"
+    ],
+    "correct": 2,
+    "explanation": "Anmälningsplikten gäller de större djuren och vissa rovdjur och fåglar. Att låta bli att anmäla är straffbart.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-009",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 1,
+    "question": "En hare springer ut framför bilen på en landsväg med mötande trafik. Vad gör du?",
+    "options": [
+      "Väjer kraftigt ut i mötande körfält",
+      "Bromsar så hårt du kan oavsett trafiken bakom",
+      "Gasar för att hinna förbi",
+      "Bromsar om det går utan risk men gör ingen kraftig undanmanöver"
+    ],
+    "correct": 3,
+    "explanation": "En undanmanöver för ett litet djur kan leda till frontalkrock eller dikeskörning. Din och andras säkerhet går före.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-010",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Vad är särskilt att tänka på när det gäller vildsvin på vägen?",
+    "options": [
+      "De rör sig ofta i grupp, mest i mörker – kommer ett djur kan fler följa",
+      "De rör sig alltid ensamma och dagtid",
+      "De är rädda för bilar och håller sig borta från vägar",
+      "De finns bara i norra Sverige"
+    ],
+    "correct": 0,
+    "explanation": "Vildsvin lever i flock, är nattaktiva och mörka. När ett djur korsat vägen är det stor risk att resten av flocken följer.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-011",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 3,
+    "question": "Varför är risken för viltolyckor särskilt hög där ett viltstängsel slutar eller har en öppning?",
+    "options": [
+      "Stängslet gör djuren aggressiva",
+      "Djuren följer stängslet och samlas för att korsa vägen just där",
+      "Där saknas alltid vägbelysning",
+      "Vägen är smalare vid stängslets slut"
+    ],
+    "correct": 1,
+    "explanation": "Viltstängsel styr djurens rörelser. Där stängslet tar slut eller är trasigt koncentreras alla passager, ofta utan att föraren tänker på det.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-012",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "På en smal väg med mötesplatser möter du en bil, och mötesplatsen finns på din sida. Vad gör du?",
+    "options": [
+      "Fortsätter – den mötande ska backa till nästa mötesplats",
+      "Stannar mitt på vägen och väntar",
+      "Kör in på mötesplatsen och låter den mötande passera",
+      "Blinkar med helljuset för att få företräde"
+    ],
+    "correct": 2,
+    "explanation": "Mötesplatsen används av den som har den på sin sida. Är den på den mötandes sida stannar du i stället mitt emot så att den andra kan köra in.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-013",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 3,
+    "question": "Vilken typ av viltolycka är vanligast i Sverige sett till antal?",
+    "options": [
+      "Kollision med älg",
+      "Kollision med vildsvin",
+      "Kollision med ren",
+      "Kollision med rådjur"
+    ],
+    "correct": 3,
+    "explanation": "Rådjur står för de flesta rapporterade viltolyckorna. Älgolyckor är färre men betydligt allvarligare på grund av djurets höga tyngdpunkt och vikt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-014",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 2,
+    "question": "Var sker de flesta dödsolyckorna i trafiken?",
+    "options": [
+      "Utanför tätort, på vägar med hög hastighet",
+      "I tätort i korsningar",
+      "På motorvägar",
+      "På parkeringsplatser"
+    ],
+    "correct": 0,
+    "explanation": "I tätort sker flest olyckor, men i låg fart. På landsvägar är farten hög och krockvåldet ofta dödligt, särskilt vid möten och avkörningar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-vilt-015",
+    "category": "trafiksakerhet",
+    "subtopic": "landsvag-vilt",
+    "difficulty": 1,
+    "question": "Du möter en lastbil på en smal landsväg utan vägren. Vad gör du?",
+    "options": [
+      "Håller farten och mittlinjen så att lastbilen får väja",
+      "Sänker farten, håller så långt till höger som möjligt och stannar vid behov",
+      "Blinkar med helljuset så att lastbilen saktar in",
+      "Kör ut på vägkanten i oförändrad fart"
+    ],
+    "correct": 1,
+    "explanation": "Vid möte på smal väg ska båda sänka farten och hålla höger. Låg fart minskar risken för sidokollision och gör det lättare att hantera vägkanten.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-001",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Var inträffar flest trafikolyckor med personskador?",
+    "options": [
+      "I tätort, ofta i korsningar",
+      "På motorvägar",
+      "På landsvägar genom skog",
+      "På enskilda vägar"
+    ],
+    "correct": 0,
+    "explanation": "I tätort möts många trafikanter på liten yta och korsningar är där deras vägar bokstavligen korsas. Olyckorna är många men oftast lindrigare än på landsväg.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-002",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Varför är en vänstersväng i en korsning en av de farligaste manövrerna?",
+    "options": [
+      "Bilen är instabil när den svänger åt vänster",
+      "Du korsar mötande trafik samtidigt som du ska bevaka gående, cyklister, bakomvarande och sidogator",
+      "Vänstersväng är förbjuden i de flesta korsningar",
+      "Blinkersen syns sämre åt vänster"
+    ],
+    "correct": 1,
+    "explanation": "Vid vänstersväng ska du hantera flest riskmoment på en gång och stå stilla mitt i korsningen medan du väntar. Det kräver ordning: spegel, tecken, placering, mötande, gående.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-003",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Du väntar på att svänga vänster och en mötande bil blinkar höger. Vad gör du?",
+    "options": [
+      "Svänger direkt eftersom bilen ska svänga",
+      "Tutar för att bekräfta att du sett blinkersen",
+      "Väntar tills du ser att bilen verkligen svänger – blinkersen kan vara kvarglömd",
+      "Blinkar med helljuset och svänger"
+    ],
+    "correct": 2,
+    "explanation": "En blinkers är en avsikt, inte en garanti. Först när bilen tydligt saktar in och börjar svänga kan du lita på den.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-004",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Varför ska du hålla låg fart i bostadsområden även när gatan ser tom ut?",
+    "options": [
+      "För att fartgupp annars skadar bilen",
+      "För att bullret annars stör de boende",
+      "För att vägbanan alltid är sämre i bostadsområden",
+      "Utfarter, parkerade bilar och häckar ger korta siktsträckor, och barn kan dyka upp plötsligt"
+    ],
+    "correct": 3,
+    "explanation": "En tom gata i ett villaområde är full av skymda utfarter. Låg fart ger dig den stoppsträcka som den korta sikten kräver.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-005",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Vilken risk är särskilt stor i tät stadstrafik med flera körfält i samma riktning?",
+    "options": [
+      "Fordon i döda vinkeln vid körfältsbyte",
+      "Vattenplaning i låga farter",
+      "Att motorn överhettas i kö",
+      "Att helljuset bländar mötande"
+    ],
+    "correct": 0,
+    "explanation": "Med bilar på båda sidor finns alltid någon som kan ligga i döda vinkeln. Titta i spegeln, ge tecken och vrid på huvudet innan du byter körfält.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-006",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Du närmar dig en korsning där högerregeln gäller och ett hus skymmer sikten åt höger. Hur kör du?",
+    "options": [
+      "Håller farten – den som kommer från höger ser dig",
+      "Sänker farten så att du kan stanna för fordon från höger och kryper fram tills du ser",
+      "Tutar och kör igenom korsningen",
+      "Kör igenom snabbt för att inte vara i vägen länge"
+    ],
+    "correct": 1,
+    "explanation": "Du har väjningsplikt mot trafik från höger, och kan du inte se måste du kunna stanna. Krypfart ger sikt utan att du blockerar korsningen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-007",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 3,
+    "question": "Varför ökar olycksrisken i korsningar i rusningstrafik?",
+    "options": [
+      "Trafiksignalerna slutar fungera vid hög belastning",
+      "Vägbanan blir hal av de många bilarna",
+      "Många beslut måste fattas samtidigt, luckorna blir korta och stressade förare tar chanser",
+      "Bilarnas bromsar blir varma i kö"
+    ],
+    "correct": 2,
+    "explanation": "Stress och tidspress gör att förare accepterar mindre luckor och tittar mindre noga. Håll din egen rytm och kör inte in i korsningen förrän du ser att du kommer ut ur den.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-008",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Du får ett sms medan du kör i stadstrafik. Vad gäller?",
+    "options": [
+      "Du får läsa sms om du håller under 30 km/h",
+      "Du får läsa men inte skriva sms under körning",
+      "Det är tillåtet om du stannar vid rött ljus",
+      "Det är förbjudet att hålla mobilen i handen under körning – ett par sekunders titt bort motsvarar flera tiotals meter i blindo"
+    ],
+    "correct": 3,
+    "explanation": "Att hålla telefonen i handen är förbjudet. Två sekunders blick på skärmen i 50 km/h innebär nästan 30 meter utan att du ser vägen.",
+    "legalRef": "TrF 4 kap. 10 e §",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-009",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 3,
+    "question": "Du kör 50 km/h i tätort och tittar ner på mobilen i två sekunder. Ungefär hur långt hinner bilen rulla under tiden?",
+    "options": [
+      "Cirka 28 meter",
+      "Cirka 10 meter",
+      "Cirka 50 meter",
+      "Cirka 100 meter"
+    ],
+    "correct": 0,
+    "explanation": "50 km/h är cirka 14 meter per sekund. På två sekunder passerar du nästan 30 meter – längre än ett helt övergångsställe med omgivning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-010",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Du kör på huvudled genom en tätort. Innebär det att du kan passera korsningarna utan att sänka farten?",
+    "options": [
+      "Ja – alla andra har väjningsplikt mot dig",
+      "Nej – andra kan göra fel, och du måste vara beredd att bromsa",
+      "Ja, om du håller hastighetsgränsen",
+      "Nej, eftersom högerregeln gäller även på huvudled"
+    ],
+    "correct": 1,
+    "explanation": "Företräde befriar dig inte från ansvaret att undvika olyckor. Räkna med att någon kan missa väjningsplikten, särskilt cyklister och förare med skymd sikt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-011",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Vilken risk innebär parkerade bilar längs en gata?",
+    "options": [
+      "De gör att gatan blir halare",
+      "De påverkar bara bussar och lastbilar",
+      "De skymmer sikten, dörrar kan öppnas och personer kan kliva ut framför eller bakom bilarna",
+      "De är bara en risk på natten"
+    ],
+    "correct": 2,
+    "explanation": "Raden av parkerade bilar döljer allt som händer vid trottoaren. Håll avstånd i sidled och en fart där du kan stanna för det som dyker upp.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-012",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 3,
+    "question": "En annan förare vinkar fram dig i en korsning där du har väjningsplikt. Vad gör du?",
+    "options": [
+      "Kör direkt eftersom du blivit fram vinkad",
+      "Vinkar tillbaka och väntar på att alla ska stanna",
+      "Tutar för att tacka och kör",
+      "Kör bara om du själv ser att det är fritt – ansvaret är ditt och den andre ser inte allt"
+    ],
+    "correct": 3,
+    "explanation": "Den som vinkar kan inte se cyklisten som kommer bakom eller motorcykeln i det andra körfältet. Väjningsplikten och ansvaret flyttas inte genom en vinkning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-013",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 2,
+    "question": "Varför är cirkulationsplatser i regel säkrare än vanliga korsningar?",
+    "options": [
+      "Farten är lägre och kollisioner blir snedkrockar med mindre kraft i stället för sidokrockar",
+      "Det är förbjudet för cyklister att köra i dem",
+      "De har alltid trafiksignaler",
+      "Fordonen kör alltid i samma fart"
+    ],
+    "correct": 0,
+    "explanation": "I en cirkulationsplats måste alla sakta in, och trafiken möts i små vinklar. Antalet svåra olyckor minskar kraftigt jämfört med en korsning med vänstersvängar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-014",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Trafiksignalen slår om till grönt. Varför bör du ändå titta åt sidorna innan du kör?",
+    "options": [
+      "Grönt ljus betyder bara att du får förbereda dig",
+      "Någon kan köra mot rött eller en gående kan vara kvar på övergångsstället",
+      "Signalen kan slå om till rött igen direkt",
+      "Det är obligatoriskt att stanna vid grönt i tätort"
+    ],
+    "correct": 1,
+    "explanation": "Grönt ger dig rätt att köra men skyddar dig inte mot den som kör mot rött. En sekunds kontroll kostar ingenting.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-tat-015",
+    "category": "trafiksakerhet",
+    "subtopic": "tatort-korsningar",
+    "difficulty": 1,
+    "question": "Varför är det viktigt att ge tecken i god tid även i tätort med låg fart?",
+    "options": [
+      "För att blinkersen annars kan gå sönder",
+      "För att slippa tuta",
+      "Andra trafikanter, särskilt gående och cyklister, hinner då förutse vad du ska göra",
+      "Det är bara viktigt på landsväg"
+    ],
+    "correct": 2,
+    "explanation": "Tecken är kommunikation. En cyklist som ser din blinkers i tid kan vänta i stället för att hamna mellan dig och trottoaren när du svänger.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-001",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 1,
+    "question": "En krock i 50 km/h mot ett fast hinder motsvarar ungefär ett fall från vilken höjd?",
+    "options": [
+      "Cirka 3 meter",
+      "Cirka 10 meter",
+      "Cirka 20 meter",
+      "Cirka 35 meter"
+    ],
+    "correct": 1,
+    "explanation": "Rörelseenergin vid 50 km/h motsvarar ett fall från cirka 10 meter, ungefär tredje–fjärde våningen i ett hus.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-002",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "En krock i 90 km/h motsvarar ungefär ett fall från vilken höjd?",
+    "options": [
+      "Cirka 10 meter",
+      "Cirka 18 meter",
+      "Cirka 32 meter",
+      "Cirka 50 meter"
+    ],
+    "correct": 2,
+    "explanation": "Eftersom energin växer med kvadraten på farten motsvarar 90 km/h ett fall från cirka 32 meter – ett tiovåningshus – jämfört med 10 meter vid 50 km/h.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-003",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "Hur förändras bilens rörelseenergi när hastigheten ökar från 50 till 100 km/h?",
+    "options": [
+      "Den fördubblas",
+      "Den tredubblas",
+      "Den åttadubblas",
+      "Den fyrdubblas"
+    ],
+    "correct": 3,
+    "explanation": "Rörelseenergin är proportionell mot hastigheten i kvadrat. Dubbel fart ger fyra gånger så mycket energi som ska tas upp vid en krock.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-004",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 1,
+    "question": "Varför är lösa föremål i kupén farliga vid en kollision?",
+    "options": [
+      "De fortsätter framåt med bilens tidigare fart och träffar med mångdubbelt sin vikt",
+      "De kan fastna i gaspedalen",
+      "De gör bilen tyngre så att bromssträckan ökar",
+      "De kan utlösa krockkudden"
+    ],
+    "correct": 0,
+    "explanation": "Vid en krock i 50 km/h kan ett föremål träffa med en kraft som motsvarar flera tiotals gånger dess vikt. Förvara tunga saker i bagageutrymmet, gärna mot ryggstödet.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-005",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "Vad kan hända med en obältad passagerare i baksätet vid en frontalkrock i 50 km/h?",
+    "options": [
+      "Passageraren hålls kvar av sätet",
+      "Passageraren kastas framåt med stor kraft och kan döda personen i framsätet",
+      "Ingenting särskilt eftersom baksätet är den säkraste platsen",
+      "Passageraren skyddas av krockkuddarna fram"
+    ],
+    "correct": 1,
+    "explanation": "En obältad person väger i krocken motsvarande flera ton och kan krossa framstolens ryggstöd. Bältet skyddar därför inte bara den som bär det.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-006",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 3,
+    "question": "Två lika tunga bilar frontalkrockar i 50 km/h vardera. Vad motsvarar krocken för varje bil?",
+    "options": [
+      "Att köra in i en fast vägg i 100 km/h",
+      "Att köra in i en fast vägg i 25 km/h",
+      "Att köra in i en fast vägg i 50 km/h",
+      "Att köra in i en fast vägg i 70 km/h"
+    ],
+    "correct": 2,
+    "explanation": "Bilarna stannar upp mot varandra på samma sätt som mot en vägg, och energin fördelas lika. Varje bil tar alltså upp sin egen rörelseenergi, den som motsvarar 50 km/h.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-007",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 3,
+    "question": "Hur ska nackstödet vara inställt för att skydda mot pisksnärtskada?",
+    "options": [
+      "Överkanten i höjd med nacken",
+      "Så långt bak som möjligt för att inte störa",
+      "Det spelar ingen roll om bältet används",
+      "Överkanten i höjd med hjässan och så nära bakhuvudet som möjligt"
+    ],
+    "correct": 3,
+    "explanation": "Vid en påkörning bakifrån kastas huvudet bakåt. Ett högt inställt nackstöd nära huvudet stoppar rörelsen innan nacken sträcks.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-008",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "Hur påverkar bilbältet risken att dödas vid en krock?",
+    "options": [
+      "Det ungefär halverar risken",
+      "Det minskar risken med cirka 10 procent",
+      "Det påverkar bara vid krockar över 70 km/h",
+      "Det ökar risken vid sidokollision"
+    ],
+    "correct": 0,
+    "explanation": "Bältet håller kroppen kvar så att den bromsas av bilens deformation i stället för av ratten, rutan eller vägen. Det ungefär halverar risken att dö.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-009",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 2,
+    "question": "Varför är bilens deformationszoner viktiga?",
+    "options": [
+      "De gör bilen lättare",
+      "De förlänger inbromsningstiden så att kraften på kroppen minskar",
+      "De hindrar krockkudden från att lösa ut i onödan",
+      "De gör att bilen studsar tillbaka"
+    ],
+    "correct": 1,
+    "explanation": "Ju längre tid det tar för bilen att stanna, desto lägre blir retardationen och krafterna på passagerarna. Deformationszonen tar upp energi som annars gått till kroppen.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-krock-010",
+    "category": "trafiksakerhet",
+    "subtopic": "krockvald",
+    "difficulty": 3,
+    "question": "Varför är en sidokollision ofta farligare än en frontalkrock i samma hastighet?",
+    "options": [
+      "Bälten fungerar inte vid sidokollisioner",
+      "Sidokollisioner sker alltid i högre fart",
+      "Det finns nästan ingen deformationszon mellan det påkörande fordonet och kroppen",
+      "Krockkuddar löser aldrig ut vid sidokollision"
+    ],
+    "correct": 2,
+    "explanation": "Fram finns motorrum och kaross som kan tryckas ihop. I sidan skiljer bara en dörr passageraren från det påkörande fordonet, så krockvåldet når kroppen nästan obromsat.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-001",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 1,
+    "question": "Vad består riskutbildningen för behörighet B av?",
+    "options": [
+      "En teoretisk del om vägmärken och en praktisk del om parkering",
+      "En praktisk halkkörning som görs två gånger",
+      "Riskettan (teori om alkohol, droger, trötthet och riskbeteende) och risktvåan (praktisk halkkörning)",
+      "En teoretisk kurs om fordonsteknik och miljö"
+    ],
+    "correct": 2,
+    "explanation": "Riskettan behandlar hur alkohol, droger, trötthet och riskfyllt beteende påverkar körningen. Risktvåan genomförs på halkbana och handlar om hastighet, säkerhet och körning under särskilda förhållanden.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-002",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "I vilken ordning ska riskutbildningens delar göras?",
+    "options": [
+      "Risktvåan före riskettan",
+      "Ordningen är valfri",
+      "Båda måste göras samma dag",
+      "Riskettan före risktvåan"
+    ],
+    "correct": 3,
+    "explanation": "Riskettan ska vara genomförd innan du får göra risktvåan. Risktvåan bör göras sent i utbildningen, när du har körvana nog att tillgodogöra dig övningarna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-003",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Hur länge är en genomförd riskutbildning giltig?",
+    "options": [
+      "5 år",
+      "1 år",
+      "2 år",
+      "10 år"
+    ],
+    "correct": 0,
+    "explanation": "Riskutbildningen är giltig i fem år. Båda delarna måste vara giltiga när du gör kunskapsprov och körprov.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-004",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Vad är syftet med risktvåan (halkbanan)?",
+    "options": [
+      "Att lära sig häva sladdar så att man kan köra fortare på vinterväg",
+      "Att ge insikt om hur begränsad förarens förmåga är på halt underlag så att risker undviks",
+      "Att träna omkörningar i hög fart",
+      "Att lära sig byta till vinterdäck"
+    ],
+    "correct": 1,
+    "explanation": "Halkbanan visar hur snabbt kontrollen försvinner och hur små marginalerna är. Målet är att du ska välja fart och avstånd så att sladden aldrig uppstår.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-005",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Vad händer om din riskutbildning inte längre är giltig när du ska göra proven?",
+    "options": [
+      "Du får göra proven men får en prövotid på fyra år",
+      "Du får göra kunskapsprovet men inte körprovet",
+      "Du får inte göra proven förrän du har gjort om utbildningen",
+      "Du får böter men proven genomförs"
+    ],
+    "correct": 2,
+    "explanation": "Giltig riskutbildning är ett krav för att få göra både kunskapsprov och körprov. Har den gått ut måste den göras om.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-006",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 1,
+    "question": "Vilken är den vanligaste orsaken till att en bil får sladd?",
+    "options": [
+      "Fel lufttryck i däcken",
+      "Fel på servostyrningen",
+      "För mycket last i bagageutrymmet",
+      "För hög fart i förhållande till väglaget"
+    ],
+    "correct": 3,
+    "explanation": "Nästan alla sladdar börjar med att föraren begär mer grepp än vägen kan ge – oftast genom för hög fart i en kurva eller för hård bromsning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-007",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Vad innebär understyrning?",
+    "options": [
+      "Framhjulen tappar greppet och bilen går rakare fram än du styr",
+      "Bakhjulen tappar greppet och bakvagnen glider utåt",
+      "Bilen bromsar sämre på grund av för lite bromsvätska",
+      "Ratten känns tung på grund av fel i servostyrningen"
+    ],
+    "correct": 0,
+    "explanation": "Vid understyrning styr du men bilen svarar inte fullt ut. Det är vanligast för framhjulsdrivna bilar och botas med mindre gas och något mindre rattutslag.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-008",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Vad innebär överstyrning?",
+    "options": [
+      "Framhjulen tappar greppet och bilen går rakt fram",
+      "Bakhjulen tappar greppet och bakvagnen glider utåt i kurvan",
+      "Bilen svänger mer än vanligt på grund av för högt däcktryck",
+      "Servostyrningen ger för mycket hjälp"
+    ],
+    "correct": 1,
+    "explanation": "Vid överstyrning vill bilen vända sig runt sin egen axel. Du parerar genom att kontrastyra, alltså styra åt det håll bakvagnen glider, och undvika hård bromsning.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-009",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 3,
+    "question": "Bakvagnen börjar glida ut när du kör igenom en kurva. Vilket är rätt agerande?",
+    "options": [
+      "Bromsa hårt och håll ratten stilla",
+      "Vrid ratten åt motsatt håll mot sladden och gasa",
+      "Kontrastyr åt det håll bakvagnen glider och undvik att bromsa hårt",
+      "Dra åt parkeringsbromsen för att stanna bilen"
+    ],
+    "correct": 2,
+    "explanation": "Kontrastyrningen får framhjulen att peka dit bilen färdas så att den kan rätas upp. Hård bromsning låser hjulen och tar bort den sista styrförmågan.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-010",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 1,
+    "question": "Varför är blickriktningen viktig när bilen sladdar?",
+    "options": [
+      "Du ser då hur fort bilen sladdar",
+      "Du kan då läsa av hastighetsmätaren",
+      "Du måste hålla ögonkontakt med mötande",
+      "Du styr dit du tittar – titta dit du vill komma, inte på hindret"
+    ],
+    "correct": 3,
+    "explanation": "Händerna följer ögonen. Stirrar du på trädet styr du mot trädet – titta på den fria ytan där du vill att bilen ska hamna.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-011",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 1,
+    "question": "Du bromsar hårt med ABS och känner att bromspedalen pulserar. Vad gör du?",
+    "options": [
+      "Fortsätter att bromsa fullt – pulserandet är normalt",
+      "Släpper bromsen eftersom något är fel",
+      "Pumpar med bromspedalen",
+      "Växlar ner och släpper bromsen"
+    ],
+    "correct": 0,
+    "explanation": "Pulserandet är ABS-systemet som släpper och bromsar hjulen många gånger per sekund. Det betyder att systemet arbetar – håll kvar trycket och styr.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-012",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Du inser att du kommer in i en kurva för fort på halt underlag. Vad är bäst att göra?",
+    "options": [
+      "Bromsa hårt och vrid ratten mer",
+      "Lätta mjukt på gasen och styr mjukt – undvik plötsliga manövrer",
+      "Gasa för att få bättre grepp",
+      "Dra åt parkeringsbromsen"
+    ],
+    "correct": 1,
+    "explanation": "Plötsliga rörelser med ratt, gas eller broms flyttar bilens vikt och tar bort greppet. Mjuka rörelser ger däcken den bästa chansen att hålla kvar.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-013",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 3,
+    "question": "Vilken är en viktig lärdom från halkbanan?",
+    "options": [
+      "Att sladdar är lätta att häva med lite träning",
+      "Att en modern bil inte kan få sladd",
+      "Att man lätt överskattar sin förmåga och att ABS och antisladd har tydliga gränser",
+      "Att vinterdäck gör körning på is lika säker som på torr asfalt"
+    ],
+    "correct": 2,
+    "explanation": "De flesta klarar inte att häva en riktig sladd ens under kontrollerade former. Insikten ska leda till lägre fart och större marginaler i verklig trafik.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-014",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 1,
+    "question": "Hur undviker du bäst sladd på vinterväg?",
+    "options": [
+      "Håll högre fart så att bilen blir stabilare",
+      "Bromsa i kurvorna för att hålla kontrollen",
+      "Kör med kopplingen nedtryckt i kurvor",
+      "Anpassa farten, gör mjuka rörelser med ratt, gas och broms och håll gott avstånd"
+    ],
+    "correct": 3,
+    "explanation": "Sladd uppstår när du begär mer grepp än vägen kan ge. Låg fart och mjuka manövrer håller dig inom greppgränsen, och avståndet ger tid att agera lugnt.",
+    "reviewed": false
+  },
+  {
+    "id": "ts-risk-015",
+    "category": "trafiksakerhet",
+    "subtopic": "riskutbildning",
+    "difficulty": 2,
+    "question": "Vem får hålla riskutbildningen?",
+    "options": [
+      "Endast utbildare som är godkända av Transportstyrelsen",
+      "Vilken trafikskola som helst utan särskilt tillstånd",
+      "Din privata handledare",
+      "Trafikverkets förarprövare"
+    ],
+    "correct": 0,
+    "explanation": "Riskutbildning får bara ges av utbildare med Transportstyrelsens tillstånd. Genomförd utbildning rapporteras in och blir synlig när du bokar prov.",
+    "reviewed": false
+  }
+]
