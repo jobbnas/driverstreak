@@ -426,7 +426,7 @@
     "options": [
       "Gående ska alltid vänta på svängande fordon",
       "Regeln gäller bara vid bevakade övergångsställen",
-      "När du svänger i en korsning ska du lämna företräde åt gående och cyklister som korsar den körbana du svänger in på",
+      "När du svänger ska du lämna företräde åt gående och cyklister som korsar körbanan du svänger in på",
       "Regeln gäller bara när du svänger vänster"
     ],
     "correct": 2,
@@ -443,7 +443,7 @@
       "Bilar kan vara osynliga på grund av solreflexer",
       "Trafiksignalerna kan visa fel",
       "Vägen kan ha ändrats sedan du senast körde där",
-      "Motorcyklar och cyklar är smala och kan döljas av stolpar eller andra fordon, och ögat missar små objekt vid en snabb blick"
+      "Motorcyklar och cyklar är smala, döljs lätt av stolpar eller fordon och missas vid en snabb blick"
     ],
     "correct": 3,
     "explanation": "En snabb ögonkast registrerar stora, förväntade objekt. Små, oväntade fordon blir lätt osedda – därför ska blicken stanna upp och svepa långsamt åt båda hållen.",
@@ -1083,7 +1083,7 @@
       "Du får läsa sms om du håller under 30 km/h",
       "Du får läsa men inte skriva sms under körning",
       "Det är tillåtet om du stannar vid rött ljus",
-      "Det är förbjudet att hålla mobilen i handen under körning – ett par sekunders titt bort motsvarar flera tiotals meter i blindo"
+      "Det är förbjudet att hålla mobilen i handen – två sekunders titt bort blir nästan 30 meter i blindo"
     ],
     "correct": 3,
     "explanation": "Att hålla telefonen i handen är förbjudet. Två sekunders blick på skärmen i 50 km/h innebär nästan 30 meter utan att du ser vägen.",
@@ -1399,15 +1399,15 @@
     "category": "trafiksakerhet",
     "subtopic": "riskutbildning",
     "difficulty": 2,
-    "question": "Hur länge är en genomförd riskutbildning giltig?",
+    "question": "Du gjorde din riskutbildning för sex år sedan och ska nu göra körprovet. Vad gäller?",
     "options": [
-      "5 år",
-      "1 år",
-      "2 år",
-      "10 år"
+      "Den har gått ut – riskutbildningen gäller i fem år och måste göras om",
+      "Den gäller fortfarande – riskutbildningen gäller i tio år",
+      "Den gäller fortfarande så länge du har ett giltigt körkortstillstånd",
+      "Bara riskettan behöver göras om – risktvåan gäller för alltid"
     ],
     "correct": 0,
-    "explanation": "Riskutbildningen är giltig i fem år. Båda delarna måste vara giltiga när du gör kunskapsprov och körprov.",
+    "explanation": "Både riskettan och risktvåan är giltiga i fem år och måste vara giltiga när du gör kunskapsprov och körprov. Är de äldre måste hela utbildningen göras om.",
     "reviewed": false
   },
   {
