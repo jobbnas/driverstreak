@@ -6,6 +6,7 @@ import { PracticeRoutes } from '@/screens/practice/Practice';
 import { Stats } from '@/screens/Stats';
 import { Settings } from '@/screens/Settings';
 import { SignLexicon } from '@/screens/SignLexicon';
+import { UppkorningRoutes } from '@/screens/uppkorning/Uppkorning';
 
 export function App() {
   const head = route.value.parts[0];
@@ -16,6 +17,8 @@ export function App() {
       return <ExamRoutes />;
     case 'practice':
       return <PracticeRoutes />;
+    case 'uppkorning':
+      return <UppkorningRoutes />;
     case 'signs':
       return <SignLexicon />;
     case 'stats':

@@ -1,5 +1,5 @@
 import type { Category, Prompt, Question, Sign, StreakCategory, StreakVariant } from '@/types';
-import { CATEGORIES } from '@/types';
+import { EXAM_CATEGORIES } from '@/types';
 import { buildSignPrompt, buildTextPrompt, variantFor } from './distractors';
 import { nextMixedCategory, pickNext } from './selector';
 import { mulberry32, randomSeed, type Rng } from './rng';
@@ -34,7 +34,7 @@ export class PromptSource {
 
   /** Categories that currently have content. */
   availableCategories(): Category[] {
-    return CATEGORIES.filter((c) =>
+    return EXAM_CATEGORIES.filter((c) =>
       c === 'vagmarken' ? this.cfg.signs.length >= 4 || this.hasQuestions(c) : this.hasQuestions(c),
     );
   }

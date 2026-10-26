@@ -6,7 +6,7 @@ export const EXAM_PASS = 52;
 export const EXAM_DURATION_MS = 50 * 60 * 1000;
 
 /** Approximate area weights; Trafikverket does not publish exact numbers. */
-export const EXAM_BLUEPRINT: Record<Category, number> = {
+export const EXAM_BLUEPRINT: Partial<Record<Category, number>> = {
   trafikregler: 22,
   trafiksakerhet: 14,
   fordon: 9,
@@ -33,7 +33,7 @@ export interface ExamSession {
 }
 
 /** Stratified sample: per category by blueprint, spreading over subtopics and mixing difficulty. */
-export function buildExam(all: readonly Question[], rng: Rng, now = Date.now(), blueprint = EXAM_BLUEPRINT): ExamSession {
+export function buildExam(all: readonly Question[], rng: Rng, now = Date.now(), blueprint: Partial<Record<Category, number>> = EXAM_BLUEPRINT): ExamSession {
   const picked: Question[] = [];
   const leftovers: Question[] = [];
   for (const [cat, want] of Object.entries(blueprint) as [Category, number][]) {

@@ -11,7 +11,7 @@ const signsPath = join(root, 'content', 'signs', 'signs.json');
 const signs = existsSync(signsPath) ? JSON.parse(readFileSync(signsPath, 'utf8')) : [];
 const signCodes = new Set(signs.map((s) => s.code));
 
-const PREFIX = { trafikregler: 'tr', trafiksakerhet: 'ts', fordon: 'fo', miljo: 'mi', personliga: 'pe', vagmarken: 'vm' };
+const PREFIX = { trafikregler: 'tr', trafiksakerhet: 'ts', fordon: 'fo', miljo: 'mi', personliga: 'pe', vagmarken: 'vm', uppkorning: 'uk' };
 const ALLOWED = new Set(['id', 'category', 'subtopic', 'difficulty', 'question', 'options', 'correct', 'explanation', 'signRefs', 'legalRef', 'reviewed']);
 const norm = (s) => String(s).toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 

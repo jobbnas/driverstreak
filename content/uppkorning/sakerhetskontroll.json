@@ -1,0 +1,202 @@
+[
+  {
+    "id": "satt",
+    "group": "Innan du kör",
+    "title": "Sittställning, nackskydd, ratt och bälte",
+    "how": "Sätt dig så att du når kopplingen i botten med lätt böjt knä. Handlederna ska nå över rattkransen med raka armar mot ryggstödet. Nackskyddets överkant i höjd med hjässan. Bältet lågt över höften och platt över bröstet.",
+    "why": "Rätt sittställning ger kontroll över reglagen och gör att bälte och krockkudde skyddar som de ska.",
+    "fault": "Justera innan du startar – förarprövaren tittar på detta från första sekunden."
+  },
+  {
+    "id": "speglar",
+    "group": "Innan du kör",
+    "title": "Speglar",
+    "how": "Innerspegeln ska visa hela bakrutan. Ytterspeglarna ställs så att du precis ser bilens sida i innerkanten och horisonten ungefär mitt i spegeln.",
+    "why": "Rätt ställda speglar minskar döda vinkeln och är förutsättningen för all avsökning under provet.",
+    "fault": "Rätt till dem innan du rullar, inte under körning."
+  },
+  {
+    "id": "parkeringsljus",
+    "group": "Belysning",
+    "title": "Parkeringsljus och nummerskyltsbelysning",
+    "how": "Vrid ljusreglaget till parkeringsljus. Gå runt bilen: positionsljus fram och bak ska lysa, liksom belysningen på bakre registreringsskylten. Kontrollera att reflexerna bak är hela och rena.",
+    "why": "Parkeringsljus krävs när bilen står parkerad på väg i mörker utan vägbelysning. Reflexer och skyltbelysning gör bilen synlig bakifrån.",
+    "fault": "Trasig lampa byts, smutsiga glas torkas av. Bilen får köras till verkstad men bristen ska åtgärdas snarast."
+  },
+  {
+    "id": "halvljus",
+    "group": "Belysning",
+    "title": "Halvljus och helljus",
+    "how": "Tänd halvljuset (eller låt automatiken stå på AUTO och visa var du tvingar fram det). Kontrollera båda strålkastarna framifrån. Slå på helljuset – blå kontrollampa i instrumentpanelen ska lysa och båda strålkastarna ska lysa starkare.",
+    "why": "Halvljus är obligatoriskt dygnet runt. Helljus används på landsväg i mörker men måste kunna bländas av vid möte.",
+    "fault": "Trasig strålkastare = kör inte i mörker; byt lampa eller låt verkstad göra det. Felriktat ljus bländar – justeras på verkstad."
+  },
+  {
+    "id": "blinkers",
+    "group": "Belysning",
+    "title": "Körriktningsvisare och varningsblinkers",
+    "how": "Slå på vänster blinkers och kontrollera fram, bak och på sidan (backspegel eller skärm). Upprepa för höger. Tryck på varningsblinkers – alla fyra ska blinka. Snabb blinktakt inne i bilen betyder oftast att en lampa är trasig.",
+    "why": "Blinkers är ditt enda sätt att visa avsikt för andra trafikanter. Varningsblinkers varnar vid nödstopp.",
+    "fault": "Trasig blinkerslampa byts omgående – utan fungerande tecken får du inte köra."
+  },
+  {
+    "id": "bromsljus",
+    "group": "Belysning",
+    "title": "Bromsljus och backljus",
+    "how": "Du kan inte se dem själv från förarplatsen. Be förarprövaren (eller någon annan) trampa på bromsen medan du tittar bakom bilen, eller backa mot en vägg/ett skyltfönster och titta på reflektionen. Lägg i backväxeln (tändningen på) för backljuset.",
+    "why": "Bromsljuset varnar bakomvarande – trasigt bromsljus är en vanlig orsak till påkörning bakifrån. Backljuset visar att du ska backa.",
+    "fault": "Säg: \"Kan du hjälpa mig och trampa på bromsen?\" – det är helt rätt att be om hjälp. Trasig lampa byts."
+  },
+  {
+    "id": "dimljus",
+    "group": "Belysning",
+    "title": "Dimljus bak (och fram)",
+    "how": "Slå på dimbakljuset – gul/orange kontrollampa tänds och den extra starka röda lampan bak lyser. Visa också dimljus fram om bilen har det.",
+    "why": "Dimbakljus får bara användas vid dimma, kraftigt snöfall eller regn när sikten är under cirka 50 m, annars bländar det bakomvarande.",
+    "fault": "Glömt dimbakljus vid klart väder är ett fel i trafik. Trasigt dimljus hindrar inte körning men ska åtgärdas."
+  },
+  {
+    "id": "signal",
+    "group": "Belysning",
+    "title": "Signalhorn",
+    "how": "Tryck kort på signalhornet.",
+    "why": "Hornet används för att avvärja fara – inte för att hälsa eller skälla.",
+    "fault": "Fungerar det inte kan säkring eller kontakt vara trasig – verkstad."
+  },
+  {
+    "id": "torkare",
+    "group": "Sikt",
+    "title": "Vindrutetorkare och spolare",
+    "how": "Kör torkarna på alla hastigheter och spola rutan. Kontrollera att bladen gör rent utan ränder eller missljud. Kontrollera även baktorkare och bakrutespolare om bilen har det.",
+    "why": "Sikt är allt. På provet ska du själv slå på torkarna när det börjar regna – det bedöms under \"användande av reglage\".",
+    "fault": "Slitna blad byts. Tom spolarbehållare fylls (frostskyddad vätska på vintern)."
+  },
+  {
+    "id": "defroster",
+    "group": "Sikt",
+    "title": "Defroster, värmefläkt och bakruteavimning",
+    "how": "Slå på fläkten mot vindrutan och tryck på bakrutevärmen (symbol med böljande pilar). Visa var luftkonditioneringen slås på för att snabbt avimma.",
+    "why": "Immiga eller frostiga rutor begränsar sikten – rutorna ska vara helt rena innan du kör, inte bara ett titthål.",
+    "fault": "Fungerar inte fläkten kan säkringen vara trasig. Skrapa alltid is helt innan du kör."
+  },
+  {
+    "id": "dack",
+    "group": "Däck och fälg",
+    "title": "Mönsterdjup",
+    "how": "Känn och titta i spåren. Slitagevarnarna (små upphöjningar i spåren, markerade TWI på däcksidan) ligger på 1,6 mm – är däcket nere på dem är det olagligt. Lagkrav: minst 1,6 mm, för vinterdäck vid vinterväglag minst 3 mm. Kontrollera alla fyra däcken, även insidan.",
+    "why": "Mönstret leder bort vatten och snö. För lite mönster ger vattenplaning och lång bromssträcka.",
+    "fault": "Under gränsen = byt däck. Ojämnt slitage tyder på fel lufttryck eller felaktig hjulinställning."
+  },
+  {
+    "id": "dackskador",
+    "group": "Däck och fälg",
+    "title": "Skador, ålder och däcktyp",
+    "how": "Titta efter sprickor, bulor, spikar och skador på däcksidan. Alla fyra däck ska vara av samma typ (inte blanda dubb och odubbat). DOT-numret på sidan anger tillverkningsvecka och år – däck äldre än cirka 10 år bör bytas.",
+    "why": "En bula är ett tecken på att stommen är skadad – däcket kan explodera i fart.",
+    "fault": "Skadat däck ska bytas före körning, i nödfall reservhjul eller däckkit."
+  },
+  {
+    "id": "lufttryck",
+    "group": "Däck och fälg",
+    "title": "Lufttryck",
+    "how": "Rätt tryck står på en dekal i förardörrens stolpe eller i tankluckan (olika för tom och lastad bil). Mäts på kalla däck. Många bilar har däcktrycksövervakning (TPMS) – visa varningslampan.",
+    "why": "För lågt tryck ger sämre väggrepp, längre bromssträcka, högre förbrukning och slitage på kanterna. För högt tryck sliter mitten.",
+    "fault": "Fyll på luft vid närmaste mack. Återkommande tryckfall = punktering, verkstad."
+  },
+  {
+    "id": "falg",
+    "group": "Däck och fälg",
+    "title": "Fälg och hjulbultar",
+    "how": "Titta efter sprickor, bucklor och att alla hjulbultar sitter på plats. Vid nyligen bytta hjul: efterdra bultarna efter cirka 10 mil.",
+    "why": "Lösa bultar kan göra att hjulet lossnar.",
+    "fault": "Saknas en bult eller är fälgen skadad – åtgärda innan körning."
+  },
+  {
+    "id": "bromspedal",
+    "group": "Bromsar",
+    "title": "Färdbromsens täthet",
+    "how": "Motorn avstängd: trampa hårt på bromspedalen och håll kvar i cirka 20 sekunder. Pedalen ska stanna fast ungefär halvvägs ner.",
+    "why": "Avslöjar läckage i bromssystemet innan du är ute i trafiken.",
+    "fault": "Sjunker pedalen långsamt = läckage, bilen ska bärgas till verkstad. Känns pedalen fjädrande = luft i systemet, verkstad."
+  },
+  {
+    "id": "bromsservo",
+    "group": "Bromsar",
+    "title": "Bromsservo",
+    "how": "Trampa ner bromspedalen med motorn avstängd och håll kvar. Starta motorn – pedalen ska sjunka lite under foten när servon börjar hjälpa till.",
+    "why": "Utan servo blir pedalen stenhård och bromssträckan mycket längre, t.ex. vid motorstopp eller bogsering.",
+    "fault": "Sjunker inte pedalen fungerar inte servon – verkstad. Kör du ändå: trampa mycket hårdare."
+  },
+  {
+    "id": "parkeringsbroms",
+    "group": "Bromsar",
+    "title": "Parkeringsbroms",
+    "how": "Manuell bil: dra åt parkeringsbromsen, lägg i ettan och släpp kopplingen försiktigt – bilen ska stå still och motorn vilja dö. Elektrisk parkeringsbroms: aktivera och försök rulla på tomgång i D. Kontrollampan (röd P eller !) ska lysa när den är åtdragen.",
+    "why": "Parkeringsbromsen ska hålla bilen stilla i lutning och fungerar som reservbroms.",
+    "fault": "Håller den inte ska den justeras på verkstad – parkera med växel i och hjulen mot kanten tills dess."
+  },
+  {
+    "id": "styrservo",
+    "group": "Styrning",
+    "title": "Styrning och styrservo",
+    "how": "Vrid lätt på ratten med motorn avstängd (tung) och starta motorn – ratten ska bli lätt och gå jämnt åt båda hållen utan missljud eller glapp. Kontrollera att ratten står rakt när hjulen pekar rakt fram.",
+    "why": "Servon gör bilen styrbar i låg fart. Glapp i styrningen gör bilen svår att hålla på vägen.",
+    "fault": "Tung styrning med motorn igång = servofel (låg servoolja eller elfel) – verkstad. Kör försiktigt till verkstad om det måste."
+  },
+  {
+    "id": "motorolja",
+    "group": "Vätskor",
+    "title": "Motorolja",
+    "how": "Öppna huven (spak vid förarens vänstra knä eller fotbrunn, sedan säkerhetshaken framtill). Dra upp oljestickan (gult handtag), torka av, stick i och dra upp igen. Nivån ska ligga mellan MIN och MAX. Mät på plan mark med avstängd, helst kall motor. Elbilar saknar oljesticka.",
+    "why": "För lite olja gör att motorn skär. Många moderna bilar har elektronisk nivåmätning i stället.",
+    "fault": "Fyll på rätt olja (se instruktionsboken) upp till MAX, inte över. Röd oljetryckslampa under körning = stanna direkt."
+  },
+  {
+    "id": "kylarvatska",
+    "group": "Vätskor",
+    "title": "Kylarvätska",
+    "how": "Peka ut expansionskärlet (genomskinligt kärl, ofta blå/rosa vätska). Nivån ska synas mellan MIN och MAX på kall motor. Öppna aldrig locket när motorn är varm – systemet är trycksatt.",
+    "why": "Kylvätskan håller motorn på rätt temperatur och skyddar mot frost. Röd temperaturlampa = stanna och låt motorn svalna.",
+    "fault": "Fyll på färdigblandad kylarvätska. Snabbt sjunkande nivå = läckage, verkstad."
+  },
+  {
+    "id": "bromsvatska",
+    "group": "Vätskor",
+    "title": "Bromsvätska",
+    "how": "Peka ut behållaren (oftast bak vid torpedväggen på förarsidan, lock med bromssymbol). Nivån ska ligga mellan MIN och MAX, helst vid MAX.",
+    "why": "Bromsvätskan överför kraften till bromsarna. Den drar åt sig vatten och byts normalt vartannat år – gammal vätska kan koka vid hård bromsning (\"lång pedal\").",
+    "fault": "Låg nivå tyder på slitna bromsbelägg eller läckage – fyll inte bara på, låt verkstad kontrollera. Röd bromslampa = kör inte."
+  },
+  {
+    "id": "spolarvatska",
+    "group": "Vätskor",
+    "title": "Spolarvätska",
+    "how": "Peka ut behållaren (blått lock med torkarsymbol). Fyll på med färdigblandad spolarvätska, frostskyddad på vintern.",
+    "why": "Utan spolarvätska kan du inte få bort smuts och saltstänk – sikten försvinner på sekunder på en vintrig landsväg.",
+    "fault": "Fyll på. Vatten fryser och kan spräcka pump och slangar."
+  },
+  {
+    "id": "batteri",
+    "group": "Motorrum",
+    "title": "Batteri och säkringar",
+    "how": "Peka ut batteriet och känn att det sitter fast i sin hållare. Polerna ska vara rena och åtdragna. Peka ut säkringsdosan (i motorrummet och/eller vid förarens knä) – säkringarnas placering står på locket eller i instruktionsboken.",
+    "why": "Ett löst batteri kan kortsluta vid krock. Trasig säkring är den vanligaste orsaken till att en lampa eller tuta plötsligt slutar fungera.",
+    "fault": "Dra åt hållaren. Byt säkring mot en med samma amperetal – går den igen är det ett fel som verkstad ska hitta."
+  },
+  {
+    "id": "varningslampor",
+    "group": "Varningssystem",
+    "title": "Varningslampor",
+    "how": "Vrid tändningen till läge på utan att starta: alla lampor tänds som ett lamptest och ska slockna när motorn startar. Röd lampa = stanna snarast (oljetryck, laddning/batteri, bromssystem/handbroms, kylvätsketemperatur, bälte). Gul lampa = kontrollera snart (motor/EPC, ABS, ESP/antisladd, däcktryck, låg bränslenivå, dimbakljus).",
+    "why": "Lamporna är bilens egen säkerhetskontroll. Lyser en lampa inte vid lamptestet kan den vara trasig och dölja ett fel.",
+    "fault": "ABS-lampa: bromsarna fungerar men utan låsningsfrihet – kör försiktigt till verkstad. Oljetryck, laddning eller temperatur rött under körning: stanna direkt."
+  },
+  {
+    "id": "last",
+    "group": "Övrigt",
+    "title": "Last, dörrar och sikt runt om",
+    "how": "Kontrollera att lösa föremål är säkrade, att alla dörrar och bagagelucka är stängda och att rutor och speglar är rena och fria från is och snö – även taket ska vara snöfritt.",
+    "why": "Lösa föremål blir projektiler vid inbromsning. Snö från taket kan rasa ner över vindrutan eller träffa bakomvarande.",
+    "fault": "Säkra lasten och borsta av bilen innan du startar."
+  }
+]

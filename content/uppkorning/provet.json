@@ -1,0 +1,45 @@
+{
+  "intro": "Körprovet tar 45 minuter och görs i Trafikverkets eller trafikskolans bil. Det består av tre delar som alla vägs in i helhetsbedömningen. Förarprövaren tittar framför allt på hur du anpassar farten, var du placerar bilen, hur du söker av och hur du förutser risker.",
+  "parts": [
+    {
+      "title": "1. Säkerhetskontroll",
+      "text": "På parkeringen, 2–5 minuter. Prövaren väljer några punkter: belysning, körriktningsvisare, reflexer och signal, torkare och spolare, styrning, bromsar, däck och fälg, vätskor, varningssystem. Hittar du en brist ska du föreslå åtgärd. Kan du inte göra något själv – be om hjälp. Du får ha en egen checklista, men den får inte beskriva hur kontrollen görs."
+    },
+    {
+      "title": "2. Särskild manövrering",
+      "text": "Prövaren väljer bland: effektiv bromsning från minst 50 km/h, parkering (på parkeringsplats eller längs kanten – säg till när du är klar), backning dit prövaren anvisar, start i lutning, vändning på anvisad eller valfri plats, start från vägkant och användande av reglage (t.ex. slå på torkarna själv när det regnar)."
+    },
+    {
+      "title": "3. Körning i trafik",
+      "text": "Huvuddelen av provet, i stad och på landsväg/motorväg. Du får instruktioner i god tid och ibland uppgiften att själv köra mot ett mål med hjälp av skyltar. Kör du fel är det inget fel i sig."
+    }
+  ],
+  "moments": [
+    { "title": "Oskyddade trafikanter", "text": "Förutse barn, gående och cyklister. Visa att du upptäcker dem tidigt och anpassar fart och placering." },
+    { "title": "Körning i körfält & körfältsbyte", "text": "Rätt körfält för den fortsatta färden i god tid. Spegel – blinkers – döda vinkeln – byt mjukt, med säkerhetsavstånd." },
+    { "title": "Gatukorsning", "text": "Vet du vem som ska köra först? Högerregel, väjningsplikt, stopplikt, utfartsregel. Sänk farten så att du hinner se." },
+    { "title": "Signalreglerad korsning", "text": "Läs rätt signal för ditt körfält, var beredd på växling, gult = stanna om det går säkert." },
+    { "title": "Cirkulationsplats", "text": "Väjningsplikt in, välj körfält, flyt i rätt växel, blinkers höger ut. För låg fart tolkas som dålig planering." },
+    { "title": "Passera stillastående fordon", "text": "Buss vid hållplats: avstånd, beredskap för gående framför bussen, släpp fram bussen i 30/40-zon." },
+    { "title": "Körning i tätort", "text": "Varierande gränser 30/40/50/60. Visa att du ser skyltarna innan de passeras." },
+    { "title": "Självständig körning mot mål", "text": "Följ skyltar mot t.ex. Centrum, E4 eller Gamla Uppsala. Planera körfält tidigt." },
+    { "title": "Vägarbetsområde", "text": "Tillfälliga skyltar gäller. Sänk farten, håll avstånd, var beredd på människor på vägen." },
+    { "title": "Järnvägskorsning", "text": "Sänk farten, titta åt båda håll även vid bommar, stanna aldrig på spåret." },
+    { "title": "Smal och/eller krokig väg", "text": "Grus eller asfalt. Rätt fart in i kurvan, titta genom kurvan, håll höger vid möte." },
+    { "title": "Motorväg / motortrafikled", "text": "Accelerera på påfarten till trafikens fart, väjningsplikt vid påfart, håll höger, avstånd minst 3 sekunder, sänk farten i god tid på avfarten." },
+    { "title": "Infart till landsväg", "text": "Väjningsplikt, välj lucka, gasa upp till landsvägsfart snabbt." },
+    { "title": "Sväng från landsväg", "text": "Blinkers tidigt, bromsa före svängen, placera dig rätt (vänstersväng: nära mitten), titta efter omkörande." },
+    { "title": "Körning på landsväg", "text": "Rätt fart (70/80/90/100), avstånd, uppmärksamhet på vilt, utfarter och långsamma fordon." },
+    { "title": "Omkörning", "text": "Behövs den? Sikt, mötande, förbud? Genomför bestämt eller avstå." },
+    { "title": "Möte", "text": "Bedöm mötande på smal väg, sänk farten, håll höger, bländar av helljus i tid." },
+    { "title": "Nedsatt sikt och mörker", "text": "Dimma, regn, lågt stående sol: sänk farten, rätt ljus, längre avstånd." },
+    { "title": "Riskfyllt väglag", "text": "Snö, is, väta, löv, grus: mjuka rörelser, lägre fart, längre avstånd." }
+  ],
+  "verdict": [
+    "Allvarlig kollisionsrisk eller att prövaren måste ingripa = underkänt direkt.",
+    "Upprepade småfel av samma typ kan ge underkänt även om varje fel är litet.",
+    "Enstaka motorstopp utan fara är OK. Glömd blinkers som du själv påpekar är oftast OK.",
+    "Underkänd säkerhetskontroll fäller inte ensam, men vägs in.",
+    "Du får resultat och motivering direkt efter provet."
+  ]
+}

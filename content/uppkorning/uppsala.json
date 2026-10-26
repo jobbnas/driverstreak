@@ -1,0 +1,152 @@
+{
+  "office": {
+    "name": "Trafikverket Förarprov Uppsala",
+    "address": "Hållnäsgatan 8A, 752 28 Uppsala",
+    "district": "Librobäck/Enebacken, nordvästra Uppsala – intill Bärbyleden (väg 55) och Börjegatan (väg 272)",
+    "lat": 59.8784,
+    "lon": 17.5893,
+    "hours": "Helgfria vardagar: mån 08–18, tis–tors 08–16.30, fre 08–15. Provverksamhet kan pågå utanför dessa tider.",
+    "notes": [
+      "Kontoret flyttade hit 2022 från Östunagatan vid centralstationen. Flytten gjordes för att prövarna ska hinna ut på landsväg och motorväg inom 45 minuter – räkna därför med både stad och landsväg.",
+      "Provet börjar och slutar här. Nästan alla berättelser slutar med att man parkerar framåt (\"nosparkering\") på Trafikverkets parkering.",
+      "Kom minst 15 minuter före. Giltig legitimation är ett krav – utgången ID är den vanligaste orsaken till att prov inte får genomföras.",
+      "Bilen är Trafikverkets (kandidater nämner Skoda, VW-hybrid och elektrisk Volvo XC60) eller trafikskolans. Egen bil är inte tillåten."
+    ]
+  },
+  "stats": {
+    "passRate": "46 % godkända på körprov B i Uppsala 2025 (cirka 10 500 prov). Rikssnittet var 45,6 %.",
+    "theory": "Du har redan klarat teorin med 62/65 – resultatet gäller i 12 månader."
+  },
+  "start": {
+    "title": "De första tre minuterna",
+    "items": [
+      "Säkerhetskontrollen görs på parkeringen vid kontoret. Räkna med 2–4 punkter, ofta däck/mönsterdjup och att peka ut vätskorna under huven. Be om hjälp med bromsljusen.",
+      "Hållnäsgatan och Söderforsgatan är smala verksamhetsgator med lastbilar, parkerade bilar och pågående byggnation. Håll låg fart och titta efter utfarter.",
+      "Strax efter start kommer en cirkulationsplats mot Börjegatan (väg 272). Härifrån går nästan alla rutter: \"mot E4\", \"mot Gysinge/272\", \"mot Sala/Strängnäs\" eller \"mot Svartbäcken\".",
+      "Dalabanan korsar området med bevakade järnvägskorsningar (helbommar och ljussignal). Flera kandidater har fått backa runt ett hörn eller göra valfri vändning på gatorna direkt efter järnvägskorsningen.",
+      "Påfarten till Bärbyleden är kort och svänger snävt. Gasa bestämt på accelerationsfältet upp mot 90 km/h – för låg fart vid påfarten är en återkommande anmärkning i Uppsala."
+    ]
+  },
+  "loops": [
+    {
+      "id": "gamla-uppsala",
+      "title": "Bärbyleden → Gamla Uppsala → Strängnäs-hållet → villaområde → 272",
+      "share": "Mycket vanlig",
+      "steps": [
+        "Höger ut från Trafikverket, höger i nästa korsning, följ skyltar mot E4 och ut på Bärbyleden (väg 55, 90 km/h, skyltat 70 på en kort sträcka).",
+        "Följ skylt Gamla Uppsala. I den stora cirkulationsplatsen (Röborondellen eller trafikplatsen vid Gamla Uppsalagatan) vänster mot Gamla Uppsala – begränsad sikt, titta ordentligt åt vänster.",
+        "Backparkering i ruta på parkeringen i Gamla Uppsala (vid kyrkan/museet). Säg till när du är klar.",
+        "Tillbaka med skylt Strängnäs (väg 55 västerut), sedan första avfarten in i ett villaområde med många högerregelkorsningar.",
+        "Skylt Gysinge 272, därefter Librobäck och tillbaka till Trafikverket där provet avslutas med nosparkering."
+      ],
+      "watch": ["Vänstersvängen mot Gamla Uppsala med skymd sikt", "Högerregeln i villaområdet – sänk farten före varje korsning", "Hastighetsskiftet 90 → 70 på Bärbyleden"]
+    },
+    {
+      "id": "bjorklinge-arna",
+      "title": "E4-skyltar → Björklinge-vägen → Ärnavägen → Gamla Uppsala → hitta hem själv",
+      "share": "Vanlig",
+      "steps": [
+        "Följ skyltar mot E4 längs Bärbyleden österut.",
+        "Ta avfarten mot Björklinge (gamla E4, väg 600 norrut, 80 km/h landsväg) och kör norrut.",
+        "Sväng av på Ärnavägen (smal landsväg utan vägren) västerut mot Ärna/Gamla Uppsala.",
+        "I Gamla Uppsala säger prövaren ofta: \"Hitta själv tillbaka till Trafikverket\" – självständig körning mot mål. Kör du fel är det inget fel i sig, vänd lugnt."
+      ],
+      "watch": ["Sväng från landsväg: blinkers tidigt, placering, bromsa före svängen", "Möten på smal väg – håll höger och sänk farten", "Självständig körning: läs skyltar mot Centrum/E4/väg 55 och planera körfält i god tid"]
+    },
+    {
+      "id": "ulva-broby",
+      "title": "Björklinge-hållet → Ulva kvarn → nosparkering → väg 272 via Broby → mindre väg → hem",
+      "share": "Vanlig",
+      "steps": [
+        "Norrut mot Björklinge och sedan av mot Ulva kvarn.",
+        "Bron vid Ulva kvarn över Fyrisån är smal och kurvig – kör långsamt och försiktigt, släpp fram mötande.",
+        "Parkering framåt på en ledig plats vid Ulva kvarn.",
+        "Vidare till väg 272 (Gysingevägen) in mot Broby/Bälinge, därefter en mindre väg (grus kan förekomma) och tillbaka mot Librobäck."
+      ],
+      "watch": ["Smal bro och krokig väg – rätt fart in i kurvorna, titta genom kurvan", "Grusväg: lägre fart, längre bromssträcka", "Infart till landsväg från mindre väg: väjningsplikt, gasa upp till rätt fart"]
+    },
+    {
+      "id": "sala-berthaga",
+      "title": "Mot Sala → väg 55 → Berthåga → Luthagsesplanaden → Rickomberga/Ekeby → trafikljus → rondell ut på 55:an",
+      "share": "Vanlig",
+      "steps": [
+        "Skylt Sala: andra cirkulationsplatsen efter Trafikverket, vänster, och ut på väg 55 västerut/söderut. Gasa upp ordentligt – en kandidat kuggade för att ha kommit ut för långsamt.",
+        "Avfart Berthåga, ofta med instruktionen \"vänd vid Berthåga kyrkogård\" – missa inte skylten.",
+        "Luthagsesplanaden in mot stan (60–70 km/h, 2+2 på delar) och in i villaområden (Rickomberga, Ekeby, Stabby) med högerregel.",
+        "Vänstersväng i signalreglerad korsning – vänta på rätt signal och gröna pilen; en kandidat kuggade här efter att ha läst av fel signal.",
+        "Cirkulationsplats där du vänder tillbaka ut på 55:an mot Librobäck."
+      ],
+      "watch": ["Signalreglerad vänstersväng – vilken signal gäller dig?", "Hastighetsskiften 70/60/40/30 längs Luthagsesplanaden och in i bostadsområdena", "Cyklister på Luthagsesplanadens cykelbanor vid varje korsning"]
+    },
+    {
+      "id": "svartbacken-tunabackar",
+      "title": "Mot Svartbäcken → Fyrishov → Heidenstam/Tunabackar → bensinstation → 272 Gysinge → hem",
+      "share": "Vanlig",
+      "steps": [
+        "Följ E4-skyltar kort och sedan skylt Svartbäcken; förbi Fyrishov (backparkering mellan två bilar har förekommit här).",
+        "Heidenstamsgatan och Tunabackar: flera små cirkulationsplatser i rad, bussar, skolor och 30-zoner. ICA Tunabackar har använts för fri parkering.",
+        "Valfri vändning har gjorts efter Heidenstam – välj en plats där det är tillåtet och tryggt, och hamna inte i mötande körfält.",
+        "Vid bensinstationen skylt 272 mot Gysinge och tillbaka mot Librobäck."
+      ],
+      "watch": ["Täta cirkulationsplatser: blinkers ut, rätt växel, inte för låg fart", "Valfri vändning: enkelriktat, backkrön och övergångsställen är förbjudna platser", "Bussar som lämnar hållplats i 30/40-zon – släpp fram"]
+    },
+    {
+      "id": "kvarngardet",
+      "title": "Avfart Kvarngärdet → småstadsgator → fickparkering",
+      "share": "Förekommer",
+      "steps": [
+        "Bärbyleden österut, avfart vid Kvarngärdet/Gamla Uppsalagatan.",
+        "Körning på mindre gator med parkerade bilar på båda sidor, cykelöverfarter och gångfartsområden.",
+        "Fickparkering längs kanten på en rymlig plats – ta om hellre än att stå en halvmeter ut."
+      ],
+      "watch": ["Cykelöverfart (väjningsplikt) kontra cykelpassage (anpassa farten)", "Passera stillastående buss vid hållplats", "Gångfartsområde: gångfart, gående har företräde"]
+    }
+  ],
+  "hotspots": [
+    { "name": "Trafikverket Förarprov (start/mål)", "lat": 59.8784, "lon": 17.5893, "type": "start", "note": "Hållnäsgatan 8A. Säkerhetskontroll på parkeringen, nosparkering vid återkomst." },
+    { "name": "Cirkulationsplats Börjegatan/väg 272", "lat": 59.8757, "lon": 17.5953, "type": "rondell", "note": "Första vägvalet på nästan alla rutter. Ungefärlig position." },
+    { "name": "Påfart Bärbyleden (väg 55)", "lat": 59.8748, "lon": 17.5985, "type": "motorvag", "note": "Snäv ramp – gasa upp till 90. Väjningsplikt mot trafiken på leden. Ungefärlig position." },
+    { "name": "Järnvägskorsning Dalabanan (Librobäck)", "lat": 59.8673, "lon": 17.6079, "type": "jarnvag", "note": "Bevakad korsning med helbommar och ljussignal. Sänk farten, titta åt båda håll även med bommar uppe." },
+    { "name": "Järnvägskorsning Fyrisvallen", "lat": 59.8667, "lon": 17.6223, "type": "jarnvag", "note": "Bevakad korsning nära Fyrishov och fotbollsplanerna där parkering övas." },
+    { "name": "Fyrishov", "lat": 59.8707, "lon": 17.6224, "type": "parkering", "note": "Backparkering mellan två bilar har förekommit här. Mycket cyklister och gående." },
+    { "name": "Röborondellen", "lat": 59.8803, "lon": 17.6215, "type": "rondell", "note": "Stor flerfältig cirkulationsplats där Svartbäcksgatan/Gävlevägen korsar Bärbyleden. Välj körfält tidigt." },
+    { "name": "Trafikplats Kvarngärdet / Gamla Uppsalagatan", "lat": 59.8795, "lon": 17.6405, "type": "motorvag", "note": "Av- och påfart som används för Gamla Uppsala och Kvarngärdet. Ungefärlig position." },
+    { "name": "Heidenstamstorg / Tunabackar", "lat": 59.8777, "lon": 17.6455, "type": "rondell", "note": "Rad av små cirkulationsplatser, bussar, skolor, 30-zoner. ICA Tunabackar används för parkering." },
+    { "name": "Gamla Uppsala (kyrkan/museet)", "lat": 59.8995, "lon": 17.6319, "type": "parkering", "note": "Backparkering i ruta. Vänstersvängen hit från stora rondellen har begränsad sikt." },
+    { "name": "Ärnavägen", "lat": 59.9029, "lon": 17.6176, "type": "landsvag", "note": "Smal landsväg utan vägren mellan Björklinge-vägen och Gamla Uppsala. Möten och sväng från landsväg." },
+    { "name": "Ulva kvarn", "lat": 59.9131, "lon": 17.5756, "type": "landsvag", "note": "Smal, krokig bro över Fyrisån – kör långsamt. Nosparkering på parkeringen." },
+    { "name": "Broby / Bälinge (väg 272)", "lat": 59.9330, "lon": 17.5500, "type": "landsvag", "note": "Landsväg 80 km/h med infarter från mindre vägar, grusvägar i närheten. Ungefärlig position." },
+    { "name": "Berthåga kyrkogård", "lat": 59.8585, "lon": 17.5769, "type": "vandning", "note": "Vanlig vändplats på Sala/55-slingan. Missa inte skylten." },
+    { "name": "Luthagsesplanaden", "lat": 59.8541, "lon": 17.6063, "type": "tatort", "note": "60–70 km/h med täta korsningar, cykelbanor och hastighetsskiften in mot stan." },
+    { "name": "Rickomberga / Ekeby / Stabby", "lat": 59.8560, "lon": 17.5990, "type": "hogerregel", "note": "Villaområden med högerregel i nästan varje korsning. Ungefärlig position." },
+    { "name": "Trafikplats Bärbyleden / E4", "lat": 59.8850, "lon": 17.6750, "type": "motorvag", "note": "Där motorvägskörning upp till 110/120 km/h kan läggas in. Ungefärlig position." }
+  ],
+  "hazards": [
+    { "title": "Cyklister överallt", "text": "Uppsala är Sveriges cykeltätaste stad. Räkna med cyklister i varje korsning, från båda håll, även i mörker utan lyse. Cykelöverfart (skylt + vägmarkering med \"hajtänder\") = väjningsplikt. Cykelpassage = anpassa farten och släpp fram. Titta alltid i höger backspegel och döda vinkeln före högersväng." },
+    { "title": "Bussgator och busskörfält", "text": "Kungsgatan, Dragarbrunnsgatan och Råbyvägen har körfält och sträckor bara för buss. Läs skyltar och vägmarkeringar (BUSS i körfältet) – att hamna i busskörfält är ett regelbrott." },
+    { "title": "30-zoner och gångfart", "text": "Skolor, centrum och gångfartsområden i innerstan. Sänk farten innan skylten, inte efter. Gångfartsområde: gångfart och gående har företräde, parkering bara på markerade platser." },
+    { "title": "Små cirkulationsplatser i rad", "text": "Tunabackar, Luthagen, Svartbäcken och Börjegatan har många små rondeller. Blinkers ut varje gång, rätt växel och flyt – för låg fart och för låg växel tolkas som dålig planering." },
+    { "title": "Högerregeln i villaområden", "text": "Luthagen, Svartbäcken, Ekeby, Rickomberga, Stabby och Gamla Uppsala har kvartersgator utan väjningsmärken. Ingen skylt = högerregel. Sänk farten och visa att du tittar åt höger." },
+    { "title": "Landsväg på riktigt", "text": "Sedan flytten till Librobäck ligger väg 55, väg 272, väg 600 och E4 några minuter bort. Öva infart till och sväng från landsväg, möten på smal väg (Ärnavägen, Ulva) och motorvägspåfart." },
+    { "title": "Vinter och mörker", "text": "Kandidater som kört i slask och mörker rekommenderar 60–65 km/h på 70-vägar vid vinterväglag och att behandla 0 °C som halka. Dimbakljus bara vid dålig sikt." },
+    { "title": "Vägarbeten", "text": "Librobäck och Börjegatan har byggts om i omgångar. Vägarbetsområde bedöms särskilt: tillfälliga skyltar gäller före ordinarie, sänk farten och håll avstånd till arbetare." }
+  ],
+  "tips": [
+    "Boka en provlektion med trafikskola i Uppsala som kör slingorna ovan – särskilt Bärbyledens påfart, Gamla Uppsala-parkeringen och villaområdena.",
+    "Kör själv några varv runt Librobäck, Börjegatan och Fyrisvallen så att starten känns hemtam.",
+    "Prata högt: \"Jag ser cyklisten, jag släpper fram bussen, högerregel här.\" Prövarna uppskattar att höra din planering.",
+    "Spegelrutin var 5–8 sekunder och alltid före blinkers, inbromsning och körfältsbyte. Vrid huvudet för döda vinkeln.",
+    "Glömde du blinkers ut ur rondellen? Säg det själv direkt – erkända småfel som inte upprepas kostar sällan provet.",
+    "Blir det fel väg vid självständig körning: ingen panik, det är inte ett fel. Hitta en tillåten plats att vända på.",
+    "Ta om parkeringen om du står snett. Flera godkända kandidater rättade till 2–3 gånger.",
+    "Vinter: skrapa alla rutor, ha spolarvätska, lägg på 5 km/h extra marginal nedåt på landsväg."
+  ],
+  "sources": [
+    "Trafikverket – Så går körprovet till (2026)",
+    "Trafikverket – Förarprovskontor Uppsala, Hållnäsgatan 8A (uppdaterad 2026-01-15)",
+    "Kandidatberättelser på korkortonline.se (trådar 10554, 11113, 11566; 2022–2026)",
+    "UNT 2019-11-14 – Hård kritik mot uppkörningar i Uppsala (bakgrund till flytten)",
+    "Trafikverkets provstatistik 2025 via hurbra.se och carup.se",
+    "OpenStreetMap – vägtyper, hastigheter och järnvägskorsningar kring Librobäck"
+  ]
+}

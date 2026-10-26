@@ -4,7 +4,8 @@ export type Category =
   | 'fordon'
   | 'miljo'
   | 'personliga'
-  | 'vagmarken';
+  | 'vagmarken'
+  | 'uppkorning';
 
 export const CATEGORIES: Category[] = [
   'vagmarken',
@@ -13,7 +14,11 @@ export const CATEGORIES: Category[] = [
   'fordon',
   'miljo',
   'personliga',
+  'uppkorning',
 ];
+
+/** Categories that belong to the theory exam (kunskapsprovet). */
+export const EXAM_CATEGORIES: Category[] = CATEGORIES.filter((c) => c !== 'uppkorning');
 
 export const CATEGORY_LABEL: Record<Category | 'blandat', string> = {
   vagmarken: 'Vägmärken',
@@ -22,6 +27,7 @@ export const CATEGORY_LABEL: Record<Category | 'blandat', string> = {
   fordon: 'Fordon & manövrering',
   miljo: 'Miljö',
   personliga: 'Personliga förutsättningar',
+  uppkorning: 'Uppkörning',
   blandat: 'Blandat',
 };
 

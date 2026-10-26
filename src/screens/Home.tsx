@@ -49,6 +49,14 @@ export function Home() {
           </span>
           <span class="chev">›</span>
         </button>
+        <button class="home-card" onClick={() => navigate('/uppkorning')}>
+          <span class="emoji">🚗</span>
+          <span>
+            <h2>Uppkörning</h2>
+            <p>Säkerhetskontroll, bedömning och Uppsalas provrutter på karta.</p>
+          </span>
+          <span class="chev">›</span>
+        </button>
         <button class="home-card" onClick={() => navigate('/signs')}>
           <span class="emoji">🚸</span>
           <span>

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { mulberry32 } from '@/engine/rng';
 import { difficultyWeight, nextMixedCategory, pickNext } from '@/engine/selector';
-import type { Category, Difficulty } from '@/types';
+import { EXAM_CATEGORIES, type Category, type Difficulty } from '@/types';
 
 interface Item { id: string; difficulty: Difficulty }
 const pool: Item[] = Array.from({ length: 30 }, (_, i) => ({ id: `q${i}`, difficulty: ((i % 3) + 1) as Difficulty }));
@@ -45,7 +45,7 @@ describe('nextMixedCategory', () => {
   it('spreads categories evenly and avoids immediate repeats', () => {
     const rng = mulberry32(1);
     const history: Category[] = [];
-    for (let i = 0; i < 60; i++) history.push(nextMixedCategory(history, rng));
+    for (let i = 0; i < 60; i++) history.push(nextMixedCategory(history, rng, EXAM_CATEGORIES));
     const counts = new Map<Category, number>();
     for (const c of history) counts.set(c, (counts.get(c) ?? 0) + 1);
     for (const n of counts.values()) expect(n).toBe(10);

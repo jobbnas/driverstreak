@@ -3,7 +3,7 @@ import { CATEGORIES, CATEGORY_LABEL, type GameRun, type Question, type StreakCat
 import { Leaderboard, StatCard } from '@/ui/Leaderboard';
 import { bestToday, leaderboard, personalBest, recordRun } from '@/storage/stats';
 import { store } from '@/store';
-import { navigate } from '@/router';
+import { navigate, route } from '@/router';
 import { quizzableSigns, loadAllQuestions } from '@/content';
 import type { PromptSourceConfig } from '@/engine/prompts';
 import type { GameState } from '@/engine/streakGame';
@@ -19,7 +19,7 @@ const VARIANTS: { id: StreakVariant | 'mixed'; label: string }[] = [
 
 export function StreakStart() {
   const stats = store.stats.value;
-  const [category, setCategory] = useState<StreakCategory>(() => (localStorage.getItem('ds:cat') as StreakCategory) || 'vagmarken');
+  const [category, setCategory] = useState<StreakCategory>(() => (route.value.query.get('cat') as StreakCategory | null) || (localStorage.getItem('ds:cat') as StreakCategory) || 'vagmarken');
   const [variant, setVariant] = useState<StreakVariant | 'mixed'>(() => (localStorage.getItem('ds:variant') as StreakVariant) || 'name2img');
   const [scope, setScope] = useState<'today' | 'all'>('all');
   const [questions, setQuestions] = useState<Question[] | undefined>(undefined);

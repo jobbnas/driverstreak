@@ -1,0 +1,116 @@
+.uk-h2 {
+  font-size: 19px;
+  font-weight: 800;
+}
+
+.uk-h3 {
+  font-size: 17px;
+  font-weight: 800;
+  margin: 4px 0 8px;
+}
+
+.uk-text {
+  color: var(--text);
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 6px;
+}
+
+.uk-label {
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 12px;
+}
+
+.uk-details {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 4px 0 10px;
+}
+
+.uk-details:last-child {
+  border-bottom: 0;
+}
+
+.uk-details summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.uk-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.uk-details summary::after {
+  content: '+';
+  color: var(--muted);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.uk-details[open] summary::after {
+  content: '–';
+}
+
+.map {
+  width: 100%;
+  height: clamp(280px, 48dvh, 460px);
+  border-radius: var(--radius-card);
+  overflow: hidden;
+  background: var(--surface);
+  z-index: 0;
+}
+
+.leaflet-container {
+  font-family: var(--font);
+}
+
+.leaflet-tooltip {
+  background: #111;
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.leaflet-tooltip-top::before {
+  border-top-color: #111;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+ol.rules {
+  padding-left: 22px;
+}
+
+ol.rules li,
+ul.rules li {
+  margin-bottom: 6px;
+}
