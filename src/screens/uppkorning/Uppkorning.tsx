@@ -5,16 +5,22 @@ import { HOTSPOT_STYLE, provet, sakItems, uppsala, type Hotspot, type SakItem } 
 import { UppsalaMap } from './UppsalaMap';
 import { mulberry32, shuffle } from '@/engine/rng';
 import '@/styles/uppkorning.css';
+import { ParkeringRoutes } from './parkering/ParkeringRoutes';
+import { parkingStarTotal } from '@/storage/stats';
+import { store } from '@/store';
+import { MAX_STARS } from '@/engine/parking/scenarios';
 
 export function UppkorningRoutes() {
   const sub = route.value.parts[1];
   if (sub === 'provet') return <ProvetScreen />;
   if (sub === 'sakerhetskontroll') return <SakScreen />;
   if (sub === 'uppsala') return <UppsalaScreen />;
+  if (sub === 'parkering') return <ParkeringRoutes />;
   return <Hub />;
 }
 
 function Hub() {
+  const starTotal = parkingStarTotal(store.stats.value);
   return (
     <div class="page">
       <BackHeader />
@@ -26,6 +32,14 @@ function Hub() {
           <span>
             <h2>Uppsala – rutter och platser</h2>
             <p>Kontoret på Hållnäsgatan, de sex vanliga slingorna och 17 platser på kartan.</p>
+          </span>
+          <span class="chev">›</span>
+        </button>
+        <button class="home-card" onClick={() => navigate('/uppkorning/parkering')}>
+          <span class="emoji">🅿️</span>
+          <span>
+            <h2>Parkeringssimulator</h2>
+            <p>3D: fickparkering, rutor, backa runt hörnet och trepunktsvändning. {starTotal} / {MAX_STARS} stjärnor.</p>
           </span>
           <span class="chev">›</span>
         </button>

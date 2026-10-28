@@ -34,11 +34,32 @@ export function mergeStats(current: Stats, incoming: Stats): Stats {
     if (!c || s.lastSeen > c.lastSeen) questions[id] = s;
   }
   const daily = current.daily.lastDay >= incoming.daily.lastDay ? current.daily : incoming.daily;
+  const best = { ...current.parking.best };
+  for (const [id, r] of Object.entries(incoming.parking.best)) {
+    const c = best[id];
+    if (!r) continue;
+    best[id] = c
+      ? {
+          stars: Math.max(c.stars, r.stars) as 0 | 1 | 2 | 3,
+          bestMoves: Math.min(c.bestMoves ?? Infinity, r.bestMoves ?? Infinity) === Infinity ? undefined : Math.min(c.bestMoves ?? Infinity, r.bestMoves ?? Infinity),
+          bestTimeMs: Math.min(c.bestTimeMs ?? Infinity, r.bestTimeMs ?? Infinity) === Infinity ? undefined : Math.min(c.bestTimeMs ?? Infinity, r.bestTimeMs ?? Infinity),
+          attempts: c.attempts + r.attempts,
+          completions: c.completions + r.completions,
+          scratches: c.scratches + r.scratches,
+        }
+      : r;
+  }
   return {
     ...current,
     runs: byId(current.runs, incoming.runs).slice(-300),
     exams: byId(current.exams, incoming.exams).slice(-50),
     questions,
     daily: { ...daily, longest: Math.max(current.daily.longest, incoming.daily.longest) },
+    parking: {
+      best,
+      badges: [...new Set([...current.parking.badges, ...incoming.parking.badges])],
+      damageKr: Math.max(current.parking.damageKr, incoming.parking.damageKr),
+      curbStreak: current.parking.curbStreak,
+    },
   };
 }

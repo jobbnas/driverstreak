@@ -94,3 +94,20 @@ describe('runs and leaderboard', () => {
     expect(wrongBank(s)).toEqual([]);
   });
 });
+
+describe('parking records', () => {
+  it('keeps best stars, min moves and time, counts attempts, lights today', async () => {
+    const { recordParkingAttempt, parkingStarTotal } = await import('@/storage/stats');
+    let s = defaultStats();
+    s = recordParkingAttempt(s, { scenarioId: 'ficka-stor', stars: 0, moves: 9, timeMs: 90000, scratches: 3, damageKr: 10500, newBadges: [] }, '2026-10-28');
+    expect(s.parking.best['ficka-stor']).toEqual({ stars: 0, attempts: 1, completions: 0, scratches: 3 });
+    s = recordParkingAttempt(s, { scenarioId: 'ficka-stor', stars: 2, moves: 4, timeMs: 60000, scratches: 0, damageKr: 0, newBadges: ['x'], curbOk: true }, '2026-10-28');
+    s = recordParkingAttempt(s, { scenarioId: 'ficka-stor', stars: 3, moves: 5, timeMs: 70000, scratches: 0, damageKr: 0, newBadges: ['x', 'y'], curbOk: true }, '2026-10-28');
+    expect(s.parking.best['ficka-stor']).toEqual({ stars: 3, bestMoves: 4, bestTimeMs: 60000, attempts: 3, completions: 2, scratches: 3 });
+    expect(s.parking.badges).toEqual(['x', 'y']);
+    expect(s.parking.damageKr).toBe(10500);
+    expect(s.parking.curbStreak).toBe(2);
+    expect(parkingStarTotal(s)).toBe(3);
+    expect(s.daily.lastDay).toBe('2026-10-28');
+  });
+});

@@ -153,6 +153,24 @@ export interface Settings {
   haptics: boolean;
   reducedMotion: 'auto' | 'on' | 'off';
   textTimerSec: number;
+  sound: boolean;
+  parkingView: 'driver' | 'chase' | 'top';
+}
+
+export interface ParkingRecord {
+  stars: 0 | 1 | 2 | 3;
+  bestMoves?: number;
+  bestTimeMs?: number;
+  attempts: number;
+  completions: number;
+  scratches: number;
+}
+
+export interface ParkingStats {
+  best: Partial<Record<string, ParkingRecord>>;
+  badges: string[];
+  damageKr: number;
+  curbStreak: number;
 }
 
 export interface Stats {
@@ -163,4 +181,5 @@ export interface Stats {
   daily: { current: number; longest: number; lastDay: string; days: string[] };
   recent: Partial<Record<string, string[]>>;
   settings: Settings;
+  parking: ParkingStats;
 }

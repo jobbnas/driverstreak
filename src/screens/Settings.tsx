@@ -34,6 +34,10 @@ export function Settings() {
           <button class="switch" role="switch" aria-checked={stats.settings.haptics} onClick={() => set((s) => ({ ...s, haptics: !s.haptics }))} aria-label="Vibration" />
         </div>
         <div class="toggle-row">
+          <span>Ljud i parkeringssimulatorn</span>
+          <button class="switch" role="switch" aria-checked={stats.settings.sound} onClick={() => set((s) => ({ ...s, sound: !s.sound }))} aria-label="Ljud" />
+        </div>
+        <div class="toggle-row">
           <span>Rörelse/animationer</span>
           <div class="pill-row" style={{ padding: 0 }}>
             {(['auto', 'on', 'off'] as const).map((m) => (

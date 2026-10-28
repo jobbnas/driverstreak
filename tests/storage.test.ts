@@ -24,6 +24,9 @@ describe('storage', () => {
     const loaded = loadStats(s);
     expect(loaded.settings.haptics).toBe(false);
     expect(loaded.settings.textTimerSec).toBe(20);
+    expect(loaded.settings.sound).toBe(true);
+    expect(loaded.parking).toEqual({ best: {}, badges: [], damageKr: 0, curbStreak: 0 });
+    expect(migrate({ version: 1, parking: { best: { a: { stars: 2, attempts: 1, completions: 1, scratches: 0 } }, badges: ['b', 3], damageKr: 'x' } }).parking).toEqual({ best: { a: { stars: 2, attempts: 1, completions: 1, scratches: 0 } }, badges: ['b'], damageKr: 0, curbStreak: 0 });
   });
   it('trims history when quota is exceeded', () => {
     let calls = 0;
@@ -58,5 +61,11 @@ describe('storage', () => {
     expect(m.daily.current).toBe(3);
     expect(m.daily.longest).toBe(7);
     expect(() => parseImport('{"version":2}')).toThrow();
+    a.parking.best['hornet'] = { stars: 1, bestMoves: 3, attempts: 2, completions: 1, scratches: 1 };
+    b.parking.best['hornet'] = { stars: 3, bestMoves: 1, bestTimeMs: 5000, attempts: 1, completions: 1, scratches: 0 };
+    b.parking.badges = ['runt-hornet'];
+    const m2 = mergeStats(a, b);
+    expect(m2.parking.best['hornet']).toEqual({ stars: 3, bestMoves: 1, bestTimeMs: 5000, attempts: 3, completions: 2, scratches: 1 });
+    expect(m2.parking.badges).toEqual(['runt-hornet']);
   });
 });

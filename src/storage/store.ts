@@ -1,6 +1,6 @@
 import { signal } from '@preact/signals';
 import type { Stats } from '@/types';
-import { STORAGE_KEY, defaultStats } from './stats';
+import { STORAGE_KEY, defaultParking, defaultStats } from './stats';
 
 export interface StorageLike {
   getItem(key: string): string | null;
@@ -45,6 +45,19 @@ export function migrate(raw: unknown): Stats {
     daily: { ...base.daily, ...(r.daily ?? {}) },
     recent: r.recent && typeof r.recent === 'object' ? r.recent : {},
     settings: { ...base.settings, ...(r.settings ?? {}) },
+    parking: normaliseParking(r.parking),
+  };
+}
+
+function normaliseParking(p: unknown): Stats['parking'] {
+  const base = defaultParking();
+  if (!p || typeof p !== 'object') return base;
+  const x = p as Partial<Stats['parking']>;
+  return {
+    best: x.best && typeof x.best === 'object' ? x.best : {},
+    badges: Array.isArray(x.badges) ? x.badges.filter((b): b is string => typeof b === 'string') : [],
+    damageKr: typeof x.damageKr === 'number' ? x.damageKr : 0,
+    curbStreak: typeof x.curbStreak === 'number' ? x.curbStreak : 0,
   };
 }
 

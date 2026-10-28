@@ -16,7 +16,7 @@ export default defineConfig({
       includeAssets: ['icons/*', 'signs/*.svg', 'signs/custom/*.svg'],
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'],
-        maximumFileSizeToCacheInBytes: 3_000_000,
+        maximumFileSizeToCacheInBytes: 4_000_000,
         navigateFallback: `${base}index.html`,
       },
       manifest: {
@@ -39,5 +39,9 @@ export default defineConfig({
       },
     }),
   ],
-  build: { target: 'es2022', sourcemap: false },
+  build: {
+    target: 'es2022',
+    sourcemap: false,
+    rollupOptions: { output: { manualChunks: (id: string) => (id.includes('node_modules/three') ? 'three' : undefined) } },
+  },
 });

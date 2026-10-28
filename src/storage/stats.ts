@@ -1,4 +1,4 @@
-import type { Category, ExamResult, GameRun, QuestionStat, Stats, StreakCategory } from '@/types';
+import type { Category, ExamResult, GameRun, ParkingRecord, ParkingStats, QuestionStat, Stats, StreakCategory } from '@/types';
 
 export const STORAGE_KEY = 'ds:v1';
 const MAX_RUNS = 300;
@@ -13,8 +13,51 @@ export function defaultStats(): Stats {
     questions: {},
     daily: { current: 0, longest: 0, lastDay: '', days: [] },
     recent: {},
-    settings: { haptics: true, reducedMotion: 'auto', textTimerSec: 20 },
+    settings: { haptics: true, reducedMotion: 'auto', textTimerSec: 20, sound: true, parkingView: 'chase' },
+    parking: defaultParking(),
   };
+}
+
+export function defaultParking(): ParkingStats {
+  return { best: {}, badges: [], damageKr: 0, curbStreak: 0 };
+}
+
+export interface ParkingAttempt {
+  scenarioId: string;
+  stars: 0 | 1 | 2 | 3;
+  moves: number;
+  timeMs: number;
+  scratches: number;
+  damageKr: number;
+  newBadges: string[];
+  curbOk?: boolean;
+}
+
+export function recordParkingAttempt(stats: Stats, a: ParkingAttempt, today: string = dayKey()): Stats {
+  const prev: ParkingRecord = stats.parking.best[a.scenarioId] ?? { stars: 0, attempts: 0, completions: 0, scratches: 0 };
+  const completed = a.stars >= 1;
+  const rec: ParkingRecord = {
+    stars: Math.max(prev.stars, a.stars) as ParkingRecord['stars'],
+    bestMoves: completed ? Math.min(prev.bestMoves ?? Infinity, a.moves) : prev.bestMoves,
+    bestTimeMs: completed ? Math.min(prev.bestTimeMs ?? Infinity, a.timeMs) : prev.bestTimeMs,
+    attempts: prev.attempts + 1,
+    completions: prev.completions + (completed ? 1 : 0),
+    scratches: prev.scratches + a.scratches,
+  };
+  if (rec.bestMoves === Infinity) delete rec.bestMoves;
+  if (rec.bestTimeMs === Infinity) delete rec.bestTimeMs;
+  const badges = [...stats.parking.badges];
+  for (const b of a.newBadges) if (!badges.includes(b)) badges.push(b);
+  const curbStreak = a.curbOk === undefined ? stats.parking.curbStreak : a.curbOk ? stats.parking.curbStreak + 1 : 0;
+  const next: Stats = {
+    ...stats,
+    parking: { best: { ...stats.parking.best, [a.scenarioId]: rec }, badges, damageKr: stats.parking.damageKr + a.damageKr, curbStreak },
+  };
+  return touchDaily(next, today);
+}
+
+export function parkingStarTotal(stats: Stats): number {
+  return Object.values(stats.parking.best).reduce((n, r) => n + (r?.stars ?? 0), 0);
 }
 
 /** Local calendar day key YYYY-MM-DD. */
