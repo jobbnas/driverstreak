@@ -165,7 +165,7 @@ export function ParkeringSim(props: { scenario: Scenario }) {
         mirrors.showRear = s.gear === 'R';
         mirrors.layout(cssW, cssH);
         mirrors.update(s.pose);
-        mirrors.render(host.renderer, host.scene, car.steeringWheel);
+        mirrors.render(host.renderer, host.scene, car.group);
       }
       host.renderer.render(host.scene, rig.active);
       if (rig.view === 'driver') mirrors.renderOverlay(host.renderer);

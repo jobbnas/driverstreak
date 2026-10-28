@@ -65,22 +65,22 @@ export class MirrorRig {
       frame.scale.set(qw + 8, qh + 8, 1);
       frame.position.set(x + qw / 2, y + qh / 2, -0.1);
     };
-    const innerW = Math.min(w * 0.42, 360);
+    const innerW = Math.min(w * 0.3, 300);
     const innerH = innerW * 0.35;
-    place(this.mirrors[0], (w - innerW) / 2, h - innerH - 12, innerW, innerH, true);
-    const sideW = Math.min(w * 0.26, 220);
+    place(this.mirrors[0], (w - innerW) / 2, h - innerH - 150, innerW, innerH, true);
+    const sideW = Math.min(w * 0.2, 170);
     const sideH = sideW * 0.68;
-    place(this.mirrors[1], 10, h * 0.42 - sideH, sideW, sideH, true);
-    place(this.mirrors[2], w - sideW - 10, h * 0.42 - sideH, sideW, sideH, true);
-    const rearW = Math.min(w * 0.5, 420);
+    place(this.mirrors[1], 10, h * 0.4 - sideH, sideW, sideH, true);
+    place(this.mirrors[2], w - sideW - 10, h * 0.4 - sideH, sideW, sideH, true);
+    const rearW = Math.min(w * 0.42, 360);
     const rearH = rearW * 0.62;
-    place(this.mirrors[3], (w - rearW) / 2, 14, rearW, rearH, this.showRear);
+    place(this.mirrors[3], (w - rearW) / 2, 24, rearW, rearH, this.showRear);
     this.guide.visible = this.showRear;
     const ys = [0.22, 0.42, 0.62];
     this.guide.children.forEach((c, i) => {
       const line = c as THREE.Mesh;
       line.scale.set(rearW * (0.5 + i * 0.12), 1, 1);
-      line.position.set(w / 2, 14 + rearH * (ys[i] as number), 0.1);
+      line.position.set(w / 2, 24 + rearH * (ys[i] as number), 0.1);
     });
   }
 

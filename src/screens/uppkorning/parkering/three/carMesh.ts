@@ -11,7 +11,7 @@ export interface CarParts {
   steeringWheel?: THREE.Group;
 }
 
-const glass = new THREE.MeshStandardMaterial({ color: 0x1c2630, roughness: 0.15, metalness: 0.6 });
+const glass = new THREE.MeshStandardMaterial({ color: 0x1c2630, roughness: 0.15, metalness: 0.6, transparent: true, opacity: 0.38, side: THREE.DoubleSide, depthWrite: false });
 const tyre = new THREE.MeshStandardMaterial({ color: 0x1a1a1a, roughness: 0.95 });
 const rim = new THREE.MeshStandardMaterial({ color: 0xbfc5cc, roughness: 0.4, metalness: 0.7 });
 const dark = new THREE.MeshStandardMaterial({ color: 0x222222, roughness: 0.8 });

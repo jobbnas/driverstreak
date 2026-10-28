@@ -129,11 +129,11 @@ export function coachStep(prev: CoachState, sim: Sim): CoachResult {
         if (u <= 0.05 && s.gear === 'R') return emit(2);
         break;
       case 2:
-        if (phi >= angleDeg - 3) return emit(3);
+        if (phi >= angleDeg - 6) return emit(3); // lead: the wheels take ~0.7 s to straighten
         if (s.gear === 'R' && s.segDist > 1.0 && s.steer > -0.9 * sim.spec.maxSteerRad) warning = warn(state, sim, 'lock', 'Mer utslag, hela vägen.');
         break;
       case 3:
-        if (rrCurb <= (p.rrWithin ?? 0.45) + 0.04) return emit(4);
+        if (rrCurb <= (p.rrWithin ?? 0.45) + 0.3) return emit(4); // lead for steering lag
         break;
       case 4:
         if (phi <= 3) return emit(5);
